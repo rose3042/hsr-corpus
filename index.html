@@ -257,7 +257,7 @@ a { color: inherit; text-decoration: none; }
   box-shadow: inset 0 0 0 1px rgba(77,127,184,0.08);
 }
 .donut::after {
-  content: ""; position: absolute; width: 84px; height: 84px; border-radius: 50%; background: var(--surface);
+  content: ""; position: absolute; width: 88px; height: 88px; border-radius: 50%; background: var(--surface);
 }
 .donut-inner { position: relative; z-index: 1; text-align: center; }
 .donut-inner .v { font-size: 22px; font-weight: 700; font-variant-numeric: tabular-nums; }
@@ -672,6 +672,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
   .term-grid { grid-template-columns: repeat(2, 1fr); }
   .news-grid { grid-template-columns: 1fr; }
   .analytics-grid { grid-template-columns: 1fr; }
+  .ana-card { min-height: auto; }
   .lib-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-inner { grid-template-columns: repeat(3, 1fr); }
   .stat:nth-child(3)::after { display: none; }
@@ -699,6 +700,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
   .std-table { min-width: 620px; }
   .donut-wrap { flex-direction: column; align-items: flex-start; }
   .analytics-grid { grid-template-columns: 1fr; }
+  .ana-card { min-height: auto; }
   .update-cols { grid-template-columns: 1fr; }
   .update-box { padding: 22px 20px; }
   .paper-roadmap { grid-template-columns: repeat(2, 1fr); }
