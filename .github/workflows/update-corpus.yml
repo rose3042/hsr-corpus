@@ -1,0 +1,59 @@
+name: 语料库自动更新
+
+on:
+  # 每周一、周四 03:00 UTC（北京时间 11:00）自动更新
+  schedule:
+    - cron: '0 3 * * 1,4'
+  # 也支持手动触发
+  workflow_dispatch:
+
+jobs:
+  update-corpus:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install pdfminer.six
+
+      - name: 增量爬取学术文献（OpenAlex）
+        run: python3 crawler/openalex_pipeline.py
+
+      - name: 增量爬取新闻（RG + 人民铁道）
+        run: python3 crawler/news_pipeline.py
+
+      - name: 生成数据包（远程数据源格式）
+        run: python3 crawler/build_pack.py
+
+      - name: 提交并推送（有变化才提交）
+        run: |
+          git config user.name "corpus-bot"
+          git config user.email "corpus-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无数据变化，本次跳过提交"
+          else
+            git commit -m "语料库自动更新 $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: 刷新 jsDelivr CDN 缓存（使最新数据立即生效）
+        run: |
+          REPO="${{ github.repository }}"
+          curl -s "https://purge.jsdelivr.net/gh/${REPO}@main/hsr-corpus-data.json" | head -c 300
+          echo ""
+          echo "CDN 缓存已刷新"
+
+      - name: 输出数据包信息
+        run: |
+          ls -la data/ 2>/dev/null || ls -la *.json
+          echo "本次更新完成"
