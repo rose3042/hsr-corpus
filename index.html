@@ -772,6 +772,33 @@ body.editing .std-no a { pointer-events: auto; }
 .n-actions { display: flex; align-items: center; gap: 14px; margin-top: 2px; }
 .news-card.ann { background: linear-gradient(180deg, #f6f9fd, #fff); border-left: 3px solid var(--gold); }
 
+
+/* ===== AI 智能助手 ===== */
+.ai-wrap { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 18px 20px 16px; max-width: 860px; }
+.ai-bar { display: flex; align-items: center; gap: 10px; font-size: 13px; color: var(--ink2); margin-bottom: 12px; }
+.ai-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--ink3); display: inline-block; }
+.ai-dot.ok { background: #3d8b5e; }
+.ai-dot.bad { background: #b5493a; }
+.ai-chat { height: 380px; overflow-y: auto; border: 1px solid var(--line); border-radius: 6px; padding: 14px; background: #fafbfd; display: flex; flex-direction: column; gap: 10px; }
+.ai-msg { display: flex; }
+.ai-msg.ai-bot { justify-content: flex-start; }
+.ai-msg.ai-user { justify-content: flex-end; }
+.ai-bubble { max-width: 78%; padding: 10px 14px; border-radius: 8px; font-size: 14px; line-height: 1.75; white-space: pre-wrap; word-break: break-word; }
+.ai-bot .ai-bubble { background: #fff; border: 1px solid var(--line); color: var(--ink1); }
+.ai-user .ai-bubble { background: var(--blue-d); color: #fff; }
+.ai-refs { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); font-size: 12px; color: var(--ink3); }
+.ai-refs a { color: var(--gold-d); text-decoration: none; margin-right: 10px; cursor: pointer; }
+.ai-refs a:hover { text-decoration: underline; }
+.ai-suggests { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0; }
+.ai-chip { border: 1px solid var(--line); background: #fff; color: var(--ink2); font-size: 12.5px; padding: 6px 12px; border-radius: 20px; cursor: pointer; transition: all .15s; }
+.ai-chip:hover { border-color: var(--blue); color: var(--blue-d); }
+.ai-input { display: flex; gap: 10px; align-items: flex-end; }
+.ai-input textarea { flex: 1; border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; font-size: 14px; font-family: inherit; resize: vertical; min-height: 46px; background: #fff; color: var(--ink1); }
+.ai-input textarea:focus { outline: none; border-color: var(--blue); }
+.ai-input .btn { white-space: nowrap; }
+.ai-note { font-size: 12px; color: var(--ink3); margin-top: 10px; line-height: 1.6; }
+@media (max-width: 720px) { .ai-bubble { max-width: 92%; } .ai-chat { height: 300px; } .ai-wrap { padding: 12px; } }
+
 </style>
 </head>
 <body>
@@ -791,6 +818,7 @@ body.editing .std-no a { pointer-events: auto; }
       <a href="#terms">术语检索</a>
       <a href="#library">资料库</a>
       <a href="#papers">学术文献</a>
+      <a href="#assistant">AI 助手</a>
     </div>
     <div class="nav-tools">
       <button class="nav-tool-btn" onclick="openDaily()">每日一词</button>
@@ -1100,6 +1128,41 @@ body.editing .std-no a { pointer-events: auto; }
   </div>
 </section>
 
+<!-- ===== 10 AI 智能助手 ===== -->
+<section class="section" id="assistant">
+  <div class="section-head">
+    <div class="sec-no">10 — AI 智能助手</div>
+    <h2>语料智能问答</h2>
+    <p class="sec-desc">
+      基于 DeepSeek 大模型，结合本语料库的术语、标准、语料与文献作答，回答末尾附语料库来源条目。
+      API Key 仅保存在当前浏览器，不会上传或公开。
+    </p>
+  </div>
+  <div class="ai-wrap">
+    <div class="ai-bar" id="aiBar">
+      <span class="ai-dot" id="aiStatusDot"></span>
+      <span id="aiStatusText">检查 DeepSeek API Key…</span>
+      <button class="mini-btn" style="margin-left:auto" onclick="openSettings()">配置 Key</button>
+    </div>
+    <div class="ai-chat" id="aiChat">
+      <div class="ai-msg ai-bot">
+        <div class="ai-bubble">你好，我是本语料库的 AI 助手。可以问我术语含义、标准内容、文献检索等问题，例如"什么是无砟轨道？""RAMS 是什么标准？"。回答会引用语料库内条目。</div>
+      </div>
+    </div>
+    <div class="ai-suggests" id="aiSuggests">
+      <button class="ai-chip" onclick="askChip('什么是无砟轨道？')">什么是无砟轨道？</button>
+      <button class="ai-chip" onclick="askChip('RAMS 是什么标准？')">RAMS 是什么标准？</button>
+      <button class="ai-chip" onclick="askChip('TB 10621 是什么规范？')">TB 10621 是什么规范？</button>
+      <button class="ai-chip" onclick="askChip('帮我检索高速铁路通信信号相关术语')">检索通信信号术语</button>
+    </div>
+    <div class="ai-input">
+      <textarea id="aiInput" rows="2" placeholder="输入问题，Enter 发送，Shift+Enter 换行" onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();askAI();}"></textarea>
+      <button class="btn btn-primary" onclick="askAI()">发送</button>
+    </div>
+    <div class="ai-note">说明：AI 回答由 DeepSeek 生成，术语与标准定义以原始文件为准；来源条目可直接点击跳转查看。</div>
+  </div>
+</section>
+
 <!-- ===== 数据版本与更新 ===== -->
 <section class="update-section" id="updates">
   <div class="update-box">
@@ -1159,6 +1222,17 @@ body.editing .std-no a { pointer-events: auto; }
       <div class="set-row">
         <span>远程数据源状态</span>
         <span id="remoteStatus" style="font-size:12.5px;color:var(--ink3)">未配置</span>
+      </div>
+      <div class="set-row" style="border-top:1px solid var(--line);margin-top:6px;padding-top:12px">
+        <span style="display:flex;flex-direction:column;gap:2px">
+          <b style="font-size:13.5px">DeepSeek API Key</b>
+          <span style="font-size:11.5px;color:var(--ink3)">用于 AI 智能问答。仅保存在当前浏览器（localStorage），不会上传或进入公开页面；可在 platform.deepseek.com 申请。</span>
+        </span>
+        <span style="display:flex;align-items:center;gap:6px">
+          <input id="dsKeyInput" type="password" placeholder="sk-…" style="width:150px;font-family:var(--mono)">
+          <button class="mini-btn" onclick="saveDsKey()">保存</button>
+          <button class="mini-btn" onclick="clearDsKey()">清除</button>
+        </span>
       </div>
       <div class="set-row" style="border-top:1px solid var(--line);margin-top:6px;padding-top:12px">
         <span style="display:flex;flex-direction:column;gap:2px">
@@ -2597,6 +2671,9 @@ function openSettings() {
   document.getElementById('remoteStatus').textContent = url ? '已配置：' + url + '（默认已启用，打开页面自动同步）' : '未配置，使用内嵌数据';
   const et = document.getElementById('editModeToggle');
   if (et) et.checked = EDIT_MODE;
+  const ki = document.getElementById('dsKeyInput');
+  if (ki) ki.value = getDsKey();
+  updateAiStatus();
 }
 function closeSettings() {
   document.getElementById('setModal').classList.remove('open');
@@ -2616,9 +2693,125 @@ function clearRemoteUrl() {
   toast('已恢复默认数据源');
 }
 
+
+/* ===== AI 智能助手（DeepSeek） ===== */
+const DS_API = 'https://api.deepseek.com/chat/completions';
+const DS_MODEL = 'deepseek-chat';
+let _dsKeyMem = '';
+function getDsKey() { if (_dsKeyMem) return _dsKeyMem; try { return localStorage.getItem('hsr_ds_key') || ''; } catch(e){ return _dsKeyMem; } }
+function saveDsKey() {
+  const v = document.getElementById('dsKeyInput').value.trim();
+  if (!v) { toast('请输入 API Key'); return; }
+  _dsKeyMem = v;
+  try { localStorage.setItem('hsr_ds_key', v); } catch(e){}
+  toast('API Key 已保存（仅本浏览器）');
+  updateAiStatus();
+}
+function clearDsKey() {
+  _dsKeyMem = '';
+  try { localStorage.removeItem('hsr_ds_key'); } catch(e){}
+  const i = document.getElementById('dsKeyInput'); if (i) i.value = '';
+  toast('已清除 API Key');
+  updateAiStatus();
+}
+function updateAiStatus() {
+  const dot = document.getElementById('aiStatusDot'), txt = document.getElementById('aiStatusText');
+  if (!dot || !txt) return;
+  const k = getDsKey();
+  if (k) { dot.className = 'ai-dot ok'; txt.textContent = 'DeepSeek API 已就绪（Key 仅保存在本浏览器）'; }
+  else { dot.className = 'ai-dot'; txt.textContent = '未配置 DeepSeek API Key（点右侧"配置 Key"填写，5 秒完成）'; }
+}
+/* 语料库检索 → 上下文 */
+function buildAIContext(q) {
+  const out = []; const push = (type, t) => { if (out.length < 8) out.push({ type: type, text: t }); };
+  const hit = (hay, keys) => keys.some(k => hay && String(hay[k] || '').toLowerCase().includes(q.toLowerCase()));
+  (TERMS || []).forEach(t => {
+    if (hit(t, ['zh', 'en', 'definition', 'cat'])) push('术语', (t.zh || '') + ' / ' + (t.en || '') + ' — ' + (t.definition || ''));
+  });
+  (STANDARDS || []).forEach(t => {
+    if (hit(t, ['no', 'name', 'category'])) push('标准', (t.no || '') + ' ' + (t.name || ''));
+  });
+  (CORPUS || []).forEach(t => {
+    if (hit(t, ['title', 'content'])) push('语料', (t.title || '') + '：' + String(t.content || '').slice(0, 260));
+  });
+  (NEWS || []).forEach(t => {
+    if (hit(t, ['title', 'summary', 'content'])) push('新闻', (t.title || '') + '：' + String(t.summary || t.content || '').slice(0, 180));
+  });
+  (ANNOUNCEMENTS || []).forEach(t => {
+    if (hit(t, ['title', 'category'])) push('公告', (t.title || ''));
+  });
+  return out;
+}
+/* 极简 markdown 渲染：**粗体**、*斜体*、换行、反引号 */
+function md(text) {
+  let s = esc(text || '');
+  s = s.replace(/`([^`]+)`/g, '<code style="background:#f1f4f8;padding:1px 5px;border-radius:3px;font-size:12.5px">$1</code>');
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+  s = s.replace(/\*([^*]+)\*/g, '<i>$1</i>');
+  return s;
+}
+function aiRefsHtml(refs) {
+  if (!refs || !refs.length) return '';
+  const seen = new Set(); const rows = [];
+  refs.forEach(r => {
+    const label = (r.type + '：' + r.text).slice(0, 42);
+    if (seen.has(label)) return; seen.add(label); rows.push(label);
+  });
+  return '<div class="ai-refs">依据语料库：' + rows.map(r => '<span>' + esc(r) + '</span>').join('') + '</div>';
+}
+function appendAiMsg(role, html) {
+  const box = document.getElementById('aiChat'); if (!box) return;
+  const div = document.createElement('div');
+  div.className = 'ai-msg ' + (role === 'user' ? 'ai-user' : 'ai-bot');
+  div.innerHTML = '<div class="ai-bubble">' + html + '</div>';
+  box.appendChild(div); box.scrollTop = box.scrollHeight;
+}
+function askChip(q) { const i = document.getElementById('aiInput'); if (i) i.value = q; askAI(); }
+async function askAI() {
+  const input = document.getElementById('aiInput');
+  const q = (input ? input.value : '').trim();
+  if (!q) { toast('请输入问题'); return; }
+  const key = getDsKey();
+  if (!key) { toast('请先在设置中配置 DeepSeek API Key'); openSettings(); return; }
+  appendAiMsg('user', esc(q));
+  if (input) input.value = '';
+  const typing = document.createElement('div');
+  typing.className = 'ai-msg ai-bot'; typing.id = 'aiTyping';
+  typing.innerHTML = '<div class="ai-bubble" style="color:var(--ink3)">思考中…</div>';
+  document.getElementById('aiChat').appendChild(typing);
+  document.getElementById('aiChat').scrollTop = document.getElementById('aiChat').scrollHeight;
+  const ctx = buildAIContext(q);
+  const sys = '你是"高速铁路标准语料库"的 AI 助手，面向轨道交通方向的研究团队。请用简体中文回答，专业、准确、简洁；优先使用下方语料库上下文中的术语定义、标准信息与语料内容作答；上下文没有的内容请如实说明，不要编造标准编号或术语；可适当补充通用专业知识。回答末尾自然给出"依据语料库"的条目（若上下文有）。\n\n【语料库上下文】\n' +
+    (ctx.length ? ctx.map((c, i) => '[' + c.type + '] ' + c.text).join('\n') : '（未检索到直接相关内容）');
+  const msgs = [{ role: 'system', content: sys }];
+  const history = document.querySelectorAll('#aiChat .ai-msg');
+  [...history].slice(-8, -1).forEach(m => {
+    const t = m.textContent || '';
+    if (t && t !== '思考中…') msgs.push({ role: m.classList.contains('ai-user') ? 'user' : 'assistant', content: t.slice(0, 800) });
+  });
+  msgs.push({ role: 'user', content: q });
+  const ta = document.getElementById('aiTyping');
+  try {
+    const res = await fetch(DS_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + key },
+      body: JSON.stringify({ model: DS_MODEL, messages: msgs, temperature: 0.3, max_tokens: 1200, stream: false })
+    });
+    if (res.status === 401) { if (ta) ta.remove(); toast('API Key 无效，请检查'); return; }
+    if (!res.ok) { if (ta) ta.remove(); toast('请求失败（' + res.status + '），请稍后重试'); return; }
+    const data = await res.json();
+    const answer = (data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content) || '（无回答）';
+    if (ta) ta.remove();
+    appendAiMsg('bot', md(answer) + aiRefsHtml(ctx));
+  } catch (e) {
+    if (ta) ta.remove();
+    toast('网络请求失败：' + (e && e.message ? e.message : '未知错误'));
+  }
+}
+
 /* ===== 导航高亮 ===== */
 function setNavActive() {
-  const sections = ['scheme', 'standards', 'analytics', 'corpus', 'terms', 'library', 'papers', 'news'];
+  const sections = ['scheme', 'standards', 'analytics', 'corpus', 'terms', 'library', 'papers', 'assistant', 'news'];
   const links = document.querySelectorAll('.nav-links a');
   let cur = 'scheme';
   sections.forEach(id => {
@@ -2660,6 +2853,7 @@ function init() {
   renderNews();
   renderUpdateStatus();
   renderChangelog();
+  updateAiStatus();
   const totalChars = CORPUS.reduce((s, d) => s + (d.cc || 0), 0) + PAPERS.reduce((s, p) => s + (p.abstract || '').length, 0);
   animateNum(document.getElementById('stDocs'), CORPUS.length + PAPERS.length);
   animateNum(document.getElementById('stTerms'), TERMS.length);
