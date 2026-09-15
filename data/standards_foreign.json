@@ -1,0 +1,548 @@
+[
+ {
+  "no": "EN 50126-1:2017",
+  "name": "Railway Applications - The Specification and Demonstration of Reliability, Availability, Maintainability and Safety (RAMS) - Part 1: Generic RAMS Process",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 50126-2:2017",
+  "name": "Railway Applications - RAMS - Part 2: Systems Approach to Safety",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 50128:2011",
+  "name": "Railway Applications - Communication, Signalling and Processing Systems - Software for Railway Control and Protection Systems",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 50129:2018",
+  "name": "Railway Applications - Communication, Signalling and Processing Systems - Safety Related Electronic Systems for Signalling",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 50155:2017",
+  "name": "Railway Applications - Rolling Stock - Electronic Equipment",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 50121-1:2017",
+  "name": "Railway Applications - Electromagnetic Compatibility - Part 1: General",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 50121-3-1:2017",
+  "name": "Railway Applications - EMC - Part 3-1: Rolling Stock - Train and Complete Vehicle",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 50122-1:2011",
+  "name": "Railway Applications - Fixed Installations - Electrical Safety, Earthing and Return Circuit - Part 1: Protective Provisions against Electric Shock",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 50163:2004",
+  "name": "Railway Applications - Supply Voltages of Traction Systems",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 50388:2012",
+  "name": "Railway Applications - Power Supply and Rolling Stock - Technical Criteria for the Coordination between Power Supply and Rolling Stock",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15220:2016",
+  "name": "Railway Applications - Brake Indicators",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 15227:2020",
+  "name": "Railway Applications - Crashworthiness Requirements for Railway Vehicle Bodies",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 15273-1:2013",
+  "name": "Railway Applications - Gauges - Part 1: Common Vocabulary",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15273-2:2013",
+  "name": "Railway Applications - Gauges - Part 2: Rolling Stock Gauge",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15273-3:2013",
+  "name": "Railway Applications - Gauges - Part 3: Structure Gauges",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15355:2019",
+  "name": "Railway Applications - Braking - Distributor Valves and Distributor-Isolating Devices",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15610:2019",
+  "name": "Railway Applications - Acoustics - Rail and Wheel Roughness Measurement Related to Noise Generation",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 15877-1:2012",
+  "name": "Railway Applications - Marking on Railway Vehicles - Part 1: Freight Wagons",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 14363:2016",
+  "name": "Railway Applications - Testing and Simulation for Acceptance of Running Characteristics of Railway Vehicles - Running Behaviour",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 14752:2015",
+  "name": "Railway Applications - Body Side Entrance Systems for Rolling Stock",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13848-1:2019",
+  "name": "Railway Applications - Track - Track Geometry Quality - Part 1: Characterisation of Track Geometry",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 13848-5:2017",
+  "name": "Railway Applications - Track - Track Geometry Quality - Part 5: Geometric Quality Levels",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 16432-1:2017",
+  "name": "Railway Applications - Ballastless Track Systems - Part 1: General Requirements",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 13230-1:2016",
+  "name": "Railway Applications - Track - Concrete Sleepers and Bearers - Part 1: General Requirements",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13481-1:2012",
+  "name": "Railway Applications - Track - Performance Requirements for Fastening Systems - Part 1: Definitions",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13262:2020",
+  "name": "Railway Applications - Wheelsets and Bogies - Wheels - Product Requirements",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13103:2017",
+  "name": "Railway Applications - Wheelsets and Bogies - Non-Powered Axles - Design Method",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13104:2017",
+  "name": "Railway Applications - Wheelsets and Bogies - Powered Axles - Design Method",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13232-1:2003",
+  "name": "Railway Applications - Track - Switches and Crossings - Part 1: Definitions",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "EN 13674-1:2011",
+  "name": "Railway Applications - Track - Rail - Part 1: Vignole Railway Rails 46 kg/m and Above",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "EN 13674-4:2019",
+  "name": "Railway Applications - Track - Rail - Part 4: Vignole Railway Rails from 27 kg/m to 46 kg/m",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 518 OR:2009",
+  "name": "Testing and Approval of Railway Vehicles from the Point of View of their Dynamic Behaviour",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "UIC 505-1:2006",
+  "name": "Railway Transport Stock - Rolling Stock Construction Gauge",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 510-2:2004",
+  "name": "Trailing Stock - Conditions Concerning the Use of Wheelsets with Roller Bearings",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 510-3:1993",
+  "name": "Conditions for the Approval of Solid Wheels (Monobloc Wheels)",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 544-1:2014",
+  "name": "Brakes - Braking Power",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "UIC 541-03:2010",
+  "name": "Brakes - Disc Brakes and their Application - General Conditions for the Approval of Disc Brakes",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 564-2:2011",
+  "name": "Passenger Coaches - Windows in Passenger Coaches",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 566-3:2014",
+  "name": "Passenger Coaches - Door Drive Systems - Electric and Electropneumatic Door Drives",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 567:2008",
+  "name": "Common Programme for Buffer Gear for Coaches",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 568:2009",
+  "name": "Gangways between Coaches",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 612:2005",
+  "name": "Basic Requirements for Terminal Connections in Passenger Coaches",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 651:2002",
+  "name": "Layout of Driver Cabs in Locomotives, Railcars, Multiple Unit Trains and Driving Trailers",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "UIC 660:2002",
+  "name": "Measures to Ensure the Technical Compatibility of High-Speed Trains",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "UIC 718:2005",
+  "name": "Classification of Rails",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "UIC 860-0:1986",
+  "name": "Technical Specification for the Supply of Rails",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 713:2004",
+  "name": "Design of Monobloc Concrete Sleepers and Means for their Fastening",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 720:2005",
+  "name": "Axles for Trailing Stock and Non-Powered Axles of Locomotives",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "UIC 775:2002",
+  "name": "Behaviour of Non-Automatic and Automatic Couplers during Shunting",
+  "category": "装备技术",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "IRS 70713:2023",
+  "name": "Recommendations for the Design and Use of Prestressed Monoblock Concrete Sleepers",
+  "category": "工程建设",
+  "region": "欧洲",
+  "key": true
+ },
+ {
+  "no": "IRS 50596-5:2016",
+  "name": "Freight Rolling Stock - Codification System for Wagons",
+  "category": "运输服务",
+  "region": "欧洲",
+  "key": false
+ },
+ {
+  "no": "AREMA MRE",
+  "name": "Manual for Railway Engineering (Track, Structures, Infrastructure, Systems Management)",
+  "category": "工程建设",
+  "region": "美国",
+  "key": true
+ },
+ {
+  "no": "AREMA C&S Manual",
+  "name": "Communications & Signals Manual of Recommended Practice",
+  "category": "装备技术",
+  "region": "美国",
+  "key": true
+ },
+ {
+  "no": "AREMA Practical Guide",
+  "name": "Practical Guide to Railway Engineering",
+  "category": "工程建设",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "AREMA Bridge Inspection Handbook",
+  "name": "Bridge Inspection Handbook",
+  "category": "工程建设",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "AREMA Scale Handbook",
+  "name": "AREMA Scale Handbook",
+  "category": "工程建设",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "AAR MSRP",
+  "name": "Manual of Standards and Recommended Practices (Rolling Stock, Wheels, Axles, Couplers)",
+  "category": "装备技术",
+  "region": "美国",
+  "key": true
+ },
+ {
+  "no": "AAR M-1001",
+  "name": "AAR Manual of Standards and Recommended Practices - Wheels and Axles",
+  "category": "装备技术",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "AAR M-203",
+  "name": "AAR Standard - Draft Gear and Buff Gear Assemblies",
+  "category": "装备技术",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "FRA 49 CFR 213",
+  "name": "Track Safety Standards",
+  "category": "工程建设",
+  "region": "美国",
+  "key": true
+ },
+ {
+  "no": "FRA 49 CFR 229",
+  "name": "Locomotive Safety Standards",
+  "category": "装备技术",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "FRA 49 CFR 232",
+  "name": "Brake System Safety Standards for Freight and Passenger Equipment",
+  "category": "装备技术",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "FRA 49 CFR 236",
+  "name": "Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems",
+  "category": "装备技术",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "FRA 49 CFR 238",
+  "name": "Passenger Equipment Safety Standards",
+  "category": "装备技术",
+  "region": "美国",
+  "key": true
+ },
+ {
+  "no": "FRA 49 CFR 237",
+  "name": "Bridge Safety Standards",
+  "category": "工程建设",
+  "region": "美国",
+  "key": false
+ },
+ {
+  "no": "ISO 3095:2013",
+  "name": "Acoustics - Railway Applications - Measurement of Noise Emitted by Railbound Vehicles",
+  "category": "装备技术",
+  "region": "国际",
+  "key": true
+ },
+ {
+  "no": "ISO 3381:2021",
+  "name": "Acoustics - Railway Applications - Noise Measurement inside Railbound Vehicles",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "ISO 13486-1:1999",
+  "name": "Railway Applications - Braking - Part 1: Disc Brakes",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "ISO 8575:1990",
+  "name": "Railway Rolling Stock - Coupling Systems - Coupler Height",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "ISO 3515:1994",
+  "name": "Railway Rolling Stock - Axles - Dimensional Tolerances",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "IEC 61375-1:2012",
+  "name": "Electronic Railway Equipment - Train Communication Network (TCN) - Part 1: General Architecture",
+  "category": "装备技术",
+  "region": "国际",
+  "key": true
+ },
+ {
+  "no": "IEC 61375-2-1:2012",
+  "name": "Electronic Railway Equipment - TCN - Part 2-1: Wire Train Bus",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "IEC 62236-1:2018",
+  "name": "Railway Applications - Electromagnetic Compatibility - Part 1: General",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "IEC 62236-3-2:2018",
+  "name": "Railway Applications - EMC - Part 3-2: Rolling Stock - Apparatus",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "IEC 62290-1:2014",
+  "name": "Railway Applications - Urban Guided Transport Management and Command/Control Systems - Part 1: System Principles",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "IEC 60571:2012",
+  "name": "Railway Applications - Electronic Equipment Used on Rolling Stock",
+  "category": "装备技术",
+  "region": "国际",
+  "key": false
+ },
+ {
+  "no": "ISO/TS 22163:2017",
+  "name": "Railway Applications - Quality Management System - Business Management System for Rail Organizations (IRIS)",
+  "category": "运输服务",
+  "region": "国际",
+  "key": true
+ },
+ {
+  "no": "ISO 9001:2015",
+  "name": "Quality Management Systems - Requirements (Railway Application Context)",
+  "category": "运输服务",
+  "region": "国际",
+  "key": false
+ }
+]
