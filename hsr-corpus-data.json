@@ -1,5 +1,5 @@
 {
- "version": "2.7",
+ "version": "2.8",
  "updated_at": "2026-09-16",
  "built": "2026-09-15 12:25",
  "terms": [
@@ -14720,6 +14720,286 @@
    "name": "铁路旅客运输服务质量 第3部分：服务评价",
    "category": "运输服务",
    "key": false
+  },
+  {
+   "no": "IRS 60680:2022",
+   "name": "高速铁路设计 基础设施（High-speed railway design — Infrastructure）",
+   "category": "工程建设",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202206/t20220630_328241.shtml"
+  },
+  {
+   "no": "IRS 60681:2021",
+   "name": "高速铁路设计 通信信号（High-speed railway design — Signalling & Communication）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202204/t20220405_280580.shtml"
+  },
+  {
+   "no": "IRS 60682:2022",
+   "name": "高速铁路设计 供电（High-speed railway design — Energy）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202407/t20240723_346431.shtml"
+  },
+  {
+   "no": "IRS 60683:2024",
+   "name": "高速铁路设计 工程接口（High-speed railway design — Interfaces）",
+   "category": "工程建设",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202407/t20240723_346431.shtml"
+  },
+  {
+   "no": "IRS 60660:2024",
+   "name": "高速列车技术兼容性（Compatibility of High-Speed Trains）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.jreast.co.jp/e/press/2024/pdf/20241017.pdf"
+  },
+  {
+   "no": "UIC 660",
+   "name": "高速列车技术兼容性措施（Measures to ensure the technical compatibility of High-Speed Trains）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://shop.uic.org/en/606-traction-highspeed/14733-measures-to-ensure-the-technical-compatibility-of-high-speed-trains.html"
+  },
+  {
+   "no": "UIC 518",
+   "name": "铁路车辆动力学行为试验与验收（Testing and approval of railway vehicles — dynamic behaviour）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://shop.uic.org/en/51-running-and-suspension-gear/996-testing-and-approval-of-railway-vehicles-from-the-point-of-view-of-their-dynamic-behaviour-safety-track-fatigue-ride-quality.html"
+  },
+  {
+   "no": "UIC 651",
+   "name": "司机室布置与操作界面（Layout of driver's cabs）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://railwaynews.net/uic-leaflet-no-651-chapter-6-traction-layout-of-drivers-cabs-in-locomotives-railcars-multiple-unit-trains-and-driving-trailers.html"
+  },
+  {
+   "no": "UIC 541-4",
+   "name": "复合制动闸片技术要求（Composite brake blocks）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://uic.org/IMG/pdf/uic_activity_report_2023_05jul24_web-2.pdf"
+  },
+  {
+   "no": "UIC 860",
+   "name": "钢轨断面与公差（Rail profiles）",
+   "category": "工程建设",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://www.railwaypart.com/railway-knowledge-center/uic-rail-standards/"
+  },
+  {
+   "no": "UIC 513",
+   "name": "铁路车辆乘坐舒适性评估（Comfort on board — ergonomics）",
+   "category": "运输服务",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://www.railwaypart.com/railway-knowledge-center/uic-rail-standards/"
+  },
+  {
+   "no": "ISO 22575:2026",
+   "name": "铁路车辆 术语（Rolling stock — Vocabulary）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.iso.org/obp/ui/en/#!iso:std:87211:en"
+  },
+  {
+   "no": "ISO/TR 5914:2024",
+   "name": "铁路车辆内部被动安全 技术报告（Interior passive safety of railway vehicles）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://www.iso.org/obp/ui/en/#!iso:std:81841:en"
+  },
+  {
+   "no": "ISO/TC 269",
+   "name": "铁路应用技术委员会（ISO Technical Committee 269 — Railway applications）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://www.iso.org/committee/46434.html"
+  },
+  {
+   "no": "ISO 1005 系列",
+   "name": "铁路车辆材料 车轮与车轴（Railway rolling stock material — Tyres, wheel centres and axles）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": false,
+   "officialUrl": "https://www.iso.org/committee/46434.html"
+  },
+  {
+   "no": "IEC 62278",
+   "name": "铁路应用 RAMS（=EN 50126，可靠性可用性可维护性安全性）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://european-standards.com/top-european-standards/n-50126-en-50128-en-50129-railway-applications/"
+  },
+  {
+   "no": "IEC 62279",
+   "name": "铁路通信信号软件（=EN 50128，Software for railway control and protection systems）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://european-standards.com/top-european-standards/n-50126-en-50128-en-50129-railway-applications/"
+  },
+  {
+   "no": "IEC 62425",
+   "name": "铁路安全相关电子系统（=EN 50129，Safety-related electronic systems）",
+   "category": "装备技术",
+   "region": "国际",
+   "key": true,
+   "officialUrl": "https://european-standards.com/top-european-standards/n-50126-en-50128-en-50129-railway-applications/"
+  },
+  {
+   "no": "EN 50126-1:2017",
+   "name": "铁路应用 RAMS 规范与论证 第1部分 通用流程（RAMS — Generic RAMS process）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://european-standards.com/top-european-standards/n-50126-en-50128-en-50129-railway-applications/"
+  },
+  {
+   "no": "EN 50126-2:2017",
+   "name": "铁路应用 RAMS 第2部分 系统安全（RAMS — System safety）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://railwaynews.net/en-50126-railway-applications-the-specification-and-demonstration-of-reliability-availability-maintainability-and-safety-rams-standard.html"
+  },
+  {
+   "no": "EN 50128:2011",
+   "name": "铁路通信信号与保护系统软件（Software for railway control and protection systems）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://webstore.ansi.org/standards/ds/dsen501282011a12020"
+  },
+  {
+   "no": "EN 50129:2018",
+   "name": "铁路安全相关电子系统（Safety-related electronic systems for signalling）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://european-standards.com/top-european-standards/n-50126-en-50128-en-50129-railway-applications/"
+  },
+  {
+   "no": "EN 16186 系列",
+   "name": "司机室人机界面（Driver's cab — anthropometric data and visibility）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://railwaynews.net/uic-leaflet-no-651-chapter-6-traction-layout-of-drivers-cabs-in-locomotives-railcars-multiple-unit-trains-and-driving-trailers.html"
+  },
+  {
+   "no": "EN 50317:2012",
+   "name": "铁路应用 弓网动态相互作用测量（Current collection — measurement of dynamic interaction）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52016XC0708%2806%29"
+  },
+  {
+   "no": "EN 50367:2012",
+   "name": "铁路应用 弓网相互作用技术要求（Current collection — technical criteria for interaction）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52016XC0708%2806%29"
+  },
+  {
+   "no": "EN 50463-5:2012",
+   "name": "铁路应用 牵引能量测量（Energy measurement — Part 5）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52016XC0708%2806%29"
+  },
+  {
+   "no": "EN 50553:2012",
+   "name": "铁路应用 车辆火灾可运行性要求（Running capability in case of fire）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52016XC0708%2806%29"
+  },
+  {
+   "no": "TSI LOC&PAS (EU) 1302/2014",
+   "name": "铁路系统互操作性技术规范 机车车辆与客运（TSI Locomotives and Passenger Rolling Stock）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://eur-lex.europa.eu/eli/reg/2014/1302/oj"
+  },
+  {
+   "no": "TSI INF (EU) 1299/2014",
+   "name": "铁路系统互操作性技术规范 基础设施（TSI Infrastructure）",
+   "category": "工程建设",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://eur-lex.europa.eu/eli/reg/2014/1299/oj"
+  },
+  {
+   "no": "TSI SRT (EU) 1303/2014",
+   "name": "铁路系统互操作性技术规范 安全（TSI Safety in Railway Tunnels）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": true,
+   "officialUrl": "https://eur-lex.europa.eu/eli/reg/2014/1303/oj"
+  },
+  {
+   "no": "TSI CCS (EU) 1301/2014",
+   "name": "铁路系统互操作性技术规范 通信信号（TSI Control-Command and Signalling）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/eli/reg/2014/1301/oj"
+  },
+  {
+   "no": "TSI ENE (EU) 1300/2014",
+   "name": "铁路系统互操作性技术规范 能源（TSI Energy）",
+   "category": "装备技术",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://eur-lex.europa.eu/eli/reg/2014/1300/oj"
+  },
+  {
+   "no": "ERA TSI 综述",
+   "name": "欧洲高速铁路系统 TSI 发展综述（ERA and development of the TSIs for European High Speed Railway System）",
+   "category": "运输服务",
+   "region": "欧洲",
+   "key": false,
+   "officialUrl": "https://www.era.europa.eu/system/files/2022-10/European%20Railway%20Agency%20and%20development%20of%20the%20TSIs%20for%20European%20High%20Speed%20Railway%20System%20(EN).pdf"
+  },
+  {
+   "no": "49 CFR Part 238",
+   "name": "客运装备安全标准（Passenger Equipment Safety Standards，含高速）",
+   "category": "装备技术",
+   "region": "美国",
+   "key": true,
+   "officialUrl": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-238"
+  },
+  {
+   "no": "49 CFR Part 213",
+   "name": "轨道安全标准（Track Safety Standards）",
+   "category": "工程建设",
+   "region": "美国",
+   "key": false,
+   "officialUrl": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-213"
   }
  ],
  "papers": [
@@ -41472,7 +41752,15 @@
  "stats": {
   "terms": 223,
   "corpus": 55,
-  "standards": 1309,
+  "standards": {
+   "total": 1344,
+   "regions": {
+    "中国": 1309,
+    "国际": 18,
+    "欧洲": 15,
+    "美国": 2
+   }
+  },
   "papers": 1200,
   "news": 24,
   "corpus_chars": 547468,
