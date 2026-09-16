@@ -2260,13 +2260,13 @@ function stdLink(s) {
   if (no.indexOf('CEN') === 0 || no.indexOf('EN ') === 0) return 'https://standards.cencenelec.eu/';
   if (no.indexOf('AREMA') === 0 || no.indexOf('AAR') === 0) return 'https://www.arema.org/publications';
   if (no.indexOf('FRA') === 0) return 'https://www.ecfr.gov/current/title-49';
-  return 'https://std.samr.gov.cn/search?q=' + encodeURIComponent(no);
+  return 'https://www.bing.com/search?q=' + encodeURIComponent(no + ' 标准');
 }
 function stdLinkTag(s) {
   const u = stdLink(s);
   if (!u) return esc(s.no || '');
   const tag = s.fileUrl ? '<span class="tag-pdf">PDF</span>' : '';
-  return '<a class="std-link" href="' + esc(u) + '" target="_blank" rel="noopener" title="点击查看标准原文 / 官方介绍页面">' + esc(s.no || '') + tag + '</a>';
+  return '<a class="std-link" href="' + esc(u) + '" target="_blank" rel="noopener" title="点击查询该标准（联网检索官方来源）">' + esc(s.no || '') + tag + '</a>';
 }
 
 /* ===== 富文本（Word 风格编辑器） ===== */
