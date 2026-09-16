@@ -2729,14 +2729,19 @@ function checkRemoteUpdate(silent) {
   } catch (e) {}
   if (!silent) toast('正在检查更新…');
   // 实时源：GitHub API 直读（无 CDN 缓存，改完即见）
+  // 大文件 contents 不返回 content，需两步：先取 sha，再取 raw blob
   fetch('https://api.github.com/repos/rose3042/hsr-corpus/contents/hsr-corpus-data.json', { cache: 'no-store' })
     .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(meta => {
-      if (!meta || !meta.content) throw new Error('响应格式异常');
-      const bin = atob(meta.content.replace(/\s/g, ''));
-      const bytes = new Uint8Array(bin.length);
-      for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
-      const data = JSON.parse(new TextDecoder().decode(bytes));
+      if (!meta || !meta.sha) throw new Error('响应格式异常');
+      return fetch('https://api.github.com/repos/rose3042/hsr-corpus/git/blobs/' + meta.sha, {
+        headers: { 'Accept': 'application/vnd.github.raw+json' },
+        cache: 'no-store'
+      });
+    })
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(data => {
+      if (!data || !Array.isArray(data.terms)) throw new Error('数据格式异常');
       try { localStorage.setItem('hsr_last_sync', String(Date.now())); } catch (e) {}
       applyRemoteData(data, silent);
     })
