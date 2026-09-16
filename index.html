@@ -458,7 +458,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
 }
 .reader-tools button:hover { border-color: var(--gold); color: var(--gold-d); }
 .reader-tools button.on { background: var(--gold); border-color: var(--gold); color: #fff; }
-.reader-close { width: 36px; height: 36px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 18px; color: var(--ink2); flex-shrink: 0; transition: all 0.2s; font-family: var(--serif); }
+.reader-close { width: 40px; height: 40px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 18px; color: var(--ink2); flex-shrink: 0; transition: all 0.2s; font-family: var(--serif); }
 .reader-close:hover { border-color: var(--gold); color: var(--gold-d); transform: rotate(90deg); }
 .reader-body { flex: 1; overflow-y: auto; padding: 34px 44px; text-align: justify; }
 .reader-body p { font-size: 15.5px; line-height: 2.05; margin-bottom: 16px; color: #333; text-align: justify; }
@@ -473,7 +473,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
 .term-modal .t-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
 .term-modal .t-en { font-size: 26px; font-weight: 700; }
 .term-modal .t-zh { font-size: 19px; color: var(--gold-d); margin-top: 2px; }
-.term-modal .t-close { position: absolute; top: 16px; right: 18px; width: 32px; height: 32px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; font-size: 16px; color: var(--ink2); }
+.term-modal .t-close { position: absolute; top: 14px; right: 16px; width: 40px; height: 40px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; font-size: 16px; color: var(--ink2); }
 .term-modal .t-info { border-top: 1px solid var(--line); padding-top: 16px; }
 .term-modal .t-info-row { display: flex; gap: 10px; font-size: 14.5px; padding: 5px 0; }
 .term-modal .t-info-row .k { color: var(--ink3); min-width: 64px; flex-shrink: 0; }
@@ -504,7 +504,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
   cursor: pointer; color: var(--ink2); transition: all 0.2s;
 }
 .daily-modal .d-actions button:hover { border-color: var(--gold); color: var(--gold-d); }
-.daily-modal .d-close { position: absolute; top: 14px; right: 16px; width: 30px; height: 30px; border: none; background: none; font-size: 17px; cursor: pointer; color: var(--ink3); }
+.daily-modal .d-close { position: absolute; top: 12px; right: 14px; width: 40px; height: 40px; border: none; background: none; font-size: 17px; cursor: pointer; color: var(--ink3); }
 
 /* ===== Toast ===== */
 #toastEl { position: fixed; bottom: 34px; left: 50%; transform: translateX(-50%); background: var(--rail); color: #f5f3ef; padding: 10px 22px; border-radius: 3px; font-size: 14px; z-index: 300; font-family: var(--serif); transition: opacity 0.3s; opacity: 0; pointer-events: none; }
@@ -642,7 +642,7 @@ mark.hit-cur { background: var(--gold); color: #fff; }
 .set-modal { background: #fff; width: 100%; max-width: 460px; border-radius: 4px; padding: 30px 32px; position: relative; box-shadow: 0 30px 80px rgba(0,0,0,0.3); }
 .set-modal .s-title { font-size: 19px; font-weight: 700; margin-bottom: 4px; }
 .set-modal .s-sub { font-size: 13px; color: var(--ink3); margin-bottom: 22px; }
-.set-modal .s-close { position: absolute; top: 14px; right: 16px; width: 30px; height: 30px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; font-size: 15px; color: var(--ink2); font-family: var(--serif); }
+.set-modal .s-close { position: absolute; top: 12px; right: 14px; width: 40px; height: 40px; border: 1px solid var(--line-d); border-radius: 50%; background: #fff; cursor: pointer; font-size: 15px; color: var(--ink2); font-family: var(--serif); }
 .theme-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 24px; }
 .theme-opt {
   border: 1.5px solid var(--line); border-radius: 4px; padding: 14px 12px 10px;
@@ -2208,6 +2208,33 @@ function closeAllModals() {
   if (pm) pm.remove();
   document.body.style.overflow = '';
 }
+
+/* ===== 弹窗通用关闭：点遮罩 / Esc ===== */
+function closeByMask(t) {
+  if (t && t.classList && t.classList.contains('modal')) {
+    t.classList.remove('open');
+    document.body.style.overflow = '';
+    if (t.id === 'libModal' || t.id === 'annModal' || t.id === 'paperModal') t.remove();
+  }
+}
+document.addEventListener('click', function (ev) {
+  closeByMask(ev.target);
+});
+document.addEventListener('keydown', function (ev) {
+  if (ev.key === 'Escape') {
+    document.querySelectorAll('.modal.open').forEach(function (m) {
+      m.classList.remove('open');
+      if (m.id === 'libModal' || m.id === 'annModal' || m.id === 'paperModal') m.remove();
+    });
+    document.body.style.overflow = '';
+  }
+});
+/* 移动端：加大关闭按钮点击区 */
+(function () {
+  var s = document.createElement('style');
+  s.textContent = '@media (max-width:640px){ .t-close,.s-close,.d-close,.reader-close{width:46px;height:46px;font-size:24px;top:12px;right:12px} }';
+  document.head.appendChild(s);
+})();
 
 /* ===== 新闻动态 ===== */
 function renderNews() {
