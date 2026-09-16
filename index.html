@@ -2289,8 +2289,8 @@ function stdLink(s) {
   if (no.indexOf('CEN') === 0 || no.indexOf('EN ') === 0) return 'https://standards.cencenelec.eu/';
   if (no.indexOf('AREMA') === 0 || no.indexOf('AAR') === 0) return 'https://www.arema.org/publications';
   if (no.indexOf('FRA') === 0) return 'https://www.ecfr.gov/current/title-49';
-  // 道客巴巴检索优先（直达文库），再回退通用搜索
-  return 'https://www.bing.com/search?q=site%3Adoc88.com+' + encodeURIComponent(no);
+  // 直接进道客巴巴站内搜索（tag 页），保证结果都在道客巴巴
+  return 'https://www.doc88.com/tag/' + encodeURIComponent(no);
 }
 function stdLinkTag(s) {
   const u = stdLink(s);
