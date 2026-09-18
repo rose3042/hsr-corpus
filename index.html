@@ -1849,6 +1849,18 @@ function closeReader() {
   document.getElementById('readerModal').classList.remove('open');
   document.body.style.overflow = '';
 }
+/* 点遮罩关闭阅读器（手机点偏时也能关） */
+(function(){
+  var rm = document.getElementById('readerModal');
+  if (rm) rm.addEventListener('click', function(e){ if (e.target === rm) closeReader(); });
+  /* Esc 关闭所有弹窗 */
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape') {
+      closeReader(); closeTermModal(); closeSettings(); closeDaily();
+      document.querySelectorAll('.modal.open').forEach(function(m){ if(m.id!=='readerModal') m.remove(); });
+    }
+  });
+})();
 
 /* ===== 术语库 ===== */
 let termCat = '';
@@ -2249,7 +2261,7 @@ document.addEventListener('keydown', function (ev) {
 /* 移动端：加大关闭按钮点击区 */
 (function () {
   var s = document.createElement('style');
-  s.textContent = '@media (max-width:640px){ .t-close,.s-close,.d-close,.reader-close{width:46px;height:46px;font-size:24px;top:12px;right:12px} }';
+  s.textContent = '@media (max-width:640px){ .t-close,.s-close,.d-close,.reader-close{width:46px;height:46px;font-size:24px;top:12px;right:12px} #readerModal .reader{max-width:100%;width:100%} #readerModal .reader-head{padding:12px 14px;gap:8px} #readerModal .reader-tools{gap:6px;flex-wrap:nowrap} #readerModal .reader-tools button:not(.reader-close){font-size:12px;padding:6px 10px;white-space:nowrap} }';
   document.head.appendChild(s);
 })();
 
