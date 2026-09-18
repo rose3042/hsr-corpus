@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- v2.8 遮罩关闭 -->
 <title>高速铁路语料库 · High-Speed Railway Corpus</title>
 <style>
 /* ===== 设计系统 ===== */
@@ -1849,18 +1850,29 @@ function closeReader() {
   document.getElementById('readerModal').classList.remove('open');
   document.body.style.overflow = '';
 }
-/* 点遮罩关闭阅读器（手机点偏时也能关） */
-(function(){
-  var rm = document.getElementById('readerModal');
-  if (rm) rm.addEventListener('click', function(e){ if (e.target === rm) closeReader(); });
-  /* Esc 关闭所有弹窗 */
-  document.addEventListener('keydown', function(e){
-    if (e.key === 'Escape') {
-      closeReader(); closeTermModal(); closeSettings(); closeDaily();
-      document.querySelectorAll('.modal.open').forEach(function(m){ if(m.id!=='readerModal') m.remove(); });
-    }
-  });
-})();
+/* 遮罩点击关闭（事件委托，鲁棒版 v2.8） */
+document.addEventListener('click', function(e){
+  var t = e.target; if (!t) return;
+  // 1) 点到 readerModal 遮罩本身（未点到内部 .reader）
+  if (t.id === 'readerModal' && t.classList.contains('open')) { closeReader(); return; }
+  // 2) 点到任意 .modal.open 遮罩（公告 annModal 等动态弹窗）
+  if (t.classList && t.classList.contains('modal') && t.classList.contains('open')) {
+    t.classList.remove('open');
+    t.querySelectorAll('.modal').forEach(function(x){x.remove();});
+    if (t.id !== 'readerModal') t.remove();
+    document.body.style.overflow = '';
+  }
+}, true);
+/* Esc 关闭所有弹窗 */
+document.addEventListener('keydown', function(e){
+  if (e.key === 'Escape') {
+    closeReader(); closeTermModal();
+    var s = document.getElementById('settingsModal'); if(s) s.classList.remove('open');
+    var d = document.getElementById('dailyModal'); if(d) d.classList.remove('open');
+    document.querySelectorAll('.modal.open').forEach(function(m){ if(m.id!=='readerModal') m.remove(); });
+    document.body.style.overflow = '';
+  }
+});
 
 /* ===== 术语库 ===== */
 let termCat = '';
