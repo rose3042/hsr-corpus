@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>高速铁路标准语料库 · High-Speed Railway Corpus</title>
+<title>高速铁路语料库 · High-Speed Railway Corpus</title>
 <style>
 /* ===== 设计系统 ===== */
 :root {
@@ -837,7 +837,7 @@ body.editing .std-no a { pointer-events: auto; }
   <div class="nav-inner">
     <a class="brand" href="#top">
       <span class="brand-mark"></span>
-      <span class="brand-name">高速铁路标准语料库</span>
+      <span class="brand-name">高速铁路语料库</span>
     </a>
     <div class="nav-links">
       <a href="#scheme" class="active">收录规划</a>
@@ -865,10 +865,10 @@ body.editing .std-no a { pointer-events: auto; }
 <!-- ===== Hero ===== -->
 <header class="hero" id="top">
   <div class="hero-text">
-    <div class="hero-kicker">HIGH-SPEED RAILWAY STANDARD CORPUS</div>
+    <div class="hero-kicker">HIGH-SPEED RAILWAY CORPUS</div>
     <h1>
-      高速铁路标准语料库
-      <span class="en-line">High-Speed Railway Standard &amp; Corpus</span>
+      高速铁路语料库
+      <span class="en-line">High-Speed Railway Corpus</span>
     </h1>
     <p class="hero-desc">
       面向轨道交通研究的专业语料库，收录中国铁路国家标准、行业标准、官方英文译本与
@@ -1304,7 +1304,7 @@ body.editing .std-no a { pointer-events: auto; }
 <footer class="footer">
   <div class="footer-inner">
     <div>
-      <div class="f-brand">高速铁路标准语料库</div>
+      <div class="f-brand">高速铁路语料库</div>
       <div class="f-sub">
         面向团队研究共享的语料库 · 内容以原始文件为准，持续整理收录中。
         术语库与语料库可合并共建，是否与导师现有术语库合并请以导师意见为准。
@@ -2957,7 +2957,7 @@ async function askAI() {
   document.getElementById('aiChat').appendChild(typing);
   document.getElementById('aiChat').scrollTop = document.getElementById('aiChat').scrollHeight;
   const ctx = buildAIContext(q);
-  const sys = '你是"高速铁路标准语料库"的 AI 助手，面向轨道交通方向的研究团队。请用简体中文回答，专业、准确、简洁；优先使用下方语料库上下文中的术语定义、标准信息与语料内容作答；上下文没有的内容请如实说明，不要编造标准编号或术语；可适当补充通用专业知识。回答末尾自然给出"依据语料库"的条目（若上下文有）。\n\n【语料库上下文】\n' +
+  const sys = '你是"高速铁路语料库"的 AI 助手，面向轨道交通方向的研究团队。请用简体中文回答，专业、准确、简洁；优先使用下方语料库上下文中的术语定义、标准信息与语料内容作答；上下文没有的内容请如实说明，不要编造标准编号或术语；可适当补充通用专业知识。回答末尾自然给出"依据语料库"的条目（若上下文有）。\n\n【语料库上下文】\n' +
     (ctx.length ? ctx.map((c, i) => '[' + c.type + '] ' + c.text).join('\n') : '（未检索到直接相关内容）');
   const msgs = [{ role: 'system', content: sys }];
   const history = document.querySelectorAll('#aiChat .ai-msg');
