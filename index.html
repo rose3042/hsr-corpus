@@ -982,7 +982,7 @@ body.editing .std-no a { pointer-events: auto; }
     <h2>现行铁路标准检索</h2>
     <p class="sec-desc">
       数据来自国家铁路局 2026-09 发布的《现行铁路行业标准和铁路国家标准目录》（截至 2026 年 7 月 31 日），
-      共 1351 项。支持标准号 / 名称搜索与分类筛选，高铁直接相关标准已标注"重点"。
+      共 1350 项。支持标准号 / 名称搜索与分类筛选，高铁直接相关标准已标注"重点"。
     </p>
   </div>
   <div class="std-toolbar">
@@ -1016,7 +1016,7 @@ body.editing .std-no a { pointer-events: auto; }
     </div>
     <div class="ana-card">
       <h3>标准类别构成</h3>
-      <div class="ana-sub">权威目录 1351 项 · 已收录 1344 条（含国际/欧洲/美国 35 项）</div>
+      <div class="ana-sub">国家目录 1344 项 · 另补 6 项企业规程 · 已收录 1350 条</div>
       <div class="donut-wrap">
         <div class="donut" id="stdDonut"><div class="donut-inner"><div class="v" id="donutTotal">0</div><div class="l">标准总数</div></div></div>
         <div class="donut-legend" id="stdLegend"></div>
@@ -1103,7 +1103,7 @@ body.editing .std-no a { pointer-events: auto; }
   </div>
   <div class="lib-grid" id="libGrid"></div>
   <div class="lib-note">
-    资料获取说明：现行铁路标准目录（1351 项）为 2026-09 最新版本；标准发布公告与修改单为
+    资料获取说明：现行铁路标准目录（1344 项）为 2026-09 最新版本；标准发布公告与修改单为
     官方正式文本（文本型 PDF，可直接入库检索）。推荐性国标全文有验证码与 APP 限制、
     UIC/ISO 国际标准为付费资源，需通过学校图书馆数据库获取，页面会持续同步更新。
   </div>
@@ -1121,7 +1121,7 @@ body.editing .std-no a { pointer-events: auto; }
     </p>
   </div>
   <div class="paper-roadmap">
-    <div class="road-item"><div class="r-no">L1</div><div class="r-name">标准全文层</div><div class="r-desc">1351 项中国标准全文 + UIC/ISO 国际标准，学校图书馆数据库获取</div><div class="r-num">目标 200 万字</div></div>
+    <div class="road-item"><div class="r-no">L1</div><div class="r-name">标准全文层</div><div class="r-desc">1350 项中国标准全文 + UIC/ISO 国际标准，学校图书馆数据库获取</div><div class="r-num">目标 200 万字</div></div>
     <div class="road-item"><div class="r-no">L2</div><div class="r-name">中英平行层</div><div class="r-desc">标准官方英译本逐段对齐（TB 10621 等），支撑翻译与对照研究</div><div class="r-num">目标 80 万字</div></div>
     <div class="road-item"><div class="r-no">L3</div><div class="r-name">学术文献层</div><div class="r-desc">OpenAlex 高铁论文 33,746 篇，可扩展至 5 万+ 篇</div><div class="r-num">当前 4,520 万字</div></div>
     <div class="road-item"><div class="r-no">L4</div><div class="r-name">新闻动态层</div><div class="r-desc">中英文高铁新闻定期爬取（周更），补充时效性语域</div><div class="r-num">已收录 24 篇</div></div>
@@ -2049,7 +2049,7 @@ function favDaily() {
 /* ===== 资料库 ===== */
 function renderLib() {
   const libs = [
-    { ico: 'pdf', name: getText('lib:0:name', '铁路标准目录（3份）'), desc: getText('lib:0:desc', '国家铁路局 2026-09 发布的现行铁路行业标准和铁路国家标准目录，含装备技术、工程建设、运输服务三大类，共 1351 项标准，已统一为 PDF 可在线打开。'), meta: getText('lib:0:meta', 'PDF · 可在线打开'), count: 3, key: 'std-catalog' },
+    { ico: 'pdf', name: getText('lib:0:name', '铁路标准目录（3份）'), desc: getText('lib:0:desc', '国家铁路局 2026-09 发布的现行铁路行业标准和铁路国家标准目录，含装备技术、工程建设、运输服务三大类，共 1350 项标准，已统一为 PDF 可在线打开。'), meta: getText('lib:0:meta', 'PDF · 可在线打开'), count: 3, key: 'std-catalog' },
     { ico: 'pdf', name: getText('lib:1:name', '标准发布公告（' + (ANNOUNCEMENTS ? ANNOUNCEMENTS.length : 25) + '份）'), desc: getText('lib:1:desc', '各批次铁路行业标准发布公告，含标准名称、编号、实施日期与发布依据，均为官方正式文本 PDF，可直接打开原文。'), meta: getText('lib:1:meta', 'PDF · 可打开原文'), count: (ANNOUNCEMENTS ? ANNOUNCEMENTS.length : 25), key: 'announcements' },
     { ico: 'pdf', name: getText('lib:2:name', '标准修改单（19份）'), desc: getText('lib:2:desc', '从官方修改单压缩包解压整理的标准修订文本 PDF，含高速铁路扣件、道岔、轨道板等，均为标准正式修订文件。'), meta: getText('lib:2:meta', 'PDF · 19 份'), count: 19, key: 'amendments' },
     { ico: 'pdf', name: getText('lib:3:name', '标准清单（2份）'), desc: getText('lib:3:desc', '从目录 PDF 提取的结构化数据：全部 1309 条标准清单、高铁直接相关重点标准 145 条，CSV 与 PDF 双格式。'), meta: getText('lib:3:meta', 'PDF + CSV'), count: 2, key: 'lists' },
