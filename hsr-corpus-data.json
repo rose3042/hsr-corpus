@@ -15093,6 +15093,97 @@
       "category": "工程建设",
       "region": "中国",
       "doc88": "https://www.doc88.com/p-7002596195608.html"
+    },
+    {
+      "no": "AREMA Ch.1",
+      "name": "铁路工程维护道路协会 第1卷 道路与轨道",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.2",
+      "name": "铁路工程维护道路协会 第2卷 桥梁与结构",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.3",
+      "name": "铁路工程维护道路协会 第3卷 线路与列车控制",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.4",
+      "name": "铁路工程维护道路协会 第4卷 运营与列车控制",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.5",
+      "name": "铁路工程维护道路协会 第5卷 场站与工业设施",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.6",
+      "name": "铁路工程维护道路协会 第6卷 材料与工程",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.7",
+      "name": "铁路工程维护道路协会 第7卷 结构与环境",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AREMA Ch.8",
+      "name": "铁路工程维护道路协会 第8卷 维护与施工",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.arema.org/publications/2024_Manual/2024_Manual.aspx"
+    },
+    {
+      "no": "AAR Manual",
+      "name": "美国铁路协会 铁路工程手册",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.aar.com/publications"
+    },
+    {
+      "no": "FRA 49 CFR",
+      "name": "美国联邦铁路管理局 联邦法规第49篇 铁路安全",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.ecfr.gov/current/title-49"
+    },
+    {
+      "no": "FRA Track Safety",
+      "name": "美国联邦铁路管理局 轨道安全标准",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.fra.dot.gov/Page/P0031"
+    },
+    {
+      "no": "FRA Grade Crossing",
+      "name": "美国联邦铁路管理局 平交道口安全标准",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.fra.dot.gov/Page/P0142"
+    },
+    {
+      "no": "APTA Standards",
+      "name": "美国公共交通协会 铁路公共交通标准",
+      "category": "国际标准",
+      "region": "美国",
+      "officialUrl": "https://www.apta.com/resources/standards/"
     }
   ],
   "papers": [
