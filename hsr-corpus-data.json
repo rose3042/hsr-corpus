@@ -13452,7 +13452,9 @@
       "name": "铁路路基设计规范",
       "category": "工程建设",
       "key": false,
-      "doc88": "https://m.doc88.com/p-91790100674567.html"
+      "doc88": "https://m.doc88.com/p-91790100674567.html",
+      "pdf_url": "https://rose3042.github.io/hsr-corpus/files/standards/TB10001-2016.pdf",
+      "has_fulltext": true
     },
     {
       "no": "TB10002-2017",
@@ -13469,7 +13471,9 @@
       "name": "铁路隧道设计规范",
       "category": "工程建设",
       "key": false,
-      "doc88": "https://m.doc88.com/p-4764733998838.html"
+      "doc88": "https://m.doc88.com/p-4764733998838.html",
+      "pdf_url": "https://rose3042.github.io/hsr-corpus/files/standards/TB10003-2016.pdf",
+      "has_fulltext": true
     },
     {
       "no": "TB10004-2018",
