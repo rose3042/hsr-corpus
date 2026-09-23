@@ -2317,6 +2317,7 @@ function renderNews() {
 /* ===== 标准编号 → 官方链接 ===== */
 function stdLink(s) {
   if (!s) return '';
+  if (s.pdf_url) return s.pdf_url;
   if (s.localFileUrl) return s.localFileUrl;
   if (s.fileUrl) return s.fileUrl;
   if (s.doc88) return s.doc88;
@@ -2335,10 +2336,10 @@ function stdLink(s) {
 function stdLinkTag(s) {
   const u = stdLink(s);
   if (!u) return esc(s.no || '');
-  let tag = s.fileUrl ? '<span class="tag-pdf">PDF</span>' : '';
-  if (s.doc88 && !tag) tag = '<span class="tag-doc88">文库</span>';
-  if (s.doc88 && tag) tag = '<span class="tag-pdf">PDF</span><span class="tag-doc88">文库</span>';
-  return '<a class="std-link" href="' + esc(u) + '" target="_blank" rel="noopener" title="点击查询该标准（联网检索官方来源）">' + esc(s.no || '') + tag + '</a>';
+  let tag = '';
+  if (s.pdf_url) tag = '<span class="tag-pdf" style="background:rgba(34,197,94,.15);color:#15803d;border-color:rgba(34,197,94,.4)">全文</span>';
+  if (s.doc88) tag += '<span class="tag-doc88">文库</span>';
+  return '<a class="std-link" href="' + esc(u) + '" target="_blank" rel="noopener" title="' + (s.pdf_url ? '点击直接下载PDF全文' : '点击查询该标准（联网检索官方来源）') + '">' + esc(s.no || '') + tag + '</a>';
 }
 
 /* ===== 富文本（Word 风格编辑器） ===== */
