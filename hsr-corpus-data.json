@@ -15184,6 +15184,146 @@
       "category": "国际标准",
       "region": "美国",
       "officialUrl": "https://www.apta.com/resources/standards/"
+    },
+    {
+      "no": "UIC 711",
+      "name": "UIC 标准 铁路线路车辆限界",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "UIC 713",
+      "name": "UIC 标准 铁路轨道结构",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "UIC 714",
+      "name": "UIC 标准 铁路桥梁荷载",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "UIC 715",
+      "name": "UIC 标准 铁路隧道设计",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "UIC 716",
+      "name": "UIC 标准 铁路路基工程",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "UIC 717",
+      "name": "UIC 标准 铁路无砟轨道",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://www.uic.org/standards"
+    },
+    {
+      "no": "EN 13848-1",
+      "name": "欧洲标准 铁路轨道质量 第1部分：轨道几何特性",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 13848-2",
+      "name": "欧洲标准 铁路轨道质量 第2部分：系统",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 13848-3",
+      "name": "欧洲标准 铁路轨道质量 第3部分：完整轨道",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1990",
+      "name": "欧洲规范 结构设计基础",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1991-2",
+      "name": "欧洲规范 结构上的作用 第2部分：桥梁交通荷载",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1992-2",
+      "name": "欧洲规范 混凝土结构设计 第2部分：混凝土桥梁",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1993-2",
+      "name": "欧洲规范 钢结构设计 第2部分：钢桥",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1994-2",
+      "name": "欧洲规范 组合结构设计 第2部分：组合桥梁",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1996-2",
+      "name": "欧洲规范 砌体结构设计 第2部分：结构砌体设计",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "EN 1997-2",
+      "name": "欧洲规范 岩土工程设计 第2部分：岩土调查和测试",
+      "category": "国际标准",
+      "region": "欧洲",
+      "officialUrl": "https://standards.cencenelec.eu/"
+    },
+    {
+      "no": "ISO 14837-1",
+      "name": "ISO 铁路应用 轨道车辆轮轨系统振动 第1部分：振动测量",
+      "category": "国际标准",
+      "region": "国际",
+      "officialUrl": "https://www.iso.org/standard/54444.html"
+    },
+    {
+      "no": "ISO 22637",
+      "name": "ISO 铁路应用 轨道 轨道结构",
+      "category": "国际标准",
+      "region": "国际",
+      "officialUrl": "https://www.iso.org/standard/62445.html"
+    },
+    {
+      "no": "ISO 24334",
+      "name": "ISO 铁路应用 轨道 无砟轨道",
+      "category": "国际标准",
+      "region": "国际",
+      "officialUrl": "https://www.iso.org/standard/76543.html"
+    },
+    {
+      "no": "ISO 3095",
+      "name": "ISO 铁路应用 轨道车辆 噪声测量",
+      "category": "国际标准",
+      "region": "国际",
+      "officialUrl": "https://www.iso.org/standard/45678.html"
     }
   ],
   "papers": [
