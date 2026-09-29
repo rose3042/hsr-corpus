@@ -1,0 +1,153 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/405 
+of 16 March 2020 
+specifying the arrangements for, and contents of, the quality reports to be transmitted under 
+Regulation (EU) 2018/1091 of the European Parliament and of the Council on integrated farm 
+statistics 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2018/1091 of the European Parliament and of the Council of 18 July 2018 on integrated 
+farm statistics and repealing Regulations (EC) No 1166/2008 and (EU) No 1337/2011 (1), and in particular Article 11(4) 
+thereof, 
+Whereas: 
+(1) 
+Article 11(4) of Regulation (EU) 2018/1091 requires the Member States to transmit to the Commission quality 
+reports describing the statistical process for each reference year, and allows the Commission to adopt implementing 
+acts setting out the practical arrangements for, and the contents of, those reports. 
+(2) 
+There is a need to ensure common quality reporting for the exchange of quality-related data and metadata. 
+(3) 
+The measures provided for in this Regulation are in accordance with the opinion of the European Statistical System 
+Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+This Regulation lays down the practical arrangements for, and the contents of, the quality reports that Member States 
+transmit to the Commission (Eurostat) in accordance with Regulation (EU) 2018/1091. 
+Article 2 
+The quality reports referred to in Article 1 shall contain information on the quality criteria and statistical concepts as set out 
+in the Annex to this Regulation. They shall also refer to all cases of non-compliance with those quality criteria. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+(1) OJ L 200, 7.8.2018, p. 1. 
+EN
+Official Journal of the European Union 
+17.3.2020                                                                                                                                            
+L 80/3   
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 March 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 80/4                                                                                                                                            
+17.3.2020   
+
+ANNEX 
+Quality reports – quality criteria and statistical concepts 
+(a) The quality reports must include information on all the quality criteria referred to in Article 12(1) of Regulation 
+(EC) No 223/2009, as follows: 
+1. 
+RELEVANCE 
+(a) a description of users, their respective needs and a justification of those needs; 
+(b) procedures used to measure user satisfaction and produce the statistical results; 
+(c) the extent to which the required statistics are available. 
+2. 
+ACCURACY 
+(a) an accuracy assessment that summarises the various dataset components; 
+(b) a description of sampling errors; 
+(c) a description of any other errors. 
+3. 
+TIMELINESS AND PUNCTUALITY 
+(a) the time-lag between the event or phenomenon described and the data availability (timeliness); 
+(b) the time-lag between the target date for data delivery and the actual delivery date (punctuality). 
+4. 
+ACCESSIBILITY AND CLARITY 
+(a) conditions and means by which users can obtain and use the data, e.g. news releases, publications, online databases 
+or micro data access; 
+(b) conditions and means by which users can interpret the data, e.g. documentation on methodology and quality 
+management. 
+5. 
+COMPARABILITY 
+(a) the extent to which statistics are comparable between geographical areas; 
+(b) the extent to which statistics are comparable over time. 
+6. 
+COHERENCE 
+(a) the extent to which statistics are reconcilable with data from other sources (cross-domain coherence); 
+(b) the extent to which statistics are consistent within a given dataset (internal coherence). 
+(b) Member States must also report on: 
+1. 
+QUALITY MANAGEMENT 
+(a) the systems and frameworks in place to manage the quality of statistical products and processes; 
+(b) their assessment of the quality of the data. 
+2. 
+DATA REVISION 
+(a) the revision policy and, if applicable, why validated data has been revised, e.g. new data sources, new methods or 
+other relevant information; 
+(b) the dates, size and magnitude of any revisions. 
+EN
+Official Journal of the European Union 
+17.3.2020                                                                                                                                            
+L 80/5   
+
+(c) In accordance with Article 11(4) of Regulation (EU) 2018/1091, the quality reports must include information on 
+the statistical process, in particular the methodology and the sampling frame used, as follows: 
+1. 
+STATISTICAL PRESENTATION 
+The following aspects of the disseminated data, which can be displayed as tables, graphs or maps: 
+(a) data description; 
+(b) classification system; 
+(c) sector coverage; 
+(d) statistical concepts and definitions; 
+(e) statistical unit; 
+(f) statistical population; 
+(g) reference area (geographical scope); 
+(h) time coverage (length of time for which data are available); 
+(i) reference period (period covered by the report); 
+(j) unit of measurement. 
+2. 
+STATISTICAL PROCESSING 
+The following aspects of all operations performed on data to derive new information: 
+(a) sampling frame; 
+(b) sampling design (if relevant); 
+(c) source data; 
+(d) frequency of data collection; 
+(e) data collection mode including, if relevant, the questionnaires (in English); 
+(f) data validation; 
+(g) data compilation; 
+(h) adjustment. 
+3. 
+RELEASE POLICY 
+The rules for disseminating the data at national level. 
+4. 
+FREQUENCY OF DISSEMINATION 
+The frequency with which the data are disseminated at national level. 
+(d) In line with the statistical principles in Article 2(1) of Regulation (EC) No 223/2009, points (a), (e) and (f), 
+Member States must report on: 
+1. 
+INSTITUTIONAL MANDATE 
+(a) legal acts or other agreements that assign responsibility and authority for the collection, processing and 
+dissemination of statistics; 
+(b) procedures for data sharing and coordination between data-producing entities. 
+2. 
+CONFIDENTIALITY 
+(a) legislative measures or other formal procedures preventing any unauthorised disclosure of data that could directly 
+or indirectly lead to the identification of a person or economic entity; 
+(b) the rules applying to the treatment of micro data and aggregated data to ensure statistical confidentiality and 
+prevent unauthorised disclosure. 
+EN
+Official Journal of the European Union 
+L 80/6                                                                                                                                            
+17.3.2020   
+
+3. 
+COST AND BURDEN 
+(a) the cost and burden associated with the collection and production of the statistical product; 
+(b) the burden on respondents; 
+(c) the average duration of farm interviews (where possible and relevant depending on the data collection mode).   
+EN
+Official Journal of the European Union 
+17.3.2020                                                                                                                                            
+L 80/7

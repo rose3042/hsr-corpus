@@ -1,0 +1,323 @@
+Official Journal of the European Union
+16.1.2020
+EN
+L 12/5
+REGULATIONS
+COMMISSION REGULATION (EU) 2020/34
+of 15 January 2020
+amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in
+accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as
+regards International Accounting Standard 39, International Financial Reporting Standards 7 and 9
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the
+application of international accounting standards ("), and in particular Article 3(1) thereof,
+Whereas:
+(1)
+By Commission Regulation (EC) No 1126/2008 (2) certain international standards and interpretations that were in
+existence at 15 October 2008 were adopted.
+(2)
+On 22 July 201 4, the Financial Stability Board published the report 'Reforming Major Interest Rate Benchmarks',
+which laid down recommendations to strengthen existing benchmarks and other potential reference rates based on
+interbank markets and to develop alternative nearly risk-free reference rates.
+(3)
+Regulation (EU) 2016/1011 of the European Parliament and of the Council (3) introduced a common framework to
+ensure the accuracy and the integrity of indices used as benchmarks in financial instruments and financial contracts,
+or to measure the performance of investments funds in the Union.
+(4)
+On 26 September 2019, the International Accounting Standards Board published Interest Rate Benchmark Reform
+(Amendments to IFRS 9, IAS 39 and IFRS 7) in order to address the financial reporting consequences of the interest
+rate benchmark reform in the period before the replacement of an existing interest rate benchmark with an
+alternative reference rate.
+(5)
+The amendments provide temporary and narrow exemptions to the hedge accounting requirements of International
+Reporting Standard (IFRS) 9 Financial Instruments so that companies can continue to meet the requirements
+assuming that the existing interest rate benchmarks are not altered because of the interbank offered rate reform.
+(6)
+Following the consultation with the European Financial Reporting Advisory Group, the Commission concludes that
+the amendments to IAS 39 Financial Instruments: Recognition and Measurement, IFRS 7 Financial Instruments: Disclosures
+and IFRS 9 Financial Instruments meet the criteria for adoption set out in Article 3(2) of Regulation (EC)
+No 1606/2002.
+(7)
+Regulation (EC) No 1126/2008 should therefore be amended accordingly.
+(8)
+The measures provided for in this Regulation are in accordance with the opinion of the Accounting Regulatory
+Committee,
+OJ L 243, 11.9.2002, p. 1.
+Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance
+Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial
+instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and
+2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1).
+
+L 12/6
+EN
+Official Journal of the European Union
+16.1.2020
+HAS ADOPTED THIS REGULATION:
+Article 1
+The Annex to Regulation (EC) No 1126/2008 is amended as follows:
+(a) International Accounting Standard (IAS) 39 Financial Instruments: Recognition and Measurement is amended as set out in
+the Annex to this Regulation;
+to this Regulation;
+(c) IFRS 9 Financial Instruments is amended as set out in the Annex to this Regulation
+Article 2
+Each company shall apply the amendments referred to in Article 1, at the latest, as from the commencement date of its first
+financial year starting on or after 1 January 2020.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Oficial Journal of the
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 15 January 2020.
+For the Commission
+The President
+Ursula VON DER LEYEN
+
+Official Journal of the European Union
+16.1.2020
+EN
+L 12/7
+ANNEX
+Interest Rate Benchmark Reform
+Amendments to IFRS 9, IAS 39 and IFRS 7
+Amendments to IFRS 9 Financial Instruments
+Paragraphs 6.8.1-6.8.12 and 7.1.8 are added. A new heading is added before paragraph 6.8.1. New subheadings are added
+before paragraphs 6.8.4, 6.8.5, 6.8.6, 6.8.7 and 6.8.9. Paragraph 7.2.26 is amended.
+Chapter 6 Hedge accounting
+6.8
+TEMPORARY EXCEPTIONS FROM APPLYING SPECIFIC HEDGE ACCOUNTING REQUIREMENTS
+6.8.1.
+directly affected by interest rate benchmark reform. These paragraphs apply only to such hedging relationships. A
+hedging relationship is directly affected by interest rate benchmark reform only if the reform gives rise to
+uncertainties about:
+(a) the interest rate benchmark (contractually or non-contractually specified) designated as a hedged risk; and/or
+(b) the timing or the amount of interest rate benchmark-based cash flows of the hedged item or of the hedging
+instrument.
+6.8.2.
+For the purpose of applying paragraphs 6.8.4-6.8.12, the term 'interest rate benchmark reform' refers to the
+market-wide reform of an interest rate benchmark, including the replacement of an interest rate benchmark with
+an alternative benchmark rate such as that resulting from the recommendations set out in the Financial Stability
+Board's July 2014 report 'Reforming Major Interest Rate Benchmarks'. (°)
+6.8.3.
+continue to apply all other hedge accounting requirements to hedging relationships directly affected by interest rate
+benchmark reform.
+Highly probable requirement for cash flow hedges
+6.8.4.
+For the purpose of determining whether a forecast transaction (or a component thereof) is highly probable as
+required by paragraph 6.3.3, an entity shall assume that the interest rate benchmark on which the hedged cash
+flows (contractually or non-contractually specified) are based is not altered as a result of interest rate benchmark
+reform.
+Reclassifying the amount accumulated in the cash flow hedge reserve
+6.8.5.
+For the purpose of applying the requirement in paragraph 6.5.12 in order to determine whether the hedged future
+cash flows are expected to occur, an entity shall assume that the interest rate benchmark on which the hedged cash
+flows (contractually or non-contractually specified) are based is not altered as a result of interest rate benchmark
+reform.
+Assessing the economic relationship between the hedged item and the hedging instrument
+6.8.6.
+For the purpose of applying the requirements in paragraphs 6.4.1(c)(i) and B6.4.4-B6.4.6, an entity shall assume
+that the interest rate benchmark on which the hedged cash flows and/or the hedged risk (contractually or non-
+contractually specified) are based, or the interest rate benchmark on which the cash flows of the hedging
+instrument are based, is not altered as a result of interest rate benchmark reform.
+() The report, 'Reforming Major Interest Rate Benchmarks', is available at http://www.fsb.org/wp-content/uploads/r_140722.pdf.
+
+L 12/8
+EN
+Official Journal of the European Union
+16.1.2020
+Designating a component of an item as a hedged item
+6.8.7.
+Unless paragraph 6.8.8 applies, for a hedge of a non-contractually specified benchmark component of interest rate
+risk, an entity shall apply the requirement in paragraphs 6.3.7(a) and B6.3.8—that the risk component shall be
+separately identifiableonly at the inception of the hedging relationship.
+6.8.8.
+relationship because both the hedging instrument and the hedged item frequently change (ie the entity uses a
+dynamic process in which both the hedged items and the hedging instruments used to manage that exposure do
+not remain the same for long), the entity shall apply the requirement in paragraphs 6.3.7(a) and B6.3.8-that the
+risk component is separately identifiableonly when it initially designates a hedged item in that hedging
+relationship. A hedged item that has been assessed at the time of its initial designation in the hedging relationship,
+whether it was at the time of the hedge inception or subsequently, is not reassessed at any subsequent
+redesignation in the same hedging relationship.
+End of application
+6.8.9.
+ An entity shall prospectively cease applying paragraph 6.8.4 to a hedged item at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the
+timing and the amount of the interest rate benchmark-based cash flows of the hedged item; and
+(b) when the hedging relationship that the hedged item is part of is discontinued.
+6.8.10. An entity shall prospectively cease applying paragraph 6.8.5 at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the
+timing and the amount of the interest rate benchmark-based future cash flows of the hedged item; and
+(b) when the entire amount accumulated in the cash flow hedge reserve with respect to that discontinued hedging
+relationship has been reclassified to profit or loss.
+6.8.11. An entity shall prospectively cease applying paragraph 6.8.6:
+(a) to a hedged item, when the uncertainty arising from interest rate benchmark reform is no longer present with
+respect to the hedged risk or the timing and the amount of the interest rate benchmark-based cash flows of the
+hedged item; and
+(b) to a hedging instrument, when the uncertainty arising from interest rate benchmark reform is no longer
+present with respect to the timing and the amount of the interest rate benchmark-based cash flows of the
+hedging instrument.
+If the hedging relationship that the hedged item and the hedging instrument are part of is discontinued earlier than
+the date specified in paragraph 6.8.11 (a) or the date specified in paragraph 6.8.11(b), the entity shall prospectively
+cease applying paragraph 6.8.6 to that hedging relationship at the date of discontinuation.
+6.8.12. When designating a group of items as the hedged item, or a combination of financial instruments as the hedging
+instrument, an entity shal prospectively cease applying paragraphs 6.8.4-6.8.6 to an individual item or financial
+instrument in accordance with paragraphs 6.8.9, 6.8.10, or 6.8.11, as relevant, when the uncertainty arising from
+interest rate benchmark reform is no longer present with respect to the hedged risk and/or the timing and the
+amount of the interest rate benchmark-based cash flows of that item or financial instrument.
+Chapter 7 Effective date and transition
+7.1
+EFFECTIVE DATE
+
+Official Journal of the European Union
+16.1.2020
+EN
+L 12/9
+7.1.8.
+Interest Rate Benchmark Reform, which amended IFRS 9, IAS 39 and IFRS 7, issued in September 2019, added
+Section 6.8 and amended paragraph 7.2.26. An entity shall apply these amendments for annual periods beginning
+on or after 1 January 2020. Earlier application is permitted. If an entity applies these amendments for an earlier
+period, it shall disclose that fact.
+7.2
+TRANSITION
+Transition for hedge accounting (Chapter 6)
+7.2.26. As an exception to prospective application of the hedge accounting requirements of this Standard, an entity:
+(d) shall apply the requirements in Section 6.8 retrospectively. This retrospective application applies only to those
+hedging relationships that existed at the beginning of the reporting period in which an entity first applies those
+requirements or were designated thereafter, and to the amount accumulated in the cash flow hedge reserve
+that existed at the beginning of the reporting period in which an entity first applies those requirements.
+Amendments to IAS 39 Financial Instruments: Recognition and Measurement
+Paragraphs 102A-102N and 108G are added. A new heading is added before paragraph 102A. New subheadings are added
+before paragraphs 102D, 102E, 102F, 102H and 102J.
+HEDGING
+102A
+An entity shall apply paragraphs 102D-102N and 108G to all hedging relationships directly affected by interest
+rate benchmark reform. These paragraphs apply only to such hedging relationships. A hedging relationship is
+directly affected by interest rate benchmark reform only if the reform gives rise to uncertainties about:
+(a) the interest rate benchmark (contractually or non-contractually specified) designated as a hedged risk; and/or
+(b) the timing or the amount of interest rate benchmark-based cash flows of the hedged item or of the hedging
+instrument.
+102B
+For the purpose of applying paragraphs 102D-102N, the term 'interest rate benchmark reform' refers to the
+market-wide reform of an interest rate benchmark, including the replacement of an interest rate benchmark with
+an alternative benchmark rate such as that resulting from the recommendations set out in the Financial Stability
+Board's July 2014 report 'Reforming Major Interest Rate Benchmarks'. (2)
+102C
+Paragraphs 102D-102N provide exceptions only to the requirements specified in these paragraphs. An entity shall
+continue to apply all other hedge accounting requirements to hedging relationships directly affected by interest rate
+benchmark reform.
+Highly probable requirement for cash flow hedges
+102D
+probable, an entity shali assume that the interest rate benchmark on which the hedged cash flows (contractually
+or non-contractually specified) are based is not altered as a result of interest rate benchmark reform.
+Reclassifying the cumulative gain or loss recognised in other comprehensive income
+(2) The report, 'Reforming Major Interest Rate Benchmarks', is available at http://www.fsb.org/wp-content/uploads/r_140722.pdf.
+
+L 12/10
+EN
+Official Journal of the European Union
+16.1.2020
+102E
+transaction is no longer expected to occur, an entity shall assume that the interest rate benchmark on which the
+hedged cash flows (contractually or non-contractually specified) are based is not altered as a result of interest rate
+benchmark reform.
+Effectiveness assessment
+102F
+For the purpose of applying the requirements in paragraphs 88(b) and AG105(a), an entity shall assume that the
+interest rate benchmark on which the hedged cash flows and/or the hedged risk (contractually or non-
+contractually specified) are based, or the interest rate benchmark on which the cash flows of the hedging
+instrument are based, is not altered as a result of interest rate benchmark reform.
+102G
+For the purpose of applying the requirement in paragraph 88(e), an entity is not required to discontinue a hedging
+relationship because the actual results of the hedge do not meet the requirements in paragraph AG105(b). For the
+avoidance of doubt, an entity shall apply the other conditions in paragraph 88, including the prospective
+assessment in paragraph 88(b), to assess whether the hedging relationship must be discontinued.
+Designating financial items as hedged items
+102H
+Unless paragraph 102I applies, for a hedge of a non-contractually specified benchmark portion of interest rate risk,
+an entity shall apply the requirement in paragraphs 81 and AG99F-that the designated portion shall be separately
+identifiableonly at the inception of the hedging relationship.
+1021
+When an entity, consistent with its hedge documentation, frequently resets (ie discontinues and restarts) a hedging
+relationship because both the hedging instrument and the hedged item frequently change (ie the entity uses a
+dynamic process in which both the hedged items and the hedging instruments used to manage that exposure do
+not remain the same for long), the entity shall apply the requirement in paragraphs 81 and AG99F-that the
+designated portion is separately identifiable-only when it initially designates a hedged item in that hedging
+relationship. A hedged item that has been assessed at the time of its initial designation in the hedging relationship,
+whether it was at the time of the hedge inception or subsequently, is not reassessed at any subsequent
+redesignation in the same hedging relationship.
+End of application
+102)
+An entity shall prospectively cease applying paragraph 102D to a hedged item at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the
+timing and the amount of the interest rate benchmark-based cash flows of the hedged item; and
+(b) when the hedging relationship that the hedged item is part of is discontinued.
+102K
+An entity shall prospectively cease applying paragraph 102E at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the
+timing and the amount of the interest rate benchmark-based future cash flows of the hedged item; and
+(b) when the entire cumulative gain or loss recognised in other comprehensive income with respect to that
+discontinued hedging relationship has been reclassified to profit or loss.
+102L
+ An entity shall prospectively cease applying paragraph 102F:
+(a) to a hedged item, when the uncertainty arising from interest rate benchmark reform is no longer present with
+respect to the hedged risk or the timing and the amount of the interest rate benchmark-based cash flows of the
+hedged item; and
+(b) to a hedging instrument, when the uncertainty arising from interest rate benchmark reform is no longer
+present with respect to the timing and the amount of the interest rate benchmark-based cash flows of the
+hedging instrument.
+
+Official Journal of the European Union
+16.1.2020
+EN
+L 12/11
+If the hedging relationship that the hedged item and the hedging instrument are part of is discontinued earlier than
+the date specified in paragraph 102L(a) or the date specified in paragraph 102L(b), the entity shall prospectively
+cease applying paragraph 102F to that hedging relationship at the date of discontinuation.
+102M An entity shall prospectively cease applying paragraph 102G to a hedging relationship at the earlier of:
+(a) when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the
+hedged risk and the timing and the amount of the interest rate benchmark-based cash flows of the hedged
+item or of the hedging instrument; and
+(b) when the hedging relationship to which the exception is applied is discontinued.
+102N
+When designating a group of items as the hedged item, or a combination of financial instruments as the hedging
+instrument, an entity shall prospectively cease applying paragraphs 102D-102G to an individual item or financial
+instrument in accordance with paragraphs 102J, 102K, 102L, or 102M, as relevant, when the uncertainty arising
+the amount of the interest rate benchmark-based cash flows of that item or financial instrument.
+EFFECTIVEDATEANDTRANSITION
+108G
+Interest Rate Benchmark Reform, which amended IFRS 9, IAS 39 and IFRS 7, issued in September 2019, added
+paragraphs 102A-102N. An entity shall apply these amendments for annual periods beginning on or after
+1 January 2020. Earlier application is permitted. If an entity applies these amendments for an earlier period, it
+shall disclose that fact. An entity shall apply these amendments retrospectively to those hedging relationships that
+existed at the beginning of the reporting period in which an entity first applies these amendments or were
+designated thereafter, and to the gain or loss recognised in other comprehensive income that existed at the
+beginning of the reporting period in which an entity first applies these amendments.
+Amendments to IFRS 7 Financial Instruments: Disclosures
+Paragraphs 24H and 44DE-44DF are added and a subheading is added before paragraph 24H.
+HEDGE ACCOUNTING
+Uncertainty arising from interest rate benchmark reform
+24H
+For hedging relationships to which an entity applies the exceptions set out in paragraphs 6.8.4-6.8.12 of IFRS 9 or
+paragraphs 102D-102N of IAS 39, an entity shall disclose:
+(a) the significant interest rate benchmarks to which the entity's hedging relationships are exposed;
+(b) the extent of the risk exposure the entity manages that is directly affected by the interest rate benchmark
+reform;
+(c) how the entity is managing the process to transition to alternative benchmark rates;
+(d) a description of significant assumptions or judgements the entity made in applying these paragraphs
+(for example, assumptions or judgements about when the uncertainty arising from interest rate benchmark
+reform is no longer present with respect to the timing and the amount of the interest rate benchmark-based
+cash flows); and
+(e) the nominal amount of the hedging instruments in those hedging relationships.
+
+L 12/12
+EN
+Official Journal of the European Union
+16.1.2020
+EFFECTIVEDATEANDTRANSITION
+44DE
+Interest Rate Benchmark Reform, which amended IFRS 9, IAS 39 and IFRS 7, issued in September 2019, added
+paragraphs 24H and 44DF. An entity shall apply these amendments when it applies the amendments to IFRS 9 or
+IAS 39.
+44DF
+In the reporting period in which an entity first applies Interest Rate Benchmark Reform, issued in September 201 9, an
+Policies, Changes in Accounting Estimates and Errors.

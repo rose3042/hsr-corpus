@@ -1,0 +1,1037 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2017/763 
+of 2 May 2017 
+imposing a definitive anti-dumping duty and collecting definitively the provisional duty imposed 
+on imports of certain lightweight thermal paper originating in the Republic of Korea 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Council Regulation (EU) 2016/1036 of the European Parliament and the Council of 8 June 2016 on 
+protection against dumped imports from countries not members of the European Community (1) (‘the basic Regulation’), 
+and in particular Article 9(4) thereof, 
+Whereas: 
+1. PROCEDURE 
+1.1. Provisional Measures 
+(1)  
+On 16 November 2016 the European Commission (‘the Commission’) imposed a provisional anti-dumping duty 
+on imports into the Union of certain lightweight thermal paper (‘LWTP’) originating in the Republic of Korea 
+(‘the country concerned’) by Commission Implementing Regulation (EU) 2016/2005 (2) (‘the provisional 
+Regulation’). 
+(2)  
+The investigation was initiated on 18 February 2016 (3) following a complaint lodged on 4 January 2016 by the 
+European Thermal Paper Association (‘ETPA’ or ‘the complainant’) on behalf of producers representing more than 
+25 % of the total Union production of certain LWTP. 
+(3)  
+As stated in recital (14) of the provisional Regulation, the investigation of dumping and injury covered the period 
+from 1 January 2015 to 31 December 2015 (‘the investigation period’ or ‘IP’). The examination of trends relevant 
+for the assessment of injury covered the period from 1 January 2012 to the end of the investigation period (‘the 
+period considered’). 
+1.2. Subsequent procedure 
+(4)  
+Subsequent to the disclosure of the essential facts and considerations on the basis of which a provisional anti- 
+dumping duty was imposed (the provisional disclosure), three interested parties made written submissions 
+making known their views on the provisional findings. The parties who so requested were granted an 
+opportunity to be heard. 
+(5)  
+Both the Hansol Group and ETPA requested the intervention by the Hearing Officer in trade proceedings (‘the 
+Hearing Officer’). During the hearings held on 13 December 2016 and 2 March 2017, the Hansol Group came 
+back on issues discussed in the hearing of 10 March 2016 (i.e. on the exemption from replying to the 
+questionnaire requested for a number of related converters) and contested the methodology used for dumping 
+and injury calculations. In the hearing of 22 March 2017, the Hansol Group referred to some dumping 
+calculations issues and proposed a change in the form of the measures. In the hearing of 24 January 2017, ETPA 
+expressed concern about some confidentiality issues and contested the Hansol Group's claims regarding the 
+product scope and the level of support to measures. 
+3.5.2017 
+L 114/3 
+Official Journal of the European Union 
+EN     
+(1) OJ L 176, 30.6.2016, p. 21. 
+(2) Commission Implementing Regulation (EU) 2016/2005 of 16 November 2016 imposing a provisional anti-dumping duty on imports of 
+certain lightweight thermal paper originating in the Republic of Korea (OJ L 310, 17.11.2016, p. 1). 
+(3) OJ C 62, 18.2.2016, p. 7. 
+(6)  
+After the imposition of the provisional measures, the Commission continued seeking and verifying all 
+information it deemed necessary for its definitive findings. The Commission informed all parties of the essential 
+facts and considerations on the basis of which it intended to impose a definitive anti-dumping duty on imports 
+into the Union of LWTP originating in the Republic of Korea (the definitive disclosure). All parties were granted 
+a period within which they could make comments on the definitive disclosure. After definitive disclosure, further 
+changes were made to the dumping and injury calculations for which all parties were informed and granted 
+a period within which they could make comments (the additional final disclosure). Subsequently, all parties were 
+granted a period within which they could make comments on the change of the form of the measures. 
+(7)  
+The comments submitted by the interested parties were considered and taken into account where appropriate. 
+1.3. Product concerned and like product 
+1.3.1. Product concerned 
+(8)  
+As set out in recital (15) of the provisional Regulation, the product concerned is lightweight thermal paper 
+weighing 65 g/m2 or less; in rolls of a width of 20 cm or more, a weight of the roll (including the paper) of 
+50 kg or more and a diameter of the roll (including the paper) of 40 cm or more (‘jumbo rolls’); with or without 
+a base coat on one or both sides; coated with a thermo-sensitive substance (that is a mixture of dye and 
+a developer that react and form an image when heat is applied) on one or both sides; and with or without a top 
+coat, originating in the Republic of Korea, currently falling within CN codes ex 4809 90 00, ex 4811 90 00, 
+ex 4816 90 00 and ex 4823 90 85. 
+1.3.2. Claims on the product scope 
+(9)  
+The Hansol Group reiterated its request for excluding phenol-free LWTP from the product scope on the grounds 
+that the Commission failed to carry out an appropriate assessment of a series of factors. According to the Hansol 
+Group, phenol-free and other types of LWTP have different chemical composition, production processes and 
+consumer perception. 
+(10)  
+In terms of chemical composition, the party stated that phenol-containing LWTP and phenol-free LWTP have 
+a very different chemical composition on the grounds that they are treated differently in the EU market from 
+a regulatory point of view, depending on the developer used in their production. It should however be noted that 
+only bisphenol A (‘BPA’), i.e. one of the numerous possible phenol-containing developers, was recently banned in 
+the Union with effect in 2020, and that there is no separate legal treatment for all other phenol-containing 
+developers. The alleged more strict regulatory treatment of two bisphenol-containing developers does not 
+demonstrate that all bisphenols and phenolic substances used as developers are different from other colour 
+developers. It is further noted that, although of key importance, the developer is just one of the numerous types 
+of chemicals required to produce LWTP. In addition, nothing on file supports the allegation that LWTP 
+containing BPA had already been banned in some Member States. Therefore, it is concluded, from a material 
+point of view, that phenol-containing LWTP and phenol-free LWTP do not have a different chemical 
+composition. The claim is therefore rejected. 
+(11)  
+As regards production processes, the party claimed that it is not possible to produce phenol-free and BPA-free 
+LWTP on the same production line. The investigation however showed that, technically, it is possible to produce 
+phenol-free LWTP and phenol-containing LWTP on the same production line, albeit in different batches, and that 
+Union producers do so. 
+(12)  
+As to consumer perception, the party alleged that consumers are aware of the presence of bisphenol in LWTP. 
+Furthermore the Hansol group claimed that an American LWTP producer started producing phenol-free LWTP in 
+response to customer demand and that a supermarket chain in the Union expressed concerns about the type of 
+developer used in LWTP. However, while there may be different consumer preferences, in general all product 
+types are interchangeable from a demand side point of view (without any changes being made by end-users) and 
+compete between each other. 
+3.5.2017 
+L 114/4 
+Official Journal of the European Union 
+EN     
+(13)  
+The Hansol group also alleged that there is limited availability of Pergafast 201 (a phenol-free dye developer) and 
+a significant price difference between phenol-free and phenol-containing LWTP in light of the purchase prices of 
+two companies in the Union related to the Hansol Group. 
+(14)  
+Given the existence of many types of developers, the alleged limited availability of only one specific type, i.e. the 
+Pergafast 201 (that, in any case, the Hansol Group does not seem to have used), is irrelevant, because there are 
+other alternative sources. For instance, in 2015 the European Chemical Agency's Committees, namely the 
+Committee for Risk Assessment (‘RAC’) and the Committee for Socioeconomic Analysis (‘SEAC’), considered that 
+then there were some 10 realistic alternatives to bisphenol A in thermal paper plus novel promising 
+alternatives (1). The suppliers of chemical developers are expected to be ready for the ban on BPA mentioned in 
+recital (10) and for the expiry of the patent on Pergafast 201 by 2019. 
+(15)  
+As to the alleged price difference, it is common that the product covered by an anti-dumping investigation 
+includes various types with different price ranges. This price difference is however not sufficient in itself to 
+consider the various types as different products for the purpose of defining a product subject to an anti-dumping 
+investigation, as long as the various types share the same basic characteristics and compete with each other, 
+which is the case here. In any event, any element affecting prices is taken into consideration for the purpose of 
+the price comparison. The Hansol group reiterated that there is a significant price difference between phenol-free 
+and phenol containing LWTP (according to the purchase prices of its converters in the Union), which would 
+allegedly demonstrate that they are different products. In this respect, the overall finding in recital (113) of the 
+provisional Regulation that the unit sales prices of phenol-free LWTP dropped less than the unit sales prices of 
+phenol-containing LWTP cannot be contradicted by the purchase prices of two companies in the Union related to 
+the Hansol Group, which represent a small share of the Union consumption. 
+(16)  
+The Hansol group initially claimed that phenol-free LWTP should not be covered by the investigation on the 
+grounds that phenol-free LWTP is neither produced nor exported from the Republic of Korea. In this respect, the 
+Hansol Group's webpages show that this party has bisphenol-free thermal paper and LWTP without BPA on offer. 
+(17)  
+The Hansol Group also claimed that the Commission was incorrect in defining a too broad product scope, 
+because it will hamper future technological developments. In particular, the party alleged that the complainants' 
+catalogues do not show LWTP weighing less than 44 g/m2, reiterating its claim mentioned in recital (20) of the 
+provisional Regulation that such type of LWTP should be excluded. 
+(18)  
+The above claim was not supported by any evidence. First, nothing on file shows that LWTP of less than 44 g/m2 
+has different physical, technical and chemical characteristics, use, consumer perception, distribution channels, 
+manufacturing process, costs of production and quality from other LWTP or is not interchangeable. Second, there 
+is no technical barrier that would prevent producers from producing LWTP of less than 44 g/m2. In fact, one 
+Union producer currently sells LWTP weighing 42 g/m2. Third, there is no clear dividing line when it comes to 
+grammage. Thermal paper producers work with a tolerance in terms of weight. It is for instance possible that 
+a paper marketed as 45 g/m2 weighs actually a bit less or that a paper marketed as 44 g/m2 weighs indeed more 
+than announced. Thus, the claim was dismissed. 
+1.3.3. Conclusion 
+(19)  
+Accordingly, the conclusions regarding the product concerned and the like product reached in recitals (16) 
+to (24) of the provisional Regulation were confirmed. 
+2. DUMPING 
+2.1. Normal value 
+(20)  
+As explained in recital (12) of the provisional Regulation, the Hansol Group comprises of the Korean 
+exporting producers Hansol Paper and Artone. In the case of Artone, there were two product types with no or 
+3.5.2017 
+L 114/5 
+Official Journal of the European Union 
+EN     
+(1) RAC and SEAC, Background document to the Opinion on the Annex XV dossier proposing restrictions on 4.4′-isopropylidenediphenol 
+(Bisphenol A; BPA), 4 December 2015, available at http://echa.europa.eu/documents/10162/d52d2c6b-2f1c-4ddf-bb44- 
+4e3e42ea1820, p. 356-358. 
+unrepresentative domestic sales. For these two product types, the normal value was, pursuant to Article 2(3) of 
+the basic Regulation, calculated on the basis of Artone's cost of production (see recitals (34) to (36) of the 
+provisional Regulation). Following provisional disclosure, the Hansol Group claimed that, in the determination of 
+the normal value for these two product types, the Commission should have used the prices of the other 
+producer, Hansol Paper, instead of constructing the normal value on the basis of Artone's cost of production. 
+This claim was reiterated after definitive disclosure. 
+(21)  
+The claim was rejected, since the Commission established that the cost structure and sales prices of Artone were 
+significantly different from that of Hansol Paper. In addition, for one of these two product types sold by Hansol 
+Paper, the domestic sales quantities were found to be unrepresentative. Therefore, the Commission confirmed that 
+under these circumstances it was more appropriate that the normal value for these product types be calculated 
+on the basis of Artone's cost of production plus a reasonable amount for selling, general and administrative costs 
+(‘SGA’) and profit, in accordance with the first option under Article 2(3) of the basic Regulation. 
+2.2. Export price 
+(22)  
+In its comments on the provisional disclosure, the Hansol Group contested the inclusion of small rolls in the 
+dumping calculations for two reasons. First, the volume of jumbo rolls sales to unrelated parties would be 
+significant and therefore a calculation on the basis of those sales would be representative. Second, small rolls are 
+not the product concerned. 
+(23)  
+As explained in recitals (25) and (37) of the provisional Regulation, the vast majority (between 75 % and 85 %) 
+of the Union sales by Hansol Paper and Artone were sales to related parties destined for conversion into small 
+rolls. In view of the significant quantity of the jumbo rolls that were converted into small rolls and only then 
+resold to unrelated customers, the Commission maintained that these small rolls could not be ignored in the 
+calculations. It was thus appropriate that for the sales of jumbo rolls to related parties for conversion into small 
+rolls, the export price be established on the basis of the price at which the imported and converted product was 
+first resold to independent customers in the Union, in accordance with Article 2(9) of the basic Regulation. 
+(24)  
+Following definitive disclosure, the Hansol Group repeated its objection to the inclusion of small rolls in the 
+dumping calculation. However, no new elements were brought forward. 
+(25)  
+Furthermore, the Hansol Group criticised the fact that, as concerns sales through related parties, the dumping 
+margin was based on data from one related converter and not on data from all four related converters. 
+(26)  
+In this respect, the following is to be noted. On 19 February 2016, the Hansol Group requested the Commission 
+to fully exempt three of the four related converters from replying to the questionnaire. On 23 February 2016, the 
+Commission accepted that request while specifically reserving the right to make further enquiries/requests for 
+information as and when necessary in respect of these other three related converters. On 7 March 2016, after 
+having further analysed the information submitted by the Hansol Group during a meeting on 22 February 2016, 
+the Commission requested these three related converters to reply to an adapted version of the questionnaire 
+which, inter alia, included the request for data regarding conversion costs and small rolls resales. On 8 March 
+2016, the Hansol Group requested a hearing with the Hearing Officer which took place on 10 March 2016. It 
+motivated its request for the hearing by repeating its request to exempt the three related converters from replying 
+to the questionnaire and as it could not understand ‘why the Commission (would request) cost and sales data for the 
+product not concerned and how these data could be used in any meaningful way in the present investigation’. This position 
+was reiterated during the hearing. 
+(27)  
+The Hearing Officer suggested finding a compromise between the Commission services and the interested party 
+on the question of how to verify if the volume of data, traceability and construction of the export price based on 
+sales of small rolls was relevant to the investigation and he suggested a pre-verification visit to the fourth related 
+importer, for which no exemption had been requested, to verify the correctness of the party's explanations above 
+3.5.2017 
+L 114/6 
+Official Journal of the European Union 
+EN     
+and, based on the positive results, a limitation of the investigation to that party as concerns the construction of 
+the export price with regard to Hansol Group's sales of small rolls. Further to these suggestions, the Commission 
+considered how it could be possible to reduce the burden for the related converter companies and how to 
+establish traceability between the sales of small rolls and imports of jumbo rolls. 
+(28)  
+After that first hearing in March 2016 and the subsequent on-site visit, the Commission established the 
+following. First, among the four related converters, one related converter purchased, by far, the lowest share of 
+jumbo rolls for conversion from other unrelated non-Korean jumbo rolls producers (i.e. less than 25 % of its 
+jumbo roll purchases). Second, that same related converter purchased the largest volumes of jumbo rolls for 
+conversion into small rolls from Hansol Group. Third, the same related converter accounted for most of the 
+Hansol Group's sales of jumbo rolls to related converters in the Union and it also accounted for the largest 
+volume of jumbo rolls re-sales to independent customers. Finally, its volume of sales to unrelated customers of 
+small rolls was also significantly higher than such volumes by all four related converters, except for one. 
+However, the latter was only acquired during the second half of the investigation period and was thus less rep­
+resentative. 
+(29)  
+Against this backdrop, the Commission decided to base its findings with regard to Hansol Group's sales through 
+related converters on the data from that related converter which was considered the most representative. These 
+findings were considered as representative in respect of the company's sales through related converters in view of 
+this related convertor's low volumes of jumbo roll purchases for conversion with a non-Korean origin as well as 
+the high volumes of Hansol Group sales to unrelated parties it had been involved in. 
+(30)  
+Furthermore, as indicated in recital (25) of the provisional Regulation, both sales channels (i.e. sales of jumbo 
+rolls to unrelated parties and sales of jumbo rolls to related parties destined for conversion into small rolls) were 
+given the appropriate weight. Thus, as explained in recital (45) of the provisional Regulation, the finding with 
+regard to the sales of jumbo rolls to related parties for conversion into and subsequent resale as small rolls to 
+unrelated parties was extrapolated to reflect the actual sales flows of the Hansol Group during the investigation 
+period. The Commission confirmed that this approach was appropriate for the following reasons. It was recalled 
+that, during the investigation period, 75 % - 85 % of Hansol Group's sales to the Union were made through 
+related converters for conversion into small rolls. The investigation established that such sales, calculated back to 
+the level of the jumbo roll, were made at different prices as compared to the sales of jumbo rolls to unrelated 
+customers. Therefore, in order to properly reflect the dumping practised, if any, both sales channels had been 
+attributed the appropriate weight, taking duly into account the sales volumes and values of each sales channel. 
+(31)  
+After definitive disclosure, the Hansol Group further claimed that the Commission had actually sampled the 
+related converter. It alleged that by not having informed the Hansol Group during the investigation and notably 
+prior to the provisional disclosure that the finding with regard to the sales of jumbo rolls to related parties for 
+conversion into and subsequent resale as small rolls to unrelated parties would be extrapolated to reflect the 
+actual sales flows of the Hansol Group, the Commission would have violated Article 17 of the basic Regulation. 
+This claim was repeated after the additional final disclosure. The Hansol Group also submitted that the 
+Commission's decision to extrapolate the related converter's findings had no legal basis. 
+(32)  
+The Commission pointed out from the outset that it did not make use of Article 17 of the basic Regulation. 
+Given that the Hansol Group had objected to replying to a questionnaire for all four related converters and in 
+order to accommodate the suggestion of the Hearing Officer to limit the burden to the party concerned and yet 
+arrive at reliable findings with regard to the sales of small rolls and resales of jumbo rolls, the Commission 
+focused on the related converter in question because it was, on the basis of the information provided by the 
+Hansol Group and verified during the subsequent on spot visit, the best placed to provide the most accurate 
+figures with regard to the majority of Hansol Group's Union sales (i.e. its sales to related converters for 
+subsequent resale as small roll to unrelated customers). With regard to the other three related converters, the 
+Commission found that their Union sales were much less accurate and representative due to a number of factors 
+described in recital (28) above. Indeed, the much higher levels of non-Korean sourced jumbo rolls and the fact 
+that one of the three other related converters was only acquired in the middle of the investigation period would 
+have resulted in a less reliable finding with regard to these Korean sales if they would have been included in the 
+analysis. Therefore, the Commission did not make use of Article 17 of the basic Regulation and Hansol Group's 
+claim that the Commission had applied sampling with regard to the related converters is not correct. Rather, in 
+accordance with Article 2(9) of the basic Regulation, the Commission sought to establish, in the specific 
+circumstance of the case at hand, described in recitals (28) and (29) above, the most reliable export price in case 
+3.5.2017 
+L 114/7 
+Official Journal of the European Union 
+EN     
+of sales of jumbo rolls to related parties destined for conversion into small rolls. Pursuant to Article 6(8) of the 
+basic Regulation, the Commission examined the information supplied by the interested party for accuracy as far 
+as possible. 
+(33)  
+In addition, from the early stages of the investigation, the Hansol Group should have been aware of the relevance 
+of sales made through related converters. First, in the complaint, when submitting a dumping margin, the 
+complainant already drew the attention to the fact that the bulk of the Hansol Group's Union sales was made 
+through related converters and that the dumping in respect of these sales was considerably higher than the 
+dumping regarding its direct sales. The complainant calculated two margins (one for direct sales and one for sales 
+through related companies) for which it determined also a simple average as it could not know exactly how 
+significant the Hansol Group's direct sales to unrelated parties were (the percentage mentioned in the complaint 
+for the share of these sales in Hansol Group's total Union sales was however very close to reality). Second, 
+already during the first hearing, the Commission made it clear to the Hansol Group that it could not ignore the 
+majority of Hansol Group's sales which were made through related converters and that they should properly be 
+accounted for in the calculation of dumping. For that reason, the Commission had included in the questionnaires 
+for related converters a request for full details on the resales of small rolls and on the costs for converting 
+a jumbo roll into a small roll. Third, the subsequent discussions and acceptance by the Commission, by email of 
+21 March 2016, of the Hansol Group's request to drop the requirement for the other three related converters to 
+reply to the questionnaire had the consequence that the Commission had to limit its analysis in respect of those 
+sales to the related converter in question. 
+(34)  
+Finally, the Commission disclosed all the reasons and figures behind the extrapolation done with regard to these 
+sales at the stage of the imposition of provisional measures as well as at the stage of definitive disclosure. The 
+rights of the interested party in question have thus been fully respected. Hansol Group's claims are therefore 
+rejected. 
+(35)  
+The Hansol Group also claimed that the prices charged to its related converters were at arm's length. It argued 
+that therefore, for its sales through related converters, there was no need to construct the export prices using the 
+sale prices of the small rolls to unrelated customers. 
+(36)  
+The Commission rejected this claim because the data on the file did not support it. First, the mostly sold product 
+type (representing more than 30 % of Hansol Group's total Union sales) was sold to related parties at a sales 
+price that was between 8 % - 15 % higher than the average sales price to unrelated customers. Second, taking all 
+product types together, the related companies paid a price that was between 3 % and 6 % higher than the price 
+charged to unrelated customers. Therefore, the claim that the Hansol Group's sales prices to related converters 
+were at arm's length was not confirmed by the data on the file. In addition, the Commission also found that the 
+two verified related parties in the Union were both heavily loss-making as regards the product concerned. This 
+corroborates the above finding that the purchase price paid by Hansol Group's related companies in the Union is 
+not a market price for the jumbo rolls, considering the costs they have to incur either as conversion costs and/or 
+SG&A costs, depending on the related company. On this basis, the Commission considered that it was therefore 
+entitled to construct the export prices for its sales through related parties. 
+(37)  
+The Hansol Group also claimed that certain considerations in the termination of the anti-dumping and anti- 
+subsidy proceedings as regards Salmon (1) and in the anti-dumping proceeding on Certain seamless pipes and 
+tubes (2) would suggest that there is a Commission practice to use the prices paid by related parties in circum­
+stances like the ones in the present proceeding. In respect of the proceeding at hand, the Commission points out 
+that, as explained in recital (36) above, it was found that the related sales were not made at arm's length prices 
+but at distorted transfer prices and, therefore, they were found to be unreliable for the determination of the 
+export price. These circumstances are different from the proceedings mentioned by the Hansol Group, as in those 
+3.5.2017 
+L 114/8 
+Official Journal of the European Union 
+EN     
+(1) Council Regulation (EC) No 930/2003 of 26 May 2003 terminating the anti-dumping and antisubsidy proceedings concerning imports 
+of farmed Atlantic salmon originating in Norway and the anti-dumping proceeding concerning imports of farmed Atlantic salmon 
+originating in Chile and the Faeroe Islands (OJ L 133, 29.5.2003, p. 1). 
+(2) Council Regulation (EC) No 954/2006 of 27 June 2006 imposing definitive anti-dumping duty on imports of certain seamless pipes and 
+tubes, of iron or steel originating in Croatia, Romania, Russia and Ukraine, repealing Council Regulations (EC) No 2320/97 and (EC) 
+No 348/2000, terminating the interim and expiry reviews of the anti-dumping duties on imports of certain seamless pipes and tubes of 
+iron or non-alloy steel originating, inter alia, in Russia and Romania and terminating the interim reviews of the anti-dumping duties on 
+imports of certain seamless pipes and tubes of iron or non-alloy steel originating, inter alia, in Russia and Romania and in Croatia and 
+Ukraine (OJ L 175, 29.6.2006, p. 4). 
+cases it was found that the sales to the related parties were made at prices which were fully in line with the 
+prices charged to independent customers. Furthermore, the Commission in those proceedings also established 
+that the related parties were operating with reasonable profits, which does not occur in the proceeding at hand 
+(see recital (36)). Therefore, this comment was rejected. 
+(38)  
+The Hansol Group also submitted that by using the sales of small rolls, the Commission had also included certain 
+sales of small rolls that had not been produced (i.e. converted) by the related converter in question, but had been 
+purchased from related and unrelated sources. 
+(39)  
+The Commission did not have information on the purchase prices or the identities of the suppliers for the 
+purchases of small rolls by this related converter. It could however be verified that such sales of purchased small 
+rolls accounted for 10 % - 15 % (in weight) of the total sales of small rolls to unrelated customers. Considering 
+that 85 % - 90 % of the small rolls sold were converted by the converter in question from jumbo rolls, the 
+Commission considered its approach reasonable. In addition, the dumping calculation was based on the sales 
+prices of small rolls. At the same time, the Hansol Group did not provide any evidence showing that the sales 
+price of small rolls would differ for self-produced small rolls as compared to the purchased ones. Hence, there is 
+no evidence that the minor share of purchased small rolls had an impact on the dumping calculation. Therefore, 
+the Commission rejected this claim. 
+(40)  
+After provisional and after definitive disclosure, the Hansol Group criticised the inclusion of Union sourced 
+jumbo rolls in the dumping calculation for small rolls. As explained in recital (43) of the provisional Regulation, 
+due to the lack of traceability between the sales of small rolls and the corresponding jumbo rolls, small rolls 
+produced from jumbo rolls with an origin other than Hansol Group could not be excluded from the construction 
+of the export price of jumbo rolls converted into and sold as small rolls. This issue only arises because the 
+Hansol Group does not have a traceability system in place, like other converters in the Union have. In any case, 
+as also mentioned in recital (28)-(29) above, the Commission limited the potential volume of non-Hansol sourced 
+jumbo rolls presence in this export price construction by limiting its calculation of such sales to the related 
+converter in question. The latter was predominantly producing and reselling small rolls from jumbo rolls that 
+were produced by and procured from Hansol Group during the investigation period. The inclusion of those rolls 
+could only have a minor impact on the dumping calculation, if at all, due to the relative small proportion of the 
+non-Hansol Group sourced jumbo rolls. In any event, the dumping calculation was based on the sales price of 
+small rolls, which was likely to be identical, irrespective of the origin of the jumbo roll. The claim was thus 
+rejected. 
+(41)  
+After definitive disclosure, the Hansol Group claimed that, for certain transactions, transport costs had been 
+deducted twice when calculating the constructed export price and this double deduction had also been applied to 
+the constructed CIF price which had been used as a denominator. The claim was duly verified and it was 
+established that indeed for the related converter's sales of small rolls which had been purchased from Hansol 
+Group through the related trader certain allowances had been deducted twice. This error was thus corrected with 
+regard to both the export price and CIF price construction. 
+(42)  
+Also regarding the calculation of the constructed export price, the Hansol Group claimed that as regards the 
+deduction of allowances from the sales price of the small roll to unrelated customers, insufficient account had 
+been taken of the presence of certain volumes of non-Korean base material, resulting in inflated allowances 
+overall. After having verified this claim, it was established that it was indeed not justified to apply the allowances 
+for calculating a Korean ex-works export price for the portion of small rolls produced from European sourced 
+jumbo rolls. This was corrected by deducting, for a representative volume of small roll sales, allowances up to CIF 
+level only. Indeed, on the basis of the information on the file, it could be established that the European producer 
+had sold the jumbo rolls to Hansol's related converter according to the CIP delivery terms. The calculated CIF 
+value was considered, for these sales, to be comparable for the ex-works value of the share of sales with Korean 
+origin. 
+(43)  
+After the additional final disclosure, the Hansol Group contested the fact that the revised unit allowances had 
+been calculated as a weighted average for all product types and it proposed to base it, for one product type, on 
+the specific allowances incurred on inter-company sales of that product type only. The Commission considered 
+that the volume of purchases by the related converter of that particular product type that could be used for this 
+3.5.2017 
+L 114/9 
+Official Journal of the European Union 
+EN     
+calculation, during the investigation period, was not sufficiently representative to form a reliable basis for 
+establishing the allowances for calculating a Korean ex-works export price of that product type. Indeed, most 
+volumes of that product type were sourced through another related purchase channel which was not used for 
+this calculation. Moreover, the Hansol Group could not demonstrate that the Commission's method to calculate 
+and apply an average was not accurate. The claim was therefore rejected. 
+(44)  
+With regard to the SG&A calculated and applied for sales through one related trader in the Union, the Hansol 
+Group contested after provisional and again after definitive disclosure that the amount added by the Commission 
+as an expense in the related trader's profit & loss table with regard to management expenses. In this respect, the 
+Commission recalls that the related trader in question had received, from Hansol Korea and other related 
+converters, a financial contribution relating to management expenses. Those fees were included in the related 
+trader's profit & loss table as an income and that had been accepted by the Commission. The Commission found 
+it appropriate, under these circumstances, to take also into account 100 % of the related expenses, i.e. the salary 
+expenses for the managers in question. These costs had been identified during the on-spot verification in Korea, 
+were converted into Euro currency using the average investigation period exchange rate provided by the 
+Commission and transferred to the profit & loss table of the related trader as an expense. In this way the 
+treatment of the management fees (income) has been brought in balance with the treatment of the management 
+salaries (expenses). 
+(45)  
+The Hansol Group claimed that the related trader had only generated turnover for part of the investigated period 
+and that none of the managers had been involved in the sales of the product concerned. Therefore, the SG&A 
+figure used had been overstated. The Commission's approach was to establish the SG&A rate (including the 
+expenses in question) of the related trader in relation to the total turnover of that trader. That turnover relates in 
+its totality to the product concerned. Even if the SG&A costs eventually considered may partly have been 
+incurred before the turnover was generated, that does not disconnect them from this turnover as the costs had 
+been incurred with a view to achieving this turnover. Therefore, the Commission considered that the approach 
+taken was accurate. The claim was thus rejected. 
+(46)  
+After provisional and after definitive disclosure, the Hansol Group claimed that the Commission should have 
+reclassified sales of one product type through the related converter as the final customer had been invoiced 
+a different product type than the one he actually received. With regard to this issue, the Commission found 
+during the on spot verification that the related converter purchased from Hansol group some quantity of jumbo 
+rolls containing the developer Bisphenol-S but this product had been subsequently resold to an unrelated 
+customer as containing the developer Bisphenol-A. The claim was duly verified and the following is noted. First, 
+the two products are clearly different product types which have a different cost of production and are sold on the 
+Korean domestic market at different prices. Second, the fact that the related converter, in its invoicing, has sold 
+the product as a different product type on the Union market is, as such, not a valid reason for disregarding the 
+actual product specifications for the purpose of price comparison. The party had not provided any evidence that 
+the misleading product description at the resale stage also affected its selling price. Consequently, the claim was 
+rejected. 
+2.3. Comparison 
+(47)  
+Where justified by the need to ensure a fair comparison, the Commission adjusted the normal value and/or the 
+export price for differences affecting prices and price comparability, in accordance with Article 2(10) of the basic 
+Regulation. 
+(48)  
+Following the comments of the Hansol Group after provisional disclosure, a claim concerning the calculation 
+method and application of the conversion costs was accepted. This correction resulted also in the identification 
+of a similar methodological error with regard to the deduction of certain transport cost allowances, which was 
+thus corrected. Furthermore, a clerical calculation error was corrected subsequent to the Hansol Group's 
+comment. Finally, the Hansol Group also claimed that a number of allowances (related to credit costs and duty 
+drawback) should have been granted and the methodology for calculating the freight costs in the country 
+concerned should be revised by applying the allocation method provided by the Hansol Group. The Commission 
+also accepted these claims and adjusted the normal value and/or export price calculations accordingly. 
+3.5.2017 
+L 114/10 
+Official Journal of the European Union 
+EN     
+2.4. Dumping margin 
+2.4.1. Weighting of the dumping margins 
+(49)  
+As explained in recital (46) of the provisional Regulation, the provisional dumping margin established for the 
+Hansol Group was a weighted average of the dumping margins established for the sales of jumbo rolls (margin of 
+0,5 % - 5 % with a weight of 15 % - 25 %) and the sales of small rolls (margin of 10 % - 15 % with a weight of 
+75 % - 85 %). This weighting was based on the Hansol Group's Union sales volume to related and unrelated 
+customers during the investigation period. 
+(50)  
+Following provisional and definitive disclosure, the Hansol Group claimed that there was no legal basis to apply 
+such weighting and that the weighting was based on unsubstantiated assumptions. This claim was rejected, as the 
+weighting was based on the imported volumes of the product concerned during the investigation period as 
+reported by the Hansol Group. The Commission considers that it is appropriate to adjust the weight of the 
+dumping margin established for the sales to related parties (for subsequent resale as small roll to unrelated 
+customers) to its actual weight as it was at Union frontier level during the investigation period. 
+(51)  
+The Hansol Group also contested the fact that the Commission constructed the CIF price used as denominator 
+for those sales that were first converted by related parties in the Union into small rolls before being sold to 
+unrelated users. It proposed that the Commission should use the average reported transfer CIF price of jumbo 
+rolls or a calculated average CIF value per tonne on the basis of the direct sales of the Hansol Group to unrelated 
+customers for those sales. Alternatively, if the Commission would not use one of the above methods, Hansol 
+Group invited the Commission to apply an anti-dumping duty in the form of a specific amount per tonne instead 
+of an ad valorem duty. The party argued that a duty expressed in the form of a specific amount per tonne would 
+properly address its concerns that the ad valorem anti-dumping duty collected would allegedly exceed the 
+amount of dumping found. 
+(52)  
+As concerns the latter argument, this is specifically addressed and accepted under recital (127) and (128) below. 
+Therefore, the Commission does not need to take a position on the two options for alternative CIF values 
+proposed by the Hansol Group as they become without object. 
+(53)  
+Further to the definitive disclosure, the Hansol Group contested the deduction of credit costs in the calculation of 
+the constructed CIF value. This claim could be accepted. Furthermore, the CIF price used as a denominator was 
+affected by the changes described in recital (41) to (42) above. 
+(54)  
+Taking into account the changes in the establishment of the export price, normal value and CIF price, as set out 
+in recital (41), (42), (48) and (53) above and confirming the other findings in recitals (25) to (47) of the 
+provisional Regulation, the definitive weighted average dumping margin of the Hansol Group, expressed as 
+a percentage of the CIF Union frontier price, duty unpaid, was 10,3 %. As described in recitals (49) and (50) of 
+the provisional Regulation, the residual dumping margin was set at the same level. 
+3. INJURY 
+3.1. Introduction 
+(55)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because a number of 
+injury indicators developed positively or were stable. This claim was already dismissed in recitals (95) to (96) of 
+the provisional Regulation and is hereby definitively rejected. 
+(56)  
+In order to conclude that there is material injury, it is not necessary that the injury analysis shows that every 
+single indicator points to an injurious situation. Indeed, pursuant to Article 3(5) of the basic Regulation, one or 
+several of the relevant injury factors cannot necessarily give a decisive guidance. In this case, the injury found is 
+material. This is illustrated in particular by the level of profitability, the price-related indicators and the Union 
+industry's market share. All sampled producers experienced a strong linear decrease in profits and cash flows that 
+coincided in time with the surge of imports from the Republic of Korea. In addition, the Union industry sales 
+volume on the Union market remained relatively stable, but since this occurred in the context of a significant 
+3.5.2017 
+L 114/11 
+Official Journal of the European Union 
+EN     
+increase in the Union consumption (+ 15 %), the Union producers' market share was actually declining. Even if 
+some injury factors such as capacity utilisation, employment, labour costs and investments could not give 
+decisive guidance about the injurious situation of the Union producers, they did not contradict nor preclude the 
+finding of material injury. 
+(57)  
+The specific arguments raised by the Hansol Group on particular injury indicators are addressed in detail in the 
+rest of this Section. 
+3.2. Definition of the Union industry and Union production 
+(58)  
+In the absence of any comments with respect to the definition of the Union industry and Union production, the 
+conclusions set out in recitals (51) and (52) of the provisional Regulation were confirmed. 
+3.3. Union consumption 
+(59)  
+In the absence of any comments with respect to the Union consumption, the conclusions set out in recitals (53) 
+to (55) of the provisional Regulation were confirmed. 
+3.4. Imports from the country concerned 
+3.4.1. Volume and market share of the imports from the country concerned 
+(60)  
+The volume of imports from the country concerned during the investigation period was well above negligible 
+levels (1). 
+(61)  
+In the absence of any comments with respect to the volume and market share of the imports from the country 
+concerned, the conclusions set out in recitals (56) to (58) of the provisional Regulation were confirmed. 
+3.4.2. Price of the imports from the country concerned and price undercutting 
+(62)  
+The Hansol Group deemed the 8,1 % undercutting margin provisionally established not significant due to the 
+limited volume of imports (13,6 % of Union consumption). The party claimed that the WTO Panel report on 
+DRAM Chips (2) considers that ‘significant’ means important, major, consequential, more than just a nominal/ 
+marginal movement. It also quotes two cases (Dense sodium carbonate (3) and Certain laser optical reading systems (4)) 
+where the Commission considered that the undercutting margin was limited. 
+(63)  
+The Commission dismissed the Hansol Group's claims on the following grounds. First, even if in Dense sodium 
+carbonate the Commission regarded a 6 % undercutting margin as not significant, it is noted that the market share 
+of imports in that case was much lower (3,2 % before 1983; 1,4 % afterwards) than in the current case. Second, 
+the Certain laser optical reading systems decision concerned mainly non-homogenous products with a great variety 
+of features and technical differences and subject to rapid technological development, which is not the case of 
+LWTP products. Last but not least, the Commission considered that for LWTP an 8,1 % undercutting margin was 
+significant given that the level of dumped imports was important and that it sharply increased during the period 
+considered. As indicated in recital (67) below, the established definitive undercutting margin was even higher 
+than the provisional one, which also rebuts the argument that the margin had to be considered as limited. 
+3.5.2017 
+L 114/12 
+Official Journal of the European Union 
+EN     
+(1) Article 5(7) of the Basic Regulation sets the bar for ‘negligibility’ at 1 % market share, unless the exporting countries collectively account 
+for at least 3 % of Union consumption. 
+(2) WTO Panel Report, European Communities — Countervailing measures on Dynamic Random Access Memory Chips from Korea, 
+WT/DS299/R, 3.8.2015. 
+(3) Commission Decision 90/507/EEC of 7 September 1990 terminating the review of the anti-dumping measures concerning dense 
+sodium carbonate originating in the United States of America (OJ L 283, 16.10.1990, p. 38). 
+(4) Commission Decision 1999/55/EC of 21 December 1998 terminating the anti-dumping proceeding concerning imports of certain laser 
+optical reading systems, and the main constituent elements thereof, for use in motor vehicles, originating in Japan, Korea, Malaysia, the 
+People's Republic of China and Taiwan (OJ L 18, 23.1.1999, p. 62). 
+(64)  
+The Hansol Group's claim that the undercutting calculation was illegal was rejected on similar grounds as those 
+stated in Section 6.1 below. 
+(65)  
+In order to follow the same methodology as the dumping calculation, at definitive stage it was decided to 
+calculate price undercutting by applying the same weighting as in Section 2.4.1 of this Regulation. The 
+undercutting margin established for the Hansol Group was a weighted average of the margins established for the 
+sales of jumbo rolls (margin of – 5 % - 0 % with a weight of 15 % - 25 %) and the sales of small rolls (margin of 
+10 % - 20 % with a weight of 75 % - 85 %). This approach and the corrections explained in Section 2 above 
+entailed a revision of the undercutting margin provisionally established. 
+(66)  
+Following definitive disclosure, the Hansol group claimed that the Commission did not draw the consequences 
+from the negative undercutting margin found for one part of the sales and thereby violated Articles 3(2) and 3(3) 
+of the basic Regulation. This claim was however rejected since the Commission made its conclusions on the basis 
+of the overall undercutting margin, in line with its normal practice. 
+(67)  
+The definitive undercutting margin amounts to 9,4 %. 
+(68)  
+In the absence of any further comments with respect to the price of the imports from the country concerned, 
+and with the exception of the undercutting margin, as explained in the recitals above, the conclusions set out in 
+recitals (59) to (64) of the provisional Regulation were confirmed. 
+3.5. Economic situation of the Union industry 
+3.5.1. Macroeconomic indicators 
+3.5.1.1. Production, production capacity and capacity utilisation 
+(69)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because, except for one 
+company, the production results were impressive and some Union producers increased their production capacity 
+and capacity utilisation. It also claimed that capacity utilisation was close to full capacity. 
+(70)  
+However, as regards production, recital (70) of the provisional Regulation showed that the Union industry's 
+production volume decreased overall by one per cent. This negative trend is consistent with the finding that the 
+industry was in an injurious state, given the high fixed costs it incurs. This overall finding cannot be undermined 
+by the situation of some individual producers. In any event, the substantial increase in the production output of 
+one non-sampled producer was only the mathematical result of the restart of operations that had been 
+temporarily halted, as explained in recital (71) of the provisional Regulation. Furthermore, one producer was 
+phasing out LWTP production. This took place in the context of an increasing Union consumption during the 
+period considered (+ 15 %). In past cases, such as in Certain candles (1), the Commission found injury in the 
+presence of an increase in production (which is not the case in LWTP), where such increase was lower than the 
+increase in Union consumption. 
+(71)  
+As to production capacity, it is not correct that, as the party claimed all Union producers increased their 
+production capacity, except for one company. The Union producer mentioned in recital (71) of the provisional 
+Regulation did not increase its production capacity as such. It simply restarted a production facility that was not 
+available for use in 2012, hence not considered as existing capacity that year. In addition, recital (70) of the 
+provisional Regulation highlights the difficulties experienced by one sampled company as regards production. 
+(72)  
+As to the overall capacity utilisation, Table 4 of the provisional Regulation does not show an increase but a drop 
+in capacity utilisation within the Union industry during the period considered. The substantial increase by one 
+producer of its capacity utilisation was the result of the restart of operations after the halt stated in recital (71) of 
+the provisional Regulation. 
+3.5.2017 
+L 114/13 
+Official Journal of the European Union 
+EN     
+(1) Commission Regulation (EC) No 1130/2008 of 14 November 2008 imposing a provisional anti-dumping duty on imports of certain 
+candles, tapers and the like originating in the People`s Republic of China (OJ L 306, 15.11.2008, p. 22). 
+(73)  
+Furthermore, even though a 92 % capacity utilisation may indeed seem high, it is considered that an 8 % gap 
+between capacity and actual utilisation, especially in a high fixed costs industry, is not insignificant. 
+LWTP producers have to maintain a constant order book, keep selling and producing in order to avoid idle time 
+on their production lines. A paper producer would prefer selling a product at a lower price, rather than 
+producing less, as idle machines would likely cause even greater injury. Given the highly capital-intensive nature 
+of the paper industry and the often limited pricing scope when selling, high utilisation rates are essential to prof­
+itability. Thus, marginal shifts in utilisation rates can make or break a firm. As to the 8 % gap, it represents 
+32 240 tonnes of LWTP production, which is more than the Hansol Group's import volumes in 2015. In 
+addition, Union producers have multi-purpose equipment with ‘swing capacity’ and can easily offer more 
+capacity, as highlighted in recital (125) of the provisional Regulation. However the ‘swing capacity’ cannot be 
+used in a market where dumping practices exist. 
+(74)  
+Consequently, the above claims were rejected, and, in the absence of other comments, the conclusions set out in 
+recitals (69) to (72) of the provisional Regulation were confirmed. 
+3.5.1.2. Sales volume and market share 
+(75)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because i) Union 
+producers increased their sales in the Union and ii) decided to reduce sales of the product concerned to the 
+Union market in order to concentrate their efforts on third country markets. 
+(76)  
+The above claims were rejected since, even if the Union industry sales volume on the Union market overall 
+increased by 1 % during the period considered, Union producers could not reap full benefits of the increase in 
+Union consumption (+ 15 %). This was translated into a substantial loss of market shares. As to the claim 
+regarding the reduction of sales onto the Union market, it is in contradiction with the first part of the claim. 
+(77)  
+In the absence of other comments, the conclusions set out in recitals (73) to (75) of the provisional Regulation 
+were confirmed. 
+3.5.1.3. Employment, labour costs and productivity 
+(78)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because Table 6 of the 
+provisional Regulation summarizes the good performance of the Union industry with reference to employment. 
+The party stated as well that there was no inflation which could explain an increase in labour costs. 
+(79)  
+As to employment, the Commission did not find that the Union industry was performing well. As highlighted in 
+the provisional Regulation, in contrast it found that the employment level went down by 1 %. According to the 
+file for inspection by interested parties, the employment level increased significantly for two of the Union 
+producers. However, given the size of these producers, this translates into few jobs in absolute terms and into an 
+overall decrease for the Union industry as a whole. In any case, bearing in mind that in this specific sector the 
+employment level follows closely production, employment is not considered to be an indicator giving decisive 
+guidance about the injurious situation of the Union producers. 
+(80)  
+Following definitive disclosure, the Hansol Group claimed that the workforce from two Union producers should 
+be excluded from Table 6 of the provisional Regulation because of their specific situation. This claim was rejected 
+because no justification was provided in order to allow the Commission to depart from its normal practice as 
+regards its analysis of macroeconomic injury indicators. 
+(81)  
+As far as labour costs are concerned, recital (86) of the provisional Regulation must be interpreted in the sense 
+that the increase in labour costs did not seem too high in light of the annual inflation rates. 
+(82)  
+Accordingly, the above claims were rejected, and, in the absence of other comments, the conclusions set out in 
+(77) to (79) and (85) to (86) of the provisional Regulation were confirmed. 
+3.5.2017 
+L 114/14 
+Official Journal of the European Union 
+EN     
+3.5.1.4. Prices and factors affecting prices 
+(83)  
+The Hansol Group claimed that the prices in the Union by the Union producers should be further investigated. 
+This party put into question the absence of price increases by Union producers during the investigation period 
+based on the allegation that some Union producers increased their sales prices. The Hansol Group also stated that 
+the sale price decrease that took place between 2013 and 2014 was caused by the fact that one Union producer 
+flooded the Union market with goods that it could not sell in the United States of America (‘USA’). 
+(84)  
+The above claims were rejected. As regards the first claim, the fact that some producers had announced a series 
+of price increases did not mean that all the increases materialised. The party's claim is based on price increases 
+for Union industry sales to its related companies, which only represent a minor part of the Union consumption. 
+According to Table 7 of the provisional Regulation, which is based on verified figures, there was not an overall 
+increase in prices in the Union. Last but not least, the drop in sale prices between 2013 and 2014 coincides in 
+time with the biggest decrease of import prices from the Republic of Korea according to Table 3 of the 
+provisional Regulation. 
+(85)  
+Concerning the second claim, Table 5 of the provisional Regulation (sales volume on the Union market by the 
+Union industry) does not show any sign of the alleged flood. Between 2013 and 2014 the index went from 101 
+to 97. 
+(86)  
+In the absence of other comments, the conclusions set out in (82) to (84) of the provisional Regulation were 
+confirmed. 
+3.5.1.5. Inventories 
+(87)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because inventory levels 
+decreased both in absolute and relative terms, thus the Union industry found no difficulty in selling its output. 
+(88)  
+The above claims were rejected because, as stated in recital (88) of the provisional Regulation, in general the like 
+product is produced on the basis of specific orders of the users. Hence, stocks are not considered to be an 
+important injury indicator for this type of industry because they follow production and during the period 
+considered they consistently remained not bigger than the production of one month. 
+(89)  
+In the absence of other comments, the conclusions set out in (87) to (88) of the provisional Regulation were 
+confirmed. 
+3.5.1.6. Profitability and investments 
+(90)  
+The Hansol Group claimed that the situation of the Union industry did not deteriorate because its investments 
+more than doubled during the investigation period. In its view, Table 10 of the provisional Regulation and 
+evidence on the record do not support the statement in recital (93) of the provisional Regulation that the 
+sampled producers kept their level of investment to the amounts absolutely necessary to keep on running. It also 
+claimed that two sampled Union producers made major investments in 2014. 
+(91)  
+The above claims were however rejected since, despite the fact that the investments doubled, the absolute level of 
+investment remained limited, in particular considering the fact that, for example, the value of a new production 
+line of LWTP is estimated at 120 Million EUR. During the period considered, as pointed in recital (119) of the 
+provisional Regulation, the Union industry postponed some investments due to shrinking profits. 
+(92)  
+The same party also asked for a reassessment of the Union industry's profitability because the problems of one 
+sampled Union producer allegedly derived from factors not related to dumped imports but, in particular, from 
+huge costs related to the closure of two mills, and, in addition, as a result of another company's provisions to 
+cover future payments of anti-dumping duties in the USA. It added that any bias concerning the market strategies 
+undertaken by the other two sampled companies on different geographical markets should be eliminated and 
+alleged that, in overall, the same two companies generated substantial profits during the investigation period. 
+3.5.2017 
+L 114/15 
+Official Journal of the European Union 
+EN     
+(93)  
+The Commission considered that there is no need for a reassessment of the Union industry's profitability because 
+all exceptional costs alleged were already isolated and excluded from the establishment of the profitability showed 
+at provisional stage. Also, as stated in recital (90) of the provisional Regulation, the Commission established the 
+profitability of the sampled Union producers by expressing the pre-tax net profit of the sales of the like product 
+to unrelated customers in the Union as a percentage of the turnover of those sales, i.e. profitability in non-Union 
+markets was put aside. Therefore, those claims were rejected. 
+(94)  
+In the absence of other comments, the conclusions set out in recitals (89) to (91) and, as regards investments, in 
+recital (93) of the provisional Regulation were confirmed. 
+3.5.1.7. Magnitude of the dumping margin, growth, cash flow, return on investments and ability to raise capital 
+(95)  
+In the absence of comments regarding magnitude of the dumping margin, growth, cash flow, return on 
+investments and ability to raise capital, the conclusions set out in recitals (76), (80) to (81), (92), (93) as regards 
+return on investments and (94) of the provisional Regulation were confirmed. 
+3.5.2. Conclusion on injury 
+(96)  
+On the basis of the analysis of the comments summarized in recitals (55) to (95) above, the conclusions set out 
+in recitals (95) to (98) of the provisional Regulation were hereby confirmed. 
+4. CAUSATION 
+(97)  
+The Hansol Group claimed that the injury could not be attributed to the imports of dumped imports from the 
+country concerned but to: the impact of the USA anti-dumping measure on one sampled Union producer; the 
+impact of manufacturing costs together with exchange rates; and the impact of the price of phenol-free LWTP. 
+Most of the arguments were a reiteration of those already brought forward at the provisional stage. They are all 
+addressed in recitals (98) to (101) below. 
+(98)  
+As to the USA anti-dumping measure, the Commission noted that in recital (109) of the provisional Regulation it 
+was acknowledged that there was some impact on the Union producer in question. Even if such impact was not 
+confined to that company, as explained in recital (110) of the provisional Regulation, the overall impact was 
+almost inexistent for the Union industry as a whole during the investigation period. In recital (110) of the 
+provisional Regulation it was established that the USA imposed high duties on one Union producer only, but that 
+these duties were lifted in 2015 and that the sampled Union producer managed to partially compensate by 
+increasing exports to other markets. Whether the sampled Union producer in question managed to fully 
+compensate lost sales in the USA and recover is irrelevant since those circumstances would have no effect on 
+most of the data relating to that Union producer, as stated in recital (109) of the provisional Regulation. Contrary 
+to what the Hansol Group suggests, there was not a flood of LWTP originating in the Union at the time when 
+USA high duties were in place (this claim is further rebutted in recital (85) above) or an increase of sales prices in 
+2015 (as shown in Tables 3 and 7 of the provisional Regulation). On the basis of the above and of the findings at 
+provisional stage, it was concluded that the USA anti-dumping measures analysed did not lead to a decrease in 
+prices and profitability on the Union market. 
+(99)  
+As to manufacturing costs, the party first focused only on the period 2014-2015. After definitive disclosure, it 
+extended the claim to the whole period under investigation and submitted that the increase in raw material 
+prices, together with the downward trend of the Euro exchange rate particularly affected the Union industry. It 
+was however established that, during the period considered, the loss in profitability was due to the lack of 
+correlation between costs (+ 3 %) and prices (– 11 %), the drop in prices being higher than the cost increases. On 
+the basis of the above and of the findings at provisional stage, it was concluded that the increase in costs did not 
+break the causal link between material injury and dumped imports form the Republic of Korea. 
+3.5.2017 
+L 114/16 
+Official Journal of the European Union 
+EN     
+(100)  As regards the impact of the price of phenol-free LWTP, the alleged higher purchase prices of some companies 
+related to the exporting producer do not contradict the overall finding in recital (113) of the provisional 
+Regulation that ‘over the period considered the unit sales prices of phenol-free LWTP dropped less than the unit 
+sales prices of phenol-containing LWTP’. Those companies represent a minor share of Union consumption. On 
+the basis of the above and of the findings at provisional stage, it was concluded that the Union industry's price 
+depression could not be attributed to the alleged price decrease of phenol-free LWTP. 
+(101)  The Hansol Group claimed that even if none of the alleged factors alone had decisive influence, the Commission 
+should further investigate actual causes of alleged injury, including their aggregated effect. This claim was 
+however rejected, since the Commission already made such a combined assessment in recital (121) of the 
+provisional Regulation, and no new element was brought forward after the imposition of the provisional 
+measures. 
+(102)  On the basis of the above and in the absence of any other comments, the conclusions set out in recitals (99) 
+to (121) of the provisional Regulation were confirmed. 
+5. UNION INTEREST 
+5.1. Interest of the Union industry 
+(103)  The complainant suggested the existence of a threat of further injury to Union producers in light of the Hansol 
+Group's announcement to significantly increase its thermal paper capacity by 2019. Given the findings on 
+material injury, the Commission did not carry out a threat of injury analysis. 
+(104)  In the absence of any comments regarding the interest of the Union industry, the conclusion set out in 
+recitals (123) to (128) of the provisional Regulation were confirmed. 
+5.2. Interest of other interested parties 
+(105)  The Government of Korea reiterated its claim stated in recital (132) of the provisional Regulation without 
+providing any additional evidence. Such claim was already dismissed at provisional stage. 
+(106)  The Government of Korea also claimed that measures are not in the Union interest on the grounds that many 
+European converters and importers expressed their objections at the hearing in September 2016 (see recital (5) of 
+the provisional Regulation), that measures will negatively affect Hansol Group's subsidiary converters, which 
+comprise the downstream sector in the LWTP industry, and that Union producers are large companies, whereas 
+the Hansol Group's subsidiary converters are mostly small and medium-sized enterprises (‘SMEs’) without much 
+power to influence prices. 
+(107)  The above claims were rejected. The investigation did not find that there is a majority of converters and 
+importers in the Union against measures, as further developed in recital (109) below. Moreover, it was not 
+possible to conclude to what extent measures would negatively affect Hansol Group's subsidiaries in the Union, 
+also bearing in mind that the Hansol Group's itself highlighted that one of such subsidiaries was having negative 
+results due to bad management. As to the size of the Hansol Group's subsidiary converters, it is noted that 
+ultimately they belong to a large group. Since the Hansol Group's itself acknowledged the unwillingness of final 
+customers to accept price increases, it is concluded that customers have bargaining power in price negotiations. 
+(108)  The Hansol Group claimed that the Union downstream industries are almost unanimously against the imposition 
+of measures and that, according to the files open for inspection by interested parties, at least 36 unrelated 
+converters and end-users expressed their strong opposition to measures. Following definitive disclosure, the party 
+claimed that the Commission had neglected the fact that the majority of the cooperating Union downstream 
+converting and user industry opposed the imposition of measures. It was claimed that the fact that not all Union 
+downstream industries expressed their opposition, or the fact that many of them did not reiterate their point of 
+view following the provisional disclosure, would not undermine their opposition. 
+3.5.2017 
+L 114/17 
+Official Journal of the European Union 
+EN     
+(109)  The above claims were rejected. Recital (129) of the provisional Regulation takes stock of the limited cooperation 
+of some parties. Many Union downstream industries remained silent during the investigation and no downstream 
+industry made any representation following provisional or definitive disclosure. This silence could not be 
+interpreted as opposing the measures, but as ‘unknown position’. As mentioned under recital (130) of the 
+provisional Regulation, in terms of purchase volume of LWTP, the converters that came forward and expressed to 
+be in favour of measures weigh more than the ones that did not express views or were opposing the measures. 
+After the additional final disclosure an additional converter expressed to be in favour of the measures. Also the 
+Confederation of European Paper Industries, which ultimately represents many downstream industries, expressed 
+to be in favour of the measures both at initial and definitive stage. As to the files available to interested parties 
+for access, they show that around one third of the unrelated converters and end-users counted in the recital 
+above opposed to measures at some point of the proceeding before provisional disclosure. 
+(110)  The Hansol Group claimed that the measures are against the interest of European businesses because the Union 
+market can be defined as a duopoly/oligopoly and competition should be promoted, as there are no alternative 
+sources of supply, the Union producers lack competitive infrastructure and would not be able to efficiently switch 
+production to LWTP, because it is highly unlikely that the smaller Union producer would decide to reverse 
+a business decision that resulted in increased profitability and because European SMEs that are active in the 
+downstream industry will face limited availability of supply combined with unreasonable prices which will 
+severely threaten their survival. Moreover, the measures would eliminate competition and entail a loss of 
+employment for users. 
+(111)  The above claims were rejected. The mere existence of few producers in the Union is irrelevant and, as pointed 
+out in recital (115) of the provisional Regulation, there is no evidence on file of any anti-competitive practices. 
+According to recital (131) of the provisional Regulation, there are several sources of supply in the Union. 
+Additional alternatives exist: the Hansol Group's imports (at fair prices) and minor imports from other third 
+countries. The claim on lack of competitive infrastructure is contradicted, inter alia, by the Hansol Group's 
+submission dated 8 December 2016, which describes the Union industry as ‘high-performing’. As to the smaller 
+Union producer, it is open to reverse to decision if there are better prospects for LWTP. As far as the downstream 
+industry is concerned, it is considered that it will benefit from the Union industry's significant capacity (as stated 
+in recital (73), the various sources of supply above-mentioned and from restored competition in the Union 
+market. 
+(112)  The Hansol Group also alleged that measures would be against the interest of consumers, who will be prevented 
+from having access to reasonably priced LWTP. In the absence of any substantive evidence supporting this claim, 
+this allegation was dismissed. 
+(113)  The Hansol Group further alleged that measures would entail, on top of a flood of Chinese small rolls, the 
+creation of new converting mills around the Union border with free access to raw material, thus the closure of 
+many converters in the Union. In the absence of any substantive evidence supporting this claim, this allegation 
+was dismissed. 
+(114)  In the absence of any other comments regarding the interest of other interested parties, the conclusion set out in 
+recitals (129) to (134) of the provisional Regulation were confirmed. 
+5.3. Other arguments 
+(115)  Hansol Group claimed that a select group of European businesses pursue an artificial increase of their profits by 
+seeking the Commission to abuse the anti-dumping instrument. 
+(116)  The above claim was not further substantiated. The Commission underlined that the investigation was conducted 
+within the applicable legal framework with the highest standards for neutrality and transparency. 
+5.4. Conclusion on Union interest 
+(117)  In the absence of any other comments concerning the Union interest, the conclusion reached in recital (135) of 
+the provisional Regulation was confirmed. 
+3.5.2017 
+L 114/18 
+Official Journal of the European Union 
+EN     
+6. DEFINITIVE ANTI-DUMPING MEASURES 
+6.1. Injury elimination level 
+(118)  Following provisional disclosure, no parties made comments on the target profit provisionally used for 
+calculating underselling. No parties made comments on the target profit at definitive stage, either. 
+(119)  The Hansol Group challenged the application by the Commission of Article 2(9) for the injury calculations, 
+stating that Article 2(9) appears under the dumping provisions of the basic Regulation and could not be used by 
+analogy for calculating the injury margin. The party contested that the calculation is largely based on adjusted 
+sales transaction for small rolls, a different product not subject to the investigation. According to the Hansol 
+Group, there is no point of competition between the sales of small rolls into the Union by its related converters 
+and the sales of jumbo rolls by the Union industry and, by calculating the injury margin on the basis of sales 
+prices of a product which is not the like product within the meaning of Article 1(4) of the basic Regulation, the 
+Commission violated Article 3(3) of the basic Regulation. The party backed its point in terms of causal link by 
+resorting to Article 3(6) of the Basic Regulation, the WTO Appellate Body Report China — GOES (1) and the 
+WTO Panel Report China — X-ray (2). 
+(120)  The purpose of calculating an injury margin is to determine whether imposing a lower duty rate (than the one 
+based on the dumping margin) to the export price of the dumped imports would be sufficient to remove the 
+injury caused by the dumped imports. This assessment should be based on the export price at the Union frontier 
+level which is considered to be a level comparable to the Union industry ex-works price. In the case of export 
+sales via related importers, by analogy with the approach followed for the dumping margin calculations, the 
+export price was constructed on the basis of the resale price to the first independent customer duly adjusted 
+pursuant to Article 2(9) of the basic Regulation. As the export price is an indispensable element in the injury 
+margin calculation, and as this Article is the only Article in the basic Regulation which gives guidance on the 
+construction of the export price, the application of this Article by analogy is justified. 
+(121)  The Commission considered that the establishment of the relevant import price for undercutting and underselling 
+calculations should not be influenced by the fact whether the exports are made to related or independent 
+operators in the Union. The methodology followed by the Commission ensured that both circumstances receive 
+equal treatment. 
+(122)  The injury margin calculation should normally be based on a comparison of prices at the level where 
+competition in the EU takes place. In this case, only a small portion of the export sales of the product concerned 
+are done to unrelated customers in the EU. The vast majority of the sales of the product concerned are done to 
+related converters in the Union which convert the products into small rolls. In these circumstances, most of the 
+competition took place at the level of the related converters. By analogy with the dumping calculations, these 
+sales prices could not be considered reliable for the purpose of an objective price comparison. Consequently, 
+import prices for the product concerned had to be constructed. Section 2.2 above further develops the reasons 
+why small rolls could not be ignored in the calculations and why, for certain transactions, it was necessary to 
+construct export prices. 
+(123)  To the extent the Commission confirmed its approach to consider small rolls for the purpose of the calculations, 
+the references to Articles 3(3) and 3(6) of the basic Regulation, the WTO Appellate Body Report China — GOES 
+and the WTO Panel Report China — X-ray are irrelevant. 
+(124)  For the above reasons, the Commission considered that the approach followed was accurate and rejected the 
+claims. 
+(125)  In order to follow the same methodology as the dumping calculation, at definitive stage it was decided to 
+calculate the injury margin by applying the same weighting as in Section 2.4.1 of this Regulation. This approach 
+and the corrections explained in Section 2 above entailed a revision of the injury margin provisionally 
+established. 
+3.5.2017 
+L 114/19 
+Official Journal of the European Union 
+EN     
+(1) Appellate Body Report, China — GOES, WT/DS414/AB/R, dated 18 October 2012, para. 128. 
+(2) Panel Report, China — X-ray, WT/DS425/R, dated 26 February 2013, para. 7.50. 
+(126)  The definitive injury margin thus established amounted to 37,0 %. 
+6.2. Form of the measures 
+(127)  It is recalled that most sales of the Hansol Group are through related parties for conversion into small rolls. 
+Following final disclosure, the Hansol Group contested the fact that the Commission had constructed the CIF 
+price used as denominator for those sales (see recital (51) above). In this regard it submitted, inter alia, that the 
+CIF price the Commission had provisionally used as a denominator in the dumping calculation for those sales 
+would result in a duty amount higher than the amount of dumping found. To remedy this alleged distortion, the 
+Hansol Group proposed that the Commission should apply an anti-dumping duty in the form of a specific 
+amount per tonne instead of an ad valorem duty. 
+(128) The claim was duly analysed and in view of the specific circumstances of this case in relation to the determina­
+tion of a reliable CIF price for these sales, the Commission concluded that it would be more appropriate to use 
+a form of duty that does not require a reliable CIF price to be established. Therefore, the Commission decided 
+that the anti-dumping duty should be imposed as a fixed amount per tonne in euro per tonne net instead of an 
+ad valorem duty as provisionally imposed. 
+6.3. Definitive measures 
+(129)  Taking into account the issues mentioned in the section above, the anti-dumping duty rates, expressed on the CIF 
+Union border price, customs duty unpaid, should be based on the dumping margin and be as follows: 
+Country 
+Company 
+Definitive 
+dumping 
+margin (%) 
+Definitive 
+injury margin 
+(%) 
+Definitive duty 
+rate (%) 
+Definitive fixed 
+duty rate — 
+EUR per tonne 
+The Republic 
+of Korea 
+Hansol Group (Hansol Pa­
+per Co., Ltd and Hansol 
+Artone Paper Co., Ltd) 
+10,3 
+37,0 
+10,3 
+104,46 
+All other companies 
+10,3 
+37,0 
+10,3 
+104,46  
+(130)  Subsequent to the additional final disclosure, the Hansol Group submitted that the specific duty calculated and 
+reported in the last column of the above table would reflect a dumping amount in excess of that found in the 
+investigation. However, the calculation it had conducted to arrive at such conclusion was erroneous as it did not 
+account for the weighting as described in recital (46) of the provisional Regulation and recital (49) above. The 
+claim was therefore rejected. 
+(131)  The individual company anti-dumping duty rates specified in this Regulation were established on the basis of the 
+findings of the present investigation. 
+(132)  As also explained in recital (50) of the provisional Regulation, the level of cooperation in this case was high, as 
+the imports of the cooperating exporting producers constituted the total exports to the Union during the investi­
+gation period. Therefore, the residual anti-dumping duty was based at the level of the cooperating company. 
+(133)  To ensure a proper enforcement of the anti-dumping duties, the anti-dumping duty for all other companies 
+should apply not only to the non-cooperating exporting producers in this investigation, but also to the producers 
+which did not have exports to the Union during the investigation period. 
+3.5.2017 
+L 114/20 
+Official Journal of the European Union 
+EN     
+6.4. Definitive collection of the provisional duties 
+(134)  In view of the dumping margins found and given the level of the injury caused to the Union industry, 
+the amounts secured by way of the provisional anti-dumping duty, imposed by the provisional Regulation, 
+should be definitively collected. The amounts secured in excess of the definitive duty rate determined pursuant to 
+Article 1(2) of this Regulation should be released. 
+(135)  The Committee established by Article 15(1) of Regulation (EU) 2016/1036 did not deliver an opinion, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1.
+A definitive anti-dumping duty is imposed on imports of certain lightweight thermal paper weighing 65 g/m2 or 
+less; in rolls of a width of 20 cm or more, a weight of the roll (including the paper) of 50 kg or more and a diameter of 
+the roll (including the paper) of 40 cm or more (‘jumbo rolls’); with or without a base coat on one or both sides; coated 
+with a thermos-sensitive substance on one or both sides; and with or without a top coat, originating in the Republic of 
+Korea, currently falling within CN codes ex 4809 90 00, ex 4811 90 00, ex 4816 90 00 and ex 4823 90 85 (TARIC 
+codes: 4809 90 00 10, 4811 90 00 10, 4816 90 00 10, 4823 90 85 20) 
+2.
+The rate of the definitive anti-dumping duty applicable to the product described in paragraph 1 shall be a fixed 
+amount of EUR 104,46 per tonne net. 
+3.
+Unless otherwise specified, the provisions in force concerning customs duties shall apply. 
+Article 2 
+The amounts secured by way of the provisional anti-dumping duties pursuant to Implementing Regulation (EU) 
+2016/2005 shall be definitively collected. The amounts secured in excess of the rate of the duty contained in 
+Article 1(2) above shall be released. 
+Article 3 
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European 
+Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 2 May 2017. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+3.5.2017 
+L 114/21 
+Official Journal of the European Union 
+EN     

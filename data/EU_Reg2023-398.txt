@@ -1,0 +1,153 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION DELEGATED REGULATION (EU) 2023/398 
+of 14 December 2022
+amending Delegated Regulation (EU) 2015/2446 as regards extending the possibilities for making 
+customs declarations orally or by any other act deemed to be a customs declaration, the invalidation 
+of declarations in specific cases, and specifying the exchange of information for entry summary 
+declarations 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Article 131, point (c), and Articles 160 and 175 thereof,
+Whereas:
+(1)
+The practical implementation of Regulation (EU) No 952/2013 (‘the Code’) in combination with Commission 
+Delegated Regulation (EU) 2015/2446 (2) has shown that some amendments to that Delegated Regulation are 
+needed in order to better tailor it to the needs of economic operators and customs authorities and to take into 
+account the developments regarding the forthcoming deployment of releases 2 and 3 of the Import Control System 
+(ICS2).
+(2)
+In order to clarify that in the case of postal consignments transhipped in the Union, in certain situations the 
+obligation to provide the entry summary declaration data lies with the postal operator in a third country from 
+which the goods were dispatched, in accordance with Article 127(6) of Regulation (EU) No 952/2013, it is 
+necessary to introduce a new definition of ‘third country postal operator’.
+(3)
+From the date set out in the Annex to Commission Implementing Decision (EU) 2019/2151 (3) for the deployment 
+of release 3 of ICS2, it is to be possible for different persons involved in the process of transporting goods into the 
+customs territory of the Union by rail to submit parts of the information of an entry summary declaration, that is, 
+multiple filing. A new Article 112a should therefore be added to Delegated Regulation (EU) 2015/2446 to provide 
+for this possibility.
+(4)
+In order to make it obligatory for third country postal operators to submit particulars of the entry summary 
+declaration for goods transhipped in the customs territory of the Union, where that postal operator has not 
+provided those particulars to the carrier, Article 113a of Delegated Regulation (EU) 2015/2446 should be amended.
+(1) OJ L 269, 10.10.2013, p. 1.
+(2) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European 
+Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 
+29.12.2015, p. 1).
+(3) Commission Implementing Decision (EU) 2019/2151 of 13 December 2019 establishing the work programme relating to the 
+development and deployment of the electronic systems provided for in the Union Customs Code (OJ L 325, 16.12.2019, p. 168).
+EN
+Official Journal of the European Union 
+22.2.2023 
+L 54/1  
+(5)
+Packings bearing a permanent marking identifying a person that are temporarily imported filled and re-exported 
+either filled or empty can be declared by means of an oral declaration or by any other act referred to in Article 141 
+of Delegated Regulation (EU) 2015/2446. As that can only be done for filled packings imported by persons 
+established outside the customs territory of the Union, it is necessary to extend the application of that simplified 
+customs formality to packings imported empty by persons regardless of where those persons are established.
+(6)
+The possibility of repayment of import duty in specific situations in which goods are delivered free of charge to 
+charitable or philanthropic organisations should be introduced. This should be done by adding a new reason for 
+invalidating customs declarations after the release of goods, making it possible to repay import duty paid in 
+accordance with Article 116(1) of the Code.
+(7)
+Delegated Regulation (EU) 2015/2446 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Delegated Regulation (EU) 2015/2446 is amended as follows:
+(1) in Article 1, the following definition is added:
+‘(54)
+‘third country postal operator’ means an operator established in and designated by a third country to provide 
+the international services governed by the Universal Postal Convention.’;
+(2) in Title IV, Chapter 1, the following Article 112a is inserted:
+‘Article 112a
+Provision of particulars of the entry summary declaration by other persons in specific cases as regards 
+transport by rail
+(Article 127(6) of the Code)
+1.
+Where, in the case of transport by rail, for the same goods one or more additional transport contracts covered by 
+one or more consignment notes have been concluded by one or more persons other than the carrier, and the person 
+issuing the consignment note does not make the particulars required for the entry summary declaration available to 
+his or her contractual partner who issues a consignment note to him or her or to his or her contractual partner with 
+whom he or she concluded a goods co-loading arrangement, the person who does not make the required particulars 
+available shall provide those particulars to the customs office of first entry in accordance with Article 127(6) of the 
+Code.
+Where the consignee indicated in the consignment note that has no underlying consignment note does not make the 
+particulars required for the entry summary declaration available to the person issuing that consignment note, he or 
+she shall provide those particulars to the customs office of first entry.
+2.
+Until the date set out in accordance with the Annex to Implementing Decision (EU) 2019/2151 for the 
+deployment of release 3 of the system referred to in Article 182(1) of Implementing Regulation (EU) 2015/2447, 
+paragraph 1 of this Article shall not apply.’;
+(3) in Article 113a, the following paragraph 4 is added:
+‘4.
+From the date set out in accordance with the Annex to Implementing Decision (EU) 2019/2151 for the 
+deployment of release 2 of the system referred to in Article 182(1) of Implementing Regulation (EU) 2015/2447, 
+where the third country postal operator does not make the particulars required for the entry summary declaration of 
+postal consignments available to a carrier who is obliged to lodge the rest of the particulars of the declaration through 
+that system, the third country postal operator at the country of dispatch, if the goods are transhipped through the 
+Union, shall provide those particulars to the customs office of first entry in accordance with Article 127(6) of the 
+Code.’;
+EN
+Official Journal of the European Union 
+L 54/2 
+22.2.2023  
+(4) in Article 136(1), point (j) is replaced by the following:
+‘(j) packings which are imported filled or empty and are intended for re-export, whether filled or empty, bearing the 
+permanent, indelible markings identifying a person established within or outside the customs territory of the 
+Union;’;
+(5) in Article 138, point (c) is replaced by the following:
+‘(c) goods as referred to in Article 136(1), points (a) and (j), of this Regulation that benefit from relief from import duty 
+as returned goods in accordance with Article 203 of the Code;’.
+(6) in Article 139, paragraphs 1 and 2 are replaced with the following:
+‘1.
+Where not declared by other means, the goods referred to in Article 136(1), points (a) to (d), (h), (i) and (j), shall 
+be deemed to be declared for temporary admission in accordance with Article 141.
+2.
+Where not declared by other means, the goods referred to in Article 136(1), points (a) to (d), (h), (i) and (j), shall 
+be deemed to be declared for re-export in accordance with Article 141 on discharging the temporary admission 
+procedure.’;
+(7) Article 141, paragraph 1 is amended as follows:
+(a) the introductory phrase is replaced by the following:
+‘In respect of goods as referred to in Article 138, points (a) to (d) and point (h), Article 139 and Article 140(1), any 
+of the following acts shall be deemed to be a customs or a re-export declaration:’;
+(b) in point (d), points (iv) and (v) are replaced by the following:
+‘(iv) where goods as referred to in Article 136(1), points (a) and (j), of this Regulation are deemed to be declared for 
+temporary admission in accordance with Article 139(1) of this Regulation;
+(v)
+where goods as referred to in Article 136(1), points (a) and (j), of this Regulation complying with the 
+conditions established in Article 203 of the Code are brought to the customs territory of the Union in 
+accordance with Article 138, point (c), of this Regulation.’;
+(8) in Article 148(4) the following point (f) is added:
+‘(f) where goods have been released for free circulation and evidence is provided to the satisfaction of the customs 
+authorities that the goods have not been used or consumed in the customs territory of the Union provided that:
+(i)
+the application is made within 1 year of the date of acceptance of the customs declaration;
+(ii)
+the goods were given free of charge to charitable or philanthropic organisations carrying out their activities in 
+the customs territory of the Union, and, at the moment the customs declaration referred to in point (iii) is 
+accepted, the goods would be eligible for relief from import duty if they were released for free circulation; and
+(iii) a customs declaration for release for free circulation with total relief from import duty for the goods in 
+question has been lodged by or on behalf of those charitable or philanthropic organisations by the time-limit 
+set in point (i).’
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+EN
+Official Journal of the European Union 
+22.2.2023 
+L 54/3  
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 14 December 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 54/4 
+22.2.2023  

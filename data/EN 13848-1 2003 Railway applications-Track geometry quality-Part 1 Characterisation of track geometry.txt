@@ -1,0 +1,35 @@
+INTERNATIONAL
+ISO
+STANDARD
+23054-1
+First edition
+2022-08
+Railway applications  Track
+geometry quality -
+Part 1:
+Characterization of track geometry
+and trackgeometry quality
+Applicationsferroviaires-Qualitegéométriquedelavoie-
+Partie1:Caractérisationdelagéometriedelavoieetdelaqualité
+geometrique de la voie
+Referencenumber
+IS023054-1:2022(E)
+ISO
+IS02022
+
+IS023054-1:2022(E)
+COPYRIGHTPROTECTEDDOCUMENT
+IS02022
+All rights reserved.Unless otherwise specified, or required in the context of its implementation, no part of this publication may
+bereproduced orutilized otherwise inanyform or byanymeans,electronicormechanical,includingphotocopying,orposting on
+the internet oran intranet, without prior written permission.Permission canberequestedfrom eitherIsO at the addressbelow
+orIso'smemberbodyinthecountryoftherequester.
+ISO copyrightoffice
+CP 401·Ch.deBlandonnet8
+CH-1214Vernier,Geneva
+Phone:+41227490111
+Email:copyright@iso.org
+Website: www.iso.org
+Published inSwitzerland
+ii
+IS02022-Allrightsreserved

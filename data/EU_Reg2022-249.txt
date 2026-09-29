@@ -1,0 +1,155 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2022/249 
+of 18 February 2022
+amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for 
+the United Kingdom in the lists of third countries authorised for the entry into the Union of 
+consignments of poultry, germinal products of poultry and fresh meat of poultry and game birds 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on 
+transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health 
+Law’) (1), and in particular Articles 230(1) and 232(1) thereof.
+Whereas:
+(1)
+Regulation (EU) 2016/429 requires that consignments of animals, germinal products and products of animal origin 
+must come from a third country or territory, or zone or compartment thereof, listed in accordance with Article 
+230(1) of that Regulation in order to enter the Union.
+(2)
+Commission Delegated Regulation (EU) 2020/692 (2) lays down the animal health requirements with which 
+consignments of certain species and categories of animals, germinal products and products of animal origin from 
+third countries or territories, or zones thereof, or compartments thereof, in the case of aquaculture animals, must 
+comply with in order to enter the Union.
+(3)
+Commission Implementing Regulation (EU) 2021/404 (3) establishes the lists of third countries, or territories, or 
+zones or compartments thereof, from which the entry into the Union of the species and categories of animals, 
+germinal products and products of animal origin falling within the scope of Delegated Regulation (EU) 2020/692 is 
+permitted.
+(4)
+More particularly, Annexes V and XIV to Implementing Regulation (EU) 2021/404 set out the lists of third countries, 
+or territories, or zones thereof authorised for the entry into the Union, respectively, of consignments of poultry, 
+germinal products of poultry, and of fresh meat from poultry and game birds.
+(5)
+The United Kingdom notified the Commission of an outbreak of highly pathogenic avian influenza in poultry. The 
+outbreak is located near Bishop’s Waltham, Winchester, Hampshire, England and was confirmed on 4 February 
+2022 by laboratory analysis (RT-PCR).
+(6)
+The veterinary authorities of the United Kingdom established a 10 km control zone around the affected 
+establishments and implemented a stamping-out policy in order to control the presence of highly pathogenic avian 
+influenza and limit the spread of that disease.
+(1) OJ L 84, 31.3.2016, p. 1.
+(2) Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European 
+Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments 
+of certain animals, germinal products and products of animal origin (OJ L 174, 3.6.2020, p. 379).
+(3) Commission Implementing Regulation (EU) 2021/404 of 24 March 2021 laying down the lists of third countries, territories or zones 
+thereof from which the entry into the Union of animals, germinal products and products of animal origin is permitted in accordance 
+with Regulation (EU) 2016/429 of the European Parliament and of the Council (OJ L 114, 31.3.2021, p. 1).
+EN
+Official Journal of the European Union 
+L 41/16 
+22.2.2022  
+(7)
+The United Kingdom has submitted information to the Commission on the epidemiological situation on its territory 
+and the measures it has taken to prevent the further spread of highly pathogenic avian influenza. That information 
+has been evaluated by the Commission. On the basis of that evaluation, the entry into the Union of consigments of 
+poultry, germinal products of poultry, and fresh meat from poultry and game birds from the areas under 
+restrictions established by the veterinary authorities of the United Kingdom due to the recent outbreaks of highly 
+pathogenic avian influenza should no longer be authorised.
+(8)
+Annexes V and XIV to Implementing Regulation (EU) 2021/404 should be therefore amended accordingly.
+(9)
+Taking into account the current epidemiological situation in the United Kingdom as regards highly pathogenic avian 
+influenza and its serious risk of introduction into the Union, the amendments to be made to Implementing 
+Regulation (EU) 2021/404 by this Regulation should take effect as a matter of urgency.
+(10)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes V and XIV to Implementing Regulation (EU) 2021/404 are amended in accordance with the Annex to this 
+Regulation.
+Article 2
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 18 February 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+22.2.2022 
+L 41/17  
+ANNEX 
+Annexes V and XIV to Implementing Regulation (EU) 2021/404 are amended as follows:
+(1) Annex V is amended as follows:
+(a) in Part 1, in the entry for the United Kingdom, the row for zone GB-2.96 is inserted after the row for zone GB-2.95:
+‘GB  
+United Kingdom
+GB-2.96
+Breeding poultry other than ratites and productive poultry other 
+than ratites
+BPP
+N, P1
+4.2.2022
+Breeding ratites and productive ratites
+BPR
+N, P1
+4.2.2022
+Poultry intended for slaughter other than ratites
+SP
+N, P1
+4.2.2022
+Ratites intended for slaughter
+SR
+N, P1
+4.2.2022
+Day-old chicks other than ratites
+DOC
+N, P1
+4.2.2022
+Day-old chicks of ratites
+DOR
+N, P1
+4.2.2022
+Less than 20 heads of poultry other than ratites
+POU-LT20
+N, P1
+4.2.2022
+Hatching eggs of poultry other than ratites
+HEP
+N, P1
+4.2.2022
+Hatching eggs of ratites
+HER
+N, P1
+4.2.2022
+Less than 20 heads of poultry other than ratites
+HE-LT20
+N, P1
+4.2.2022’
+(b) in Part 2, in the entry for the United Kingdom, the description of the zone GB-2.96 is inserted after the description of the zone GB-2.95:
+‘GB  
+United Kingdom
+GB-2.96
+Near Bishop’s Waltham, Winchester, Hampshire, England.
+The area contained within a circle of a radius of 10km, centred on WGS84 dec, coordinates 
+N51.00 and W1.24’
+(2) in Annex XIV, in Part 1, in the entry for the United Kingdom, the row for zone GB-2.96 is inserted after the row for zone GB-2.95:
+‘GB  
+United Kingdom
+GB-2.96
+Fresh meat of poultry other than ratites
+POU
+N, P1
+4.2.2022
+Fresh meat of ratites
+RAT
+N, P1
+4.2.2022
+Fresh meat of game birds
+GBM
+N, P1
+4.2.2022’
+EN
+Official Journal of the European Union 
+L 41/18 
+22.2.2022  

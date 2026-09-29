@@ -1,0 +1,897 @@
+DEUTSCHENORM
+Juli 2022
+DIN
+DIN2330
+ICS01.020
+Ersatz fur
+DIN2330:2013-07
+Terminologiearbeit-
+Grundsatze und Methoden
+Terminology work-
+Principles and methods
+Travail terminologique -
+Principes etmeéthodes
+Gesamtumfang29Seiten
+DIN-NormenausschussTerminologie (NAT)
+DIN Deutsches Institut fur Normung e. V. ist Inhaber aller ausschliefflichen Rechte weltweit - alle Rechte
+der Verwertung, gleich in welcher Form und welchem Verfahren, sind weltweit DIN e. V. vorbehalten.
+www.din.de
+Alleinverkauf durch Beuth Verlag GmbH, 10772 Berlin
+www.beuth.de
+3354397
+
+DIN2330:2022-07
+Inhalt
+Seite
+Vorwort
+Anwendungsbereich
+NormativeVerweisungen
+Begriffe
+Allgemeines
+Gegenstand
+Begriff...
+6.1
+Allgemeines
+6.2
+Allgemeinbegriffvs.Individualbegriff
+6.3
+Merkmal
+6.4
+Begriffsinhalt,BegriffsumfangundBegriffsbestand
+6.5
+Begriffsbeziehung
+10
+6.5.1
+ArtenvonBegriffsbeziehungen
+10
+Hierarchische Begriffsbeziehung
+6.5.2
+10
+Nichthierarchische Begriffsbeziehung
+6.5.3
+11
+6.6
+Begriffssystem.
+11
+Definition
+12
+7.1
+Zweck.
+12
+7.2
+Definitionsarten
+12
+7.2.1
+Allgemeines
+12
+Inhaltsdefinition
+7.2.2
+12
+7.2.3
+Umfangsdefinition
+13
+7.2.4
+Bestandsdefinition
+13
+7.2.5
+MischformenvonDefinitionen.
+14
+7.3
+Anforderungen und Empfehlungen
+14
+7.3.1
+Vorrangvon Inhaltsdefinitionen
+14
+Verwendungvon Begriffen und ihren Benennungen in Definitionen
+7.3.2
+14
+7.3.3
+Fachgebiets-undZielgruppenbezugvonDefinitionen
+14
+7.3.4
+SystembezogenheitvonDefinitionen
+15
+7.3.5
+GenauigkeitundKurzevonDefinitionen
+15
+7.3.6
+AktualitatvonDefinitionen
+16
+7.3.7
+Vermeidungvon Negativdefinitionen
+16
+7.3.8
+Vermeidungvon Synonymen als Definitionen
+16
+7.3.9
+Vermeidungvon Kontextdefinitionen.
+17
+7.3.10
+VermeidungvonZirkelschlisseninDefinitionen.
+17
+7.3.11
+Vermeidungvontautologischen Definitionen.
+17
+7.4
+Ubernehmenund Verfassen von Definitionen.
+18
+7.4.1
+QualitatderQuellenvonDefinitionen
+18
+7.4.2
+EmpfehlungenfurdasFormulierenvonDefinitionen
+18
+Benennung.
+19
+8.1
+Allgemeines
+19
+8.2
+KriterienzurBewertungvonBenennungen
+19
+8.2.1
+Allgemeines
+19
+8.2.2
+Sprachliche Richtigkeit
+19
+8.2.3
+Gebrauchlichkeit
+19
+8.2.4
+Transparenz
+20
+Eindeutigkeit
+8.2.5
+20
+Neutralitat.
+8.2.6
+20
+Kurze..
+8.2.7
+20
+8.2.8
+Eignung zur Bildung von Ableitungen.
+20
+8.2.9
+BevorzugungderdeutschenSprache
+21
+
+DIN2330:2022-07
+RechtlicheAspekte
+8.2.10
+21
+8.2.11
+HinweisezurAnwendungderBewertungskriterien
+21
+8.3
+Verfahren und Grundsatze derBenennungsbildung
+21
+Allgemeines
+8.3.1
+21
+8.3.2
+Komposition/Bildungvon Zusammensetzungen
+22
+8.3.3
+Derivation/BildungvonAbleitungen
+23
+8.3.4
+Konversion/VeranderungderWortart:
+23
+8.3.5
+Kirzung/BildungvonKurzformen
+23
+8.3.6
+Terminologisierung/UbernahmeinnerhalbeinerSprache
+23
+Entlehnung/Ubernahmeaus eineranderenSprache
+8.3.7
+23
+Neuschopfung :
+8.3.8
+24
+BeziehungenzwischenBegriffenundBezeichnungen
+24
+9.1
+Allgemeines.
+24
+9.2
+Synonymie.
+24
+9.3
+Mehrdeutigkeit .
+24
+9.4
+Aquivalenz
+25
+10
+ArtenderTerminologiearbeit
+26
+10.1
+Allgemeines
+26
+10.2
+Deskriptive vs.praskriptive Terminologiearbeit.
+27
+10.3
+Punktuellevs.textbezogenevs.fachgebietsbezogeneTerminologiearbeit
+27
+10.4
+Einsprachigevs.mehrsprachigeTerminologiearbeit
+27
+Literaturhinweise
+29
+Bilder
+Bild1SemiotischesDreieck.
+Bild2ZusammenhangezwischenGegenstand,Begriff,BenennungundDefinition
+Bild3-ZusammenhangezwischenGegenstandundBegriffamBeispiel,Stuhl"
+Bild4Begriffssystem,Kraftfahrzeug".
+10
+Tabellen
+Tabelle1-BeispielefurGegenstande.
+Tabelle2—Beispielefurtransparentevs.gebrauchlicheBenennungen
+21
+Tabelle3-VerwendungsmoglichkeitensynonymerBenennungen
+24
+
+DIN2330:2022-07
+Vorwort
+Dieses Dokument wurde vom Arbeitsausschuss NA105-00-01AA,Grundlagen der Terminologiearbeit" im
+DIN-Normenausschuss Terminologie (NAT) erarbeitet.
+Es wird auf die Moglichkeithingewiesen,dass einige Elemente dieses Dokuments Patentrechte beruhrenkon-
+AktuelleInformationenzudiesemDokumentkonnenuberdieInternetseitenvonDiN (www.din.de)durcheine
+SuchenachderDokumentennummeraufgerufenwerden.
+Anderungen
+GegeniberDIN2330:2013-07wurdenfolgendeAnderungenvorgenommen:
+vollstandige redaktionelle und inhaltliche Uberarbeitung zur Anpassung an den aktuellen Stand im Bereich
+der Terminologiewissenschaftund TerminologiearbeiteinschliefslichAnderungdesTitels;
+b)
+Anderung bzw. Erganzung von Abschnitten und Unterabschnitten zur klareren Strukturierung;
+c)
+Aktualisierungvon Beispielen;
+Erganzung von Uberblicksdarstellungen.
+FrihereAusgaben
+DIN2330:1957-09,1961-07,1974-11,1979-03,1993-12,2013-07
+DIN2332:1975-06,1979-02,1988-02
+
+DIN2330:2022-07
+1Anwendungsbereich
+Dieses Dokument gibt Leitlinien fur verschiedene Formen der Terminologiearbeit. Zu diesem Zweck stellt es
+einigezentralewissenschaftlicheGrundlagenzusammenundleitetaufdieserBasisGrundsatzeundMethoden
+fur die praktische Umsetzung ab.
+Dieses Dokument dient der Verstandigung in Wissenschaft und Technik, Wirtschaft und Verwaltung,ist aber
+auch in anderen Bereichen anwendbar. Zielgruppen sind Fachleute in den Bereichen Terminologiearbeit, tech-
+nische Redaktion und Ubersetzung sowie alle, die sich mit fachsprachlicher Dokumentation und Kommunika-
+tionbefassen.
+2Normative Verweisungen
+Die folgenden Dokumente werden im Text in solcher Weise in Bezug genommen, dass einige Teile davonoder
+ihrgesamter Inhalt Anforderungendes vorliegenden Dokuments darstellen.Bei datiertenVerweisungen gilt
+nur die in Bezug genommene Ausgabe.Bei undatierten Verweisungen gilt die letzte Ausgabe des in Bezug
+Externe elektronische Auslegestelle-Beuth-Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)-KdNr.227109-ID.HA5KVNJB060LDCW016C2WP0A.1-2022-06-18 11:00:05
+genommenen Dokuments (einschlieflich allerAnderungen).
+DIN2331,BegriffssystemeundihreDarstellung
+DIN2342,TerminologiewissenschaftundTerminologiearbeit—Begriffe
+3 Begriffe
+FirdieAnwendung diesesDokumentsgelten dieBegriffe nachDIN2331undDIN2342.
+DIN und DKE stellen terminologische Datenbanken fur die Verwendung in der Normung unter den folgenden
+Adressen bereit:
+DIN-TERMinologieportal:verfugbar unterhttps://www.din.de/go/din-term
+DKE-IEV:verfugbarunterhttp://www.dke.de/DKE-IEV
+4 
+Allgemeines
+DiepraktischeTerminologiearbeitbasiertaufder Terminologiewissenschaftundbefasst sich mitBegriffenund
+Benennungen in Fachsprachen. Sie wendet verschiedene Verfahren an, um Fachwortbestande zu bearbeiten.
+Dazugehorendie Terminologierecherche,die terminologische Analyse sowie dieBereitstellungterminologi-
+scherDaten.BesondereBedeutungkommtderErstellungvonDefinitionenzu,durchdieBegriffebestimmtund
+voneinander abgegrenzt werden.Wird ein Begriff von mehreren synonymen Benennungen reprasentiert, hel-
+fenKriterienzurBenennungsbewertungbeiderFestlegungeinerVorzugsbenennung.ErforderteinFachgebiet
+die Bildung einer neuen Benennung fur einen neuen Begriff, helfen Verfahren zur Benennungsbildung.
+Die indiesemDokumentgetroffenenFestlegungengehendavonaus,dassder BegriffundseineBeziehungenzu
+anderen Begriffen der Ausgangspunkt fur die Terminologiearbeit sind.Zur Vermeidung von Missverstandnis-
+seninderfachsprachlichenKommunikationsollteeineeineindeutigeBeziehungzwischenBegriffundBenen-
+nungangestrebtwerden.
+EinefachsprachlicheBenennungsolltesoprazisesein,dassihrBezugaufeinenBegriffzweifelsfreiundeindeu-
+tig ist.Zur prazisen Benennungsbildung bedarfesweiterhin derFormulierung einer differenziertenDefinition
+des Begriffs, dem die Benennung im Idealfall eineindeutig zugeordnet ist.Die Definition dient auch dazu, den
+BegriffvonanderenBegriffenabzugrenzenundihnineinemBegriffssystemeinzuordnen.
+Zwischen Benennungen und Gegenstanden gibt es keinen unmittelbaren Bezug.Dieser Bezug wird uber
+Begriffevermittelt.DerZusammenhangzwischenGegenstand,Benennungund Begriffkann mit dem
+semiotischenDreieckveranschaulicht werden (sieheBild1).IndiesemModell symbolisiertdie gestrichelte
+Linie, dasszwischendem Gegenstandund seinerBenennungkeinedirekteBeziehungbesteht.
+
+DIN2330:2022-07
+Begriff
+Benennung
+Gegenstand
+Bild1-SemiotischesDreieck
+Gegenstand
+GegenstandealsAusschnitteausderwahrnehmbarenodervorstellbarenWeltkonnenmaterielleroderimma-
+terieller Art sein. Das heift, auch Prozesse und Zustande sind Gegenstande. Beispiele siehe Tabelle 1.
+Tabelle1-BeispielefurGegenstande
+ArtderGegenstande
+Beispiele
+MaterielleGegenstande
+Haus, Waschmaschine,BrandenburgerTor,
+KolnerDom
+ImmaterielleGegenstande
+Geschwindigkeit, Schmerz, Schweifsen,
+Differentialgleichung
+gemeinsam hat, so werden daraus Begriffsmerkmale, die zur Begriffsabgrenzung und -unterscheidung dienen
+zu Denkeinheiten, die als Begriffe bezeichnet werden. Siehe Bild 2.
+
+DIN2330:2022-07
+Reprasentationsebene
+Benennung
+Definition
+Begriff
+Begriffsebene
+Merkmal a
+Merkmal b
+Merkmalc
+Gegenstand1
+Gegenstand 2
+Gegenstand3
+EigenschaftA
+Eigenschaft A
+EigenschaftA
+Gegenstandsebene
+EigenschaftB
+Eigenschaft B
+EigenschaftB
+EigenschaftC
+Eigenschaft C
+Eigenschaft C
+EigenschaftD
+EigenschaftE
+EigenschaftF
+Bild2ZusammenhangezwischenGegenstand,Begriff,BenennungundDefinition
+DerZusammenhangwird inBild3amBeispiel,Stuhl"erlautert.
+AlleStuhle(Gegenstandsebene)haben diegemeinsamen Eigenschaften,mit Lehne",,mit Sitzflache"und,fur
+einePersonDiesegemeinsamenEigenschaftenwerdenzuMerkmalendesBegriffs,Stuhl".IndividuelleEigen-
+schaften, die nicht bei allen Stuhlen zu finden sind, wie z.B.,mit Rollen",,mit Armlehnen" oder .gepolstert",
+werdennichtzuMerkmalendesBegriffs,Stuhl
+Begriff,Stuh!"
+Merkmala:mit Lehne
+Merkmalb:mitSitzflache
+Merkmalc:fureinePerson
+Gegenstand,Stuhl1"
+Gegenstand,Stuhl2"
+Gegenstand,Stuhl3"
+EigenschaftA:mitLehne
+EigenschaftA:mitLehne
+EigenschaftA:mitLehne
+EigenschaftB:mit Sitzflache
+EigenschaftB:mit Sitzflache
+EigenschaftB:mitSitzflache
+EigenschaftC:fureinePerson
+EigenschaftC:fureinePerson
+EigenschaftC:fureinePerson
+EigenschaftD:mit Rollen
+EigenschaftE:mitArmlehnen
+EigenschaftF:gepolstert
+Bild3-ZusammenhangezwischenGegenstandundBegriffamBeispiel,Stuhl"
+
+DIN2330:2022-07
+Begriff
+6.1Allgemeines
+Begriffe entstehen dadurch, dass Menschen das Gemeinsame an Gegenstanden erkennen und dieses zur
+Begriffsbildung und zur Begriffsabgrenzung nutzen. Gemeinsame Eigenschaften von Gegenstanden werden
+zuMerkmalen desBegriffs (sieheBild2 und Bild3).Der Begriff ist damit ein mentales Konstrukt, das
+es uns erlaubt, Gegenstande zu erkennen, einzuordnen und zu klassifizieren.Damit dienen Begriffe dem
+gedanklichenOrdnenderWeltsowiederVerstandigungunddemWissensaustausch.
+Begriffe sind nicht universell; sie sind gepragt von den Gegenstanden, die um uns herum existieren oder mit
+denenwirunsinunseremkulturellen,sozialenundtechnischenUmfeldbeschaftigen.Auchdann,wenndie
+Gegenstandeidentischsind,konnensiejenachsoziokulturellerGemeinschaftundTradition,aberauchjenach
+Fachgebiet, zu unterschiedlicherBegriffsbildung fuhren.Deshalb sindBegriffenicht inerster Liniean (ein-
+zelne)Sprachen gebunden,auch wenn sie imRegelfall durch Benennungen auf der sprachlichen Oberflache
+reprasentiertwerden.
+Begriffesind nichtmitimmateriellenGegenstandenzuverwechseln;BegriffeentstehenimmerauseinerAbs-
+traktion oder Verallgemeinerung von Gegenstanden.
+FurdieTerminologiearbeit sind Begriffebesonders wichtig,da siedas Wissendes entsprechendenFachgebiets
+reprasentieren.DaBegriffementaleObjektesind,missensiezurKommunikationundzumAustauschsichtbar
+gemacht werden.Reprasentanten in der naturlichen Sprache sind entwederBenennungen oder Definitionen
+(siehe Bild2).Aber auch beider OrganisationderTerminologiearbeit und bei der Verwaltungvon Benennun-
+gen ist der Begriff als Ordnungs- und Strukturierungselement unverzichtbar. Nur mit dem Bezug auf den Begriff
+konnensynonymeundmehrdeutigeBenennungenangemessenverwaltetwerden.
+6.2Allgemeinbegriff vs. Individualbegriff
+Die bisherigen Uberlegungen zu Begriffen beziehen sich auf Allgemeinbegriffe, d. h. auf Begriffe, die mehrere
+gleichartige Gegenstande reprasentieren. Die sprachliche Bezeichnung eines Allgemeinbegriffs ist die Benen-
+nung.
+Im Gegensatzzum Allgemeinbegriff reprasentiert ein Individualbegriff immer nur genau einen Gegenstand,
+der oft durch einen individuellen Orts- oder Zeitbezug gepragt ist. Zur sprachlichen Bezeichnung von Indivi-
+dualbegriffen werden Eigennamenverwendet.
+BEISPIEL
+Allgemeinbegriff (reprasentiertdurchBenennung):
+Dom, Schlacht, Kaiser
+Individualbegriff (reprasentiert durch Eigennamen):
+KolnerDom, VolkerschlachtbeiLeipzig,KarlderGrofBe
+6.3Merkmal
+Sowohl zur Begriffsbestimmung als auch fur das Ermitteln von Begriffsbeziehungen sind dieMerkmalevon
+BegriffenvongrundlegenderBedeutung.MerkmalegebendiejenigenEigenschaftenvonGegenstandenwieder,
+welche zur Begriffsbildung und -abgrenzung dienen.
+Merkmalesind durchAbstraktiongewonneneDenkeinheitenunddamitauch selbstBegriffe.
+,Lehne"und,Sitzflache" sind aber selbst auch wieder eigenstandige Begriffe.Das Merkmal ,mit Lehne"dient auch zur
+Unterscheidung der Begriffe,Stuhlund,Hocker"
+BeiderAuswahlvon Merkmalen zurBegriffsbestimmungmussdaraufgeachtetwerden,dasskeineMerkmale
+angegeben werden, die sich inhaltlich iberschneiden.
+
+DIN2330:2022-07
+BEISPIEL2
+Bei Angabe des Merkmals,poliert" eribrigt sich die Angabedes Merkmals.glatt".
+Da Merkmale Begriffe bestimmen und abgrenzen, werden sie vor allem fur das Formulieren von Definitionen
+benotigt, und zwar speziell fur das Formulieren von Inhaltsdefinitionen (siehe 7.2.2). Abgesehen von dieser
+zentralen Funktion kommen Merkmale in der Terminologiearbeit vor allem in folgenden Bereichen zum Ein-
+satz:
+Verwendung von Merkmalen bei der Benennungsbildung
+Sind die Merkmale eines Begriffs bekannt, so konnen siegenutzt werden, um transparente Benennungen zu
+bilden oder zu erkennen. Eine Benennung ist umso transparenter, je mehr Merkmale in ihr zum Ausdruck
+kommen.
+VerwendungvonMerkmaleninAbstraktionssystemen
+Merkmalekonnenverwendetwerden,umAbstraktionssystemezustrukturieren.Dasheift,diejeweiligeMerk-
+Externe elektronische Auslegestelle-Beuth-Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)-KdNr.227109-ID.HA5KVNJB060LDCW016C2WP0A.1-2022-06-18 11:00:05
+malart wird als Einteilungskriterium eingesetzt und gibtan, welches zusatzliche Merkmal zum Begriffsinhalt
+desOberbegriffshinzukommt,umdenUnterbegriffvomOberbegriffzuunterscheiden.
+BEISPIEL3Umvom Oberbegriff,Schrank"zum Unterbegriff,Holzschrank"zugelangen,wird dieMerkmalart,Werk-
+stoff"verwendet.Der Begriff,Holzschrank"hat dann das spezifische Merkmal,aus Holz".Wirdanschliefenddas Merkmal
+,fur Bicher"hinzugefugt (Merkmalart,Verwendung"),entsteht der Unterbegriff,Holzbicherschrank"auf der nachsten
+Abstraktionsstufe.DieBegriffsleiter,Schrank-Holzschrank-Holzbicherschrank"umfasstdreihierarchischangeordnete
+Begriffe, die sich in jeweils mindestens einem weiteren Merkmal unterscheiden; der Begriffsinhalt wird somitvon Stufe
+zu StufegrofSer.
+Die Merkmalart, die als Einteilungskriterium verwendet wird, muss in einer graphischen Darstellung der
+Zusammenhange nichtgenannt werden,steigertjedoch dieVerstandlichkeit und Nachvollziehbarkeit des
+entsprechendenAbstraktionssystems.
+6.4Begriffsinhalt, Begriffsumfang und Begriffsbestand
+Begriffsinhalt, Begriffsumfang und Begriffsbestand sind fur die Bestimmung von Begriffen und die Festlegung
+vonDefinitionen (siehe Abschnitt7)notwendig.DerBegriffsinhalt umfasstalle MerkmaleeinesBegriffs;
+der Begriffsumfang umfasst alle auf derselben Hierarchiestufe stehenden Unterbegriffe; der Begriffsbestand
+umfasstalleaufderselbenHierarchiestufestehendenTeilbegriffe.
+DemUmfangnachwirdzwischenengerenundweiterenBegriffenunterschieden,wobeiderengereBegriffnur
+einenTeil derunterdenweiterenBegrifffallendenGegenstandeumfasst.
+Die Einengung eines Begriffs wird durch Hinzufugen von einschrankenden Merkmalen zum Begriffsinhalt des
+Begriffs erreicht.Jegrofer der Begriffsinhalt ist, d.h.jemehr Merkmale einen Begriff charakterisieren, desto
+kleiner werden sein Umfang und die Menge der Gegenstande, die unter diesen Begriff fallen.
+BEISPIEL
+DerBegriffsinhalt von,Personenkraftwagen"entsprichtdem von,Kraftwagen"mit dem zusatzlichenMerkmal,zur
+BeforderungvonnichtmehralsneunPersonen (einschlieflichFahrer):
+Zum Begriffsumfang von,Personenkraftwagen"gehoren u.a. Limousine, Coupe und Cabriolet.
+Der Begriffsbestand von,Kraftfahrzeug" besteht aus Fahrwerk, Karosserie, Antrieb, Elektrik/Elektronik.
+Siehe Bild 4.
+
+DIN2330:2022-07
+Kraftfahrzeug
+Kraftwagen
+Fahrwerk
+Kraftrad
+Zugmaschine
+Karosserie
+Antrieb
+Personenkraftwagen
+Nutzkraftwagen
+Elektrik/
+Elektronik
+Coupé
+Limousine
+Cabriolet
+Lastkraftwagen
+Omnibus
+Bild4-Begriffssystem,Kraftfahrzeug"
+6.5
+Begriffsbeziehung
+6.5.1
+Arten von Begriffsbeziehungen
+Begriffe stehen in Beziehung zu anderen Begriffen. In der praktischen Terminologiearbeit wird zwischen hier-
+archischenund nichthierarchischen Begriffsbeziehungenunterschieden.
+6.5.2
+Hierarchische Begriffsbeziehung
+Begriffekonnen schrittweise in untergeordnete Begriffeunterteilt oderumgekehrtzu ibergeordneten Begrif-
+fenzusammengefasstwerden.Zwischen den ubergeordnetenunduntergeordnetenBegriffenbestehenhierar-
+chische Begriffsbeziehungen.EsgibtzweiFormen hierarchischer Begriffsbeziehungen:
+dieAbstraktionsbeziehung, bei der sich der untergeordnete Begriff (Unterbegriff) in mindestenseinem
+zusatzlichen MerkmalvomubergeordnetenBegriff (Oberbegriff)unterscheidet
+BEISPIEL1
+Kraftfahrzeug
+Kraftwagen
+Personenkraftwagen
+Limousine
+dieBestandsbeziehung,beider sichderubergeordneteBegriff(Verbandsbegriff)aufeinen Gegenstand
+als Ganzes und die untergeordneten Begriffe (Teilbegriffe) auf die Teile dieses Gegenstands beziehen
+BEISPIEL2
+Kraftfahrzeug
+Fahrwerk
+Federung
+Schwingungsdampfer
+10
+
+DIN2330:2022-07
+6.5.3 Nichthierarchische Begriffsbeziehung
+Liegtbeieiner Begriffsbeziehungkeine Hierarchievor, weil z.B.temporale, kausale,pragmatische Zusammen-
+hange oder andere thematische Beziehungen in Betracht gezogen werden, handelt es sich um nichthierarchi-
+sche Begriffsbeziehungen.
+Wahrend fruher in der Terminologiearbeit fast ausschlieflich hierarchische Beziehungsarten bericksichtigt
+wurden, wird inzwischen erkannt, wie wichtig auch nichthierarchische Begriffsbeziehungen sind, um kom-
+plexefachliche Zusammenhange vollstandig und treffend abzubilden, insbesondere im Umfeld von Concept-
+Mapsund Ontologien.
+Welche Beziehungsart zur Darstellung begrifflicher Zusammenhange relevant ist, hangt stark vom untersuch-
+ten Fachgebiet ab.
+BEISPIEL
+Brot (wird produziert in) Backofen
+Frost (verursacht) Eis
+Ansaugen (folgtauf) Verdichten (folgtauf)Arbeiten (folgtauf)AusstofBen
+HNO-Arzt (behandelt) Tinnitus
+Computer(wirdbedientdurch)Tastatur
+WeitereBeziehungsarten,dieinderPraxiswichtigundnotwendigsind,werdenoftprojektspezifischfestgelegt
+und umgesetzt.
+WahrendfurhierarchischeBegriffsbeziehungen dieDarstellungsarten vorgegebensind (sieheDIN2331),gibt
+es bei den nichthierarchischen Begriffsbeziehungen verschiedene Moglichkeiten. In Concept-Maps und ahnli-
+chenFormatenwerdenoft (wiebeidenzuvorgenanntenBeispielen)Verbengenutzt,diedieArtderBeziehung
+zwischenzweiBegriffenausdricken,z.B.,enthalt",,liefert"oder,verursacht"
+6.6 Begriffssystem
+WerdenBegriffeunterbestimmtenGesichtspunktenzusammengestellt,geordnetundihreBeziehungenzuein-
+anderspezifiziert,soentstehenBegriffssysteme.Darinhat jederBegriff einebestimmtePosition,dieseine
+BeziehungzudenanderenBegriffendesSystemsfestlegt.
+Begriffssystemegehorenzuden Wissensorganisationssystemen.Sie sind engverwandtmitdenOntologien,
+die vor allem im Bereich der Informatik zur Reprasentation und Modellierung von Wissen benutzt werden.
+Zielsetzung beim Aufbau von Ontologien ist oft die Anwendung automatischer Verfahren zur Schlussfolgerung
+oderweiterenWissensgenerierungausdenerzeugtenStrukturen.
+Ein Begriffssystem
+dientderOrdnungvonWissen;
+bildetdieGrundlagefurVereinheitlichungundNormungderTerminologie;
+erleichtert das Formulieren von Definitionen;
+hilft bei der Bildung von transparenten Benennungen;
+ermoglichtdenVergleichvon Begriffen und Benennungen inverschiedenen Sprachenund damitdasIden-
+tifizierenkulturellerUnterschiede;
+11
+
+DIN2330:2022-07
+unterstitzt beim Entdecken von terminologischen Licken (Begriffs- und Benennungslucken).
+Um ein Begriffssystem zu erstellen, missen zunachst die erforderlichen Begriffe identifiziert, definiert und
+ihre Beziehungen zueinander herausgearbeitet werden. Dabei kommen in der Regel verschiedene graphische
+Darstellungsmethoden zur Anwendung. Welche Methode im Einzelnen angewendet wird, hangt von der Art
+undvonderZielrichtungdes Begriffssystemsab.
+FolgendeGrundsatzesolltenfurdieDarstellungvonBegriffssystemenbeachtetwerden:
+Ubersichtlichkeit: Die Darstellung eines Begriffssystems sollte so ubersichtlich wie moglich sein, um nicht
+zu hohe Anforderungen anKonzentration und Abstraktionsvermogen des Betrachters zu stellen.
+Eindeutigkeit:DieEinordnung jedes einzelnen Begriffs ins System sollteeindeutigerkennbar sein.
+Verstandlichkeit: Der Aufbau des Begriffssystems sowie die Anordnung der Begriffe sollten fur die Ziel-
+gruppe nachvollziehbarsein.
+Erganzbarkeit:BegrifflicheVeranderungenbzw.neueBegriffesolltensichohnegroerenAufwandeinfu-
+gen lassen.
+ZuArten,AufbauundDarstellungvonBegriffssystemensieheDIN2331.
+Definition
+7.1
+Zweck
+In Terminologiewissenschaft und Terminologiearbeit istdieDefinition von entscheidender Bedeutung,denn
+durch sie wird es moglich, Begriffe als Denkeinheiten in sprachlicher Form zu reprasentieren (siehe Bild 2).
+Eine Definition dient dazu, einen Begriff
+a)
+zu bestimmen,
+b)
+von anderen Begriffen abzugrenzen und
+c)
+ineinBegriffssystemeinzuordnen.
+7.2
+Definitionsarten
+7.2.1
+Allgemeines
+Definitionen konnen unter Bezug auf Begriffsinhalt, Begriffsumfang oder Begriffsbestand erarbeitet werden,
+sodass sichfolgendeDefinitionsarten ergeben:
+Inhaltsdefinitionen;
+Umfangsdefinitionen;
+Bestandsdefinitionen.
+DanebengibtesauchMischformendieserdreiDefinitionsarten.
+7.2.2 Inhaltsdefinition
+BeiInhaltsdefinitionenwirdeinBegriffdurchseineMerkmaledefiniert.Ausgehendvoneinembekanntenoder
+bereits definierten Oberbegriff werden diejenigen Merkmale angegeben,dieden zu definierenden Begriff spe-
+zifizieren und ihn vonanderenBegriffenderselbenAbstraktionsstufeabgrenzen.
+12
+
+DIN2330:2022-07
+BEISPIEL1
+Schach
+BrettspielfurzweiPersonen,diemitjesechzehnSchachfigureninzweiunterschiedlichenFarben,vonunterschiedlichem
+Wert und mitunterschiedlicherFunktionabwechselnd ziehenmitdemZiel,dengegnerischenKonigmattzusetzen
+BEISPIEL2
+Personenkraftwagen
+KraftwagenzurBeforderungvonnichtmehralsneunPersoneneinschlieflichFahrer
+ANMERKUNG
+Oberbegriff(bekanntoder
+Brettspiel
+Kraftwagen
+bereits definiert):
+fur zwei Personen, die mit je
+sechzehn Schachfigureninzwei
+unterschiedlichenFarben,von
+unterschiedlichem Wertundmit
+zurBeforderungvonnichtmehralsneun
+einschrankende Merkmale:
+unterschiedlicherFunktion
+PersoneneinschlielichFahrer
+abwechselnd ziehenmit demZiel,
+dengegnerischenKonig
+mattzusetzen
+Abgrenzung von Begriffen
+Mensch argere Dich nicht
+Nutzkraftwagen
+derselben Reihe:
+7.2.3
+Umfangsdefinition
+Bei Umfangsdefinitionen wird ein Begriff durch Aufzahlung aller seiner Unterbegriffe definiert, die innerhalb
+eines Begriffssystems aufderselben Hierarchiestufe stehen.
+BEISPIEL1
+Schachfigur
+Konig, Dame, Laufer, Springer, Turm, Bauer
+BEISPIEL2
+Kraftfahrzeug
+Kraftrad,Kraftwagen,Zugmaschine
+Umfangsdefinitionensind furdieTerminologiearbeitweniger geeignetals Inhaltsdefinitionen und nur dann
+zulassig,wenn die Anzahl der aufzuzahlenden Unterbegriffe überschaubar ist und diese definiert oder allge-
+mein bekannt sind.
+7.2.4Bestandsdefinition
+Bei Bestandsdefinitionen wird ein Begriff durch Aufzahlung aller seiner Teilbegriffe definiert, die innerhalb
+eines Begriffssystems aufderselben Hierarchiestufe stehen.
+BEISPIEL1
+Schachspiel
+Schachbrett und Schachfiguren
+BEISPIEL2
+13
+
+DIN2330:2022-07
+Kraftfahrzeug
+Fahrwerk,Karosserie,Antriebund Elektrik/Elektronik
+Bestandsdefinitionen sind fur die Terminologiearbeit weniger geeignet als Inhaltsdefinitionen und nur dann
+zulassig,wenn dieAnzahlderaufzuzahlenden Teilbegriffeuberschaubar istunddiesedefiniert oderallgemein
+bekannt sind.
+7.2.5MischformenvonDefinitionen
+IneinerMischdefinitionwerdengleichzeitigElementeunterschiedlicherDefinitionsartenverwendet.
+BEISPIEL1
+Schachspiel
+Brettspielfur zwei Personen, das aus Schachbrett und Schachfiguren besteht
+ANMERKUNG1IndiesemFall wird eineInhaltsdefinition (Oberbegriff und ein einschrankendesMerkmal)mit einer
+Bestandsdefinition (Teilbegriffe)gemischt.
+BEISPIEL2
+Kraftwagen
+Kraftfahrzeug,das entwederals Personenkraftwagen oderals Nutzkraftwagenausgefuhrt wird
+ANMERKUNG2
+In diesem Fall wird eine Inhaltsdefinition (Oberbegriff) mit einer Umfangsdefinition (Unterbegriffe)
+gemischt.
+7.3
+Anforderungen und Empfehlungen
+7.3.1
+Vorrangvon Inhaltsdefinitionen
+Da die Inhaltsdefinition imAllgemeinen diegrofte definitorischeErklarungsleistungbietet, wird ihre Anwen-
+dung besonders empfohlen.
+DasFormulieren einer Inhaltsdefinition setztdas Vorhandensein eines sinnhaften Oberbegriffs voraus; die
+Merkmale sollten so gewahlt und benannt werden, dass der zu definierende Begriff bzw. seine Abgrenzung
+zuanderen Begriffen deutlich wird.
+7.3.2Verwendung von Begriffen und ihren Benennungen in Definitionen
+Werden inDefinitionenBenennungen(z.B.beimBezugaufverwandteBegriffe)verwendet,dienichtallgemein
+bekannt sind, mussen die dazugehorigen Begriffe definiert werden.
+Bei den in Definitionen verwendeten Benennungen sollte es sich um Vorzugsbenennungen handeln.
+7.3.3Fachgebiets- und Zielgruppenbezug von Definitionen
+DefinitionensolltensichamFachgebietorientieren.DieineineDefinitionaufzunehmendenMerkmalemiussen
+fur das jeweilige Fachgebiet wesentlich sein.
+BEISPIEL1
+Wasser
+Definitionin derChemie:
+VerbindungvonzweiWasserstoffatomenmiteinemSauerstoffatom
+Definition in der Physik:
+geruchlose, geschmacklose, durchsichtige, in dicken Schichten schwach blaue Flussigkeit
+miteinem Gefrierpunkt bei o°C
+14
+
+DIN2330:2022-07
+Definitionen sollten sich an der Zielgruppe orientieren. Dabei sollte der zu erwartende fachliche und fach-
+sprachliche Kenntnisstand der Zielgruppebericksichtigt werden.
+BEISPIEL2
+Herzinfarkt
+Myokardinfarkt
+Gemeinsprachliche Definition furLaien:
+lebensbedrohlicheHerzerkrankung,verursachtdurcheinenplotzlichen
+vollstandigenVerschlusseinesHerzkranzgefafes
+Fachsprachliche Definitionfur Experten:
+akute Myokardschadigung in Zusammenhang mit einer myokardialen
+Ischamie
+7.3.4SystembezogenheitvonDefinitionen
+BeihierarchischenBegriffsbeziehungensolltesichdiePositiondesBegriffsim jeweiligenBegriffssysteminder
+Definitionwiderspiegeln.BeinichthierarchischenBegriffsbeziehungenkanndiesesKriteriumder Systembe-
+zogenheitnichtangewandtwerden.
+DiefolgendenBeispielebeziehensichauf dasBegriffssystem,Kraftfahrzeug"inBild4.
+Eine Inhaltsdefinition bringt die Systembezogenheit durch die Angabe des Oberbegriffs und der einschranken-
+den MerkmalezumAusdruck.
+BEISPIEL1
+Personenkraftwagen
+KraftwagenzurBeforderungvonnichtmehralsneunPersoneneinschliefslichFahrer
+Eine Umfangsdefinition bringt die Systembezogenheit durch die Angabe aller Unterbegriffe zum Ausdruck.
+BEISPIEL2
+Kraftfahrzeug
+Kraftrad,Kraftwagen,Zugmaschine
+Eine Bestandsdefinition bringt die Systembezogenheit durch die Angabe aller Teilbegriffe zum Ausdruck.
+BEISPIEL3
+Kraftfahrzeug
+Fahrwerk,Karosserie,Antrieb, Elektrik/Elektronik
+7.3.5
+Genauigkeitund Kirzevon Definitionen
+Eine Definition solltekurz,aber dennoch prazise sein.
+EineDefinitionsolltealleAngabenenthalten,diezur Beschreibung und Festlegungeines Begriffs imbetrachte-
+ten System notwendig sind; siedarf wederdurch das Weglassen von notwendigen Angaben zu weit noch durch
+das Hinzufuigen von unnotig einschrankenden Angaben zu eng werden.
+BEISPIEL
+Akkuschrauber
+netzunabhangiges Elektrowerkzeug
+Akkuschrauber
+netzunabhangigesElektrowerkzeugzumAnziehenvon Schrauben
+15
+
+DIN2330:2022-07
+Akkuschrauber
+netzunabhangigesElektrowerkzeugzumAnziehenundLosenvonSchrauben
+ANMERKUNGDie erste Definition ist zu weit, da es auch andere netzunabhangige Elektrowerkzeuge gibt, z.B.
+Akkuschleifer.Die zweite Definition ist zu eng,da Schrauben mit einem Akkuschrauber auch gelost werdenkonnen.Die
+dritte Definition erfullt das Kriterium der Genauigkeit.
+7.3.6AktualitatvonDefinitionen
+Definitionen missen regelmasig uberpruft und ggf. aktualisiert werden, da sich Begriffe im Laufe der Zeit ver-
+andernkonnen.
+BEISPIEL
+So wirde etwaeinefriheDefinition von Maus als Zeigeinstrumentbei Computern das Merkmal,mit Rollku-
+gel" enthalten,das heutekein Merkmal des Begriffs mehrist.
+Bei derUberprufungder Aktualitat von Definitionen muss auch sichergestellt werden, dass keine mittlerweile
+abgelehntenoderobsoletenBenennungenverwendetwerden(siehe7.3.2).ZudemsolltenWorterwie,neu",
+nalt',,neueste"nicht verwendet werden,damit dieDefinition uber einen langeren Zeitraum Gultigkeitbesitzt.
+7.3.7VermeidungvonNegativdefinitionen
+EineDefinitionsolltevorhandeneMerkmaledesBegriffsnennen,nichtfehlende
+BEISPIEL1
+Anhanger
+Fahrzeug ohne eigenen Antrieb
+Besser:
+Anhanger
+Fahrzeug,dasfurdieFortbewegung an einKraftfahrzeugangehangtwird
+Wenn der zu definierende BegriffselbsteineNegation enthalt,ist dieVerwendung von Negationen in derDefi-
+nition zulassig.
+BEISPIEL2
+schlisselloserMotorstart
+MotorstarteinesFahrzeugs, ohnedass ein Schluissel insZundschlossgestecktwird
+ANMERKUNGDiese Definition enthalt zulassigerweise eine Negation, dafur den Begriff,schlusselloser Motorstart"die
+Abwesenheitdes Merkmals,Schlussel"wesentlich ist.
+7.3.8Vermeidung von Synonymen als Definitionen
+Ein Begriff darf nicht durch ein Synonym seiner Vorzugsbenennung (sogenannte Nominaldefinition) definiert
+werden.
+BEISPIEL1
+Inbusschlissel
+Innensechskantschlussel
+ANMERKUNGInnensechskantschluissel ist einetransparentere Benennung,enthalt zudem keinen Markennamen
+(Inbus), ist aber dennoch kein Ersatz fur eine Definition.
+BEISPIEL2
+16
+
+DIN2330:2022-07
+dechiffrieren
+entschluisseln
+7.3.9VermeidungvonKontextdefinitionen
+EineKontextdefinitionumfassteinen Satz,indemdie(Vorzugs-)BenennungdeszudefinierendenBegriffsvor-
+kommt und der z.B. Merkmale des Begriffs oder mit ihm verbundene andere Begriffe nennt. Da haufig kein
+Oberbegriffund nicht alle Merkmale genannt werden, kann eine Kontextdefinition keine (Inhalts-)Definition
+ersetzen.
+BEISPIEL
+Kraftfahrzeug
+Fur die rechtmafige Benutzung eines Kraftfahrzeugs ist in Deutschland der Besitz einer gultigen Fahrerlaubnis vorge-
+schrieben.
+7.3.1oVermeidungvonZirkelschlisseninDefinitionen
+Zweiodermehr Definitionendirfen nichtzirkular sein inderWeise, dassein Begriff durch einenodermehrere
+Begriffebeschriebenwird, diewiederummit Hilfe des Ausgangsbegriffsdefiniertwerden.
+BEISPIEL
+Textilindustrie
+Zweig der Wirtschaft, der Textilien produziert
+Textilien
+ProduktederTextilindustrie
+7.3.11VermeidungvontautologischenDefinitionen
+Es solltevermieden werden,zurDefinition einesBegriffs (nur)dieBestandteileseiner Benennungzuverwen-
+den.Eine solcheDefinition tragt nicht zur Erklarung des Begriffs bei, vorallem wenn die Bestandteile der
+Benennungunbekanntsind.
+BEISPIEL1
+Mitarbeitergesprach
+GesprachmiteinemMitarbeiter
+Besser:
+Mitarbeitergesprach
+Instrumentder Personalfuhrung,in dem die Beteiligten regelmafig oderbei Bedarf spezifische unddamitanlassbezo-
+geneInhaltebesprechen
+Geradebeitransparenten Benennungenlasstes sich jedochoftnichtvermeiden,trotzdem TeilederBenennung
+inderDefinitionzuverwenden.
+BEISPIEL2
+Allradantrieb
+Antrieb,deralleRadereinesKraftfahrzeugsantreibt
+17
+
+DIN2330:2022-07
+7.4
+Ubernehmen und VerfassenvonDefinitionen
+7.4.1(
+QualitatderQuellenvonDefinitionen
+Beim Ubernehmen und Verfassen von Definitionen missen einschlagige und fachlich anerkannte Quellen her-
+angezogen werden. Hierbei kann es sich um schriftliche (z. B. Normen, Fachliteratur) oder mindliche Informa-
+tionsquellen (z.B.Fachleute) handeln. Online-Wissensplattformen oder -Foren konnen ebenfalls als Quellen
+herangezogen werden,allerdings sollten die Informationen mit HilfeandererQuellen verifiziert werden.
+Oft missen ibernommene Definitionen gekirzt oder erganzt oder auch aus mehreren Quellen ,zusammenge-
+baut"werden.SicherheitshalbersolltenverandertewieauchselbsterstellteDefinitionendurchFachleutedes
+jeweiligenFachgebiets iberpriuft werden.
+UmdieHerkunftvonDefinitionenzudokumentieren,missen ihreQuellen angegebenwerden; diesgibtauch
+einen Hinweis auf Aktualitat und Qualitat der jeweiligen Definition.
+7.4.2EmpfehlungenfurdasFormulierenvonDefinitionen
+Die Definition als Beschreibung des Begriffs mit sprachlichen Mitteln kann auch als Gleichung zwischen dem
+Definiendum und dem Definiens gesehen werden.Das Definiendum entspricht dem zu definierenden Begriff
+dasWesendesBegriffesmittelseinerverbalenBeschreibung.SowohldieBenennungalsauchdieDefinition
+sind Reprasentanten desselben Begriffs (siehe Bild 2).
+BEISPIEL1
+Korpus
+Sammlungvon Sprachdaten, die zur Analysezusammengefuhrtwerden
+Definiendum
+Definiens
+Oft wird diese Gleichung beim Schreiben von Definitionen in einen vollstandigen Satz überfuhrt, wobei das
+Gleichheitszeichen durch ein ,ist" ersetzt wird. Vermieden werden sollten Formulierungen wie,bedeutet",
+,bezeichnet" oder,nennt man" statt des,ist",da sieauf eineBenennung hindeutenund nichtauf den Begriff.
+BEISPIEL2EineMausistein Zeigegerat, daseine zweidimensionaleBewegungrelativzueiner Oberflacheerkenntund
+diese in die Bewegung eines Zeigers auf einem Bildschirm umsetzt.
+Durch diese Art der Formulierung von Definitionen wird eine eindeutige Zuordnung von (bevorzugter) Benen-
+nung und Begriff vorgenommen. Wird die bevorzugte Benennung durch eine andere synonyme Benennung
+ausgetauscht, ist auch die Definition anzupassen bzw.zuersetzen.
+In der Normung wird üblicherweise kein ganzer Satz formuliert, sondern nur das Definiens zur Definition des
+Begriffs verwendet (siehe z.B.Definitionen in DIN2342 und die Definitionsbeispiele in diesem Dokument).
+BEISPIEL3
+Maus
+Zeigegerat, das eine zweidimensionale Bewegungrelativ zu einer Oberflache erkennt und diese in die Bewegung eines
+Zeigers aufeinem Bildschirmumsetzt
+DerVorteil dieser Formulierungsmethodeist, dass die Definition furalle synonymen Benennungen (einschliefs-
+lich SchreibvariantenundKurzformen)gilt,diedenselbenBegriff reprasentieren.Es ist alsokeineModifika-
+tion der Definition notwendig,wenn im Kontextder praskriptiven Terminologiearbeiteine andere (synonyme)
+Benennung als bevorzugte Benennung gewahlt wird.
+Die inder Normung ubliche Art des Schreibens von Definitionen sowie diefolgenden Festlegungen werden
+haufig auch vonInstitutionen und Unternehmenzur Sicherstellungeinereinheitlichen Formulierungvon Defi-
+nitionenubernommen:
+dieDefinitionbeginntnichtmiteinemGrofbuchstaben(auferbeiSubstantiven);
+18
+
+DIN2330:2022-07
+die Definition beginnt nicht mit einem Artikel;
+dieDefinitionendetnichtmiteinem Interpunktionszeichen;
+die Definition beschreibt den Begriff in der Regel im Singular.
+Eine unter Bericksichtigung dieserFestlegungen formulierte Definition kann die Benennung in einem Text
+ersetzen.
+DieArtderFormulierungvonDefinitionensolltefurdas jeweiligeorganisatorischeUmfeldfestgelegtunddie
+Anforderungenund Methodenfur dieAuswahl und dasVerfassen vonDefinitionen in einem Leitfadenfestge-
+haltenundspezifiziertwerden, umkonsistenteundgenaueDefinitionenbeiderTerminologiearbeitsicherzu-
+stellen.
+Benennung
+8.1Allgemeines
+Benennungen sind sprachlicheBezeichnungenvon AllgemeinbegriffenausFachgebieten.Zur Abgrenzung von
+Bezeichnung,NameundBenennungsieheDIN2342.
+Benennungen sind in der Terminologiearbeit insbesondere in zwei Fallen von Interesse:
+a)
+wenn es darum geht, unter mehreren in einem Fachgebiet vorgefundenen Benennungen fur ein und den-
+selben Begriff eine Vorzugsbenennung festzulegen; entsprechende Kriterien zur Bewertung von Benen-
+nungen werden in 8.2 dargestellt;
+b)
+wenn es darum geht, in einem Fachgebiet Benennungen neu zu bilden; Verfahren und Grundsatze zur Bil-
+dung von Benennungen werden in8.3 dargestellt.
+8.2
+Kriterien zurBewertung von Benennungen
+8.2.1 Allgemeines
+Im Rahmen der praskriptiven Terminologiearbeit sind bei der Bewertung vorgefundener Benennungen in
+einem Fachgebiet oder bei der Neubildung von Benennungen die in 8.2.2bis 8.2.10 genannten Kriterien anzu-
+wenden.DadieeinzelnenKriterienunterschiedlicheundzumTeilgegensatzlicheZieleverfolgen (siehe8.2.11),
+konnen sie nicht alle gleichzeitig umgesetzt werden.
+8.2.2 Sprachliche Richtigkeit
+Benennungen mussen den grammatischen, morphologischen und orthographischen Regeln der deutschen
+Spracheentsprechen.
+BEISPIEL1
+elektronischgeregelteFahrwerksabstimmung (nicht: elektronischegeregelteFahrwerksabstimmung)
+BEISPIEL2
+Karosserierohbau (nicht:KarosserieRohbau)
+8.2.3
+Gebrauchlichkeit
+Benennungen sollten im jeweiligenFachgebietbekanntundgebrauchlich sein.
+DieGebrauchlichkeitentsprichtderVerwendungshaufigkeiteinerBenennungineinembestimmtenFachge-
+biet oder situativen Kontext (z.B.Firma, Abteilung).Bei der Uberprufung der Gebrauchlichkeit sollte daher
+beriucksichtigt werden, in welchen Textsorten und Quellen die jeweilige Benennung verwendet wird.
+BEISPIEL1
+Die Benennung,Computer"ist gebrauchlicher als die synonyme Benennung,Rechner".
+19

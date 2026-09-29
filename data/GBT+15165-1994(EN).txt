@@ -1,0 +1,874 @@
+UDC 725.31/.33:001.4 S 04
+@ National Standard of the People- s Republic of China
+GB/T 15165-94
+Terminology for railway station and terminal
+铁路车站及枢纽术语
+English Translation )
+Issue date: 1994-08-12
+Implementation date: 1995-05-01 Issued by The State Bureau of Quality and Technical Supervision
+
+
+
+GB/T  15165-94
+Contents
+Foreword
+Subject and scope 2 Normative references
+3
+Basic concepts
+4
+Intermediate station
+9
+5
+District station
+6
+Marshalling station Hump 8 Passenger station , passenger facilities and passenger car servicing depot 9 Freight station, yard and freight facilities 10 Industrial station,harbor station, transshipment station 11 Railway terminal Annex English index supplementary二
+16
+20
+28
+32
+36
+39
+42
+
+
+
+GB/T  15165-94
+Foreword
+Standards and Metrology Research Institute of China Academy of Railway Sciences Corporation Lim- ited is in charge of this English translation.In case of any doubt about the contents of English transla- tion,the Chinese original shall be considered authoritative。
+
+
+
+GB/T  15165-94
+Terminology for railway station and terminal
+Subject and scope
+This standard specifies terms commonly used for railway station and terminal。
+This standard is applicable to the design , construction , operation of railway stations and terminals be- longing to national , local and industrial enterprises, as Well as scientific research, teaching , publication and other aspects
+2
+Normative references
+GB 7179 , Terminology for railway freight traffic
+GB 8568 , Vocabulary for train operation
+GB/T 13317 . Vocabulary for railway passenger transport
+GBJ 91 . Specifications for design of railway station terminals
+TB 1352, Vocabulary for railway line
+TB 1353 , Vocabulary of turnouts and crossings
+TB 2107, Technical classification conditions for railway marshalling station and section station
+3
+Basic concepts
+3.1 intermediate train distancing point
+dividing point of adjacent sections or block sections Which are set on the main line of railway in order to ensure safe operation and necessary passing capacity
+intermediate train distancing point includes:
+
+GB/I 15165-94
+intermediate train distancing point without station track-block signal machine of automatic block section and block post
+b)
+intermediate train distancing point with station track-station。
+3.2 railway station
+3.2.1
+intermediate station
+station that is generally located between two technical stations to handle reception and departure and passing of trains, shunting of wayside freight trains, transport of passenger and goods, etc。 and is equipped with arrival-departure tracks and passenger and freight facilities
+3.2.2
+district station
+station having equipment used for receiving and dispatching trains, shunting , locomotive servicing and vehicle maintenance, which is located at the dividing point of traction sections of the railway network,and generally functions to handle break-up and marshalling of district trains and wayside freight trains, change of locomotives and/or Crews,and to carry out technical maintenance to the wagon,as well as inspection and sorting to freight transport,in addition to transit wagons without shunting
+3.2.3 marsha lling Station
+station having special receiving yard , departure yard。 marshalling yard ,humping equipment,and other equipment used for locomotive servicing and vehicle maintenance- Which performs great deal of work including break-up and marshalling of trains, marshalling of through goods trains, transit trains and other trains,as Wellas change of locomotives and/or crews, technical maintenance to the wag- On as Well as inspection and sorting to freight transport
+3.2.4
+passenger station
+station that is specially designed to handle transport of passengers which mainly consists of passen- ger buildings, station square and yards and performs work including passenger inquiries, ticket sales- signing transfer, waiting for the train , boarding and alighting and other travel formalities, acceptance for carriage. storage , loading and unloading.transit and delivery of baggage and parcels,as Well as ar- rival . departure , and passing of passenger trains, taking-out and placing-in of passenger train under- body and other technical operations
+
+GB/T  15165-94
+3.2.5 freight station
+station dedicated specially Or partly to handle freight business or station, mainly including vehicle ac- ceptance , loading , unloading , delivery ,and transfer of goods, receiving and departure of freight trains and taking-out and placing-in of wagons,and it is mainly provided with arrival-departure tracks, shun- ting tracks,and shunting neck for freight trains and goods yards
+3.3 block post
+intermediate train distancing point where there are no other station tracks except the main line,and Which only handles blocking , receiving and dispatching of trains instead of passing , overtaking , etc
+3.4 aUX iliary block post
+block post located at the railway connection of the section and the siding, which cannot be taken as an intermediate train distancing point and cannot handle train blocking procedures with adjacent sta- tions,and in case the train to enter and leave the siding occupies the main line of the section, the turnout Will be controlled by the station to Which the auxiliary block post belongs
+3.5 railway terminal
+entity at the intersection or terminal of more than two trunk or branch lines , Which consists of one or several specialized stations including passenger stations , freight stations,and marshalling stations- under unified dispatching and  coordination, and corresponding railway equipment including main lines , tracks for trains to go into Or leave the station , connecting lines, bypass lines,and loops
+3.6 station track
+3.6.1 main line
+line that connects to a station and runs through Or directly into a station Via a Section
+3.6.2
+station track
+tracks other than the main lines in the station, including arrival-departure tracks , shunting tracks, goods tracks, shunting neck,and other tracks that are designated to be used for other purposes
+
+GB/I 15165-94
+3.6.3 arrival-departure track
+track used for handling arrival or departure of passenger or freight trains
+3.6.4 shunting track
+track used for breaking-up and marshalling of trains and car accumulation
+3.6.5 shunting neck
+track used for pulling train sets out of a track or transferring the train sets from one track to another。 break-up or marshalling of train sets, taking-out and placing-in of wagons,etc
+3.6.6 depot siding
+track located in vehicle depot , track maintenance depot , communication and signaling depot and other depots. for the use and management by that depot
+3.6.7 industrial siding
+track that is specially designed to connect to the railway in a section or station and g0 to units fac- tory and mine enterprises , quarries , harbors , Wharves warehouses,etc
+3.6.8 center line of track
+center line between the two inner rails of a railway track excluding gauge widening value;
+3.6.9 distance between tracks
+distance between the center lines of two adjacent tracks
+3.6.10 total length of track
+length of track calculated from the turnout stock rail joint at one end of the station track to the turn- out stock rail joint through line O1 bumper post (stub-type line) at the other end
+
+GB/T  15165-94
+3.6.11 effective length of track
+length of track that is located within the station along full length of the station track,on Which rolling stock can park
+3.6.12 length of track laid out
+full length of the track minus the length of all turnouts on the track
+3.7 railway clearance
+3.7.1 clearance of locomotives and vehicles
+the maximum Width and height of different parts of the rolling stock and the minimum distance from the parts of the rolling stock to rail top as specified; that - S. Cross-Sectional contour perpendicular to the center line of the track all protruding parts and suspension parts except for the raised panto- graph) beyond the body of any newly built rolling stock or a variety of empty or loaded wagons With maximum tolerance Or wear When parked on straight and level tracks , must be accommodated in this ContoUr
+3.7.2 approaching clearance
+distance that must be maintained between the tracks on one hand and all buildings and/or equipment close to the railway as specified on the other hand; that S, Cross-Sectional contour perpendicular to the center line of the track other equipment and buildings except for rolling stock and equipment wagon retarder, tablet exchanger contact wire,etc) that interacts With rolling stock are not a1- lowed to intrude in this contour
+3.8 fouling post
+sign placed in the middle of the two convergence tracks to prevent side collision between the rolling stock parked on one track and the rolling stock on the adjacent track at the convergence of the two tracks
+3.9
+water crane
+equipment specially used to supply water to a tender attached to the steam locomotive
+
+GB/I 15165-94
+3.10 bumper post
+device that is located at the end of the stub-type track to provide a means of stopping trains coming Off the end of the track
+3.11
+turnout
+3.11.1 simple turnout
+turnout Where the main track is straight line,and the siding bifurcates from main track to left or right side
+3.11.2 symmetrical turnout
+turnout where the straight track is diverted into tWo tracks that are left-right symmetric or left-right asymmetric ,also known as symmetrical double turnout
+3.11.3 three-throw turnout
+turnout Where the main track is straight line,and two switch machines are used at the same part to divert the main track into three tracks Which are symmetrically or asymmetrically bifurcated on both sides
+3.11.4 slip switch
+switch combining two opposite simple turnouts on different sides of a straight track
+3.11.5 method of indicating the center line of turnout
+method of expressing the turnout by the center line of the turnout bifurcation track and its intersec- tion angle in the design of yard
+3.11.6 turnout number
+cotangent of turnout frog angle,namely , the ratio of the length of heel end of frog to the heel end off-
+
+GB/T  15165-94
+set , Which is also known as frog number
+3.11.7 main line of turnout
+straight line in a single turnout or three-throw turnout or track in the main direction in other turnouts
+3.11.8 siding of turnout
+track bifurcated from main track of the turnout
+3.11.9 lead curve of turnout
+circular curve in the turnout that connects the switch part and the frog part
+3.11.10 center of turnout
+intersection of the center line of the turnout main track and the straight center line of the siding of turnout
+3.12 line connection
+3.12.1 connection at ends of tracks
+connection method that converges two adjacent tracks into one track in design of the yard;in case two adjacent tracks converge into one track With Wide spacing. the inverse curve of the connecting line and a Set of turnouts are Used to result in a shortened terminal connection,in order to shorten the connection length
+3.12.2 CrosSOVer
+path Where the rolling stock can get from one track to another both tracks are adjacent and parallel Ornot parallel to each other) , including ordinary crossover double crossover,and shortened crossover
+3.12.3 ladder track
+track that connects several parallel tracks on a common line , Which , according to the arrangement of
+
+GB/I 15165-94
+the positions of each turnout may be divided into straight ladder track, shortened ladder track and multiple ladder track
+3.13 track by paralled shift ing apart
+parallel shifting of one of the two parallel tracks in the station in case platform or other building needs to be built on certain section between the two parallel tracks and the distance between the tracks need to be changed for certain operation; the shifted track and the original track are connected using a reverse curve and an intermediate straight line
+3.14 Crossing
+equipment used to allow two tracks in the same plane to intersect , Which ,according to the intersec- tion angle and plane shape of the two tracks, may be divided into right-angle crossing and diamond crossing
+3.15 yard
+yard that is constructed by connecting two ends of the tracks handling the same operations with lad- der tracks; according to its intended purpose,it is divided into receiving/departure yard , receiving yard。 departure yard and marshalling yard; according to its shape, it may be divided into trapezoidal yard ,non-isosceles trapezoidal yard , parallelogram yard and fusiform shape yard
+3.16 station site
+site Where the station track is set on the horizontal and longitudinal sections of the main railway line
+3.17 length of station site
+length of site that is required for constructing station track on the horizontal and longitudinal sections of the main railway line , according to the station layout pattern, number of arrival-departure tracks. effective length of arrival-departure track,and length of throat,etc_
+3.18 yard subgrade
+ground engineering structure below the station track, which may be divided into single-sided sub- grade , double-sided subgrade or sawtooth-shaped subgrade from the view of its shape, according to
+
+GB/T  15165-94
+the drainage requirements , width of the subgrade and the excavation condition
+3.18.1 subgrade surface
+surface containing the covered part of the station track bed and the shoulders on both sides
+Width of subgrade surface Within the station is B=K + E+ K2
+where
+E
+is the sum of the spacing between tracks;
+K1 ,K2 are the Width calculated from the outermost track center line to the edge of the shoulder。
+3.18.2 elevation of yard subgrade
+elevation of the subgrade of the center line of the yard track
+3.19 drainage facilities of yards
+facilities installed in the yard to drain surface water from the subgrade or lower groundwater Which may be divided into longitudinal and transverse drainage facilities
+4
+Intermediate station
+4.1 passing station
+station located on single-track railway , Which mainly handles the crossing of two opposite trains and the overtaking of trains running in the same direction, with a small amount of passenger and goods business , instead of loading and unloading of wagonload goods and the shunting of pick-up goods wagons
+4.2
+overtaking station
+station located on double-track railway , Which mainly handles receiving , dispatching and overtaking of trains, with small amount of passenger boarding and alighting .and operations of baggage and part- load,etc. instead of loading and unloading of wagonload goods and the shunting of pick-Up goods wagons
+
+GB/I 15165-94
+4.3 water supply station
+intermediate station that supplies water to locomotives
+4.4
+front station terminal
+station located at the entrance to railway terminal
+4.5 station for picking up and detaching auxi liary locomotive
+station Where additional auxiliary locomotives are attached to or detached from the train,in the sec- tion Where the train is towed by two Or more locomotives
+4.6
+train technical inspection station
+station located ahead of the long and steep downhill section for inspection of train brake and replace- ment of brake shoe
+4.7
+station for cool brake
+station Where the train briefly stops to allow the overheated brake shoe to cool down after applica- tion of brake on long and steep downhill section
+4.8
+type of intermediate station
+4.8.1 intermediate station with paralled arrangement
+intermediate station Where the arrival-departure tracks in up and down directions are arranged in par- allel
+4.8.2 intermediate station with longitudinal arrangement
+intermediate station where the effective length of arrival-departure tracks in up and down directions is staggered 10
+
+GB/T  15165-94
+4.8.3 intermediate station with half longitudinal arrangement
+intermediate station Where the effective length of arrival-departure tracks in up and down directions is staggered
+4.9
+single routes
+arrival-departure track route that only receives and dispatches trains running in either up direction or down direction
+4.10
+double routes
+arrival-departure track route that receives and dispatches trains running both in up and down direc- tions
+4.11 catch siding
+route separation device that is designed to prevent collision accident in case one train Or rolling stock running one a track transfers to another track occupied by another train or rolling stock
+4.12 refuge siding
+stub-type track or turn-around track on steep uphill in a section Or station.that is calculated and de- termined according to the track gradient and the terrain,in order to prevent the train that is out of control from clashing or overturning When running on long and steep downhill
+5
+District station
+5.1
+the district station without marshalling operation for break-up and make-up of train
+district station that does not handle resorting of trains except for supply of locomotives and han- dling of transit wagons without shunting二 Or only deals with servicing of pick-up and drop-off trains 11
+
+GB/I 15165-94
+5.2
+the district station with marshalling operation for break-up and make-up of train
+district station that handles resorting of district trains, pick-up and drop-off trains and a small number of transit trains and through goods trains,in addition to supply of train locomotives and handling of transit wagons Without shunting
+5.3 paralled arrangement district station
+district station Where the receiving/departure yards for passenger and freight trains in up and down directions and the marshalling yard are arranged in parallel
+5.4
+longitudinal arrangement district station
+district station where the tWo receiving/departure yards for freight trains in up and down directions are all staggered on both sides of the main line, with a Shared marshalling yard arranged longitudinally With the receiving/departure yard in the direction involving large amount of workload
+5.5 passenger train and freight train yard longitudinal arrangement
+district station where the receiving/departure yard for passenger trains is arranged longitudinally With the receiving/departure yard for freight trains and the marshalling yard
+5.6
+locomotive facilities
+5.6.1
+locomotive depot
+depot where allocated locomotives are provided and which handles operation , servicing and mainte- nance of locomotives
+5.6.2
+locomotive roundabout depot
+depot without allocated locomotives, which handles servicing of locomotives instead of maintenance of locomotives 12
+
+GB/T  15165-94
+5.6.3 point of locomotive running preparation
+place where there are no allocated locomotives but servicing of auxiliary locomotives, shunting loco- motives.and district transfer trains are performed
+5.6.4
+locomotive roundabout depot
+place Where partial servicing of district transfer trains and auxiliary locomotives is performed
+5.6.5 locomotive combined depot
+depot Where there are tWo or more types of traction locomotives and which handles operation, main- tenance and servicing
+5.6.6
+depot track
+5.6.6.1
+locomotive running track
+track that is specially designed for locomotives to run in a station and depot
+5.6.6.2
+locomotive wait ing track
+track used for detaching and attaching ,turning around and temporary stop of train lead locomotive
+5.6.6.3 track for going out and coming into the locomotive depot
+track located between the depot and the station for the locomotive to come into and go out of the depot
+5.6.6.4 servicing siding
+track on Which the locomotive may stop for servicing
+13
+
+GB/I 15165-94
+5.6.6.5 wai ting track on duty
+track on Which the locomotive on duty is waiting to go out of the depot
+5.6.6.6 turn-around wye
+equipment consisting ofa Wye and the corresponding turnout stub-type line for the locomotive to change direction in the depot
+5.6.6.7 turn-around track
+equipment consisting of a loop for the locomotive to change direction in the depot
+5.6.6.8 turning jack
+equipment consisting of a bridge-type rotary trolley in the depot for the locomotive to change direc- tion
+5.7 vehicle equipment
+5.7.1 Vehicle depot
+place that handles repair of passenger and freight trains in the depot , temporary detachment of some of the wagons , maintenance of service equipment and machines and tools within the depot , supply of required materials and accessories,etc。
+5.7.2 vehicle repair place
+place that handles technical inspection, brake testing and general maintenance without detaching wagons of various freight trains
+5.7.3 vehicle repair track at station
+place that handles auxiliary repair, inspection With removing axle box and temporary repair With de- taching wagons 14
+
+GB/T  15165-94
+5.8 operation route
+route passed When the rolling stock runs Or is involved in shunting in the station
+5.8.1 parallel route
+route on Which two Or more operations can be carried out in parallel simultaneously in throat
+5.8.2 Cross route
+route Where two operations cannot be carried out simultaneously in throat of station because the two operations are in conflict with each other
+5.9 passing capacity of station
+number of freight trains and passenger trains received and dispatched day and night in the station With existing equipment using reasonable technological processes
+NOTE Passing capacity of station includes passing capacity of throat and arrival-departure track。
+5.9.1 passing capacity of throat
+number of freight trains and passenger trains received and dispatched in all directions day and night in throat of station, Which is the sum of the passing capacity of throat points on all routes in throat
+5.9.1.1 throat of station
+Section Where the turnouts at both ends of the yard orthe entire station converge
+5.9.1.2 throat points
+busy turnout point ) Where the operations performed day and night on the receiving dispatching 二 route in a certain direction in the throat area take up the most time
+5.9.1.3 passing capacity of throat points
+number of freight trains and passenger trains received dispatched ) in a direction day and night 15
+
+GB/I 15165--94
+through the throat point on receiving dispatching二 route in that direction
+5.9.2 passing capacity of arrival-departure track
+number of freight trains and passenger trains received and dispatched in all directions day and night on the track that handles train arrival and departure in the receiving yard, departure yard , through yard Or receiving/departure yard
+5.9.3 station final capacity
+capacity determined for the controlled device through comprehensive analysis or readjustment of the calculated passing capacity of the throat and the arrival-departure track
+6
+Marshalling station
+6.
+network marshalling station
+station located at the junction of more than three major trunk railways within the railway network, Which handles a great deal of sorting of transit wagons and marshalling of a large number of long-dis- tance technical through trains and transit trains
+6.2 regional marshall ing station
+station located at the junction of more than three railways within the railway network, which handles great deal of sorting of transit wagons and marshalling of a large number of technical through trains and transit trains
+6.3 local marshalling station
+station located at the junction of trunk railways and branch lines, which mainly handles sorting of I0- cal wagons and marshalling of a certain number of trains in through sections , pick-up and drop-off trains and district transfer trains
+6.4 terminal main marshalling station
+station used for sorting of transit wagons With shunting within railway network for the purpose of mainly breaking up through goods trains and transit trains Where there are tWO Or more marshalling 16
+
+GB/T  15165-94
+stations within a railway terminal
+6.5 terminal auxi liary marshall ling station
+station Which mainly functions to break up regional district transfer trains and plays a subsidiary role in operations of main marshalling stations Where there are tWo or more marshalling stations within railway terminal,and also deals with marshalling of a small number of through goods trains in some Cases
+6.6 single direction marshalling station
+marshalling station where there is only one set of system of shunting in up and down directions
+6.6.1 unidirectional transversal type marshalling station
+marshalling station where the receiving/departure yard shared in up and down directions and the shared marshalling yard are arranged in parallel
+6.6.2 unidirectional longitudinal type marshalling station
+marshalling station where the receiving yard , marshalling yard and departure yard shared in up and down directions are arranged in sequence
+6.6.3 unidirectional combined type marshalling station
+marshalling station Where the receiving yard shared in up and down directions and the shared mar- shalling yard are arranged longitudinally , and the departure yard in up and down directions and the shared marshalling yard are arranged horizontally
+6.7 double direction marshalling station
+marshalling station Where a set Of system of shunting is provided respectively in up and down direc- tions
+6.7.1 bidirectional transVersal type marshalling station
+marshalling station where the receiving/departure yard respectively in up direction and down direc- 17
+
+GB/I 15165--94
+tion and marshalling yard are arranged horizontally ,and the two systems of shunting are arranged in parallel
+6.7.2 bidirectional longitudinal type marshalling station
+marshalling station where a set of system of shunting is provided in sequence respectively in Up di- rection and down direction
+6.7.3 bidirectional combined type marshalling station
+marshalling station Where a set of system of shunting is provided respectively in up direction and down direction,among Which, one of the systems of shunting is arranged longitudinally and the other one is arranged in a mixed manner or both systems are arranged in a mixed manner
+6.8 yard
+6.8.1 receiving yard
+yard where the trains for break-up operations are received
+6.8.2 departure yard
+yard Where the trains depart
+6.8.3 receiving/departure yard
+yard Where the trains arrive and depart
+6.8.4 through yard
+yard that handles operations of trains in transit Without shunting
+6.8.5 marshalling yard
+yard that handles break-up,accumulation, and marshalling operations of transit wagon with shunting, local operation wagons,etc. 18
+
+GB/T  15165-94
+6.8.6 aUX iliary yard
+yard that is specially designed to handle break-up operations of pick-up and drop-off train and local or terminal transfer trains in adjacent sections
+6.8.7 marshalling-departure yard
+yard consisting of shunting tracks that are used to handle accumulation , marshalling and departure Op- erations of trains
+6.8.8 transferred yard
+yard used to store wagons to be transferred from one system of shunting to another
+6.9 system of shunting
+operating system consisting of receiving yard (or pushing track) , hump, marshalling yard (Or mar- shalling-departure yard) , shunting neck,and departure yard (or without departure yard in certain ca- SeS etc
+6.10 route for receiving and dispatching train
+6.10.1 opposite arrival
+arrival Of received train for break-up from the opposite direction towards the hump ,through the exit throat of the receiving yard ahead of the hump
+6.10.2 opposite departure
+departure of a train from the opposite direction towards the hump, from the entrance throat of the departure yard
+6.10.3 circular receiving
+receiving Of received train for break-up from the opposite direction towards the hump, at the eh- 19
+
+GB/I 15165--94
+trance throat of the receiving yard ahead of the hump, through a loop
+6.10.4
+circular departure
+departure of a train from the opposite direction towards the hump,through the loop at the exit throat of the departure yard
+1
+Hump
+7.1
+type of hump
+big capacity of hump , middle capacity of hump and small capacity of hump, according to the degree of break-up ability; automatic hump, semi-automatic hump, mechanized hump and non-mechanized hump,according to the modernization level of hump technical facilities
+7.1.1 large capacity of hump
+hump that is capable of breaking up more than 4 O00 wagons in a day and night,and equipped with more than 30 shunting tracks and advanced hump technical facilities
+7.1.2 medium capacity of hump
+hump that is capable of breaking up more than 2 000 wagons in a day and night, and equipped with more than 20 shunting tracks and relatively advanced hump technical facilities
+7.1.3 small capacity of hump
+hump that is capable of breaking up less than 2 000 wagons in a day and night,and equipped with less than 20 shunting tracks and relatively advanced or simple hump technical facilities
+7.1.4
+automatic hump
+hump that implements automatic control of car rolling route, car rolling speed,and locomotive push- ing up operation at hump 20
+
+GB/T  15165-94
+7.1.5 semi-automatic hump
+hump that implements semi-automatic control of car rolling route and car rolling speed,or uses shun- ting locomotive remote control equipment
+7.1.6 mechanized hump
+hump that sets a retarder braking location at hump rolling section , implements automatic concentra- tion of turnout control,and uses brake shoe in shunting track
+7.1.7
+non-mechanized hump
+hump that sets no retarder braking location at hump rolling section , implements automatic concentra- tion or manual control of turnout,and uses brake shoe in shunting track
+7.2
+hump elements
+7.2.1
+hump crest
+point of gradient change between the platform of hump crest and the accelerating grade
+7.2.2 calculating point of hump
+place that ensures the hard running car can roll to certain point and park at this point on hard run- ning track in the marshalling yard , or reach a certain speed under unfavorable condition for car rolling- When determining the height of the hump; the calculating point of hump should be determined ac- cording to the speed control systems
+7.2.3 pushing section of hump
+track range where the entire length of the train that breaks up through the hump is allocated , when the first car of the train is at the beginning of the platform of hump crest
+7.2.4 rolling section of hump
+track range that is calculated from the hump crest to the calculating point of hump
+21
+
+GB/I 15165-94
+7.2.5 platform of hump Crest
+section of flat slope that connects the pushing section of hump and the rolling section of hump;it is called the net platform when excluding the tangent of the vertical curves at both ends
+7.2.6 separation point
+place Where the car,after separating from the train in the case of break-up at the hump , begins to roll freely under the action of its own gravity
+7.2.7 hump height
+difference between the elevation of the hump crest and the elevation of rail tOP at the calculating point of hump
+7.3 hump track
+7.3.1 pushing track
+track section that is calculated from the beginning (Or fouling post二 of the outermost turnout at exit throat of receiving yard to the beginning of the platform of hump Crest
+7.3.2 rolling track
+track section that is calculated from the hump crest to the beginning of the first branch turnout of the rolling section of hump
+7.3.3 no-humping car storage
+track that is used to temporarily store no-humping car at the hump crest
+7.3.4 bypass line of hump
+track used to send the wagons that are prohibited from crossing the hump to the marshalling yard by bypassing the hump 22
+
+GB/T  15165-94
+7.4 rolling condition
+7.4.1
+favorable condition for car rolling
+condition under Which the Wind direction, wind speed , temperature, and other environmental factors are conducive to car rolling small total resistance per unit)
+7.4.2 unfavorable condition for car rolling
+condition under Which the wind direction , wind speed , temperature, and other environmental factors are not conducive to car rolling large total resistance per unit)
+7.5 resistance to car rolling
+7.5.1 basic resistance to car rol Iling
+resistance caused by friction between the journal and the bearing and between the wheel and the rail, in the case of wagon rolling; this resistance is related to the type of car bearing (sliding or rolling二 wagon Weight, external temperature, car rolling speed,etc。
+7.5.2 Car roll ing resistance due to Wind effect
+resistance caused by the influence of air and wind,in the case of wagon rolling;this resistance is re- lated to car weight, car rolling speed, car windward area, wind direction, wind speed,etc。
+7.5.3 switch resistance
+resistance generated by the collision between the wheel and the turnout switch rail and the frog When a car rolls through a turnout ;the magnitude of switch resistance is related to the shape of the Switch rail frog angle,the frog Structure,etc.
+7.5.4 CUrVe resistance
+resistance generated due to inconsistent length of inner and outer rails on the curve, rotational fric- tion of car center plate and side bearing ,etc。 under the action of centrifugal force when the car rolls 23
+
+GB/I 15165--94
+through the curve ( including turnout lead curve一
+7.6 basic car of hump
+7.6.1 hard running car
+car that bears the maximum resistance basic resistance + car rolling resistance due to wind effect) - among the cars rolling through the hump
+7.6.2 middle running car
+car that bears relatively small resistance basic resistance + Car rolling resistance due t0 wind effect among the cars rolling through the hump
+7.6.3 easy running car
+car that bears the minimum resistance basic resistance + car rolling resistance due to wind effect) - among the cars rolling through the hump
+7.7
+vertical section of hump
+7.7.1 accelerating grade
+section from the hump crest to the entrance of the first braking location,in case two braking loca- tions are set at the rolling section of hump;the accelerating grade may be designed to include two or three slope sections
+7.7.2 intermediate grade
+section from the entrance of the first braking location to the exit of the second braking location;it may be designed to include one or two slope sections
+7.7.3 gradient within the switching area
+section from the entrance of the second braking location to the calculating point mechanized hump) 24
+
+GB/T  15165-94
+7.7.4 shot area
+area from the exit of the retarding location in the yard to the end of this area along its length for point-connected hump
+7.7.5 coupler compression grade
+grade section connecting the pushing track of the hump and the platform of hump crest;it is mainly used to compress the coupler tightly to facilitate uncoupling When the train is approaching the hump Crest
+7.8 pushing speed
+speed of the locomotive to push the train in the case of break-up of trains at the hump
+7.9 coupling speed
+speed of the car to couple with the preceding or stationary car When it rolls on the shunting track
+7.10
+stop short
+stop generated when two adjacent cars stay on the same shunting track
+7.11
+speed measurement device
+device fitted on the hump to measure the speed of the car rolling speed
+7.12 distance-to-coupling measurement device
+device fitted on the hump to measure the idle length of a shunting track
+7.13 weight measurement device
+device fitted on the hump to weigh the wagon
+25
+
+GB/I 15165-94
+7.14 rollability measurement device
+device fitted on the hump to measure the car rolling resistance
+7.15 speed control device
+7.15.1
+retarder
+device used to reduce the car rolling speed; according to the generation modes of braking force, it may be divided into two types: pressure type retarder and gravity type retarder according to control energy ,it may be divided into TJ.K series retarder using compressed air as control energy and TJ.Y series retarder using hydraulic pressure as control energy
+7.15.2 retarder unit
+device used to automatically reduce the car rolling speed without using any energy
+7.15.3 accelerator unit
+device used to increase car speed using external energy
+7.15.4 pushing carriage
+pushing device that is installed in the middle of the two rails of the shunting track to be towed by a rope to run back and forth along the center of the shunting track, thereby ensuring safe coupling of the cars
+7.15.5 brake shoe
+shoe-like manual brake tool that applies braking force on the wagon depending on the sliding friction between the wheel and the steel rail
+7.15.6 skate throw-off switch
+device that enables the brake shoe to separate from the rail voluntarily While the wagon is rolling;it 26
+
+GB/T  15165-94
+is also known as skate throw-off device
+7.16 braking location
+track section that is fitted with retarder on the rolling section of hump and the shunting track
+7.16.1 spacing brak ing
+speed control implemented in order to keep necessary distance between the preceding car and the following car that are rolling at the branching turnout and the retarder braking location
+7.16.2 target braking
+speed control implemented in order to make the car roll to the designated place on the shunting track for parking or safe coupling
+7.17 speed control system
+7.17.1 point type speed control system
+speed control system fitted on the rolling section of hump and the shunting track, which is character- ized in that the speed control devices for car rolling are all retarders,and the braking location is allo- cated at several fixing places on the track
+7.17.2 continued speed control system
+speed control system fitted on the rolling section of hump and the shunting track that arranges speed control devices for car rolling continuously on the track in order to achieve continued speed control
+7.17.3 point-continued speed control system
+speed control system that uses retarder at the beginning of the rolling section of hump and the shun- ting track and continued speed control device in the marshalling yard 27
+
+GB/I 15165--94
+8 Passenger station, passenger facilities and passenger car servicing depot
+8.
+type of passenger stations
+8.1.1
+through-type passenger station
+passenger station Where both ends of the main line and/or the arrival-departure track are connected to the section
+8.1.2 stub-end passenger station
+passenger station Where only one end of the main line or the arrival-departure track is connected to the section with the other end generally being stub-end.and this station has a distributed platform
+8.1.3 combined-type passenger station
+passenger station Where part of the arrival-departure track is through-type with the other part being stub-end
+8.2 passenger stop point
+place Where the train stops merely for passengers to board and alight from the train
+8.3
+maximum passengers in station waiting room
+average of the maximum numbers of passengers appearing instantly (8 min-10 min) to be waiting for the train including those Who See the passengers off; excluding commuter and those attending and leaving the school) in the waiting room in a day or night during the month with the largest number of passengers taking the train throughout the year
+8.4 passenger building
+general term for service building used by passengers to handle various travel procedures and wait for trains,and office building used to handle official businesses for operation and management 28
+
+GB/T  15165-94
+8.4.1 small passenger building
+passenger building with maximum passengers in station waiting room of 50 to 400 persons
+8.4.2 medium passenger building
+passenger building with maximum passengers in station waiting room of 400 to 2 0O0 persons
+8.4.3 large passenger building
+passenger building with maximum passengers in station waiting room of 2 000 to 10 000 persons
+8.4.4 eXtra large passenger buil Ilding
+passenger building with maximum passengers in station waiting room of more than 10 000 persons
+8.4.5 passenger building below the platform
+layered passenger building Where the track elevation of the passenger station is much higher than the station square,and the first-floor of the passenger building is much lower than the platform surface
+8.4.6 elevated track-crossing wait ing room
+building constructed over the passenger platform and tracks and connected to the passenger building for passengers to wait for trains
+8.4.7
+Concourse
+hall that is connected to various buildings at the entrance of the passenger building and plays the role of passing and distributing the passenger flow
+8.4.8 waiting room
+room Where passengers can rest and queue up to enter the station
+29
+
+GB/I 15165-94
+8.4.9 baggage office
+place for handling retrieving , consignment and storage of baggage and package
+8.4.10 underground baggage passage-way
+special channel used for transport of baggage Which may avoid the intersection of baggage flow and passenger fIOw and facilitate handling of baggage
+8.5 ticket office
+place that is specially designed for sales of passenger tickets
+8.6 station square
+place Where passengers , baggage and various automobiles collect and distribute; it includes passenger building plane, dedicated site for passenger station,and bus stop
+8.7
+passenger platform
+facilities used by passengers to board and alight from a train,Or load and unload the baggage;it con- sists of main platform of passenger distributed platform of passenger in case of stub-end passenger station ) and intermediate platform of passenger;generally , the height difference between the passen- ger station plane and rail top of adjacent track is 1 100 mm, 500 mm and 300 mm
+8.7.1 main platform of passenger
+platform connected to the passenger building
+8.7.2 intermediate platform of passenger
+platform located between the tracks with main lines or arrival-departure tracks at both sides
+8.7.3 distributed platform of passenger
+platform located at the end of the tracks of the stub-end passenger station to connect other interme- 30
+
+GB/I 15165--94
+diate platforms of passenger for distributing passengers that are going to board and alight from train Or enter and leave the station
+8.8 track-crossing facilities
+passage set between the passenger building and the platform or between platforms, including foot pass between platform , passenger foot-bridge and underground path
+8.8.1 foot pass between platform
+track-crossing facility that intersects With the line plane
+8.8.2
+passenger foot-bridge
+track-crossing facility that intersects With the track vertically from above the track
+8.8.3
+underground path
+track-crossing facility that intersects with the track vertically from below the track
+8.9 canopy
+building that is provided with roof but Without walls on the platform.in order to facilitate passenger stop and loading and unloading of baggage
+8.10 lead facility
+facility that is used to guide passengers to various passenger service facilities and service unit routes in the station
+8.11
+passenger car servicing depot
+place where the underbody of passenger train is inspected , repaired , serviced , and maintained; it mainly handles the taking-out and placing-in, washing , cleaning , technical inspection, sorting, repair, detoxification , servicing and maintenance of passenger train underbody 31
+
+GB/I 15165-94
+8.11.1 fixed stock depot for passenger car
+servicing depot where the passenger transport servicing including maintenance, servicing ,and wait- ing for sending to the passenger station of the passenger car underbody except for sorting and shunting 二 and passenger car technical servicing are all carried out in the same place,after the passen- ger car underbody is sent to the servicing depot through the passenger station
+8.11.2 moving stock depot for passenger car
+servicing depot used to carry out servicing in different yards according to the order of operation,af- ter the passenger car underbody is sent to the servicing depot through the passenger station
+8.11.3 wash facilities for passenger car
+facilities set at the entrance of the servicing depot or other appropriate locations for removing dust and sludge on the outside of the passenger car by means of washing
+9 Freight station, yard and freight facilities
+9.1
+freight station
+9.1.1 general freight station
+station that handles transport of goods of various categories
+9.1.2 specialized freight station
+dedicated station that handles transport of bulk goods or dangerous goods of a certain category such aS coal ore,oil , timber , building materials,and grain)
+9.1.3 loading station
+station that mainly handles the loading of a certain category Of bulk goods in case wagon loadings are greater than wagon unloadings, a large quantity of empty wagons should be sent to this station) 32
+
+GB/T  15165-94
+9.1.4 unloading station
+station that mainly handles the unloading of a certain category of bulk goods in case wagon unload- ings are greater than wagon loadings , a large quantity of empty wagons should be taken out from this station)
+9.1.5 through-type freight station
+freight station Where both ends of the receiving/departure yard are connected to the main line
+9.1.6 stub-type freight station
+freight station where only one end of the receiving/departure yard is connected to the main line, with the other end of the receiving/departure yard being of stub-type
+9.2 freight yard
+9.2.1 stub-type freight yard
+freight yard consisting of a group Of loading-unloading tracks of which one end is connected to the station track and the other end is provided with bumper post
+9.2.2 through-type freight yard
+freight yard consisting of a group of loading-unloading tracks of which both ends are connected to the station track
+9.2.3 mixed-type freight yard
+freight yard consisting of stub-type loading-unloading tracks and through-type   loading-unloading tracks
+9.2.4 general freight yard
+freight yard that handles transport of goods in a variety of categories
+33
+
+GB/I 15165-94
+9.2.5 part-load transit freight yard
+freight yard that is specially designed to handle part-load transit,namely , sorting ,arrangement , unloa- ding re- loading and other operations according to the direction of goods flow or receiving station
+9.2.6 dangerous freight yard
+freight yard that is specially designed to deal with flammable, explosive , toxic goods and other goods
+9.2.7 liquid freight yard
+freight yard that is specially designed to deal with petroleum products crude oil, diesel , gasoline, kerosene , liquefied gas , bitumen , etc.) . liquidized chemical products (acids,alkalis,etc。 and other liq- uid goods (vegetable oil,etc
+9.2.8 freight container yard
+freight yard that is specially designed to transport goods using containers
+9.2.9 livestock freight yard
+freight yard that is specially designed to handle dispatching , receiving and delivery of various live- stock
+9.2.10 combined freight yard of rail and water
+freight yard that is specially designed to handle transfer between rail transport and water transport
+9.3 freight area
+freight area that is designated in general freight stations or large freight yards , by combining the load- ing-unloading tracks and freight facilities according to the nature of freight operations for eaSe of management it may be divided into bulk and stack-loading freight area, packed goods freight area freight container area part- load freight area, long. large and heavy freight area, dangerous freight area,etc
+34
+
+GB/T  15165-94
+9.4 freight facilities
+facilities used to handle freight operations in a freight station or freight yard
+9.4.1 loading-unloading track
+track used for loading and unloading of all categories of goods
+9.4.2 inverted loading track
+track used for rearrangement of wagons loaded with goods in poor loading condition or faulty wag- ons.Or for re loading of goods after unloading
+9.4.3 weighbridge track
+track fitted With weighbridge for weighing loaded or empty wagons
+9.4.4 storage yard
+yard used to store bulk and stack-loading goods, coarse and miscellaneous goods , containers, excep- tional dimension freight and heavy goods
+9.4.5 freight platform
+platform building constructed above the rail top of the track,in order to facilitate loading and unloa- ding of wagons and the storage of goods ; platform that is 1.1 m above the rail top is an ordinary plat- form,and platform that is more than 1.1 m above the rail top is a high platform Which may be further divided into flat top high platform , landslide high platform , cross-line funnel high platform,etc。
+9.4.6 warehouse
+enclosed building that has a roof and walls on the platform for storage of goods
+9.4.7 freight shed
+building that has a roof but without any wall on the platform , which is used for storing goods 35
+
+GB/I 15165-94
+9.4.8 freight section
+ground area in the storage yard or warehouse used to temporarily store a full truckload or goods arri- Ving at the same station or going to the same direction before loading or after unloading
+9.4.8.1 low freight section
+freight section below the shoulder of the track by more than 1.5 m. which is used for wagon unloa- ding
+9.4.8.2 cooperat ing freight section
+freight section set for coordination of loading and unloading by making use of the height difference of loading and unloading equipment or by configuring certain machinery.in order to facilitate inverted loading between railway rolling stock and other means of transport
+9.4.9 ice-adding point
+place where the refrigerated and insulated vehicle is filled with ice, salt, or ventilated , cleaned,etc。
+9.4.10 wagon disinfecting and washing point
+place Where wagons carrying dangerous goods, livestock. fresh fish,and polluting goods are disinfec- ted and washed
+10 Industrial station,harbor station, transshipment station
+10.1 industrial station
+station belonging to the railway - Which is located at the connection between the industrial siding of industrial enterprises, special railways and the national or local railways, mainly used for the external transport of industrial enterprise railways
+10.2 enterprise station
+station belonging to an industrial enterprise, which is located near the industrial station or at the raw 36
+
+GB/I 15165--94
+fuel inlet or product export of the industrial enterprise, mainly used for internal transport of industrial enterprise railways
+10.3 railway-factory combined marshalling station
+station that combines the railway industrial station and the factory (mine enterprise station at one place to provide transport services jointly to industrial enterprises, by means of undertaking receiv- ing and dispatching , delivering and receiving , break-up and make-up of trains, taking-out and placing-in of wagons going into or departing the factory ( mine 二 and the two kinds of stations are subject to unified dispatching command and decentralized management
+10.4 accumulated and distributed car station
+station belonging to an enterprise , Which is located between the industrial station and the loading sta- tion of each mining point to provide transport services to industrial and mining enterprises, by means of undertaking the dispatching of empty wagons, accumulation of loaded wagons , marshalling of wag- on groups.etc。
+10.5 delivered and received car yard
+yard constructed at an industrial station or enterprise station Or other appropriate place , for delivery and receiving of railway-factory (mine= wagons and goods
+10.6 harbour station
+station belonging to the railway Which is located near the port , mainly handling external transport of the port railway , receiving and dispatching , delivery and receiving, break-up and make-up of trains taking-out and placing-in of wagons,etc_
+10.7 port station
+station belonging to the port, which is located near the port , mainly handling internal transport of the port railway , receiving and dispatching , break-up and make-up of trains, taking-out and placing-in of wagons, wagon loading and unloading, etc。
+10.8 railway-port combined marshalling station
+station that combines the railway harbour station and the enterprise port station at one place to pro- 37
+
+GB/I 15165--94
+vide transport services jointly to the port by means of undertaking receiving and dispatching , break- up and make-up of trains,taking-out and placing-in of wagons, wagon loading and unloading, and the two kinds of stations are subject to unified dispatching command and decentralized management
+10.9 port area yard
+yard that is located between the harbor port ) station and the Wharf for accumulation, marshalling, taking-out and placing-in of wagons in a certain port area
+10.10 Wharf track
+railway line that is located at the front of the wharf for loading and unloading of goods between the wagon and the ship
+10.11 transshipment station
+dedicated station used for transshipment of goods between two different gauge railways; it may be divided into border transshipment station and domestic transshipment station
+10.12 mixed track
+track Where two kinds of steel rails with different track gauges are laid above the same sleeper to en- Sure safe operation or parking of rolling stock on two different gauge railways ;it may be divided into three-track (standard-gauge and meter-gauge) and four-track standard-gauge and wide-gauge)
+10.13 transshipment track
+dedicated track used for transferring goods loaded on wagons between two different gauge railways; it may be divided into direct transshipment track, landing transshipment track, high and low trans- shipment tracks
+10.14 transpose Wheel track
+dedicated track used for changing Wheelsets in case wagon that is designed to operate on two differ- ent gauge railways is transferring from one railway to another
+38
+
+GB/T  15165-94
+10.15 transshipment platform
+platform used to store goods in the event of transferring wagons between two different gauge rail- waYS
+11 Railway terminal
+11.1
+railway terminal
+11.1.1 railway terminal with one station
+railway terminal that is formed by setting a shared station at the converging point of several main lines and branch lines to handle passenger and freight transport and break-up and make-up of trains
+11.1.2 triangle railway terminal
+railway terminal with the lead main lines converging at three points respectively Within the terminal in the shape of a triangle;generally ,it is a railway terminal that is formed by setting a station shared by passengers and freight on a main line with a large traffic volume,and constructing corresponding connecting lines to connect the three points
+11.1.3 cross-type railway terminal
+railway terminal that is formed by introducing two main lines Which are placed crosswise,and setting several specialized stations and corresponding connecting lines On each lead line
+11.1.4 longitudinally arranged railway terminal
+railway terminal that is formed by introducing several main lines at both ends and arranging the main passenger station and marshalling station sequentially on the same main passage extended within the terminal
+11.1.5 parallelly arranged railway terminal
+railway terminal that is formed by introducing several main lines at both ends and arranging the main 39
+
+GB/I 15165--94
+passenger station and marshalling station parallelly on two parallel passages within the terminal
+11.1.6 loop/half-loop railway terminal
+railway terminal that is formed by connecting the specialized station located on the loop or near the city center) with the Ioop Or half -loop (used to connect the lead lines as a Whole) using connecting lines or bypass lines,in case several main lines or branch lines are introduced in a dispersed manner in the periphery of the city
+11.1.7 stub-end type railway terminal
+railway terminal located at the end of the coastal or inland railway network. with only one end COn- necting the railway network
+11.1.8 combined railway terminal
+railway terminal combining several different terminal structure patterns
+11.2 railway terminal line
+11.2.1
+lead-in line
+line that diverts main lines or branch lines in each direction in the terminal to specialized stations
+11.2.2 liaison line
+line constructed to connect the lead line and the specialized station , for the purpose of eliminating the roundabout operation of trains , shortening the distance traveled by trains,and enhancing the passing capacity of the terminal
+11.2.3 diametrical line
+line constructed to pass through the city center between specialized stations in a big city Or megaci- ty ,in order to improve the passing capacity , mobility and flexibility of the terminal and to facilitate the organization of passenger and goods transport 40
+
+GB/T  15165-94
+11.2.4 loop/half-loop
+tracks that surround big city or megacity in Whole or in partin order to facilitate dispersed intro- duction of terminals in multiple directions of the connecting line, the operation of through passenger Or freight trains in Various directions, and the operation relations of specialized stations within the terminal
+11.3 track untwining
+11.3.1 plane-untwining
+process that utilizes time-interval method , disperse crossing, brake station, or parallel route On the plane With the same elevation tracks to disperse route intersections
+11.3.2 vertical-untwining
+untwining that utilizes vertical crossing equipment on tracks with different elevations to eliminate in- terference in route crossing
+11.3.3 untwine of direction
+untwining of approach line , through which the arrival-departure track yard) is separately used for re- ception and departure of trains in up direction and down direction on connecting track, once the ter- minal or station is introduced to the connecting track
+11.3.4 untwine of main line
+untwining of approach line, through Which the arrival-departure track yard) is commonly Used for reception and departure of trains in up direction and down direction On connecting track, once the terminal or station is introduced to the connecting track
+11.3.5 untwine of train
+untwining of approach line.to separate the routes for passenger trains and freight trains in each con- necting direction or for passenger trains and freight trains of different categories, according to loca- tions of specialized stations relative to each other,in railway terminal 41
+
+GB/I 15165-94
+Annex
+English index supplementary_
+accelerat ing grade accelerator unit accumulated and distributed car station approaching clearance arrival-departure track automatic hump auxiliary block post auxiliary yard
+7.7.1 7.15.3 10.4 3.7.2 3.6.3 7.1.4 3.4
+6.8.6
+baggage office basic resistance to Car rolling bidirectional combined type marshalling station bidirectional longitudinal type marshalling station bidirectional transversal type marshalling station block post brake shoe braking location bumper post bypass line of hump
+8.4.9
+7.5.1 6.7.3 6.7.2 6.7.1
+3.3 7.15.5 7.16 3.10 7.3.4
+calculating point of hump canopy car rolling resistance due to Wind effect catch siding center line of track center of turnout circular departure circular receiving clearance of locomotives and vehicles combined freight yard of rail and water combined railway terminal combined-type passenger station Concourse 42
+7.2.2 8.9 7.5.2 4.11 3.6.8 3.11.10 6.10.4 6.10.3 3.7.1 9.2.10 11.1.8 8.1.3 8.4.7
+
+GB/T  15165-94
+connection at ends of tracks continued speed control system cooperating freight section crossing CrosSOVer
+3.12.1 7.17.2 9.4.8.2
+3.14 3.12.2 5.8.2 11.1.3 7.7.5 7.9 7.5.4
+CrOsS route cross-type railway terminal coupler compression grade coupling speed CUrVe resistance
+dangerous freight yard departure yard depot siding diametrical line delivered and received car yard distance between tracks distributed platform of passenger district station double direction marshalling station double routes drainage facilities of yards
+9.2.6 6.8.2 3.6.6 11.2.3 10.5 3.6.9 8.7.3 3.2.2 6.7 4.10 3.19
+easy running car effective length of track elevated track-crossing waiting room elevation of yard subgrade enterprise station eXtra large passenger building
+7.6.3 3.6.11 8.4.6 3.18.2 10.2 8.4.4
+favorable condition for car rolling fixed stock depot for passenger car foot pass between platform fouling post freight facilities freight platform freight section freight shed freight station front station terminal
+7.4.1 8.11.1 8.8.1 3.8 9.4
+9.4.5 9.4.8 9.4.7 3.2.5 4.4
+43
+
+GB/I 15165-94
+general freight station general freight yard gradient within the switching area
+9.1.1 9.2.4
+7.7.3
+川
+harbour station hard running car hump crest hump height
+10.6 7.6.1
+7.2.1 7.2.7
+ice-adding point industrial siding industrial station intermediate grade intermediate platform of passenger intermediate station intermediate station with half longitudinal arrangement intermediate station With longitudinal arrangement intermediate station with paralled arrangement intermediate train distancing point
+9.4.9 3.6.7 10.1
+7.7.2 8.7.2 3.2.1 4.8.3 4.8.2 4.8.1
+3.1
+ladder track larger passenger building large capacity of hump lead curve of turnout lead facility lead-in line length of station site length of track laid out liaison line liquid freight yard livestock freight yard loading station loading-unloading track local marshalling station locomotive combined depot locomotive depot locomotive roundabout depot locomotive roundabout point 44
+3.12.3 8.4.3
+7.1.1 3.11.9 8.10 11.2.1 3.17 3.6.12 11.2.2 9.2.7 9.2.9 9.1.3 9.4.1
+6.3
+5.6.5
+5.6.1 5.6.2 5.6.4
+
+GB/T  15165-94
+locomotive running track locomotive waiting track longitudinal arrangement district station longitudinally arranged railway terminal loop/half-loop loop/half-loop railway terminal
+5.6.6.1 5.6.6.2 5.4 11.1.4 11.2.4 11.1.6
+M
+main line main platform of passenger marshalling-departure yard marshalling station marshalling yard mechanized hump medium capacity of hump medium passenger building method of indicating the center line of turnout maximum passengers in station waiting room
+3.6.1
+8.7.1 6.8.7 3.2.3 6.8.5 7.1.6 7.1.2 8.4.2 3.11.5 8.3
+passenger building below the platform passenger platform passenger station passenger stop point passenger train and freight train yard longitudinal arrangement passing capacity of arrival-departure track passing capacity of station passing capacity of throat passing capacity of throat points passing station parallelly arranged railway terminal plane-untwining platform of hump crest point type speed control system port area yard port station pushing carriage pushing section of hump pushing speed pushing track
+8.4.5 8.7
+3.2.4 8.2 5.5 5.9.2
+5.9 5.9.1 5.9.1.3 4.1
+11.1.5 11.3.1 7.2.5 7.17.1 10.9 10.7 7.15.4 7.2.3 7.8 7.3.1
+R
+railway-factory combined marshalling station
+10.3
+45
+
+GB/I 15165-94
+railway terminal railway terminal line railway terminal with one station railway-port combined marshalling station receiving/departure yard receiving yard refuge siding regional marshalling station retarder retarder unit rollability measurement device rolling section of hump rolling track
+3.5 11.2 11.1.1 10.8 6.8.3 6.8.1 4.12 6.2 7.15.1 7.15.2 7.14 7.2.4 7.3.2
+5
+semi-automatic hump separation point servicing siding shot area shunting neck shunting track siding of turnout single direction marshalling station single routes simple turnout skate throw-off switch small capacity of hump small passenger building spacing braking specialized freight station speed measurement device station final capacity station for cool brake station for picking up and detaching auxiliary locomotive station site station square station track stop short storage yard stub-end passenger station stub-end type railway terminal stub-type freight station stub-type freight yard 46
+7.1.5 7.2.6 5.6.6.4 7.7.4 3.6.5
+3.6.4 3.11.8 6.6 4.9 3.11.1 7.15.6 7.1.3 8.4.1 7.16.1 9.1.2 7.11 5.9.3 4.7
+4.5 3.16 8.6 3.6.2 7.10 9.4.4
+8.1.2 11.1.7 9.1.6 9.2.1
+
+GB/T  15165-94
+subgrade surface Switch resistance symmetrical turnout system of shunting
+3.18.1 7.5.3 3.11.2 6.9
+target braking 7.16.2 terminal auxiliary marshalling station 6.5 terminal main marshalling station 6.4 the district station with marshalling operation for break-up and make-up of train 5.2 the district station without marshalling operation for break-up and make-up of train 5.1 three-throw turnout 3.11.3 throat of station 5.9.1.1 throat points 5.9.1.2 through-type freight station 9.1.5 through-type freight yard 9.2.2 through-type passenger station 8.1.1 through yard 8.5.4 ticket office 8.5 track by paralled shift ing apart 3.13 track-crossing facilities 8.8 track for going out and coming into the locomotive depot 5.6.6.3 train technical inspection station 4.6 transferred yard 6.8.8 transshipment platform 10.15 transshipment station 10.11 transshipment track 10.13 transpose Wheel track 10.14 triangle railway terminal 11.1.2 turn-around track 5.6.6.7 turn-around Wye 5.6.6.6 turning jack 5.6.6.8
+underground baggage passage-way underground path unfavorable condition for car rolling unidirectional combined type marshalling station unidirectional longitudinal type marshalling station unidirectional transversal type marshalling station unloading station untwine of direction untwine of main line
+8.4.10 8.8.3 7.4.2 6.6.3 6.6.2 6.6.1
+9.1.4 11.3.3 11.3.4 47
+
+GB/I 15165--94
+untwine of train
+11.3.5
+Vehicle depot vehicle repair place vehicle repair track at station vertical-untwining
+5.7.1 5.7.2 5.7.3 11.3.2
+W
+wagon disinfecting and washing point wash facilities for passenger car waiting room waiting track on duty warehouse water crane water supply station weighbridge track weight measurement device Wharf track
+9.4.10 8.11.3 8.4.8 5.6.6.5 9.4.6
+3.9 4.3 9.4.3 7.13 10.10
+yard yard subgrade
+3.15 3.18
+48
+

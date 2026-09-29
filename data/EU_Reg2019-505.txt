@@ -1,0 +1,550 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION DELEGATED REGULATION (EU) 2019/505 
+of 19 December 2018 
+amending Annex I to Regulation (EC) No 184/2005 of the European Parliament and of the Council, 
+as regards the geographical breakdown levels 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EC) No 184/2005 of the European Parliament and of the Council of 12 January 2005 on 
+Community statistics concerning balance of payments, international trade in services and foreign direct investment (1), 
+and in particular Article 2(3) thereof, 
+Whereas: 
+(1)  
+On 29 March 2017, the United Kingdom submitted the notification of its intention to withdraw from the Union 
+pursuant to Article 50 of the Treaty on European Union. The Treaties will cease to apply to the United Kingdom 
+from the date of entry into force of a withdrawal agreement or failing that, two years after that notification, that 
+is to say from 30 March 2019, unless the European Council, in agreement with the United Kingdom, 
+unanimously decides to extend that period. 
+(2)  
+Regulation (EC) No 184/2005 establishes a common framework for the systematic production of Community 
+statistics on balance of payments, international trade in services and foreign direct investment. 
+(3)  
+Member States are to submit to the Commission (Eurostat) data on balance of payments, international trade in 
+services and foreign direct investment as referred to in Annex I to Regulation (EC) No 184/2005. That Regulation 
+defines, inter alia, the required levels of geographical breakdown of the data to be submitted by the Member 
+States to the Commission (Eurostat). 
+(4)  
+Table 6 of Annex I to Regulation (EC) No 184/2005 contains implicit references to the United Kingdom in the 
+counterpart area ‘Union Member States not in the euro area’ under geographical breakdown level GEO 4. 
+Member States are required to submit data for that counterpart area to the Commission (Eurostat) with an 
+individual breakdown by country. 
+(5)  
+The withdrawal of the United Kingdom from the Union would have the effect that the United Kingdom would 
+become a third country and as such would no longer be part of the counterpart area ‘Union Member States not 
+in the euro area’ of GEO 4. Member States would therefore no longer be legally bound to submit data for the 
+counterpart area concerning the United Kingdom. 
+(6)  
+GEO 4 sets out the geographical breakdown level required for certain items of quarterly statistics on balance of 
+payments and international investment position and activity breakdown of annual direct investment positions 
+and annual direct investment transactions and income. 
+(7)  
+European statistics concerning the balance of payments, international investment positions and foreign direct 
+investment are of vital importance to ensuring informed economic policymaking and accurate economic 
+forecasting. They are essential for those responsible for public policy in the Union, for research and Union 
+citizens. 
+27.3.2019 
+L 85/1 
+Official Journal of the European Union 
+EN     
+(1) OJ L 35, 8.2.2005, p. 23. 
+(8)  
+Given the intense trade and economic relations between the Union and the United Kingdom, it is essential to 
+ensure continuity of Member States' submission of data with the United Kingdom as counterpart after its 
+withdrawal from the Union. 
+(9)  
+Table 6 of Annex I to Regulation (EC) No 184/2005 also contains explicit references to the United Kingdom in 
+geographical breakdown levels GEO 5 and GEO 6, where the United Kingdom is listed as a separate counterpart 
+country under geographical aggregate ‘Europe’, together with all other Member States of the Union. 
+(10)  
+Aggregate ‘Europe’ in GEO 5 and GEO 6 is composed of all Member States, the Member States of the European 
+Free Trade Association (EFTA) and other European states. Aggregate ‘Other European Countries’ consists of all 
+European countries that are neither Members States of the Union nor EFTA Member States, listed in alphabetical 
+order in English. 
+(11)  
+Due to the United Kingdom becoming a third country, its positioning in GEO 5 and GEO 6 needs to be changed 
+accordingly. 
+(12)  
+Table 6 of Annex I to Regulation (EC) No 184/2005 should therefore be amended to include the United Kingdom 
+as a separate counterpart country in geographical breakdown level GEO 4 and to change its positioning in 
+geographical breakdown levels GEO 5 and GEO 6. Such update neither affects the reporting burden nor modifies 
+the applicable underlying conceptual framework. 
+(13)  
+Taking into account the scrutiny period of three months applying to this delegated act and the necessity to have 
+an updated Table 6 of Annex I to Regulation (EC) No 184/2005 in place and ready to be applied at the moment 
+that the United Kingdom would cease to be in the counterpart area ‘Union Member States not in the euro area’, 
+which could be as early as 30 March 2019, it is essential for this Regulation to enter into force as soon as 
+possible, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Annex I to Regulation (EC) No 184/2005 is amended in accordance with the Annex to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European 
+Union. 
+It shall apply from the day following that on which the United Kingdom ceases to be a Member State of the Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 19 December 2018. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+27.3.2019 
+L 85/2 
+Official Journal of the European Union 
+EN     
+ANNEX 
+In Annex I to Regulation (EC) No 184/2005, Table 6 ‘Geographical breakdown levels’ is replaced by the following: 
+‘Geographical breakdown levels 
+GEO 1 
+GEO 2 
+GEO 3 
+REST OF THE WORLD 
+REST OF THE WORLD 
+REST OF THE WORLD  
+Intra euro area 
+INTRA UNION  
+Extra euro area 
+EXTRA UNION   
+Intra euro area   
+Extra euro area  
+GEO 4 
+GEO 5 
+GEO 6 
+REST OF THE WORLD 
+REST OF THE WORLD 
+REST OF THE WORLD  
+EUROPE 
+EUROPE 
+Union Member States not in the euro 
+area (1) 
+Belgium 
+Belgium  
+Bulgaria 
+Bulgaria  
+Czech Republic 
+Czech Republic  
+Denmark 
+Denmark  
+Germany 
+Germany  
+Estonia 
+Estonia  
+Ireland 
+Ireland  
+Greece 
+Greece  
+Spain 
+Spain  
+France 
+France  
+Croatia 
+Croatia  
+Italy 
+Italy  
+Cyprus 
+Cyprus  
+Latvia 
+Latvia  
+Lithuania 
+Lithuania  
+Luxembourg 
+Luxembourg  
+Hungary 
+Hungary  
+Malta 
+Malta  
+Netherlands 
+Netherlands  
+Austria 
+Austria  
+Poland 
+Poland  
+Portugal 
+Portugal  
+Romania 
+Romania  
+Slovenia 
+Slovenia  
+Slovakia 
+Slovakia  
+Finland 
+Finland  
+Sweden 
+Sweden 
+27.3.2019 
+L 85/3 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6  
+Iceland 
+Iceland  
+Liechtenstein 
+Liechtenstein  
+Norway 
+Norway 
+Switzerland 
+Switzerland 
+Switzerland  
+OTHER EUROPEAN COUNTRIES 
+OTHER EUROPEAN COUNTRIES   
+Albania   
+Andorra   
+Belarus   
+Bosnia and Herzegovina   
+Faroe Islands   
+Gibraltar   
+Guernsey   
+Holy See (Vatican City State)   
+Isle of Man   
+Jersey   
+Macedonia, the Former Yugoslav 
+Republic of   
+Moldova   
+Montenegro 
+Russia 
+Russia 
+Russia   
+Serbia   
+San Marino  
+Turkey 
+Turkey   
+Ukraine 
+United Kingdom 
+United Kingdom 
+United Kingdom  
+AFRICA 
+AFRICA  
+NORTH AFRICA 
+NORTH AFRICA   
+Algeria  
+Egypt 
+Egypt   
+Libya  
+Morocco 
+Morocco   
+Tunisia  
+OTHER AFRICAN COUNTRIES 
+OTHER AFRICAN COUNTRIES   
+Angola   
+Benin   
+Botswana   
+British Indian Ocean Territory   
+Burkina Faso   
+Burundi 
+27.3.2019 
+L 85/4 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6   
+Cameroon   
+Cape Verde   
+Central African Republic   
+Chad   
+Comoros   
+Congo   
+Côte d'Ivoire   
+Congo, the Democratic Republic of   
+Djibouti   
+Equatorial Guinea   
+Eritrea   
+Ethiopia   
+Gabon   
+Gambia   
+Ghana   
+Guinea   
+Guinea-Bissau   
+Kenya   
+Lesotho   
+Liberia   
+Madagascar   
+Malawi   
+Mali   
+Mauritania   
+Mauritius   
+Mozambique   
+Namibia   
+Niger  
+Nigeria 
+Nigeria  
+South Africa 
+South Africa   
+Rwanda   
+St Helena, Ascension and Tristan da 
+Cunha   
+Sao Tome and Principe   
+Senegal   
+Seychelles   
+Sierra Leone   
+Somalia   
+Sudan 
+27.3.2019 
+L 85/5 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6   
+South Sudan   
+Swaziland   
+Tanzania   
+Togo   
+Uganda   
+Zambia   
+Zimbabwe  
+AMERICA 
+AMERICA  
+NORTH AMERICAN COUNTRIES 
+NORTH AMERICAN COUNTRIES 
+Canada 
+Canada 
+Canada   
+Greenland 
+United States 
+United States 
+United States  
+CENTRAL AMERICAN COUNTRIES 
+CENTRAL AMERICAN COUNTRIES   
+Anguilla   
+Antigua and Barbuda   
+Aruba   
+Bahamas   
+Barbados   
+Belize   
+Bermuda   
+Bonaire, St. Eustatius and Saba   
+Virgin Islands, British   
+Cayman Islands   
+Costa Rica   
+Cuba   
+Curaçao   
+Dominica   
+Dominican Republic   
+El Salvador   
+Grenada   
+Guatemala   
+Haiti   
+Honduras   
+Jamaica  
+Mexico 
+Mexico   
+Montserrat   
+Nicaragua   
+Panama   
+St Kitts and Nevis   
+Saint Lucia 
+27.3.2019 
+L 85/6 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6   
+St. Maarten   
+St Vincent and the Grenadines   
+Trinidad and Tobago   
+Turks and Caicos Islands   
+Virgin Islands, U.S.  
+SOUTH AMERICAN COUNTRIES 
+SOUTH AMERICAN COUNTRIES  
+Argentina 
+Argentina   
+Bolivia 
+Brazil 
+Brazil 
+Brazil  
+Chile 
+Chile   
+Colombia   
+Ecuador   
+Falkland Islands   
+Guyana   
+Paraguay   
+Peru   
+Suriname  
+Uruguay 
+Uruguay  
+Venezuela 
+Venezuela  
+ASIA 
+ASIA  
+NEAR AND MIDDLE EAST 
+COUNTRIES 
+NEAR AND MIDDLE EAST 
+COUNTRIES  
+GULF ARABIAN COUNTRIES 
+GULF ARABIAN COUNTRIES   
+Bahrain   
+Iraq   
+Kuwait   
+Oman   
+Qatar   
+Saudi Arabia   
+United Arab Emirates   
+Yemen  
+OTHER NEAR AND MIDDLE EAST 
+COUNTRIES 
+OTHER NEAR AND MIDDLE EAST 
+COUNTRIES   
+Armenia   
+Azerbaijan   
+Georgia   
+Israel   
+Jordan 
+27.3.2019 
+L 85/7 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6   
+Lebanon   
+Palestinian Territory   
+Syria  
+OTHER ASIAN COUNTRIES 
+OTHER ASIAN COUNTRIES   
+Afghanistan   
+Bangladesh   
+Bhutan   
+Brunei Darussalam   
+Burma/Myanmar   
+Cambodia 
+China 
+China 
+China 
+Hong Kong 
+Hong Kong 
+Hong Kong 
+India 
+India 
+India  
+Indonesia 
+Indonesia   
+Iran 
+Japan 
+Japan 
+Japan   
+Kazakhstan   
+Kyrgyzstan   
+Laos   
+Macao  
+Malaysia 
+Malaysia   
+Maldives   
+Mongolia   
+Nepal   
+North Korea   
+Pakistan  
+Philippines 
+Philippines  
+Singapore 
+Singapore  
+South Korea 
+South Korea   
+Sri Lanka  
+Taiwan 
+Taiwan   
+Tajikistan  
+Thailand 
+Thailand   
+Timor-Leste   
+Turkmenistan   
+Uzbekistan   
+Vietnam 
+27.3.2019 
+L 85/8 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6  
+OCEANIA AND POLAR REGIONS 
+OCEANIA AND POLAR REGIONS   
+American Samoa   
+Guam   
+US Minor Outlying Islands  
+Australia 
+Australia   
+Cocos (Keeling Islands)   
+Christmas Islands   
+Heard Island and McDonald Islands   
+Norfolk Island   
+Fiji   
+French Polynesia   
+Kiribati   
+Marshall Islands   
+Micronesia   
+Nauru   
+New Caledonia  
+New Zealand 
+New Zealand   
+Cook Islands   
+Niue   
+Tokelau   
+Northern Mariana Islands   
+Palau   
+Papua New Guinea   
+Pitcairn   
+Antarctica   
+Bouvet Island   
+South Georgia and South Sandwich 
+Islands   
+French Southern and Antarctic Lands   
+Solomon Islands   
+Tonga   
+Tuvalu   
+Vanuatu   
+Samoa   
+Wallis and Futuna 
+27.3.2019 
+L 85/9 
+Official Journal of the European Union 
+EN     
+GEO 4 
+GEO 5 
+GEO 6 
+INTRA UNION 
+INTRA UNION 
+INTRA UNION 
+EXTRA UNION 
+EXTRA UNION 
+EXTRA UNION 
+Intra Euro Area 
+Intra Euro Area 
+Intra Euro Area 
+Extra Euro Area 
+Extra Euro Area 
+Extra Euro Area 
+Union Institutions (excluding ECB) 
+Union Institutions (excluding ECB) 
+Union Institutions (excluding ECB) 
+European Investment Bank 
+European Investment Bank 
+European Investment Bank  
+European Central Bank (ECB) 
+European Central Bank (ECB)  
+INTRA UNION NOT ALLOCATED 
+INTRA UNION NOT ALLOCATED  
+EXTRA UNION NOT ALLOCATED 
+EXTRA UNION NOT ALLOCATED 
+Offshore financial centres 
+Offshore financial centres 
+Offshore financial centres 
+International Organisations (excluding 
+Union Institutions) 
+International Organisations 
+(excluding Union Institutions) 
+International Organisations (excluding 
+Union Institutions) 
+International Monetary Fund (IMF) 
+International Monetary Fund (IMF) 
+International Monetary Fund (IMF) 
+(1)  Union Member States not in the euro area: individual breakdown by country.’   
+27.3.2019 
+L 85/10 
+Official Journal of the European Union 
+EN     

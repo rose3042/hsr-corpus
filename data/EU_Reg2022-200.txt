@@ -1,0 +1,114 @@
+COMMISSION DELEGATED REGULATION (EU) 2022/200 
+of 2 December 2021
+amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards 
+certain technical measures on mesh sizes and the overall maximum length for certain beam trawls in 
+the North Sea 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the 
+conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending 
+Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 
+2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council 
+Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) 
+No 2187/2005 (1), and in particular Article 15(2) thereof,
+Whereas:
+(1)
+Regulation (EU) 2019/1241, Annex V provides for technical measures established at regional level for the North Sea.
+(2)
+Belgium, Denmark, Germany, France, the Netherlands and Sweden (‘Scheveningen Group’) have a direct fisheries 
+management interest in the North Sea. On 7 May and on 21 June 2021, the Scheveningen Group submitted joint 
+recommendations to the Commission in accordance with Article 18(1) of Regulation (EU) No 1380/2013 of the 
+European Parliament and of the Council (2) and Article 15(3) of Regulation (EU) 2019/1241, proposing a delegated 
+act adopting certain modifications of the current provisions set out in Annex V of Regulation (EU) 2019/1241. 
+Both joint recommendations were sent by the Scheveningen Group to the Pelagic Advisory Council (PELAC) and 
+the North Sea Advisory Council (NSAC) for consultation.
+(3)
+The joint recommendation submitted on 7 May 2021 proposed amending Annex V, part B of Regulation (EU) 
+2019/1241 to limit the application of the 90 mm mesh size derogation in the Skagerrak to otter trawls only, where 
+currently this mesh size is applicable to all towed gears, including beam trawls and seines. The recommendation also 
+proposed that the derogation concerning the use of the 90 mm mesh size in Kattegat be limited to fishing with otter 
+trawls or seines.
+(4)
+The STECF analysed the evidence presented by the Member States and concluded (3) that the proposed amendment 
+achieves its main aim of removing any ambiguity in the current regulations and confirms that vessels using seine 
+nets or beam trawls cannot use the 90 mm mesh size in the Skagerrak. The proposed amendment will offer higher 
+protection for juveniles, due to the fact that the 90 mm derogation is no longer available to beam trawls and seine 
+nets in the Skagerrak or beam trawls in the Kattegat. Therefore, the joint recommendation is in line with the 
+objectives and targets of Regulation (EU) 2019/1241 to the effect that catches of marine species below the 
+minimum conservation reference size are to be reduced as far as possible. The proposed measure should therefore 
+be included in Regulation (EU) 2019/1241.
+(5)
+The joint recommendation submitted on 21 June 2021 proposed the introduction of an overall maximum length for 
+beam trawls of 24 m, while keeping in place the tighter restrictions for beam trawl in certain geographical areas 
+already set out in Regulation (EU) 2019/1241.
+(1) OJ L 198, 25.7.2019, p. 105.
+(2) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, 
+amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 
+and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+(3) STECF-21-05, p. 25.
+EN
+Official Journal of the European Union 
+L 33/4 
+15.2.2022  
+(6)
+The STECF analysed the evidence presented by the Member States and concluded (4) that, without the proposed 
+restriction to 24 m, it is possible for fishermen to increase the length of the beam, potentially increasing the impact 
+on the seabed and disturbance of the benthos habitat. The STECF therefore supported amending the provisions of 
+Regulation (EU) 2019/1241 that the maximum length of the beam or the aggregate beam length measured as the 
+sum of the length of each beam does not exceed 24 m. According to the STECF, this amendment will prevent an 
+increase in negative impact on marine habitats and on the environment in line with the objectives in Regulation (EU) 
+2019/1241. It will thus ensure levels of protection that are at least equivalent to what is currently in force. The 
+proposed measure should therefore be included in Regulation (EU) 2019/1241.
+(7)
+Given that both joint recommendations propose changes to Annex V of Regulation (EU) 2019/1241, this delegated 
+Regulation provides for all the measures recommended by the Scheveningen Group.
+(8)
+The measures in this Regulation applicable to Union waters are in pursuit of the objectives set out in Article 494(1) 
+and (2) of the Trade and Cooperation Agreement between the European Union and the European Atomic Energy 
+Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, and 
+have regard to the principles referred to in Article 494(3) of that agreement. They are without prejudice to any 
+measures applicable in waters of the United Kingdom of Great Britain and Northern Ireland.
+(9)
+As the measures provided for in this Regulation have a direct impact on the planning of the fishing season of Union 
+vessels and on related economic activities, this Regulation should enter into force immediately after its publication,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Regulation (EU) 2019/1241 is amended in accordance with the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 2 December 2021.
+For the Commission
+The President
+Ursula VON DER LEYEN
+(4) STECF PLEN-21-02, p. 59.
+EN
+Official Journal of the European Union 
+15.2.2022 
+L 33/5  
+ANNEX 
+Part B of Annex V to Regulation (EU) 2019/1241 is amended as follows:
+(1) The heading of point 1 is replaced by:
+‘1. Baseline mesh sizes for towed gear (*)
+_____________
+(*) When fishing with beam trawls the maximum length of the beam or the aggregate beam length measured as the 
+sum of the length of each beam shall not exceed 24 metres or cannot be extended to a length greater than 
+24 metres. The length of a beam shall be measured between its extremities including all attachments thereto. This 
+is without prejudice to more specific measures established in certain areas of the North Sea.’
+(2) Point 1.1 is replaced by:
+‘1.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm, or at least 90 mm in 
+Skagerrak when fishing with otter trawls, or at least 90 mm in Kattegat when fishing with otter trawls or 
+seines (*) (**).
+_____________
+(*) 
+When fishing in sub-divisions Skagerrak and Kattegat with otter trawls with a mesh size of less than 120 mm, a 
+diamond mesh top panel of at least 270 mm mesh size or a square mesh top panel of at least 140 mm mesh size 
+shall be fitted. Alternatively, in sub-division Kattegat, a square mesh panel of at least 120 mm may be fitted in the 
+period from 1 October to 31 December.
+(**) When fishing in sub-division Kattegat with seines with a mesh size of less than 120 mm, a diamond mesh top 
+panel of at least 270 mm mesh size or a square mesh top panel of at least 140 mm mesh size shall be fitted. 
+Alternatively, a square mesh panel of at least 120 mm may be fitted in the period from 1 August to 31 October.’
+EN
+Official Journal of the European Union 
+L 33/6 
+15.2.2022  

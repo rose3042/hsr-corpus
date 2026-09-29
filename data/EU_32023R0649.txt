@@ -1,0 +1,164 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/649 
+of 20 March 2023
+concerning the authorisation of L-arginine produced by Corynebacterium glutamicum CGMCC 20516 
+as a feed additive for all animal species 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on 
+additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+Whereas:
+(1)
+Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the 
+grounds and procedures for granting such authorisation.
+(2)
+In accordance with Article 7 of Regulation (EC) No 1831/2003, an application was submitted for the authorisation 
+of L-arginine produced by Corynebacterium glutamicum CGMCC 20516. That application was accompanied by the 
+particulars and documents required under Article 7(3) of Regulation (EC) No 1831/2003.
+(3)
+The application concerns the authorisation of L-arginine produced by Corynebacterium glutamicum CGMCC 20516 as 
+a feed additive for all animal species, to be classified in the additive category ‘nutritional additives’ and in the 
+functional group ‘amino acids, their salts and analogues’.
+(4)
+The European Food Safety Authority (‘the Authority’) concluded in its opinion of 29 June 2022 (2) that, under the 
+proposed conditions of use, L-arginine produced by Corynebacterium glutamicum CGMCC 20516 does not have an 
+adverse effect on consumer safety or the environment, or on animal health when supplemented in appropriate 
+amounts to the diet according to the nutritional needs of the target species and when nutritional imbalances caused 
+by the simultaneous administration of L-arginine via water for drinking and feed are prevented.
+(5)
+The Authority further concluded that exposure of users by inhalation is possible. The applicant provided the safety 
+data sheet required in accordance with Regulation (EC) No 1907/2006 of the European Parliament and of the 
+Council (3) which demonstrates that the additive may cause eyes and skin irritation.
+(6)
+The Authority concluded that the additive has the potential to be efficacious for all animal species. The Authority 
+does not consider that there is a need for specific requirements of post-market monitoring. It also verified the 
+report on the method of analysis of the feed additive in feed submitted by the Reference Laboratory set up by 
+Regulation (EC) No 1831/2003.
+(7)
+The assessment of L-arginine produced by Corynebacterium glutamicum CGMCC 20516 shows that the conditions for 
+authorisation, as provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. Accordingly, the use of 
+that substance should be authorised. The Commission considers that appropriate protective measures should be 
+taken to prevent adverse effects on human health, in particular as regards the users of the additive.
+(1) OJ L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2022;20(7):7427.
+(3) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, 
+Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending 
+Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as 
+Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 
+30.12.2006, p. 1).
+EN
+Official Journal of the European Union 
+21.3.2023 
+L 81/13  
+
+(8)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The substance specified in the Annex, belonging to the additive category ‘nutritional additives’ and to the functional group 
+‘amino acids, their salts and analogues’, is authorised as an additive in animal nutrition, subject to the conditions laid down 
+in that Annex.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 20 March 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 81/14 
+21.3.2023  
+
+ANNEX 
+Identification 
+number of 
+the additive
+Additive
+Composition, chemical formula, description, analytical 
+method.
+Species or 
+category of 
+animal
+Maximum 
+age
+Minimum 
+content
+Maximum 
+content
+Other provisions
+End of period of 
+authorisation
+mg of additive/kg of 
+complete feed with a 
+moisture content of 
+12 %
+3c365
+L-arginine
+Additive composition
+≥ 98,5 % L-arginine (on a dry matter basis) and ≤ 1 % 
+of water
+Solid form
+All species
+—
+—
+—
+1. The additive may be used via water for 
+drinking.
+2. The directions for use of the additive 
+and premixture shall indicate the sto­
+rage conditions, the stability to heat 
+treatment and the stability in water 
+for drinking.
+3. The label of the additive and premix­
+ture shall indicate the following: ‘The 
+supplementation with L-arginine, in 
+particular via water for drinking, 
+should take into account all essential 
+and conditional essential amino acids 
+in order to avoid imbalances.’
+4. For users of the additive and premix­
+tures, feed business operators shall es­
+tablish operational procedures and 
+appropriate organisational measures 
+to address the potential risks. Where 
+risks cannot be reduced to an accep­
+table level by these procedures and 
+measures, the additive and premix­
+tures shall be used with appropriate 
+personal protective equipment, in­
+cluding breathing, skin and eye pro­
+tection.
+11.4.2033
+Characterisation of the active substance
+L-arginine ((S)-2-amino-5-guanidinopentanoic acid) 
+produced by Corynebacterium glutamicum CGMCC 
+20516
+Chemical formula: C6H14N4O2
+CAS number: 74–79-3
+Analytical method (1)
+For the identification of L-arginine in the feed 
+additive:
+— Food Chemical Codex ‘L-arginine monograph’.
+For the determination of arginine in the feed additive 
+and water:
+— Ion-exchange chromatography coupled with 
+post-column derivatisation and optical detection 
+(IEC-VIS).
+For the determination of arginine in premixtures and 
+complete feed:
+— Ion exchange chromatography coupled with 
+post-column derivatisation and optical detection 
+(IEC-VIS), 
+Commission 
+Regulation 
+(EC) 
+No 152/2009 (Annex III, F).
+(1) Details of the analytical methods are available at the following address of the Reference Laboratory: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation- 
+reports_en.
+EN
+Official Journal of the European Union 
+21.3.2023 
+L 81/15

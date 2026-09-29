@@ -1,0 +1,331 @@
+COMMISSION REGULATION (EU) No 1312/2014 
+of 10 December 2014 
+amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC of the European 
+Parliament and of the Council as regards interoperability of spatial data services 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an 
+Infrastructure for Spatial Information in the European Community (INSPIRE) (1), and in particular Article 7(1) thereof, 
+Whereas: 
+(1)  
+Commission Regulation (EU) No 1089/2010 (2) sets out the technical arrangements only for interoperability of 
+spatial data sets. 
+(2)  
+The interoperability of spatial data services is characterised by the capability to communicate, execute or transfer 
+data among them. Therefore the spatial data services need to be further documented with additional metadata. To 
+a lesser degree, it also concerns the harmonisation of the content of the service contrary to the spatial data sets 
+implementing rules. 
+(3)  
+For the development of the implementing rules mandated by Directive 2007/2/EC the emphasis was first put on 
+the core services, i.e., the network services, with Commission Regulation (EC) No 976/2009 (3), and on the inter­
+operability of the spatial data sets, in Regulation (EU) No 1089/2010. Regulation (EU) No 1089/2010 should 
+therefore now be amended to contain the implementing rules for the spatial data services. 
+(4)  
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established by 
+Article 22 of Directive 2007/2/EC, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Regulation (EU) No 1089/2010 is amended as follows: 
+(1)  Article 1 is replaced by the following: 
+‘Article 1 
+Subject Matter and Scope 
+1.
+This Regulation sets out the requirements for technical arrangements for the interoperability and, where prac­
+ticable, harmonisation of spatial data sets and spatial data services corresponding to the themes listed in Annexes I, 
+II and III to Directive 2007/2/EC. 
+2.
+This Regulation does not apply to the network services falling within the scope of Commission Regulation 
+(EC) No 976/2009 (*).  
+(*) Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the 
+European Parliament and of the Council as regards the Network Services (OJ L 274, 20.10.2009, p. 9).’ 
+11.12.2014 
+L 354/8 
+Official Journal of the European Union 
+EN     
+(1) OJ L 108, 25.4.2007, p. 1. 
+(2) Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and 
+of the Council as regards interoperability of spatial data sets and services (OJ L 323, 8.12.2010, p. 11). 
+(3) Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of 
+the Council as regards the Network Services (OJ L 274, 20.10.2009, p. 9). 
+(2)  in Article 2 the following points 31 to 38 are added: 
+‘31.  “end point” means the internet address used to directly call an operation provided by a spatial data service, 
+32.  “access point” means an internet address containing a detailed description of a spatial data service, including a 
+list of end points to allow its execution, 
+33.  “Invocable spatial data service” means all of the following: 
+(a)  a spatial data service with metadata which fulfils the requirements of Commission Regulation (EC) No 
+1205/2008 (*), 
+(b)  a spatial data service with at least one resource locator that is an access point, 
+(c)  a spatial data service in conformity with a documented and publicly available set of technical specifications 
+providing the information necessary for its execution, 
+34.  “interoperable spatial data service” means an invocable spatial data service which fulfils the requirements of 
+Annex VI, 
+35.  “harmonised spatial data service” means an interoperable spatial data service which fulfils the requirements of 
+Annex VII, 
+36.  “conformant spatial data set” means a spatial data set which fulfils the requirements of this Regulation, 
+37.  “operation” means an action supported by a spatial data service, 
+38.  “interface” means the named set of operations that characterise the behaviour of an entity as defined by 
+ISO 19119:2005.  
+(*) Commission Regulation (EC) No 1205/2008 of 3 December 2008 implementing Directive 2007/2/EC of 
+the European Parliament and of the Council as regards metadata (OJ L 326, 4.12.2008, p. 12)’; 
+(3)  Article 6 is amended as follows: 
+(a)  the title is replaced by the following: 
+‘Code Lists and Enumerations for Spatial Data Sets’, 
+(b)  in paragraph 1, the introductory sentence is replaced by the following: 
+‘Code lists shall be one of the following types, as specified in the Annexes I to IV:’; 
+(4)  in Article 8, the following paragraph 3 is added: 
+‘3.
+The updates of data shall be made available to all related spatial data services according to the deadline spe­
+cified in paragraph 2.’; 
+(5)  after Article 14, the following Articles are inserted: 
+‘Article 14a 
+Requirements for invocable spatial data services 
+Not later than 10 December 2015, Member States shall provide the invocable spatial data services metadata in con­
+formity with the requirements set out in Annex V. 
+Article 14b 
+Interoperability arrangements and harmonisation requirements for invocable spatial data services 
+The invocable spatial data services relating to the data contained in at least one conformant spatial data set shall 
+fulfil the interoperability requirements set out in Annexes V and VI and, where practicable, the harmonisation 
+requirements set-out in Annex VII.’; 
+11.12.2014 
+L 354/9 
+Official Journal of the European Union 
+EN     
+(6)  Annex V, as set out in the Annex I to this Regulation, is added; 
+(7)  Annex VI, as set out in the Annex II to this Regulation, is added; 
+(8)  Annex VII, as set out in the Annex III to this Regulation, is added. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 10 December 2014. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+11.12.2014 
+L 354/10 
+Official Journal of the European Union 
+EN     
+ANNEX I 
+‘ANNEX V 
+IMPLEMENTING RULES FOR INVOCABLE SPATIAL DATA SERVICES 
+PART A 
+Writing Conventions 
+Similar to the Regulation (EC) No 1205/2008, the following writing conventions are used for the spatial data service 
+metadata. 
+Where specified in the description of the metadata elements, the value domains shall be used with the multiplicity 
+expressed in the relevant tables. In relation to a particular domain, each value is defined by: 
+—  a numerical identifier, 
+—  a textual name for humans which may be translated in the different Community languages, 
+—  a language neutral name for computers (the value expressed between parenthesis), 
+—  an optional description or definition. 
+The table present the following information: 
+—  the first column contains the reference to the paragraph in the Annex defining the metadata element or group of 
+metadata elements, 
+—  the second column contains the name of the metadata element or group of metadata elements, 
+—  the third column specifies the multiplicity of a metadata element. The expression of the multiplicity follows the 
+unified modelling language (UML) notation for multiplicity, in which: 
+—  N means that there shall be only N instances of this metadata element in a result set, 
+—  1..* means that there shall be at least one instance of this element in a result set, 
+—  0..1 indicates that the presence of the metadata element in a result set is conditional but can occur only once, 
+—  0..* indicates that the presence of the metadata element in a result set is conditional but the metadata element 
+may occur once or more, 
+—  when the multiplicity is 0..1 or 0..*, the condition defines when the metadata elements is mandated. 
+—  the fourth column contains a conditional statement if the multiplicity of the element does not apply to all types of 
+resources. All elements are mandatory in other circumstances. 
+PART B 
+Category Metadata Element 
+1.  
+Category 
+This is a citation of the status of the spatial data service versus invocability. 
+The value domain of this metadata element is as follows: 
+1.1.  Invocable (invocable) 
+The spatial data service is an invocable spatial data service. 
+1.2.  Interoperable (interoperable) 
+The invocable spatial data service is an interoperable spatial data service. 
+11.12.2014 
+L 354/11 
+Official Journal of the European Union 
+EN     
+1.3.  Harmonised (harmonised) 
+The interoperable spatial data service is a harmonised spatial data service. 
+PART C 
+Instructions on Multiplicity and Conditions of the Metadata Elements 
+The new metadata describing the spatial data service shall comprise the metadata elements or groups of metadata 
+elements listed in Table 1. 
+Those metadata elements or groups of metadata elements shall be in accordance with the expected multiplicity and the 
+related conditions set out in Table 1. 
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory. 
+Table 1 
+Metadata for invocable spatial data services 
+Reference 
+New metadata elements 
+Multiplicity 
+Condition 
+1 
+Category 
+0..1 
+mandatory for an invocable spatial data service  
+PART D 
+Additional Requirements on Metadata Set Out in Regulation (EC) No 1205/2008 
+1.  Resource Locator 
+The Resource Locator metadata element set out in Regulation (EC) No 1205/2008 shall also contain all access points 
+from the spatial data service provider and these access points shall be unambiguously identified as such. 
+2.  Specification 
+The Specification metadata element set out in Regulation (EC) No 1205/2008 shall also refer to or contain technical 
+specifications (such as INSPIRE technical guidance but not only), to which the invocable spatial data service fully 
+conforms, providing all the necessary technical elements (human, and wherever relevant, machine readable) to allow 
+its invocation.’  
+11.12.2014 
+L 354/12 
+Official Journal of the European Union 
+EN     
+ANNEX II 
+‘ANNEX VI 
+IMPLEMENTING RULES FOR THE INTEROPERABILITY OF INVOCABLE SPATIAL DATA SERVICES 
+PART A 
+Additional Requirements on Metadata Set Out in Regulation (EC) No 1205/2008 
+1.  
+Conditions applying to access and use 
+The technical restrictions applying to the access and use of the spatial data service shall be documented in the 
+metadata element “CONSTRAINT RELATED TO ACCESS AND USE” set out in Regulation (EC) No 1205/2008. 
+2.  
+Responsible party 
+The responsible party set out in Regulation (EC) No 1205/2008 shall at least describe the custodian responsible 
+organisation, corresponding to the Custodian responsible party role set out in Regulation (EC) No 1205/2008. 
+PART B 
+Metadata Elements 
+3.  
+Coordinate Reference System Identifier 
+Where appropriate, this is the list of coordinate reference systems supported by the spatial data service. 
+Each supported coordinate reference system shall be expressed using an identifier. 
+4.  
+Quality of Service 
+This is the minimum quality of service estimated by the spatial data service responsible party and expected to be 
+valid over a period of time. 
+4.1.  
+Criteria 
+These are the criteria to which the measurements refer. 
+The value domain of this metadata element is as follows: 
+4.1.1.  Availability (availability) 
+It describes the percentage of time the service is available. 
+4.1.2.  Performance (performance) 
+It describes how fast a request to the spatial data service can be completed. 
+4.1.3.  Capacity (capacity) 
+It describes the maximum number of simultaneous requests that can be completed with the declared perform­
+ance. 
+4.2.  
+Measurement 
+4.2.1.  Description 
+It describes the measurement for each criterion. 
+The value domain of this metadata element is free text. 
+11.12.2014 
+L 354/13 
+Official Journal of the European Union 
+EN     
+4.2.2.  Value (value) 
+It describes the value of the measurement for each criterion. 
+The value domain of this metadata element is free text. 
+4.2.3.  Unit (unit) 
+It describes the Unit of the measurement for each criterion. 
+The value domain of this metadata element is free text. 
+PART C 
+Instructions on Multiplicity and Conditions of the Metadata Elements 
+The metadata describing an interoperable spatial data service shall comprise the metadata elements or groups of meta­
+data elements listed in Table 1. 
+Those metadata elements or groups of metadata elements shall be in accordance with the expected multiplicity and the 
+related conditions set out in Table 1. 
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory. 
+Table 1 
+Metadata for interoperable spatial data services 
+Reference 
+New metadata elements 
+Multiplicity 
+Condition 
+1 
+Coordinate reference system identifier 
+1..* 
+Mandatory if relevant 
+2 
+Quality of service 
+3..*’    
+11.12.2014 
+L 354/14 
+Official Journal of the European Union 
+EN     
+ANNEX III 
+‘ANNEX VII 
+IMPLEMENTING RULES FOR THE HARMONISATION OF INTEROPERABLE SPATIAL DATA SERVICES 
+PART A 
+Characteristics 
+1.  Quality of Service 
+The probability of a harmonised spatial data service to be available shall be 98 % of the time. 
+2.  Output encoding 
+A harmonised spatial data service returning spatial objects in the scope of the Directive 2007/2/EC shall encode 
+those spatial objects according to this regulation. 
+PART B 
+Metadata Elements 
+3.  invocation metadata 
+The invocation metadata element documents the interfaces of the harmonised spatial data service and lists the end 
+points to enable machine-to machine communication. 
+PART C 
+Instructions on Multiplicity and Conditions of the Metadata Elements 
+The harmonised spatial data service metadata shall comprise the metadata element or group of metadata elements listed 
+in Table 1. 
+This metadata element or group of metadata elements shall be in accordance with the expected multiplicity and the 
+related conditions set out in Table 1. 
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory. 
+Table 1 
+Metadata for harmonised spatial data services 
+Reference 
+New metadata elements 
+Multiplicity 
+Condition 
+1 
+invocation metadata 
+1..*   
+PART D 
+Operations 
+1.  
+List of operations 
+A harmonised spatial data service shall provide the operation listed in table 2. 
+11.12.2014 
+L 354/15 
+Official Journal of the European Union 
+EN     
+Table 2 
+Operations for Harmonised Spatial Data Services 
+Operation 
+Role 
+Get Harmonised Spatial Data Service Metadata 
+Provides all necessary information about the service 
+and describes service capabilities  
+2.  
+Get Harmonised Spatial Data Service Metadata Operation 
+2.1.  
+Get Harmonised Spatial Data Service Metadata Request 
+2.1.1.  Get Harmonised Spatial Data Service Metadata Request parameters 
+The Get Harmonised Spatial Data Service Metadata Request parameter indicates the natural language for the 
+content of the Get Harmonised Spatial Data Service Metadata Response 
+2.2.  
+Get Harmonised Spatial Data Service Metadata Response 
+The Get Harmonised Spatial Data Service Metadata Response shall contain the following sets of parameters: 
+—  Harmonised Spatial Data Service Metadata, 
+—  Operations Metadata, 
+—  Languages. 
+2.2.1.  Harmonised Spatial Data Service Metadata parameters 
+The Harmonised Spatial Data Service Metadata parameters shall at least contain the INSPIRE metadata elements 
+of the Harmonised Spatial Data Service set out in this Regulation, and in Regulation (EC) No 1205/2008. 
+2.2.2.  Operations Metadata parameters 
+The Operations Metadata parameter provides metadata about the operations of the Harmonised Spatial Data 
+Service. It shall at least describe each operation, including as a minimum a description of the data exchanged and 
+the network address. 
+2.2.3.  Languages parameter 
+Two language parameters shall be provided: 
+—  the Response Language parameter indicating the natural language used in the Get Harmonised Spatial Data 
+Service Metadata Response parameters, 
+—  the Supported Languages parameter containing the list of the natural languages supported by the Harmonised 
+Spatial Data Service.’  
+11.12.2014 
+L 354/16 
+Official Journal of the European Union 
+EN     

@@ -1,0 +1,444 @@
+COMMISSION DELEGATED REGULATION (EU) 2020/257 
+of 16 December 2019 
+supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by 
+specifying the number and the title of the variables for the labour force domain 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2019/1700 of the European Parliament and of the Council of 10 October 2019 
+establishing a common framework for European statistics relating to persons and households, based on data at individual 
+level collected from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the 
+European Parliament and of the Council, and repealing Regulation (EC) No 1177/2003 of the European Parliament and of 
+the Council and Council Regulation (EC) No 577/98 (1), and in particular Article 6(1) thereof, 
+Whereas: 
+(1) 
+In order to cover the needs identified in the relevant detailed topics, the Commission should specify the number and 
+title of the variables for the data set in the labour force domain. 
+(2) 
+The number of variables to be collected does not exceed by more than 5 % the number of variables collected for the 
+labour force domain at the time when Regulation (EU) 2019/1700 entered into force. 
+(3) 
+The Commission has carried out appropriate consultations of national experts as part of the preparation of this 
+delegated act, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The number and the titles of the variables for the data set in the labour force domain are set out in the Annex. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 December 2019.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+(1) OJ L 261I, 14.10.2019, p. 1. 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                            
+L 54/9   
+
+ANNEX 
+Number and title of the variables for the dataset in the labour force domain 
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name 
+01. Technical Items - 23 technical variables (19 
+quarterly; 4 yearly) - 1 derived variable 
+Data collection information 
+REFYEAR 
+Year of survey 
+REFWEEK 
+Reference week 
+REFMONTH 
+Reference month 
+INTWEEK 
+Interview week 
+HHTYPE 
+Living in a private household or an institution 
+STRATUM 
+Stratum 
+PSU 
+Primary sampling unit 
+FSU 
+Final (or ultimate) sampling unit 
+DEWEIGHT 
+Design weight 
+Identification 
+IDENT 
+Unique identifier 
+HHNUM 
+Serial number of the household 
+HHSEQNUM 
+Sequence number in the household 
+Weights 
+COEFFQ 
+Quarterly weighting factor 
+COEFFY 
+Yearly weighting factor 
+COEFF2Y 
+Weighting factor for the two-yearly variables 
+COEFFMOD 
+Yearly weighting factor — module 
+COEFFHH 
+Yearly household weighting factor 
+Interview characteristics 
+INTWAVE 
+Sequence number of the survey wave 
+INTQUEST 
+Questionnaire used 
+MODE 
+Interviewing mode used 
+PROXY 
+Nature of participation in the survey 
+Localisation 
+COUNTRY 
+Country of residence 
+REGION 
+Region of residence 
+DEGURBA 
+Degree of urbanisation 
+EN
+Official Journal of the European Union 
+L 54/10                                                                                                                                           
+26.2.2020   
+
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name 
+02. Person and household characteristics - 14 
+collected variables (9 quarterly; 4 yearly; 1 
+biennially) - 1 derived variable 
+Demography 
+SEX 
+Sex 
+YEARBIR 
+Year of birth 
+PASSBIR 
+Passing of birthday 
+AGE 
+Age in completed years 
+Citizenship and migrant background 
+CITIZENSHIP 
+Country of main citizenship 
+COUNTRYB 
+Country of birth 
+COBFATH 
+Country of birth of the father 
+COBMOTH 
+Country of birth of the mother 
+Reasons for migration 
+MIGREAS 
+Main reason for migrating 
+Household composition 
+HHLINK 
+Relationship to the reference person in the household 
+Household composition — additional specific 
+details 
+HHSPOU 
+Sequence number of partner 
+HHFATH 
+Sequence number of father 
+HHMOTH 
+Sequence number of mother 
+Stay in the country 
+YEARESID 
+Duration of stay in the country of residence in completed years 
+COUNTRPR 
+Country of previous residence 
+03. Labour market participation - 35 collected 
+variables (25 quarterly; 10 yearly) - 2 derived 
+variables 
+Employment status 
+WKSTAT 
+Working in the reference week 
+ABSREAS 
+Main reason for absence from work during the entire reference week 
+JATTACH 
+Job attachment 
+EMPSTAT 
+Being in employment 
+ILOSTAT 
+ILO employment status 
+Second or multiple job(s) 
+NUMJOB 
+Number of jobs 
+STAPRO2J 
+Status in employment in second job 
+NACE2J2D 
+Economic activity of the local unit for second job 
+Search for employment 
+SEEKWORK 
+Searching for employment during the 4 weeks ending in the reference 
+week 
+SEEKREAS 
+Main reason for not searching for employment  
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/11   
+
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name  
+ACTMETNE 
+Having used an active search method to find a job (for not employed 
+people) 
+SEEKDUR 
+Duration of search for employment 
+Willingness to work 
+WANTWORK 
+Willingness to work even if not searching for employment 
+WANTREAS 
+Main reason for not wanting to work 
+Underemployment 
+WISHMORE 
+Wish to work more than the current number of usual hours 
+Availability 
+AVAILBLE 
+Availability to start working immediately or to work more 
+AVAIREAS 
+Main reason for not being available to start working immediately or to 
+work more 
+Workplace 
+COUNTRYW 
+Country of place of work for main job 
+REGIONW 
+Region of place of work for main job 
+Working at home 
+HOMEWORK 
+Working at home for the main job 
+Elementary job characteristics 
+STAPRO 
+Status in employment in main job 
+NACE3D 
+Economic activity of the local unit for main job 
+ISCO4D 
+Occupation in main job 
+FTPT 
+Full- or part-time main job (self-defined) 
+Duration of contract 
+TEMP 
+Permanency of main job 
+TEMPDUR 
+Total duration of temporary main job 
+Details of contract 
+TEMPREAS 
+Main reason for having a temporary main job 
+TEMPAGCY 
+Contract with a temporary employment agency for the main job 
+Full- or part-time status — reason 
+FTPTREAS 
+Main reason for part-time work in the main job 
+Dependent self-employment 
+MAINCLNT 
+Number and importance of clients in the 12 months ending with the 
+reference week 
+VARITIME 
+Decision on the start and end of working time 
+Supervisory responsibilities 
+SUPVISOR 
+Supervisory responsibilities in main job 
+Establishment size 
+SIZEFIRM 
+Size of the local unit for main job  
+EN
+Official Journal of the European Union 
+L 54/12                                                                                                                                           
+26.2.2020   
+
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name  
+Search for another job 
+LOOKOJ 
+Looking for another job 
+HWWISH 
+Number of hours that the person would like to work in total in a week 
+Care needs 
+NEEDCARE 
+Main reason why care for children or incapacitated relatives limits 
+labour market participation 
+Main activity status (self-defined) 
+MAINSTAT 
+Main activity status (self-defined) 
+04. Educational attainment and background - 
+4 collected variables (1 quarterly; 3 yearly) 
+Educational attainment level 
+HATLEVEL 
+Educational attainment level (highest level of education successfully 
+completed) 
+Educational attainment – details, including 
+education interrupted or abandoned 
+HATFIELD 
+Field of the highest level of education successfully completed 
+HATYEAR 
+Year when the highest level of education was successfully completed 
+HATWORK 
+Work experience at a workplace as part of HATLEVEL 
+05. Job tenure, work biography and previous 
+work experience - 11 collected variables (6 
+quarterly; 5 yearly) 
+Start of job 
+YSTARTWK 
+Year in which person started working for current employer or as self- 
+employed in current main job 
+MSTARTWK 
+Month in which person started working for current employer or as 
+self-employed in current main job 
+Way job found 
+WAYJFOUN 
+Public employment service helped to find the current main job 
+FINDMETH 
+Most effective method used to find the current main job (for persons 
+in employment) 
+Career continuity and breaks 
+EXISTPR 
+Existence of previous employment experience 
+YEARPR 
+Year in which person left the last job or business 
+MONTHPR 
+Month in which person left the last job or business 
+LEAVREAS 
+Main reason for leaving last job or business 
+Elementary characteristics of the last job 
+STAPROPR 
+Status in employment in last job or business 
+NACEPR2D 
+Economic activity of the local unit in which person last worked 
+ISCOPR3D 
+Occupation in the last job 
+06. Working conditions including working 
+hours and working time arrangements - 
+14 collected variables (9 quarterly; 5 bien­
+nially) 
+Working hours 
+CONTRHRS 
+Contractual working hours in main job 
+HWUSUAL 
+Number of hours per week usually worked in main job 
+ABSHOLID 
+Days of absence from main job due to holidays and leave 
+ABSILLINJ 
+Days of absence from main job due to own illness, injury or temporary 
+disability  
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/13   
+
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name  
+ABSOTHER 
+Days of absence from main job due to other reasons 
+EXTRAHRS 
+Overtime or extra hours worked in main job 
+HWACTUAL 
+Number of hours actually worked in main job 
+HWUSU2J 
+Number of hours per week usually worked in second job 
+HWACTU2J 
+Number of hours actually worked in second job 
+Working time arrangements 
+SHIFTWK 
+Shift work in main job 
+EVENWK 
+Evening work in main job 
+NIGHTWK 
+Night work in main job 
+SATWK 
+Saturday work in main job 
+SUNWK 
+Sunday work in main job 
+07. Participation in education and training - 6 
+collected variables (3 quarterly; 3 biennially) 
+Participation in formal and non-formal edu­
+cation and training (4 weeks) 
+EDUCFED4 
+Participation in formal education and training (student or apprentice) 
+in the last 4 weeks 
+EDUCLEV4 
+Level of the most recent formal education or training activity in the 
+last 4 weeks 
+EDUCNFE4 
+Participation in non-formal education and training in the last 4 weeks 
+Participation in formal and non-formal edu­
+cation and training (12 months) 
+EDUCFED12 
+Participation in formal education and training (student or apprentice) 
+in the last 12 months 
+EDUCLEV12 
+Level of the most recent formal education or training activity in the 
+last 12 months 
+EDUCNFE12 
+Participation in non-formal education and training in the last 12 
+months 
+08. Health: status and disability, access to, 
+availability and use of health care and 
+health determinants - 2 collected variables 
+(2 biennially) 
+Disability and other elements of Minimum 
+European Health Module 
+GENHEALTH 
+Self-perceived general health 
+Elements of the Minimum European Health 
+Module 
+GALI 
+Limitation in activities because of health problems  
+EN
+Official Journal of the European Union 
+L 54/14                                                                                                                                           
+26.2.2020   
+
+Topic 
+Detailed topic 
+Variable identifier 
+Variable name  
+09. Income, consumption and elements of 
+wealth, including debts - 2 collected vari­
+ables (1 quarterly; 1 yearly) - 1 technical vari­
+able 
+Income from work 
+INCGROSS 
+Gross monthly pay from the main job 
+INCGROSS_F 
+Flag on gross monthly pay from main job 
+Income from unemployment allowances 
+REGISTER 
+Registration at a public employment service (PES) 
+03b. Labour market participation - 11 col­
+lected variables (11 eight-yearly) 
+Labour market situation of migrants and their 
+immediate descendants 
+HATPAR 
+Educational attainment level of the respondent’s parents 
+HATCNTR 
+Country where the highest level of education was successfully 
+completed 
+JOBSATISF 
+Job satisfaction 
+DISCRIMI 
+Feeling of being discriminated against at work in the current job 
+JOBOBSTA 
+Main obstacle to getting a suitable job 
+PRKNLANG 
+Skills in the main host country language before migrating 
+LANGHOST 
+Current skills in the main host country language 
+SKILLEQ 
+Skill equivalence new main and old main job 
+LANGCOUR 
+Participation in course for the main host country language 
+DURFIJOB 
+Time required to find the first paid job in the host country 
+ESTQUAL 
+Recognition of formal qualifications obtained abroad   
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/15

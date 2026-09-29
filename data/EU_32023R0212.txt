@@ -1,0 +1,116 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION DELEGATED REGULATION (EU) 2023/212 
+of 3 November 2022
+supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by 
+specifying the number and the title of the variables in the income and living conditions domain on 
+access to services 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/1700 of the European Parliament and the Council of 10 October 2019 establishing 
+a common framework for European statistics relating to persons and households, based on data at individual level collected 
+from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the European 
+Parliament and of the Council and repealing Regulation (EC) No 1177/2003 of the European Parliament and of the 
+Council and Council Regulation (EC) No 577/98 (1), and in particular Article 6(1) thereof,
+Whereas:
+(1)
+To cover the needs identified in the relevant detailed topics related to the income and living conditions domain listed 
+in Annex I to Regulation (EU) 2019/1700, the Commission should specify the number and title of the variables for 
+the data sets on access to services.
+(2)
+The detailed topics on ‘Use of services, including care services and services for independent living’; ‘Affordability of 
+services’; and ‘Unmet needs and reasons’ should provide the information required by the European Semester, 
+European Care Strategy and the European Pillar of Social Rights. It also provides information for various other EU 
+policies related to living conditions and poverty.
+HAS ADOPTED THIS REGULATION:
+Article 1
+The number and title of variables in the income and living conditions domain as regards the sets of variables on access to 
+services are set out in the Annex.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+(1) OJ L 261I, 14.10.2019, p. 1.
+EN
+Official Journal of the European Union 
+2.2.2023 
+L 30/1  
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 3 November 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 30/2 
+2.2.2023  
+
+ANNEX 
+Number and titles of the six-yearly variables on access to services in the income and living 
+conditions domain 
+Module
+Detailed topic
+Variable 
+identifier
+Variable name
+Access to services
+Use of services, including 
+care services and services 
+for independent living (9 
+collected variables)
+HC190
+Presence in the household of people who need 
+help due to long-term physical or mental ill- 
+health, infirmity, or because of old age
+HC200
+Professional home care services received
+PC280
+Frequency of use of public transport
+PC310
+Entitlement to unemployment benefits
+PC320
+Entitlement to sickness benefits
+PC330
+Feeling discriminated when in contact with 
+administrative offices or public services 
+(including job centre, health and social services)
+PC340
+Feeling discriminated when looking for housing
+PC350
+Feeling discriminated in education
+PC360
+Feeling discriminated in public spaces (shop, café, 
+restaurant, leisure facilities etc.)
+Affordability of services
+(5 collected variables)
+HC221
+Payment for professional home care services
+HC230
+Affordability of professional home care services
+HC300
+Financial burden of public transport
+RC370
+Payment for formal childcare services
+HC040
+Affordability of formal childcare services
+Unmet needs and reasons
+(5 collected variables)
+HC240
+Unmet needs for professional home care services
+HC250
+Main reason for not receiving (more) professional 
+home care services
+RC380
+Unmet needs for formal childcare services
+RC390
+Main reason for not making (more) use of formal 
+childcare services
+PC290
+Main reason for not using regularly public 
+transport
+EN
+Official Journal of the European Union 
+2.2.2023 
+L 30/3

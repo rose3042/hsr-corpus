@@ -1,0 +1,1555 @@
+ICS 03.220.30 CCS 5 90
+G| National Standard of the People 's Republic of China GBIT 13317-2024 Replace GB/T 13317-2010
+Vocabulary for railway transport- Passenger transport 铁路运输词汇 旅客运输
+English Translation)
+Issue date: 2024-08-23
+Implementation date: 2024-12-01
+Issued by State Administration for Market Regulation National standardization Administration
+
+
+
+GBIT 13317-2024
+Contents
+Foreword
+Scope 2 Normative references
+3
+Basics of passenger transport Passenger equipment 5 Passenger services Market of passenger traffic Passenger transport indicators 8 Luggage and parcel transport 9 International passenger transport Bibliography
+5
+21
+32
+38
+41
+44
+46
+Index
+*47
+
+
+
+GBIT 13317-2024
+Foreword
+National Railway Administration of the People 5 Republic of China is in charge of this English translation. In CaSe of any doubt about the contents of English translation。 the Chinese original shall be considered authoritative _
+This standard is drafted in accordance With the rules given in GBIT 1. 12020 Directives for stan- dardization-Part 1 Rules for the structure and drafting of standardized documents_
+This standard replaces GBIT 13317-2010 Vocabulary for railway passenger transport。 Compared with GBIT 13317-2010, the main technical deviations are as follows, except for structural adjust- mentand editorial changes
+The section basics of passenger transport' was modified ; the terms railway duty pass Spe- cial Service pass, magnetic ticket, coupon ticket, through ticket and ticket valid period were deleted ; terms one way ticket, announced fare, implemented ticket fare, reimbursement cre- dential and passenger transport Were added ; and the type of carriers Was detailed (See Clause 3; in the 2010 edition , see Clause 2);
+b) The section passenger equipment'' Was modified ; terms Such as CRH waiting room pay lounge tourist platform- mail car, generator car and accessible telephone were deleted; the terms SUCh as station grade station scale, security inspection detector, hand-held metal de- tector, walk-through metal detector, entrance nursery room Service counter。 information in- dex sign and instruction sign were added; and the type of stations and seat class was detailed see Clause 4; in the 2010 edition, See Clause 3);
+The section passenger services was modified ; the terms such as change of route and sepa- rate passenger with one ticket were deleted ; and the terms Such as station Service station Staff, restricted article prohibited article Service articles , left luggage。 luggage handling food supply, Customer service service supervision, service remedy and the period of trans- port were added; the type of train crew station staff。 prohibited article Service articles. food supply Customer service, service supervision and the types of service remedies Was detailed see Clause 5; in the 2010 edition, see Clause 4) ;
+The section market of passenger traffic' was added; terms such as passenger flow route re- maining tickets adjustment, product of passenger traffic, market investigation, market fore- casts market segmentation , organization of passenger fIOW passenger flow diagram pas- senger flow form of oblique line- passenger flow districts and marketing of passenger traffic Were deleted ; terms such 35 turning back peak passenger flow passenger transport den- sity , canceling passenger train, adding passenger train, beyond station, restricted sale sta-
+
+GBIT 13317-2024
+tion, waitlist, pre-assignment, change seats, seating capacity, excess seating capacity were added; and the type of passenger flow, peak passenger flow traffic program of passenger train and passenger train composition was detailed (see Clause 6; in the 2010 edition, See Clauses 5and 6)
+The section passenger transport indicators' was modified. Terms such 35 punctuality rate of departure train, punctuality rate of running train, punctuality rate of arrival train。 number of boarding passengers number of alighting passengers_ average waiting area, manual tele- phone connection rate complaint rate_ death rate of accident, volume of luggage and parcel arrived, luggage  weight-kilometer Were added (See Clause 7; in the 2010 edition, See Clause 7);
+f)
+The section baggage and parcel transport" was modified. The section baggage and parcel transport"' was modified to section luggage and parcel transport" terms such as luggage re- ceipt, parcel receipt, HSR express, claim of luggage and parcel, waybill, Visual inspection were added See Clause 8; in the 2010 edition, see Clause 8)
+The section international passenger transport" Was modified ; Terms Such as international through passenger traffic station Were deleted ; Terms such 35 railway port, Cross-border transport, juxtaposed border inspection, border inspection respectively, joint inspection hall were added see Clause 9; in the 2010 edition, see Clause 9)
+Attention is drawn to the possibility that some of the elements of this standard may be the subject of patent rights. The issuing body of this standard shall not be held responsible for identifying any Orall such patent rights。
+This standard Was proposed and prepared by National Railway Administration of the People S Re public of China。
+The previous edition of this standard is as follows:
+This standard was issued in 1991as first edition,and the first revision was madein 2010;
+This is the second revision.
+
+GBIT 13317-2024
+Vocabulary for railway transport- Passenger transport
+Scope
+This standard specifies the terms and their definitions in the basics of railway passenger transport。 passenger transport equipment。 passenger Services market Of passenger traffic , passenger transport indicators , luggage, parcel transport and international passenger transport。
+This standard applies to the production management, design, scientific research, teaching, train- ing and publication of literature related to railway passenger transport。
+2
+Normative references
+There are no normative references in this document.
+3
+Basics of passenger transport
+3_ 1
+passenger
+holders of a valid railway travel voucher and accompanying children who travel free of charge
+3_ 1.1
+passenger Who needs care
+children, the elderly. the sick, the disabled or pregnant passengers
+3_ 1.2
+priority passenger
+passengers Who enjoy the priority policy in purchasing tickets, Security check。 ID-based verifica- tion, waiting, inbound and outbound, and boarding and alighting in accordance with applicable laws and regulations
+3 1.3 preferential passenger
+passengers Who are entitled to fare reduction policies in accordance With applicable laws and regu- lations
+
+GBIT 13317-2024
+3_ 1.4
+group passengers
+lowest required number Of passengers Who purchase tickets in group and travel together at the same date with the same train number, departure station , arrival station and seat type
+3_ 1.5
+frequent passenger
+passengers Who regularly travel by passenger train and participate in railway membership activities
+3.2
+carrier
+legal person oragent Who assumes the rights and obligations for the transport of passengers。 lug- gage and parcels
+3.2.1
+Contract carrier
+carrier that has a contract of carriage with a passenger or consignor
+3.2.2 successive carrier
+carrier that does not enter into a contract of carriage directly with passengers Or consignors and that assumes rights and obligations from other carriers to continue to transport passengers, bag- gage and parcels
+3.2.3
+actual carrier
+carrier engaged in the transport of passengers , baggage and parcels in Whole orin part
+3.3
+ticket
+basic certificate for concluding railway passenger transport contract between passengers and carriers
+3.3. 1
+ticket fare
+price of passenger transport
+3.3.1.1
+announced fare
+announced maximum full ticket price for each seat class
+NOTE It is the basis for calculating implemented ticket fare . reduced fare。 etc _
+
+GBIT 13317-2024
+3.3.1.2 implemented ticket fare
+actual ticket fares on sale not higher than the announced fares
+3.3.1.3 reduced fare
+on the basis of the published fares, reductions of fares Which are given in accordance with appli- cable laws and regulations to children, students disabled soldiers。 disabled policemen and dis- abled personnel of the national comprehensive fire and rescue teams Who meet the prescribed conditions
+3.3 1.4
+miscellaneous fees of passenger traffic
+during rail transport。 in addition to passenger ticket fares and baggage and parcel tariffs fees charged by the carrier for services Such 35 auxiliary operations, labor and material consumption provided to passengers, consignors or consignees
+3.3.2
+ticket type
+types of tickets based on the nature of the ticket
+3.3.2. 1
+regular ticket
+tickets paid in fullin accordance with the implemented ticket fare
+3.3.2.2 reduced fare ticket
+tickets for children, students, military personnel with disabilities, disabled policemen and disabled members of the national comprehensive fire and rescue teams WhO are eligible for reduced fares and privileges
+3.3.2.2 1
+Child ticket
+child discounted ticket
+reduced-price preferential tickets for children who meet the prescribed conditions
+3.3.2.2.2 student ticket
+student discounted ticket
+reduced-price preferential tickets for students Who meet the prescribed conditions
+
+GBIT 13317-2024
+3.3.2.2.3 ticket for disabled military and police
+preferential ticket for disabled military and police
+reduced fare ticket purchased by disabled soldiers, disabled policemen and disabled personnel of the national comprehensive fire and rescue teams Who meet the prescribed conditions for taking a ride
+3.3.2.3
+group ticket
+tickets purchased by group passengers
+3.3.2. 4
+ticket for different departure stations
+tickets sold at a station other than the departure station indicated on the ticket
+3.3.2.5
+one way ticket
+tickets for a single journey from the departure station to the arrival station
+3.3.2.6 connecting tickets
+tickets containing more than two consecutive journeys from the departure station to the arrival sta- tion
+3.3.2.7
+round-trip tickets
+connecting ticket from the departure station to the arrival station and back to the departure station
+3.3.2.8 substitute ticket
+multi-purpose tickets filled out by station staff
+3.3.2.9 district ticket
+fill-in tickets with fixed segments , fares and ticket types
+3.3.2.10 periodic ticket
+tickets limited to use Within a certain period oftime, segment orarea
+
+GBIT 13317-2024
+3.3.2.11 quota ticket
+tickets with a fixed price
+3.3.2.12 ride number limited ticket
+tickets for a fixed number oftrips
+3.3.2.13 supplement ticket
+ticket that makes up the difference in the fare
+3.3.2.14 electronic ticket
+digital form of ticket
+3.3.2.15 platform ticket
+Vouchers used only to access the station for picking up and dropping Off passengers
+3.3.3
+reimbursement credential
+voucher issued by the carrier to provide services or engage in other business activities for account- ing purposes
+3.3.4 passenger traffic record
+during the transport of passengers- luggage and parcels, due to special circumstances i is nec- essary to record certain matters between the carrier and passengers, consignors and consignees, or the voucher of business handover between the station and passenger trains
+3.4
+passenger transport
+transport activities to achieve the spatial displacement of people, baggage, parcels。 etc with passengers as the object of service and passenger vehicles as the main means oftransport
+4
+Passenger equipment
+4
+railway passenger station
+station
+
+GBIT 13317-2024
+premises where passenger transport operations are conducted and services are provided to pas- sengers
+NOTE It generally consists of station buildings, station yards and passenger service facilities _
+[SOURCE: TB 10100-2018,2.0.1. modified ]
+4.1.1 station grade
+grades of stations determined by factors such as the volume of passenger traffic at the station
+NOTE It includes principal station , first grade station, second grade station, third grade station, fourth grade sta- tion and fifth grade station。
+4 1.2
+station scale
+building size of the station
+NOTE It includes extra-large passenger stations, large passenger stations, medium passenger stations and small passenger stations 
+4 1.3
+departure station
+departure station stated on the ticket selected by the passenger at the time of purchase
+4_ 1.4
+arrival station
+station ofarrival stated on the ticket chosen by the passenger at the time of purchase
+4 1.5 transfer station
+station Where passengers transfer
+4 1.6 dwelling station
+station through which passenger trains pass, and where passengertransport services are handled
+4.1.7 stopping point
+train stops for passenger boarding and alighting only
+4.2 no-track railway station
+places outside of railway passenger stations that provide services SUch 35 ticketing , waiting for
+
+GBIT 13317-2024
+trains, baggage checking , and counseling for railway passengers
+4.3
+station square
+collection and distribution areas for passengers baggage , parcels and vehicles ofall kinds
+NOTE There are various vehicle routes. parking lots passenger activity zones. pedestrian walkways and neces- sary passenger service facilities _
+4 _ 4 platform for station building
+platform that extends a certain width outward from the outer wall of the station building and COn- nects the station buildings, the entrances and the exits
+[SOURCE: TB 10100-2018。2.0 4. modified ]
+4.5 station building
+public buildings for passenger transport operations
+NOTE It mainly consists of passenger service places such as inbound and outbound. waiting for trains, ticketing baggage. parcel. commerce. and passenger operation and ancillary buildings_
+4.5.1 baggage office
+place Where baggage and parcel check-in and pick-up are handled
+4.5.2
+ConcoUrSe
+hall in the station building to guide inbound and outbound passengers
+[SOURCE: TB 10100-2018,2.0.5, modified ]
+4.5.2.1
+security inspection detector
+equipment for security checking of passengers carry-on Or consignors' baggage Or parcels by means of X-rays, etc.
+4.5.2.2 hand-held metal detector
+hand-held devices for detecting metal objects
+
+GBIT 13317-2024
+4.5.2.3
+walk-through metal detector
+gate-type device for detecting metal objects when people are walking through
+4.5.2.4 liquid detector
+safety devices for detecting flammable and explosive hazardous liquids
+4.5.2.5 explosive detector
+safety devices for detecting explosive substances
+4.5.3
+ticket hall
+place for purchasing , refunding and changing tickets
+4.5.3 self-service ticket vending machine
+machine With functions such as self-service ticket purchase and voucher printing
+4.5.3.2
+self-service ticket claim machine
+machine with only the function of self-service online printing of tickets or vouchers
+4.5.3_ 3
+self-service ticket refund machine
+machine With only the self-service online refunding of tickets
+4.5.4
+entrance
+entrance for passengers entering the station building to Wait for trains
+4.5.4.1 self-service identity verification equipment
+equipment capable of automatically recognizing and verifying the consistency of the identity infor- mation recorded in the ticket, the passenger, and his or her valid identity document
+4.5.4.2
+manual identity verification place
+location where identity information recorded on the ticket is verified by staff against the passenger and hislher valid identity document
+
+GBIT 13317-2024
+4.5.5
+Waiting room
+Waiting hall
+waiting area
+place Where passengers Wait to board a train
+4.5.5.1 cushioned seat waiting room
+place where passengers with soft seat or soft berth tickets wait to board the train
+4 5.5.2 business seat waiting room
+place where passengers with business class tickets wait to board the train
+4.5.5.3 waiting room for military personnel
+place where military personnel and their accompanying family members wait for trains
+4.5.5. 4 waiting room for passenger Who needs care
+place Where priority passengers wait to board a train
+4.5.5.4.1
+nursery room
+place exclusively for female passengers to take care of their babies
+4.5.5.5 VIP waiting room
+place where VIPs wait for trains
+4.5.5.6
+Service counter
+location where staff provide comprehensive services to passengers such a5 information bulletins, counseling - assistance, complaint handling, ticketing
+4 5.6 ticket check gate
+location for checking the consistency between the information on tickets and the information in ticket check equipment for inbound passengers
+
+GBIT 13317-2024
+4.5.6 1
+self-service ticket check equipment
+equipment capable of automatically recognizing and verifying information such as passenger tick- ets and valid identification documents, and verifying the consistency of passenger information
+4.5.7
+exit
+location for checking tickets of outbound passengers
+4.5.7.1
+fare adjustment room
+Place to handle reimbursement of fares and reimbursement of fees for goods carried by passen- gers in excess of the prescribed limitations
+4.5.7.2 transfer hall
+place for passengers to change to a different passenger train Or to change to another means of transport
+4.6 passenger station yard
+site for the arrival, passing through and departure of passenger trains for the boarding and alight- ing of passengers and for the loading and unloading of baggage and parcels, etc_
+NOTE It is equipped with permanent ways。 platforms, water supply, track crossing equipment and other facili- ties.
+4.6 1 track crossing equipment
+facilities intersecting with the line and designed to facilitate the movement of persons Or vehicles between station buildings and platforms, and between platforms
+NOTE Such as underpass and overpass.
+4.6.1.1 underpass
+under-track track crossing facilities for passenger or vehicle traffic
+4.6 1.2 level crossing
+track crossing facilities in the station that intersect with the line at grade for passengers Or Vehicles and are flush with the station track
+10
+
+GBIT 13317-2024
+4 6 1.3
+OVerpass
+above-track track crossing facilities connecting station buildings to platforms Or platforms to plat- forms for passengers to walk through
+4.6.1.4 baggage passage
+track crossing facility for vehicles transporting luggage and parcels
+4 6 1.5
+logistics passage
+track crossing facilities for vehicles transporting goods
+4 6.2 platform
+platform in the station above, adjacent to and parallel to the station track for passengers and staff to board and alight, and for loading and unloading of baggage and parcels
+NOTE They are generally classified into basic and middle stations
+4.6.2.1 basic platform
+platform by the side of the main station building
+4 6.2.2
+middle platform
+platform not adjacent to either side of the main station building
+4 6.2.3 raised platform
+platform whose floor is basically flush with the floor of the passenger train compartment and that has a height of 1250 mm from the rail surface
+4 6.2.4 low platform
+platform Which has a floor lower than the floor of the passenger train compartment and height of less than orequal to 500 mm from the rail surface
+4.6.2.5
+platform safety door
+continuous barriers installed at the edge of the platform  separating the station track from the plat- form waiting area, Which can be opened and closed
+11
+
+GBIT 13317-2024
+4.6.2.6 platform awning
+facilities located above the platform to protect it from rain, snow and sunlight
+4 7
+passenger train
+train carrying passengers, baggage and parcels
+4.7.1
+passenger traffic section
+unit responsible for train services of passenger trains
+4.7.2
+train type
+train categories classified by vehicle configuration, operating routes, Service functions, etc Of passenger trains
+4.7.2.1
+through passenger train
+passenger train operating within the jurisdiction of more than two railway transport enterprises
+4.7.2.2 local passenger train
+passenger train operating within the jurisdiction of a railway transport enterprise
+4.7.2.3 EMUIDMU passenger train
+self-propelled , fixed-formation train consisting of motor Cars powered ) and trailers unpowered ) that can be controlled and driven at both ends, with an integrated design for the entire train
+4.7.2.4 ordinary passenger train
+passenger trains other than EMUIDMU passenger trains
+NOTE It includes direct. express, fast and ordinary passenger trains_
+4.7.2.5 air-conditioning passenger train
+passenger train using air-conditioning devices to regulate and control the temperature- fOW rate and other parameters ofthe ambient air in the compartment
+12
+
+GBIT 13317-2024
+4.7.2.6
+temporary passenger train
+temporary extra passenger trains
+4 7.2.7
+inter-city passenger train
+passenger train running between neighboring cities
+4.7.2.8 suburban passenger train
+passenger train running between the urban and suburban areas Of cities
+4.7.2.9
+tourist passenger train
+passenger train specially designed for passengers for tourism purposes
+4 7.2.10 Slow passenger train for public welfare
+conventional-speed passenger train serving passengers from revolutionary bases, ethnic areas, border areas and underdeveloped areas
+4.7.2.11 international passenger train
+passenger train operating between two different countries (or regions Or passing through other countries Or regions
+4 7.3 seat classification
+classes of passenger train seats including semi-cushioned seats - cushioned seats Second class seats。 first class seats special class seats, business seats, semi-cushioned berth, ordinary cush- joned berths, superior cushioned berths, second Class berths, first class berths and standing ticket。 etc
+4.7.3. 1
+seat number
+seat or berth numberin the compartment
+4 7.3.2
+berth number
+position number of the berth in the compartment
+13
+
+GBIT 13317-2024
+4.7.3.3 courtesy seat for passenger who needs care
+special care seat for priority passengers
+4 7.3 4
+semi-cushioned seat
+ordinary seat installed in the compartments of conventional-speed passenger trains
+4.7.3.5
+cushioned seat
+comfortable seat installed in train compartments
+4.7.3_ 6
+Second class seat
+ordinary cushioned seat installed in the compartments of EMU passenger trains
+4 7.3 7
+first class seat
+Cushioned Seat with
+high degree of comfort installed in the compartments of EMU passenger
+trains
+4.7.3.8 special class seat
+cushioned seat With very high degree of comfort installed in the compartments of EMU passenger trains
+4 7.3.9
+business class seat
+cushioned seat with 3 high degree of comfort installed in the compartments of EMU passenger trains Which can be adjusted to sitting upright, sitting flat, Iying flat and other positions
+4 7.3.10
+semi-cushioned berth
+ordinary berth installed in the compartments of a conventional-speed passenger train
+4.7.3.11 cushioned berth
+comfortable berth installed in the passenger train compartments
+NOTE It is divided into ordinary cushioned berths, superior cushioned berths, second-class berths and first-class berths
+14
+
+GBIT 13317-2024
+4.7.4
+passenger train vehicle
+railway vehicles used for passenger transport and those used for the service ofit
+4.7.4.1 carriage with semi-cushioned seats
+passenger vehicle with semi-cushioned seats
+4 7.4.2 carriage With semi-cushioned berths
+passenger vehicle with semi-cushioned berths
+4.7.4.3
+carriage with cushioned seats
+passenger vehicle with cushioned seats
+4.7.4.4 carriage with cushioned berths
+passenger vehicle with cushioned berths
+4 7.4.5 carriage with first class seats
+passenger vehicle with first class seats
+4.7.4.6
+carriage with second class seats
+passenger vehicle with second class seats
+4.7.4.7 carriage with special class seats
+passenger vehicle With special class seats
+4.7.4.8 business class carriage
+passenger vehicle with business class seats
+4.7.4.9 carriage With double-decker
+passenger vehicle with upper and lower compartments
+15
+
+GBIT 13317-2024
+4.7.4 10 carriage for dining
+passenger vehicle providing passenger dining services
+4 7.4 11 carriage for lodging
+passenger vehicle for train crews to rest
+4.7.4 12 carriage for baggage
+passenger vehicle for carrying luggage and parcels
+4.7.4.13 isolation carriage
+Vehicle not carrying passengers in the first formation behind the Iocomotive Of speed passenger train
+conventional
+4.8
+accessible facility
+facilities and equipment to facilitate the use of persons With disabilities, the elderly and other per- sons with limited mobility or visual impairment
+[SOURCE: TB 10100-2018,2.0 12, modified ]
+4.8.1
+accessible entrance and exit
+entrances and exits that are accessible to persons with reduced mobility in terms of slope, width, height, flooring materials and handrails
+[SOURCE: GB 50763-2012,2.0.5]
+4.8.2
+accessible lift
+elevator for access and use by persons with reduced mobility or stretcher beds
+4.8.3 accessible toilet
+accessible and well-equipped toilets for people with reduced mobility
+4.8.4
+accessible toilet cubicle
+toilet cubicle with toilet seats and safety grips installed in public restrooms and easily accessible 16
+
+GBIT 13317-2024
+and usable by persons with reduced mobility
+[SOURCE: GB 50763-2012。2.0. 15, modified ]
+4.8.5 wheelchair ramp
+ramp that facilitates the passage of wheelchair users in terms of slope, Width , height. floor mate- rial。 handrails, etc
+[SOURCE: GB 50763-2012,2.0.8]
+4.8.6 tactile ground surface indicator
+fixed pattern of floor tiles laid On sidewalks or other places to give the visually impaired a tactile Sense ofa cane and the feeling of foot to guide the visually impaired to walk forward and identify the direction to reach their destinations
+[SOURCE: GB 50763-2012,2.0.2]
+4.8.7
+accessible passageway
+passage for the mobility impaired in terms of slope, Width, height, flooring materials, handrails, etc_
+[SOURCE: GB 50763-2012,2.0.91
+4.8.8
+accessible window
+low-positioned service Window
+4 8.9
+accessible facility sign
+signs indicating the direction and location of barrier-free facilities for passengers in need
+4.9 passenger guidance system
+signage system consisting of public information guiding elements to direct the orderly movement of passengers in the station area or passenger train compartments
+4.9.1 public information sign
+sign conveying information about public places, public facilities and service functions, etc
+17
+
+GBIT 13317-2024
+[SOURCE: GBIT 15565-2020,4.1.21
+4.9 1.1
+static sign
+public information sign installed in station areas Orpassengertrain compartments that displays un- changed information
+4.9.1.2
+location sign
+sign consisting of a graphic symbol andlor text identifying the function of a service Or the location ofa public facility
+[SOURCE: GBIT 15565-2020。4.2.1
+4.9.1.2.1
+station name tablet
+sign indicating the name of a station
+4.9.1.3 guidance sign
+sign consisting of graphic symbols andlor text and directional symbols indicating the direction to a planned destination
+[SOURCE: GB/T 15565-2020,4_ 2.2]
+4.9.1.4
+location plan
+schematic diagrams showing information on the distribution of service functions or the location of public facilities Within a specific area or premises
+[SOURCE: GBIT 15565-2020。4.2.4]
+4.9.1.5 information index sign
+sign listing an index of information on the location of service functions or public facilities within specific area Or premises
+[SOURCE: GBIT 15565-2020。4.2.3]
+4.9.1.6 guidance line
+color-coded linear marking placed on the ground or wall to indicate the direction of the passenger route
+18
+
+GBIT 13317-2024
+CSOURCE: GB/T 15565-2020。4_ 2.10]
+4.9 1.7
+instruction sign
+public information signs prompting people to behave well
+NOTE For example, Please keep quiet" Don t litter etc
+[SOURCE: GB/T 15565-2020。4.2.111
+4.9.2
+safety sign
+sign that conveys a specific safety message formed by a graphic symbol presented in a geometric shape composed of a safety-colored backing color andlor border
+[SOURCE: GB/T 15565-2020。5.2.1
+4.9.2. 1 prohibition sign
+safety sign prohibiting certain behaviors or actions
+[SOURCE: GB/T 15565-2020。5.2.1.1
+4.9.2.2
+warning sign
+safety sign reminding passengers of the surroundings and hazardous objects 50 as to avoid po tential harm
+CSOURCE: GB/T 15565-2020,5.2.1.2]
+4.9.2.3
+safety condition sign
+sign that signals safe behavior orindicates the location of safety equipment or evacuation facilities
+[SOURCE: GB/T 15565-2020。5.2. 1.4]
+4.9.2.4 fire equipment sign
+safety sign that indicates where fire equipment are located or how to use them
+[SOURCE: GB/T 15565-2020。5.2. 1.51
+19
+
+GBIT 13317-2024
+4.9.2.5 safety marking
+marking line drawn on the platform ground and at a certain distance from the track side of the plat- form restricting passengers from passing it While waiting for trains
+4.9.3 emergency guidance system
+guidance system consisting of emergency guidance elements that directs people along designated evacuation routes out of a hazardous area in an emergency
+[SOURCE: GBIT 15565-2020。5.1.21
+4.9.3. 1
+emergency exit
+doors or passageways in evacuation routes that lead to a safe place
+[SOURCE: GBIT 15565-2020,5.3.4]
+4.9.3.2
+evacuation route
+safe route to exits from any location Within the building
+[SOURCE: GBIT 15565-2020,5.3.8]
+4.9.4
+billboard
+sign that provides service information in words, graphics, images, etc
+4.9.4.1
+bulletin board
+medium that provides travel information to passengers
+4.9.4.2
+electric display screen
+electronic screen composed of a screen body and a Controller main control board Or control SyS- tem that displays passenger service information
+4 10 passenger service system
+supported by modern management technology, computer technology, communication technology and automation technology, it is platform to realize the production , operation , scheduling, office work and management of stations and passenger trains, and support the service functions of pas- 20
+
+GBIT 13317-2024
+senger transport
+4 10. integrated control platform
+platform for integrating systems such as passenger scheduling, passenger guidance。 broadcast ing monitoring using digital means to achieve information sharing
+5
+Passenger services
+5.1
+train service
+services for passengers on passenger trains
+5.1.1 crew system
+duty system that utilizes manpower in a certain way according to the type of passenger train and distance traveled
+NOTE It includes crew shifting system and assigned crew system。
+5.1.1.1 Crew shifting system
+crewing system that does not have a fixed rolling stock and rotates passenger train service in se- quence
+5.1.1.2 assigned crew system
+crewing system that has a fixed rolling stock for passenger train services
+5 1.2
+train Crew
+staff on passenger trains Who provide services to passengers and ensure the normal operation of trains
+5.1.2.1
+chief conductor
+person in charge of crew management on a passenger train Who handles matters related to pas- senger travel on behalf of the carrier
+5.1.2.2 train attendant
+Crew members on passenger trains Who assist the chief conductor and are mainly responsible for 21
+
+GBIT 13317-2024
+reissuing tickets and other operations
+5.1.2.3
+train conductor
+crew members providing services to passengers on trains
+5_ 1.2.4 train policeman
+policemen maintaining public order on trains
+5.1.2.5 security guard
+crew members on passenger trains responsible for safety campaigns and on-board patrols
+5_ 1.2.6
+onboard mechanic
+Crew members on passenger trains Who are responsible for managing the facilities and equipment Of passenger vehicles
+NOTE It is called accompanying mechanic in EMU passenger trains_
+5.1.2.7
+train catering chief
+Crew members responsible for the operation and management of the dining Car on passenger trains
+5.1.2.8 dining attendant
+catering attendant
+crew members serving meals to passengers on the dining car
+5.1.2.9
+train cleaner
+Crew members responsible for on-board sanitation on passenger trains
+5.1.2.10
+tea Clerk
+crew members responsible for the supply of drinking water on conventional-speed passenger trains
+5.1.2.11 broadcaster
+crew members responsible for announcing on passenger trains 22
+
+GBIT 13317-2024
+5.1.2.12 luggage clerk
+personnel responsible for handing over, transporting and organizing the loading and unloading of baggage and parcels
+5.2
+station service
+services to passengers at stations and related work
+5.2.1 ID based system
+system for handling procedures for the purchase of tickets traVel on trains, and the shipment of baggage and parcels based on passengers' authentic documents Or certificates that Can prove their personal identities
+5.2.1.1
+I0 based check-in
+consistency check between the identity information recorded on the ticket and the passengerand hislher valid identity document
+5.2.1.2
+ID-based ticketing
+purchase of tickets with passenger's valid ID
+5.2.1.3 temporary passenger ID
+proof of identity for passengers for temporary purchase of tickets and travelon trains
+5.2.2
+security check
+check for the presence of dangerous goods of passengers and their carry-on items Or baggage and parcels shipped by consignors
+5.2.2. 1
+article carried by passenger
+iems that passengers carry With them free of charge on board and Whose weight and dimensions do not exceed the prescribed standards
+5.2.2.1.1
+restricted article
+items that passengers are restricted from carrying with them when entering train
+Station to board
+23
+
+GBIT 13317-2024
+5.2.2.1.2 prohibited article
+items that passengers are not permitted to carry with them when entering a station to board the train
+5.2.2.2
+dangerous article
+items that may jeopardize the safety of life and property , such as firearms and bullets, explosives- control instruments, flammable and explosive substances, poisonous substances, Corrosive SUb. Stances radioactive substances and infectious substances
+5.2.2.3 contraband goods
+items that are prohibited from being held , stored or transported
+5.2.3 ticket business
+Services such as ticket booking, Sale, ticket claim ticket reissue, reporting loss and reissuing; ticket refund and ticket change
+5.2.3 1 ticketing
+sale Of tickets
+5.2.3.1.1 manual ticketing
+tickets sold by staff
+5.2.3_ 1.2 agent of railway ticket
+agent that handles the sale of railway tickets in the name of the other party
+5.2.3_ 1.3
+online ticketing
+ticketing conducted via the internet
+5.2.3.1.4 phone call based booking
+reserving tickets by phone , paying and picking up tickets at station counters or agents
+5.2.3.1.5 booking
+reservation for ticket purchase 24
+
+GBIT 13317-2024
+5.2.3.1.6 pre-sale period
+maximum number of days for ticket sales before train departure
+5.2.3.2
+ticket claim
+obtaining of paper travel vouchers with passengers Valid identification documents or proof of per sonal identity
+5.2.3.3
+ticket refund
+refund of purchased tickets
+5.2.3 4
+reissue a ticket
+reissuing Of tickets for passengers Who do not meet the travel requirements
+5.2.3.5 report loss and reissue
+loss reporting and reissuing of tickets for passengers Who have lost their real-name tickets
+5.2.3.6 complement signed
+ticket change or check for the train Which the passenger is riding
+5.2.3. 7 ticket change
+changing the date of travel, train number。 Seat number。 orarrival station specified on the ticket
+5.2.3.8 transfer signed
+service for passengers to transfer to other trains at transfer stations
+5.2.3.9
+traveling beyond arrival station on the ticket
+continuing to travel beyond arrival station indicated on the original ticket
+5.2.3.10 ticket check
+checking the consistency between the information On passenger tickets and the information in ticket check equipment
+25
+
+GBIT 13317-2024
+5.2.3.11
+ticket verification
+verification of the consistency between the information on passenger tickets and the information in valid identification documents , reduced-fare vouchers and ticket check equipment
+5.2.4
+board and alight
+getting on and Off the passenger train
+5.2.4.1
+transfer
+passengers With connecting tickets changing between passenger trains
+5.2.5
+station staff
+Staff providing services to passengers and ensuring normal operations at stations
+5.2.5.1
+passenger service director
+station staff responsible for managing all passenger service posts and coordinating and solving passenger transport related matters
+5.2.5.2
+assistant director
+station staff assisting the passenger Service director in organizing and coordinating station staff working between different passenger service posts
+5.2.5.3 passenger service staff
+station staff responsible for providing services to passengers
+5.2.5.4 ticket seller
+station staff responsible for ticketing operations
+5.2.5.5
+ticket collector
+station staff responsible for checking and verifying passenger tickets
+5.2.5.6
+water supplier
+station staff responsible for water supply to passenger trains 26
+
+GBIT 13317-2024
+5.2.5.7
+director on duty
+station staff who represent the passenger service post in resolving matters relating to travel by pas- Sengers
+5.2.5.8
+station master on duty
+station staff Who represent the station masterin resolving matters relating to travel by passengers
+5.2.5.9
+security inspector
+Station staff responsible for safety inspection of passengers carry-ons Or luggage and parcels checked by consignors
+5.3 Service articles
+supplies to service passengers
+5.3 1 bedding
+quilts, blankets . pillows, etc. provided to passengers on passenger trains
+5.3.2 close-fitting bedding
+mainly refers to bedding such as quilt covers, sheets and pillowcases
+5.3.3 berth cover
+textiles covering the berths of passengertrains
+5.3.4
+soft sleeper backrest cover
+textiles covering the backrest in the private room of the cushioned berth compartment of passen- gertrains
+5.3.5
+Seat cover
+textiles covering passenger seats
+5.3.6
+headrest cover
+textiles covering the headrest of passenger seats
+27
+
+GBIT 13317-2024
+5.3.7
+bedside seat cover
+textiles covering bedside seat in sleeping cars of passenger
+5.3.8 pillow cover
+sheet of textiles attached to the head contact surface of passenger seats
+5.3.9 pillow
+headrests of business class Seats special class Seats and first class seats in EMU passenger trains
+5.3.10 head pillow case
+textiles covering headrests
+5.3 11
+shade
+curtains used to block sunlight on passenger train windows
+5.3.12 Sheer curtain
+sheer curtains fitted on passenger train windows
+5.3.13 curtain
+textiles used to cover seats Or berths for privacy on passenger trains
+5.4 left luggage
+services oftemporary luggage storage and safekeeping of small items
+5.5 luggage handling
+services for moving and transporting passengers' belongings
+5.6
+food supply
+meal service for passengers
+28
+
+GBIT 13317-2024
+5.6 1 ordering food online
+meal delivery service booked online for onboard dining
+5.6.2
+boxed meal of normal temperature chain
+uniformly processed boxed meal。 Which is required to be portioned, sealed and sterilized at high temperature for distribution in a daily environment and needs to be heated before consumption
+5.6.3 boxed mealof cold chain
+uniformly processed boxed meal, Which is portioned, sealed and refrigerated for distribution at Iow temperatures, and Which needs to be heated before consumption
+5.6.4 boxed mealof hot chain
+uniformly processed boxed meal, Which is dispensed, sealed, and delivered in a heated or insu. lated environment, and can be consumed directly without heating
+5.6.5 pre-packed clean vegetable
+vegetables that remain fresh for a certain period oftime after a series of processing such as selec- tion, trimming, washing, water control, packaging and refrigeration
+5.6.6
+homemade food
+self-processed food
+5.7
+customer service
+services for passengers
+5.7.1 self-service
+services performed by passengers on their own through equipment provided at stations oron pas- sengertrains
+5.7.2
+customer service center
+Service organization Which provides passengers with business consulting- information inquiry, ticket reservation, complaint acceptance and other functions by phone or online using communica- tion tools, computers, OrInternet。 etc_
+29
+
+GBIT 13317-2024
+5.7.3
+customer service phone
+services provided to passengers through telephone lines, using manual。 automated Voice- text messages, etc_
+5.7.4 customer service staff
+personnel undertaking customer services
+5.7.5
+complaint
+behavior where passengers claim their legitimate rights and interests to the carrier
+5.7.6
+accept case
+accepting complaints, requests for assistance, consultations and suggestions from passengers and handling them
+5.7.7 work order
+work orders issued by the receiving unit to the relevant units
+5.7.8 system whereby the first receiver of questions or complaints takes full responsibility
+system in Which the first staff member Who receives the inquiries, requests for assistance Com - plaints, etc. ofa passengeris responsible for the handling of such requests
+5.8 service supervision
+supervision and management of the passenger service site or linklprocess, SO thatits service qual ity and service level can reach the predetermined goals
+5.8 quality of railway passenger transport service
+level of work on railway passenger transport services
+5.8.2 passenger service quality supervision
+supervision and inspection of the quality of passenger transport services
+30
+
+GBIT 13317-2024
+5.8.3 passenger service supervisor
+staff supervising and inspecting the quality of passenger transport services
+5.8.4
+administrative enforcement
+supervision and inspection, administrative penalties, accident investigation, etc. in accordance with applicable laws and regulations
+5.8.5 comprehensive evaluation
+evaluation of the effectiveness of railway passenger transport using systematic and standardized method
+5.8.6 customer satisfaction
+degree of match between user expectations and actual services received
+5.8.7 joint punishment for dishonesty
+restrictions imposed jointly on persons who have been included in the dishonesty system
+5.8.8 supplementary crew work
+supervision, guidance and investigation of passenger services by passenger management person- nel during the operation of passenger trains
+5.9
+service remedy
+actions taken in response to service failures
+5.9 1
+traveling on wrong train
+Situation Where actual passenger train taken by the passenger does not match the date and train number indicated on the ticket held by the passenger
+5.9.2
+missing a train
+failure of a passenger to travel in time on a passenger train of the date and train number indicated on the ticket held by the passenger
+31
+
+GBIT 13317-2024
+5.9.3
+accidental passenger injury
+physical injuries caused by accidents during transport of passengers
+5.9.4
+lost article
+articles left Or lost by passengers at stations oron passenger trains
+5.9.5 behind schedule
+passenger trains departing , running orarriving later than the specified time
+5。10 the period of transport
+period from the time when passenger enters the station with Valid ticket to the time when the passenger arrives at the station and leaves the station or shall leave the station
+NOTE It does not include the period during which the traveler is in the waiting room _
+6
+Market of passenger traffic
+6_ 1
+passenger flow
+general term for the flow of passengers, the direction of flow and the distance traveled in a given period oftime
+6_ 1.1 peak passenger flow
+peak passenger flow within a certain period of time in the statistical cycle
+6 1.1.1
+Spring Festival passenger transport
+passenger transport during the period from 15 days before the Spring Festival to 25 days after the Spring Festival
+6 1.1.2
+summer passenger transport
+passenger transport for the period from July to 31 August
+32
+
+GBIT 13317-2024
+6。1.1.3 golden week passenger transport
+transport of passengers during statutory holidays of not less than seven days
+6 1.1.4
+minor vacation passenger transport
+transport of passengers during statutory holidays of more than three days
+6.1.2
+business passenger flow
+passenger flow due to official or business purposes
+6_ 1.3
+student passenger flow
+flow of student passengers
+6 1.4
+tourist passenger flow
+flow of tourist passengers
+6 1.5
+labor force passenger flow
+passenger flows that leave their place of domicile , residence or place of abode to take up employ- ment in other places
+6 1.6 inter-city passenger fIow
+passenger flow between neighboring cities
+6.1.7 suburban passenger flow
+passenger flow between urban and suburban areas of a city
+6 1.8
+through passenger flow
+passenger flow across more than two railway carriers
+6 1.9
+local passenger flow
+passenger flow within a railway transport enterprise
+33
+
+GBIT 13317-2024
+6_ 1.10 passenger flow statistics
+statistics on the flow of passengers transported, direction of flow, passenger segments , distance traveled, etc
+6_ 1.11 passenger density list for train
+table reflecting the number of passengers in each segment (station) by counting the number of people boarding and alighting at train stations
+6.1.12 passenger flow density
+average passenger turnover per kilometer of operationallcommercial railway lines over given pe- riod oftime
+6 1 13 passenger transport density
+average passengers per kilometer of operating line passed between railway sections, segments Oron a particular line
+6_ 1.13. passenger transport density between stations
+number of passengers passing between stations
+6_ 1.13.2 average passenger transport density within a section
+average passengers per kilometer of operating lines in the section
+6 1.13.3 average passenger transport density of railway transport enterprise
+passengers per kilometer of operating line transported by railway transport enterprises
+6 1.13.4 nationwide average passenger transport density
+average passengers per kilometer of operating line transported by the national railway
+6 1_ 14 notice of passenger number on board
+information about the number of tickets sold and the USe of seats on passenger trains at the station
+34
+
+GBIT 13317-2024
+6.2 organization of train operation
+rational organization of passenger train operations, production planning and organization of the process oftransporting passengers , baggage and parcels
+6.2.1 passenger transport plan
+transport plan for passenger traffic。 passenger turnoverand average kilometerage over Certain period of time
+NOTE It is categorized into long term plan, annual plan and daily plan。
+6 2.2
+line plan
+general term for a plan to determine the departure station and arrival station of passenger trains, their routes, stops en route types oftrains, and the number oftrains to be operated
+6 2.2.1
+canceling passenger train
+suspension of passenger trains
+6 2.2.2 adding passenger train
+increase in the number of passengertrains
+6 2.3 traffic program of passenger train
+operational planning to be specified on the train working diagram
+6.2.3.1 making detour
+detour
+situation Where the operation of a passenger train is interrupted due to unforeseen circumstances and the train is to take temporarily designated route to arrive at the final destination
+6.2.3.2 turning back
+passenger trains are interrupted and returned to the designated station due to unforeseen circum stances
+35
+
+GBIT 13317-2024
+6.2.3.3 speed limit
+measures to limit maximum operating speed due to unusual circumstances
+6.2.3.4 temporary dwelling
+dwelling for passenger transport operations other than the current passenger train
+6.2.4 passenger train composition
+type, numberand order of cars for passengertrains
+6.2.4.1
+coupling
+formation in Which two sets of EMU passenger trains are coupled for operation
+6.2.4.2 adding carriage
+formation of passenger trains in Which extra cars are temporarily added to increase capacity
+6.2.4.3
+changing locomotive
+formation of train where the traction locomotive is replaced
+6.2.4.4
+uncoupling carriage from locomotive
+formation in which some orall of the cars of a passenger train are detached from the traction loco- motive
+6.2.5
+train working diagram
+technical document on the operation of trains in railway sections and on the departurel arrival time at stations
+6.2.6 timetable of passenger train
+table of departurelarrival time and dwelling time of passenger trains at stations
+NOTE It is digital and tabular representation of the train working diagram。
+36
+
+GBIT 13317-2024
+6.2.7
+chartered service
+separate Use of extra passenger Vehicles or extra special passenger trains
+6 2.8 carriage rent
+rental of passenger vehicles from carriers
+6 3
+ticket assignment
+allocation of capacity based on passenger flow at passenger train stops
+6 3.1 seats reusing
+After a seat is Sold, a new seat is automatically generated from the station Where it was sold to the original restricted station , making full use of the capacity of the passenger train。
+6.3.2
+seats sharing
+Situation where tickets allocated to a station can be purchased by passengers according to their needs to travel tolfrom the stations ahead along the line and passengers are to take the train at the station specified on the ticket
+6 3.3
+beyond station
+nearest station where seats can be sold
+6.3 4
+restricted sale station
+furthest station where seats can be sold
+6.3.5
+pre-assignment
+automatic ticket allocation based on the results of passenger flow forecasts
+6.3.6
+waitlist
+when there are no tickets available for the desired train number or seat category, passengers Vol- untarily submit prepayment and automatically queue up to purchase tickets according to the date train number, seat category and other ticketing needs
+37
+
+GBIT 13317-2024
+6.3.7 change seats
+rearrangement of seats for sold tickets due to adjustments in transport organization
+6.3.8 seating capacity
+required number of seats
+6.3.8 1
+designed and marked seating capacity
+number of seats designed and labeled
+NOTE The number of seats of passenger cars is counted according to the designed and marked seating capacity of passenger cars
+6.3.8.2 actual seating capacity
+number of seats available for passengers
+6.3.8.3
+eXCeSS seating capacity
+beyond capacity
+7
+Passenger transport indicators
+7.1 traveling speed
+average kilometers per hour traveled by passenger trains in the operating segment
+7.2 technical speed
+average kilometers per hour traveled by passenger trains within the sections of the operating Seg ment
+7.3 punctuality rate
+percentage of passenger trains on time
+7.3. punctuality rate of departure train
+punctuality of passenger trains from originating stations 38
+
+GBIT 13317-2024
+7.3.2 punctuality rate of running train
+punctuality of passenger trains in operation
+7.3.3
+punctuality rate ofarrival train
+punctuality of arriving passenger trains
+7.4
+train overload rate
+ratio Ofovercrowding to capacity of passenger trains
+7.5
+seat occupancy rate
+ratio of passenger turnover to passenger-kilometers
+NOTE The average number of person-kilometers performed per passenger-kilometer expressed as a percentage _
+7.6
+occupancy rate
+ratio ofthe number of passengers on the vehicle to the seating capacity
+7.7 number of passengers originated
+number of passengers sent
+total number of passengers sent by stations, railway transport enterprises or national railways in a given period of time
+7.7.1 number of boarding passengers
+total number of boarding passengers of stations, railway transport enterprises or national railways
+7.7.2 number of alighting passengers
+total number of alighting passengers of stations, railway transport enterprises or national railways
+7.8 number of passengers carried
+amount of passenger traffic
+total number of passengers transported by railway transport enterprises or national railways 39
+
+GBIT 13317-2024
+7.9 passenger-kilometer
+passenger-kilometers completed by railway transport enterprises or national railways
+NOTE Product ofnumberof passengers and distance traveled .
+7.10 average travel distance
+average distance traveled per passenger
+7.11 passenger number counted by number of sold tickets
+number of tickets sold
+NOTE Itis generally used to count the number of passengers_
+7 12 peaktime passengers in waiting room
+average Value ofthe maximum number of passengers waiting for trains including drop-offs in the waiting room Within 24 hours during the month with the highest number of boarding passengers at the station throughout the year
+7.12. average waiting area
+ratio of waiting room area to the maximum number of passengers gathered
+7.13 manual telephone connection rate
+percentage of manual service requests for customer service calls that are successfully answered
+NOTE Ratio of manual connections to manual requests
+7.14
+complaint rate
+ratio of the number of complaints to the number of passengers sent
+7.15 death rate ofaccident
+proportion of deaths due to accidents per 100 million passengers transported peryear
+40
+
+GBIT 13317-2024
+7.16 volume of luggage and parcel handled
+number and weight of baggage and parcels originated and transferred by the national railways, railway transport enterprises and stations
+7.16. volume of luggage and parcel originated
+number and weight of baggage and parcels originated by the national railways, railway transport enterprises and stations
+7.16.2 volume of luggage and parcel transferred
+number and weight of baggage and parcels transferred by the national railways, railway transport enterprises and stations
+7.16.3 volume of luggage and parcel carried
+number and weight of baggage and parcels transported by the national railways, railway transport enterprises and stations
+7.16.4 volume of luggage and parcel arrived
+number and weight of baggage and parcels arriving at the national railways, railway transport en- terprises and stations
+7.16.5 luggage weight-kilometer
+product of the weight of baggage and parcels and the distance traveled
+8 Luggage and parcel transport
+8
+luggage
+certain amount of travel goods consigned by passengers on the basis of the ticket
+8 1.1
+luggage receipt
+Voucher filled out by the carrier for the consignment, pickup and billing of luggage when a passen- ger consigns the baggage
+41
+
+GBIT 13317-2024
+8 2
+parcel
+small goods suitable for shipment in passenger trains
+8.2.1
+parcel receipt
+voucher filled out by the carrier for the consignment, pickup and billing of parcels, when the con- signor consigns the parcels
+8.3
+consignor
+natural or legal person Who entrusts a carrier with the transport of baggage or parcels and who has signed a contract for the transport of baggage or parcels with the carrier
+8 4
+consignee
+natural Or legal person authorized to receive baggage or parcels on the basis of valid collection Vouchers
+8 5
+escort
+person Who is exclusively responsible for the security Of the consigned parcel during transport
+8.6
+consignment of luggage and parcel
+The consignor entrusts the carrier to transport the baggage and parcel to the agreed place and hand it over to the designated recipient。
+8.7
+Visual inspection
+inspection of consignments and accompanying documentation
+8.8
+acceptance for luggage and parcel
+the station staff check and confirm the baggage and parcel shipped by the consignor, fill in the baggage ticket or parcel ticket, check and collect freight and miscellaneous expenses, and affix a stamp
+8.9
+claim of luggage and parcel
+the consignee receives the luggage or parcel with valid vouchers such 35 luggage ticket or parcel ticket
+42
+
+GBIT 13317-2024
+8.10 insurable value
+when a passenger or consignor consigns baggage or parcels, helshe declares the price according to the value of the consignment and delivers the charges, and if there is any Ioss, the carrier cal culates the compensation according to the insured amount
+8 11
+weight check
+weighing of baggage and parcels
+8.12 chargeable weight of luggage and parcel
+weights used for calculating baggage and parcel freight charges
+8 13 luggage and parcel traffic density table
+table based on the volume of baggage and parcel traffic moving up and down the different sections in the segment
+8 14 undeliverable goods
+luggage , parcels, lost items of passengers and temporarily stored items that remain unclaimed for more than a specified period oftime
+8 15 unclaimed goods
+unclaimed baggage. parcels, lost items of passengers and temporarily stored items Whose OWn - ers cannot be identified
+8.16 luggage and parcel Ioss
+losses caused by damage, loss or error of baggage or parcels in the course Of railway transport
+8 16.
+loss record of luggage and parcel
+records prepared in the event of loss of baggage and parcels during transport
+8 17
+HSR express
+parcel transport services provided by carriers using EMU passenger train
+43
+
+GBIT 13317-2024
+8_ 18
+waybill
+one-time written or electronic contract between the carrier and the consignor for high-speed rail eX- press
+9
+International passenger transport
+9_
+international passenger transport
+transport of passengers, baggage and parcels by rail between stations located in the territories of different countries, as Well as between stations in the territory of one country through the territories of several other countries (one country -
+9.2
+railway port
+specialized areas for immigration control on railways set up by the relevant state authorities
+9.3
+border station
+station located at national borders that handles international train departures and arrivals
+9_ 4
+cross-border transport
+railway transport across more than two countries Or regions
+9.5
+joint inspection
+joint inspection of entry and exit behavior by customs, border control, quarantine and other depart- ments at railway port
+9.5.1 juxtaposed border inspection
+procedures for exit and entry inspection and quarantine for two countries Or regions at a railway portin one country Or region)
+9.5.2 border inspection respectively
+procedures for exit and entry inspection and quarantine for each of the two countries Or regions at their respective railway port
+
+GBIT 13317-2024
+9.5.3
+joint inspection hall
+Venue of joint inspection
+45
+
+GBIT 13317-2024
+Bibliography
+[1] GBIT 15565-2020, Graphic symbol Terms
+[2] GB 50763-2012, Specification for barrier-free design
+[3] TB/T 3453.12016. EMU vocabulary-Part 1 Basic vocabulary
+[4] TB 10100-2018 Design code of railway passenger stations
+46
+
+GBIT 13317-2024
+Index
+system whereby the first receiver Of questions or complaints takes full responsibility 5 7.8 accept case '5.7.6 acceptance for luggage and parcel 8.8 accessible entrance and exit 4.8.1 accessible facility 4.8 accessible facility sign 4.8.9 accessible lift 4.8.2 accessible passageway 4.8.7 accessible toilet: 4.8.3 accessible toilet cubicle 4.8.4 accessible window 4.8.8 accidental passenger injury 5.9.3 actual carrier 3.2.3 actual seating capacity 6.3.8.2 adding carriage 6.2.4.2 adding passenger train 6.2.2.2 administrative enforcement 5.8.4 agent of railway ticket 5.2.3.1.2 air-conditioning passenger train 4.7.2.5 announced fare 3.3.1.1 arrival station 4.1.4 article carried by passenger 5.2.2.1 assigned crew system 5。1.1.2 assistant director 5.2.5.2 average passenger transport density of railway transport enterprise 6 1.13.3 average passenger transport density within a section 6 1.13.2 average travel distance 7.10 average waiting area 7 12.1
+8
+baggage office baggage passage basic platform bedding bedside seat cover behind schedule berth Cover
+4.5.1
+4.6.1.4
+4.6.2.1 5.3.1
+5.3.7
+5.9.5
+5.3.3
+47
+
+GBIT 13317-2024
+berth number beyond station billboard board and alight booking border inspection respectively border station boxed mealof cold chain boxed meal of hot chain boxed meal of normal temperature chain broadcaster bulletin board business class carriage business class seat: business passenger flow business seat waiting room
+4.7.3.2 6.3.3
+4.9.4
+5.2.4 5.2.3.1.5
+9.5.2
+9.3
+5.6.3 5.6.4
+5.6.2
+5.1.2.11
+4.9.4.1 4 7.4.8
+'4.7.3.9
+6.1.2
+4.5.5.2
+canceling passenger train carriage for baggage carriage for dining carriage for lodging carriage rent carriage with cushioned berths carriage with cushioned seats carriage with double-decker carriage with first class seats: carriage with second class seats carriage with semi-cushioned berths carriage with semi-cushioned seats carriage with special class seats carrier change seats changing locomotive chargeable weight of luggage and parcel chartered service chief conductor Child discounted ticket Child ticket claim of luggage and parcel close-fitting bedding complaint complaint rate
+6.2.2.1
+4.7.4.12 4.7.4.10 4.7.4.11 6.2.8
+'4 7.4.4
+4.7.4.3 '4.7.4.9
+4 7.4.5
+4.7.4.6
+4.7.4.2 4.7.4.1 4 7.4.7
+3.2
+6.3 7
+6 2.4.3
+8 12
+6.2.7
+5.1.2.1
+3.3.2.2.1
+3.3.2.2.1
+:8.9
+5.3.2
+5.7.5 7.14
+48
+
+GBIT 13317-2024
+Com plement signed comprehensive evaluation Concourse connecting tickets consignee consignment of luggage and parcel consignor contraband goods contract carrier coupling courtesy seat for passenger who needs care Crew shifting system Crew system cross-border transport curtain cushioned berth cushioned seat cushioned seat waiting room customer satisfaction customer service Customer service center customer service phone customer service staff
+5.2.3.6
+5.8.5
+4.5.2 3.3.2.6 8.4
+8.6
+8.3
+5.2.2.3 3.2.1 6.2.4.1
+4.7.3.3
+5 1.1.1
+5。1.1
+.9 4
+5.3.13
+4.7.3.11
+4.7.3.5
+4.5.5.1
+`5.8.6 5.7
+:5.7.2 5.7.3
+5.7.4
+0
+dangerous article death rate ofaccident departure station designed and marked seating capacity dining attendant director on duty district ticket dwelling station
+5.2.2.2
+7.15
+4.1.3
+6.3.8.1
+5.1.2.8 5.2.5.7
+3.3.2.9 4.1.6
+
+electric display screen electronic ticket elevated platform emergency exit emergency guidance system EMUIDMU passenger train entrance escort
+4.9.4.2 3.3.2.14 4.6.2.3 4.9.3.1
+4.9.3 4.7.2.3
+4 5.4
+8.5
+49
+
+GBIT 13317-2024
+evacuation route eXCeSS seating capacity exit
+4.9.3.2 6.3.8.3
+4.5.7
+explosive detector
+4 5.2.5
+fire equipment sign first class Seat food supply frequent passenger
+4.9.2.4
+4.7.3.7
+5.6
+3.1.5
+6
+golden week passenger transport group passengers: group ticket:. guidance line guidance sign
+6 1.1.3
+3.1.4
+3.3.2.3 4.9.1.6
+4.9.1.3
+升
+hand held metal detector head pillow case headrest cover homemade food HSR express
+4 5.2.2
+5.3.10 5.3.6
+5.6.6
+8.17
+I0 based checkin I0 based system I0 based ticketing implemented ticket fare information index sign instruction sign insurable Value integrated control platform inter-city passenger flow inter-city passenger train international passenger train international passenger transport isolation carriage
+5.2.1.1
+5.2.1
+5.2.1.2
+3.3.1.2
+4.9.1.5
+4.9.1.7
+8.10 4 10.1 6.1.6
+4 7.2.7
+4.7.2.11 '9. 4.7.4.13
+joint inspection joint inspection hall 50
+9.5
+9.5.3
+
+GBIT 13317-2024
+joint punishment for dishonesty juxtaposed border inspection 
+5.8.7
+9 5.1
+labor force passenger flow left luggage level crossing line plan liquid detector local passenger flow local passenger train location plan location sign logistics passage Ioss record of luggage and parcel lost article: low platform luggage luggage and parcel Ioss luggage and parcel traffic density table luggage clerk luggage handling luggage receipt luggage weight-kilometer
+6 1.5
+5.4 4.6.1.2 6 2.2
+4.5.2.4
+6.1.9 4.7.2.2 4.9.1.4 4.9.1.2
+4.6.1.5 8.16.1 5.9.4
+4.6.2.4
+8 1
+8.16 8 13 5 1.2.12 '5.5
+8.1.1 7 16.5
+M
+making a detour manual identity verification place manual telephone connection rate manual ticketing middle platform minor vacation passenger trasport miscellaneous fees of passenger traffic missing a train
+6.2.3.1
+4.5.4.2
+7.13 5.2.3。1.1 4.6.2.2
+6 1.1.4
+3.3.1.4
+5.9.2
+N
+nationwide average passenger transport density notice of passenger number on board no-track railway station number of alighting passengers number of boarding passengers number of passengers carried number of passengers originated
+6 1.13.4
+6.1.14
+4.2
+7.7.2
+7.7.1
+7.8
+7
+51
+
+GBIT 13317-2024
+nursery room
+4.5.5.4.1
+occupancy rate onboard mechanic one way ticket online ticketing ordering food online ordinary passenger train organization of train operation overpass
+'7.6
+5.1.2.6 3.3.2.5
+5.2.3.1.3
+5.6.1 4.7.2.4
+6.2
+'4 6.1.3
+尸
+parcel parcel receipt passenger passenger density list for train passenger flow passenger flIow density passenger flow statistics passenger guidance system passenger number counted by number of sold tickets passenger service director passenger service quality supervision passenger Service staff passenger service supervisor passenger service system passenger station yard passenger traffic record passenger traffic section passenger train passenger train composition passenger vehicle passenger transport: passenger transport density passenger transport density between stations passenger transport plan passenger who needs care passenger-kilometer pay-upon-arrival office peak passenger flow peaktime passengers in waiting room periodic ticket 52
+8.2
+8 2.1
+3
+6 1.11
+6 1
+6 1.12
+6 1.10
+4.9
+7.11
+5.2.5.1
+5.8.2 5 2.5.3
+5.8.3
+4 10
+4.6
+3 3 4
+4 7.1
+4
+6 2.4
+4.7.4
+3 4
+6.1.13
+6 1.13.1
+6.2.1
+3.1.1
+7.9
+4 5.7.1
+6.1.1
+7 12
+3.3.2.10
+
+GBIT 13317-2024
+phone call based booking pillow pillow cover platform platform canopy platform for station building: platform safety door platform ticket pre-assignment preferential passenger preferential ticket for disabled military and police pre packed clean vegetable pre-sale period priority passenger prohibited article prohibition sign- public information sign punctuality rate punctuality rate ofarrival train punctuality rate of departure train punctuality rate of running train
+'5.2.3.1.4
+5.3.9
+5.3.8 4.6.2 4.6.2.6
+4.4
+4.6.2.5
+3.3.2.15 6.3.5
+3.1.3 3.3.2.2.3
+`5.6.5 5.2.3.1.6 3.1.2 5.2.2.1.2 4.9.2.1
+4.9.1
+7.3
+7.3.3
+7.3.1
+7.3.2
+quality Of railway passenger transport service quota ticket
+5.8.1
+3.3.2.11
+R
+railway passenger station railway port reduced fare reduced fare ticket regular ticket reimbursement credential reissue a ticket report loss and reissue restricted article restricted Sale station ride number limited ticket round-trip tickets
+4.1
+9.2
+3.3。1.3
+3.3.2.2
+3.3.2.1 3.3.3 5.2.3.4 5.2.3.5
+5.2.2.1.1 6.3.4
+3.3.2.12 3.3.2.7
+5
+safety condition sign safety marking
+4.9.2.3
+4.9.2.5
+53
+
+GBIT 13317-2024
+Safety sign Seat classification Seat CoVer
+4 9.2
+4 7.3
+5.3.5
+Seat number seat occupancy rate seating capacity seats reusing seats sharing second class seat security check security guard security inspection detector security inspector Self-service self-service identity verification equipment: self-service ticket check equipment self-service ticket pick-up machine Self-service ticket refund machine self-service ticket vending machine semi-cushioned berth Semi-cushioned seat Service articles Service counter service remedy service supervision shade sheer curtain short holiday passenger transport Slow passenger train for public welfare Soft berth backrest cover special class seat: speed limit Spring Festival passenger transport static sign station station building station grade station master on duty station name tablet station scale station Service: Station Square station staff
+4 7.3
+7.5
+6 3.8
+6.3.1
+6.3.2 4 7.3.6
+5.2.2
+5.1.2.5
+4.5.2.1 5.2.5.9
+5.7.1
+4.5.4.1 4 5.6.1
+4 5.3.2
+4 5.3.3
+4 5.3.1
+4 7.3.10
+4 7.3.4
+5.3
+4 5.5.6 5.9
+5.8
+5.3.11 5.3.12 6 1.1.4
+4 7.2.10
+5.3.4 4 7.3.8
+6 2.3.3
+6 1.1.1
+4.9.1.1
+'4_ 1
+4.5
+4 1.1
+5 2.5.8
+4.9 1.2.1
+4.1.2
+5.2
+4.3
+5.2.5
+54
+
+GBIT 13317-2024
+stopping point student discounted ticket student passenger fIow student ticket: substitute ticket suburban passenger train suburban passenger fIow SUCcessive carrier Summer passenger transport supplement ticket supplementary crew work:
+4.1.7
+3 3.2.2.2
+6.1.3 3 3.2.2.2
+3.3.2.8
+4.7.2.8
+6.1.7
+3 2.2 6 1.1.2
+3.3.2.13 '5.8.8
+tactile ground surface indicator tea clerk technical speed temporary dwelling temporary passenger ID temporary passenger train the period of transport through passenger flow through passenger train ticket ticket assignment ticket business ticket change ticket check ticket check gate tcket claim ticket collector ticket fare ticket for different departure stations ticket for disabled military and police ticket hall ticket refund ticket seller ticket type- ticket verification ticketing timetable of passenger train tourist passenger flow tourist passenger train track crossing equipment
+4.8.6
+5。1.2.10 7.2
+6.2.3.4
+5.2.1.3
+4.7.2.6 5.10 6.1.8 4.7.2.1
+3.3 6.3
+5 2.3
+5.2.3.7 5.2.3.10
+4.5.6
+5.2.3.2
+5.2.5.5
+3.3.1
+3.3 2.4
+3 3.2.2.3
+4.5.3 5.2.3.3
+5.2.5.4
+3.3.2
+5.2.3.11
+5.2.3.1
+6.2.6
+6.1.4
+'4.7.2.9
+4.6.1
+55
+
+GBIT 13317-2024
+traffic program of passenger train train attendant train catering chief train cleaner train conductor train crew train overload rate train policeman train service train type train working diagram transfer transfer hall transfer signed transfer station traveling beyond arrival station on the ticket traveling on wrong train: traveling speed turning back
+6 2.3
+5.1.2.2 5.1.2.7
+5.1.2.9 5 1.2.3
+5 1.2
+7 4
+5.1.2.4
+5.1
+4.7.2
+6.2.5
+5.2.4.1
+4 5.7.2
+5.2.3.8
+4.1.5
+5.2.3.9
+5.9.1
+7
+6.2.3.2
+U
+unclaimed goods uncoupling carriage from Iocomotive undeliverable goods underpass
+8.15 6.2.4.4
+8.14 4 6.1.1
+VIP waiting room visual inspection volume of luggage and parcel arrived volume of luggage and parcel carried volume of luggage and parcel handled: volume of luggage and parcel originated Volume of luggage and parcel transferred
+4.5.5.5
+8.7
+7 16.4
+7 16.3
+7.16 7.16.1 7 16.2
+W
+waiting area waiting hall waiting room waiting room for military personnel waiting room for passenger Who needs Care waitlist walk-through metal detector 56
+4 5.5
+4.5.5
+4.5.5
+4 5.5.3
+4 5.5.4
+6.3.6
+4.5.2.3
+
+GBIT 13317-2024
+warning sign Water supplier waybill weight check wheelchair ramp Work order
+4.9.2.2 5.2.5.6
+8。18 8.11
+4.8.5
+5.7.7
+57

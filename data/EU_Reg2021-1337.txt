@@ -1,0 +1,130 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/1337 
+of 18 June 2021
+amending Implementing Regulation (EU) No 908/2014 as regards financial management 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on 
+the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) 
+No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (1), and in 
+particular Article 46(6) and Article 104 thereof,
+Whereas:
+(1)
+Article 11 of Commission Implementing Regulation (EU) No 908/2014 (2) sets out the general rules on the 
+declaration of expenditure and the assigned revenue declared by paying agencies in respect of a given month. At the 
+moment of establishing the monthly payments to the Member States, the Commission takes into account the 
+corrections decided by the Commission under the clearance of accounts and conformity clearance. Consequently, 
+since the amounts corresponding to those corrections are known by the Commission, there is no specific need for 
+the Member States to include them in the monthly declaration and declare them to the Commission. In order to 
+simplify the procedure as regards the amounts to be declared by the Member States, that requirement should be 
+deleted.
+(2)
+Article 14(1) of Implementing Regulation (EU) No 908/2014 provides that by deciding to make the monthly 
+payments, the Commission is to make available to the Member States the resources needed to cover the expenditure 
+to be financed under the European Agricultural Guarantee Fund (‘EAGF’). By doing so, the Commission should, 
+however, take into account the revenue received by the paying agencies on behalf of the Union’s budget. Currently 
+under the EAGF, the Commission is netting off the expenditure amounts against the assigned revenue amounts 
+directly in the monthly payment decision issued by the Commission. This financial operation derogates from the 
+way assigned revenue is managed under other Union Funds, where it is not netted off but recovered via a recovery 
+order drawn up pursuant to Article 98 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of 
+the Council (3). In order to harmonise the Commission’s accounting practices and, in particular, the way assigned 
+revenue is managed, it is necessary to align this technical aspect of the financial management of the EAGF with the 
+flow used by other Union Funds. Consequently, there is a need for amending the way in which revenue effected 
+under the EAGF is to be offset.
+(1) OJ L 347, 20.12.2013, p. 549.
+(2) Commission Implementing Regulation (EU) No 908/2014 of 6 August 2014 laying down rules for the application of Regulation (EU) 
+No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial 
+management, clearance of accounts, rules on checks, securities and transparency (OJ L 255, 28.8.2014, p. 59).
+(3) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable 
+to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) 
+No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU 
+and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+EN
+Official Journal of the European Union 
+12.8.2021                                                                                                                                           
+L 289/9  
+(3)
+Regulation (EU) 2020/2220 of the European Parliament and of the Council (4) amended Regulation (EU) 
+No 1305/2013 of the European Parliament and of the Council (5) and extended the period of duration of rural 
+development programmes supported by the European Agricultural Fund for Rural Development (‘EAFRD’) until 
+31 December 2022, while providing Member States with the possibility to finance their extended programmes from 
+the corresponding budget allocation for the years 2021 and 2022. Moreover, Regulation (EU) 2020/2220 made the 
+additional resources from the European Union Recovery Instrument (‘EURI’) available in the extended programmes 
+in the years 2021 and 2022 to fund measures under Regulation (EU) No 1305/2013 to address the impact of the 
+COVID-19 crisis and its consequences for the Union agricultural sector and rural areas.
+(4)
+As set out in recital 24 of Regulation (EU) 2020/2220, the additional resources from the EURI are subject to specific 
+conditions. Those additional resources should thus be programmed and monitored separately from the Union 
+support for rural development, while applying, in general, the rules set out in Regulation (EU) No 1305/2013. 
+Hence, those additional resources should be implemented through Regulation (EU) No 1305/2013 and considered 
+in the framework of that Regulation as amounts that finance measures under the EAFRD. As a consequence, the 
+respective implementing financial management rules in relation to the additional resources referred to in 
+Article 58a of Regulation (EU) No 1305/2013 should be adapted. In particular, the forecasting of the funding 
+requirements, the declarations of expenditure to be provided by the Member States and the calculation of the 
+amount to be paid should be adjusted in relation to the EAFRD allocations.
+(5)
+Implementing Regulation (EU) No 908/2014 should therefore be amended accordingly.
+(6)
+The measures provided for in this Regulation are in accordance with the opinion of the Committee on the 
+Agricultural Funds,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Implementing Regulation (EU) No 908/2014 is amended as follows:
+(1) in Article 11(1), point (c), the last sentence is deleted;
+(2) in Article 14(1), the second subparagraph is replaced by the following:
+‘When the payments to be made by the Commission lead to a negative amount for a Member State, the surplus 
+deductions shall be carried over to the following months.’;
+(3) in Article 21, the first paragraph is replaced by the following:
+‘For each rural development programme as referred to in Article 6 of Regulation (EU) No 1305/2013 of the European 
+Parliament and of the Council (*), and in accordance with Article 102(1), first subparagraph, point (c)(ii), of Regulation 
+(EU) No 1306/2013, Member States shall send to the Commission, twice per year, by 31 January and 31 August at the 
+latest, their forecasts of the amounts to be funded by the EAFRD for the financial year. Those forecasts shall indicate 
+separately the amounts forecasted for the additional resources referred to in Article 58a(2) of Regulation (EU) 
+No 1305/2013. In addition, Member States shall send an updated estimate of their funding requests for the following 
+financial year.
+_____________
+(*) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support 
+for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council 
+Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).’;
+(4) Regulation (EU) 2020/2220 of the European Parliament and of the Council of 23 December 2020 laying down certain transitional 
+provisions for support from the European Agricultural Fund for Rural Development (EAFRD) and from the European Agricultural 
+Guarantee Fund (EAGF) in the years 2021 and 2022 and amending Regulations (EU) No 1305/2013, (EU) No 1306/2013 and (EU) 
+No 1307/2013 as regards resources and application in the years 2021 and 2022 and Regulation (EU) No 1308/2013 as regards 
+resources and the distribution of such support in respect of the years 2021 and 2022 (OJ L 437, 28.12.2020, p. 1).
+(5) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural 
+development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) 
+No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+EN
+Official Journal of the European Union 
+L 289/10                                                                                                                                         
+12.8.2021  
+(4) in Article 22(1), the first and second subparagraphs are replaced by the following:
+‘1.
+Paying agencies shall declare expenditure for each rural development programme as referred to in Article 6 of 
+Regulation (EU) No 1305/2013.
+For each rural development measure, paying agencies shall specify in a declaration of expenditure the amount referred 
+to in Article 58(4) of Regulation (EU) No 1305/2013 and the amount referred to in Article 58a(2) of that Regulation 
+(EU) No 1305/2013.’;
+(5) in Article 23, paragraph 2 is replaced by the following:
+‘2.
+Without prejudice to the ceiling provided for in Article 34(2) of Regulation (EU) No 1306/2013, where the 
+combined total of the Union contribution paid to the rural development programme exceeds the total programmed 
+for a rural development measure, the amount to be paid shall be reduced as follows:
+(a) for resources under the EAFRD, without the additional resources referred to in Article 58a of Regulation (EU) 
+No 1305/2013, it shall be reduced to the amount programmed for that measure under the EAFRD, without the 
+additional resources;
+(b) for the additional resources referred to in Article 58a of Regulation (EU) No 1305/2013, it shall be reduced to the 
+amount programmed for that measure under the additional resources.
+Any Union contribution excluded as a result may be paid later provided that an adjusted financing plan has been 
+submitted by the Member State and accepted by the Commission.’.
+Article 2
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European 
+Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 18 June 2021.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+12.8.2021                                                                                                                                         
+L 289/11  

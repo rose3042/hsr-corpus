@@ -1,0 +1,2471 @@
+DECISIONS 
+COMMISSION IMPLEMENTING DECISION 
+of 4 October 2011 
+on the European register of authorised types of railway vehicles 
+(notified under document C(2011) 6974) 
+(Text with EEA relevance) 
+(2011/665/EU) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European 
+Union, 
+Having regard to Directive 2008/57/EC of the European 
+Parliament and of the Council of 17 June 2008 on the inter­
+operability of the rail system within the Community ( 1 ), and in 
+particular Article 34(4) thereof, 
+Whereas: 
+(1) 
+In 
+accordance 
+with 
+Article 
+34(1) 
+of 
+Directive 
+2008/57/EC, 
+the 
+European 
+Railway 
+Agency 
+(the 
+Agency) should set up and keep a register of types of 
+vehicles authorised by the Member States for placing in 
+service on the Union rail network. 
+(2) 
+For some existing vehicles it is not possible to establish a 
+correspondence to a type of vehicle that is authorised in 
+accordance with Article 26 of Directive 2008/57/EC. A 
+possibility to include the technical characteristics of all 
+the vehicles in service in one single register may, 
+however, be beneficial for the railway sector. 
+(3) 
+Restrictions on how the vehicle may be used as 
+mentioned in Article 33(2)(e) of Directive 2008/57/EC 
+are in most cases subject to a specific code. Those 
+restriction codes should be harmonised. The use of 
+national restriction codes should be limited to those 
+restrictions that reflect particular characteristics of the 
+existing railway system of a Member State and are 
+unlikely to be applied with the same meaning in other 
+Member States. The Agency should keep up-to-date the 
+list of harmonised restriction codes and of national codes 
+and publish them on its web site. 
+(4) 
+In 
+accordance 
+with 
+Article 
+34(3) 
+of 
+Directive 
+2008/57/EC, when an authorisation of type is granted, 
+modified, suspended or withdrawn in a Member State, 
+national safety authorities should inform the Agency so 
+that the latter may update the register. The register 
+should include types of vehicle authorised in accordance 
+with Article 26 of Directive 2008/57/EC. Therefore, 
+when informing the Agency, national safety authorities 
+should indicate which parameters of the given type were 
+checked according to the notified national rules. This 
+indication should be established in accordance with the 
+reference document referred to in Article 27(4) of 
+Directive 2008/57/EC. 
+(5) 
+The European Railway Agency submitted its recommen­
+dation ERA/REC/07-2010/INT to the Commission on 
+20 December 2010. 
+(6) 
+The measures provided for in this Decision are in 
+accordance with the opinion of the Committee set up 
+under Article 29 of Directive 2008/57/EC, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+Subject matter 
+This Decision establishes the specification for the European 
+register of authorised types of vehicles referred to in 
+Article 34 of Directive 2008/57/EC. 
+Article 2 
+Specification of the European register of authorised types 
+of vehicles 
+1. 
+The Agency shall develop, operate and maintain the 
+European register of authorised types of vehicles on the basis 
+of the specification set out in Annexes I and II. 
+2. 
+The European register of authorised types of vehicles 
+(ERATV) shall contain data on the types of vehicle authorised 
+by the Member States pursuant to Article 26 of Directive 
+2008/57/EC. 
+3. 
+Types of vehicle authorised by a Member State before 
+19 July 2010 for which one or more vehicles have been auth­
+orised in one or more Member States pursuant to Article 22 or 
+24 of Directive 2008/57/EC after 19 July 2010 are deemed to
+EN 
+L 264/32 
+Official Journal of the European Union 
+8.10.2011 
+( 1 ) OJ L 191, 18.7.2008, p. 1.
+fall under provisions of Article 26 of Directive 2008/57/EC and 
+shall be registered in ERATV. In this case, data to be recorded 
+may be limited to the parameters that have been verified during 
+the type authorisation process. 
+4. 
+The types of vehicles which can be registered voluntarily 
+are those set out in Section 1 of Annex I. 
+5. 
+The structure of the number that each type of vehicle 
+receives shall be as set out in Annex III. 
+6. 
+The register shall be operational by 31 December 2012. 
+In the meantime the Agency shall publish the information 
+relating to the authorised types of vehicles on its website. 
+Article 3 
+Information to be sent by national safety authorities 
+1. 
+The Member States shall make sure that the national 
+safety authorities provide the information on the type authori­
+sations they have granted, as set out in Annex II. 
+2. 
+The 
+national 
+safety 
+authorities 
+shall 
+provide 
+the 
+information referred to in paragraph 1 of this Article in 
+accordance with the rules laid down in Section 5.2 of Annex I. 
+3. 
+The 
+national 
+safety 
+authorities 
+shall 
+submit 
+the 
+information by using the standard web-based electronic form 
+with the relevant fields filled in. 
+4. 
+The 
+national 
+safety 
+authorities 
+shall 
+submit 
+the 
+information related to the authorisations of types of vehicles 
+that they have granted after 19 July 2010 and before the entry 
+into force of this Decision not later than 4 months after the 
+date of entry into force of this Decision. 
+Article 4 
+Restriction codes 
+1. 
+Harmonised restriction codes shall be applicable in all the 
+Member States. 
+The list of harmonised restriction codes for the whole of the 
+Union rail system shall be kept up-to-date by the Agency and 
+published on its web site. 
+If a national safety authority considers that a new code needs to 
+be added to the list of harmonised restriction codes, it shall 
+request the Agency to evaluate the inclusion of this new code. 
+The Agency shall evaluate the request, in consultation with 
+other national safety authorities. If appropriate, the Agency 
+shall include a new restriction code in the list. Prior to the 
+publication of the modified list, the Agency shall communicate 
+it to the Commission together with the change request and its 
+evaluation. 
+The Commission shall keep the Member States informed 
+through the committee established in accordance with 
+Article 29(1) of Directive 2008/57/EC. 
+2. 
+The Agency shall keep up-to-date the list of national 
+restriction codes. The use of national restriction codes shall be 
+limited to those restrictions that reflect particular characteristics 
+of the existing railway system of a Member State and are 
+unlikely to be applied with the same meaning in other 
+Member States. 
+For types of restrictions not indicated in the list referred to in 
+paragraph 1, the national safety authority shall request the 
+Agency the inclusion of a new code in the list of national 
+restriction codes. The Agency shall evaluate the request, in 
+consultation with other national safety authorities. If appro­
+priate the Agency shall include a new restriction code in the 
+list. Prior to the publication of the modified list, the Agency 
+shall communicate it to the Commission together with the 
+change request and its evaluation. 
+The Commission shall keep the Member States informed 
+through the committee established in accordance with 
+Article 29(1) of Directive 2008/57/EC. 
+3. 
+The restriction code for multinational safety authorities 
+shall be treated as national restriction codes. 
+4. 
+The use of non-coded restrictions shall be limited to those 
+restrictions that due to their particular character are unlikely to 
+be applied to several types of vehicle. 
+Article 5 
+Final provisions 
+1. 
+The Agency shall publish and keep up-to-date an appli­
+cation guide for the European register of authorised types of 
+vehicles. Among other information, this guide shall include for 
+each parameter a reference to the clauses of the technical spec­
+ifications for interoperability that state the requirements for this 
+parameter. 
+2. 
+The Agency shall submit a recommendation to the 
+Commission on the possible inclusion in the register of types 
+of vehicles that were authorised before 19 July 2010 and on the 
+possible amendment of this Decision based on the experience 
+gained not later than 18 months after the entry into force of 
+this Decision. 
+Article 6 
+Date of application 
+This Decision shall apply from 15 April 2012.
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/33
+Article 7 
+Addressees 
+This Decision is addressed to the European Railway Agency and the Member States. 
+Done at Brussels, 4 October 2011. 
+For the Commission 
+Siim KALLAS 
+Vice-President
+EN 
+L 264/34 
+Official Journal of the European Union 
+8.10.2011
+ANNEX I 
+SPECIFICATION FOR THE EUROPEAN REGISTER OF AUTHORISED TYPES OF VEHICLES 
+1. 
+TYPES OF VEHICLE TO BE VOLUNTARILY REGISTERED 
+Types of vehicle authorised before 19 July 2010 for which no new vehicles have been authorised after 19 July 
+2010 may be registered in ERATV voluntarily. 
+In addition, the following types of vehicle may be registered voluntarily: 
+— vehicles authorised to be placed in service before 19 July 2010 for which an additional authorisation for 
+placing in service has been granted pursuant to Article 23 or 25 of Directive 2008/57/EC, 
+— vehicles authorised to be placed in service before 19 July 2010 for which a new authorisation for placing in 
+service has been granted after an upgrading or renewal, 
+— vehicles coming from third countries and authorised on the EU territory according to COTIF 1999 and 
+particularly its Appendices F and G or, 
+— vehicles coming from third countries and authorised under provisions of Article 21(11) of Directive 
+2008/57/EC. 
+In these four cases of voluntary registration, data to be recorded may be limited to the parameters that have been 
+verified during the authorisation process. 
+Temporary permissions, such as permissions for testing and trial runs, shall not be recorded in ERATV. 
+2. 
+FUNCTIONAL ARCHITECTURE 
+2.1. 
+Administration of ERATV 
+The Agency shall host and manage ERATV. The Agency shall create user accounts and to grant access rights at the 
+request of national safety authorities in accordance with this specification. 
+2.2. 
+Address of ERATV 
+ERATV shall be a web-based application. The address of ERATV shall be made available on the Agency website. 
+2.3. 
+Users and user access rights 
+ERATV shall have the following users: 
+User 
+Access rights 
+Log in, user accounts 
+National safety authority of 
+any Member State 
+Submission of data related to this Member 
+State to be validated by the Agency. 
+Unrestricted consultation of any data, 
+including the data for which the vali­
+dation is pending. 
+Logging in with user name and 
+password. 
+No 
+functional 
+or 
+anonymous 
+accounts shall be made available. 
+Several accounts shall be created if 
+the national safety authority so 
+requires. 
+Agency 
+Validation regarding the compliance with 
+this specification and publication of the 
+data submitted by a national safety 
+authority. 
+Unrestricted consultation of any data, 
+including the data for which the vali­
+dation is pending. 
+Logging in with user name and 
+password. 
+Public 
+Consultation of validated data. 
+Not applicable. 
+2.4. 
+Interface to external systems 
+Any type of vehicle registered (i.e. validated and made public) in ERATV shall be available via a hyperlink. These 
+hyperlinks may be used by external applications. 
+Attention shall be given to possible links between ERATV and the European Centralised Virtual Vehicle Register 
+(ECVVR) ( 1 ).
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/35 
+( 1 ) As provided for in Commission Decision 2007/756/EC of 9 November 2007 adopting a common specification of the national vehicle 
+register provided for under Article 14(4) and (5) of Directives 96/48/EC and 2001/16/EC (OJ L 305, 23.11.2007, p. 30).
+2.5. 
+Links to other registers and databases 
+When developing ERATV, the Agency shall take full account of the interfaces, including coordinated transitional 
+periods, to the following registers and databases: 
+— National vehicle registers ( 1 ) (NVR) and ECVVR: the format of data on the type of vehicle in ECVVR shall have 
+a one-to-one correspondence with the designation of types and, where applicable, versions of type in ERATV. 
+— Register of infrastructure (RINF) ( 2 ): the lists of parameters and the data format of RINF and ERATV shall 
+correspond to each other, including any updates or amendments of the RINF and ERATV specifications. 
+— Reference document of national rules (Article 27 of Directive 2008/57/EC): once the reference document is 
+available, the list of parameters for which the conformity assessment is done against national rules indicated in 
+ERATV shall have one-to-one correspondence with the list of parameters indicated in the reference document. 
+ERATV must not allow referring to any parameter not included in the reference document. 
+2.6. 
+Availability 
+As a general rule, ERATV shall be available 24 hours a day, 7 days a week, 365 days a year with a target system 
+availability of 98 %. However, in the case of a failure occurring out of normal working hours of the Agency, the 
+restoration of the service shall be handled the next working day of the Agency after the failure. The unavailability 
+of the system shall be minimal during the maintenance. 
+2.7. 
+Security 
+The user accounts and passwords created by the Agency must not be disclosed to any third party and must be 
+used in accordance with this specification only. 
+3. 
+TECHNICAL ARCHITECTURE 
+3.1. 
+System architecture 
+ERATV shall be a web-based application hosted and managed by the Agency. 
+ERATV shall be capable of containing complete information for 35 000 types of vehicle. 
+The users shall have the possibility to connect to ERATV by means of a standard Internet connection. 
+ERATV architecture shall be as shown on the following figure:
+EN 
+L 264/36 
+Official Journal of the European Union 
+8.10.2011 
+( 1 ) As provided for in Decision 2007/756/EC. 
+( 2 ) As provided for in Commission Implementing Decision 2011/633/EU of 15 September 2011 on the common specifications of the 
+register of railway infrastructure (OJ L 256, 1.10.2011, p. 1).
+3.2. 
+System requirements 
+For having connection to ERATV, an Internet browser and access to Internet shall be required. 
+4. 
+OPERATING MODE 
+ERATV shall have the following operating modes: 
+— Normal mode. During the normal operating mode all functionalities shall be available. 
+— Maintenance mode. During the maintenance mode ERATV may not be available for users. 
+5. 
+RULES FOR DATA INPUT AND CONSULTATION 
+5.1. 
+General principles 
+Every national safety authority shall submit information related to the authorisations of types of vehicle it has 
+granted. 
+ERATV shall include a web based tool for exchange of information between the national safety authorities and the 
+Agency. This tool shall allow the following exchanges of information: 
+(1) submission of data for the register by a national safety authority to the Agency including: 
+(a) data related to granting an authorisation for a new type of vehicle (in this case the national safety authority 
+shall provide the full set of data as set out in Annex II); 
+(b) data related to granting an authorisation for a type of vehicle previously registered in ERATV (in this case 
+the national safety authority shall only provide data related to the authorisation itself, i.e. fields in Section 3 
+of the list set out in Annex II); 
+(c) data related to modification of an existing authorisation (in this case the national safety authority shall only 
+provide data related to the fields that need to be modified; this may not include modification of data 
+related to the characteristics of the vehicle); 
+(d) data related to suspension of an existing authorisation (in this case the national safety authority shall only 
+provide the date of suspension); 
+(e) data related to reactivation of an existing authorisation (in this case the national safety authority shall only 
+provide data related to the fields that need to be modified), distinguishing between 
+— reactivation without modification of data, 
+— reactivation with modification of data (these data may not be related to the characteristics of the 
+vehicle). 
+(f) data related to withdrawal of an authorisation; 
+(g) data related to correction of an error. 
+(2) sending of requests for data clarification and/or correction by the Agency to a national safety authority; 
+(3) sending of answers by a national safety authority to the requests of clarification and/or correction done by the 
+Agency. 
+The national safety authority shall submit the data for updating the register electronically by means of a web based 
+application and using the standard web based electronic form with the relevant fields filled in as set out in 
+Annex II. 
+The Agency shall check the data submitted by the national safety authority regarding their compliance with this 
+specification, and either validate them or request a clarification. 
+If the Agency considers that the data submitted by the national safety authority are not in compliance with this 
+specification, the Agency shall send the national safety authority a request for correction or clarification of the 
+submitted data. 
+Upon each update of data regarding a type of vehicle the system shall generate a confirmation message, which 
+shall be sent by e-mail to the users of the national safety authority that submitted the data, to the national safety 
+authority of all other Member States where the type is authorised and to the Agency. 
+5.2. 
+Submission of data by national safety authority 
+5.2.1. Granting an authorisation to a new type of vehicle 
+The national safety authority shall inform the Agency of any authorisation of a new type of vehicle within 20 
+working days following the issue of the authorisation.
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/37
+The Agency shall check the information submitted by the national safety authority and within 20 working days 
+following the receipt of this information either validate it and assign a type of vehicle number as set out in Annex 
+III or request its correction or clarification. In particular, in order to prevent an unintended duplication of types in 
+ERATV, the Agency shall check, as far as the data available in ERATV allows, that this type has not been registered 
+before by another Member State. 
+After validation of the information submitted by the national safety authority, the Agency shall assign the new 
+type of vehicle its number. The rules for assigning the type of vehicle number are set out in Annex III. 
+5.2.2. Granting an authorisation to a type of vehicle previously registered in ERATV 
+The national safety authority shall inform the Agency of any authorisation of a type of vehicle already registered in 
+ERATV (such as a type authorised by another Member State) within 20 working days following the issue of the 
+authorisation. 
+The Agency shall check the information submitted by the national safety authority and, within 10 working days 
+following the receipt of this information, shall either validate it or request its correction or clarification. 
+After validation of the information submitted by the national safety authority, the Agency shall complement the 
+data related to this type of vehicle by the data related to the authorisation in the Member State of the national 
+safety authority that granted this authorisation. 
+5.2.3. Modification on an existing authorisation 
+The national safety authority shall inform the Agency of any modification to an existing authorisation for a type of 
+vehicle within 20 working days following the issue of the modification to the authorisation. 
+The Agency shall check the information submitted by the national safety authority and, within 10 working days 
+following the receipt of this information, shall either validate it or request its correction or clarification. In 
+particular, the Agency shall check that the requested changes actually consist of a modification of an authorisation 
+of an existing type (e.g. amendment of conditions of the authorisation, amendments of the type examination 
+certificate) and do not constitute a new type of vehicle. 
+After validation of the information submitted by the national safety authority, the Agency shall publish the 
+information. 
+5.2.4. Suspension 
+The national safety authority shall inform the Agency of any suspension of an existing authorisation for a type of 
+vehicle within 5 working days following the issue of the suspension of the authorisation. 
+The Agency shall check the information submitted by the national safety authority and, within 5 working days 
+following the receipt of this information, shall either validate it or request its correction or clarification. 
+5.2.5. Reactivation without modification 
+The national safety authority shall inform the Agency of a reactivation of an authorisation for a type of vehicle 
+previously suspended within 20 working days following the issue of the reactivation of the authorisation. The 
+national safety authority shall confirm that the original authorisation is reactivated without any modifications. 
+The Agency shall check the information submitted by the national safety authority and, within 10 working days 
+following the receipt of this information, shall either validate it or request its correction or clarification. 
+5.2.6. Reactivation with modification 
+The national safety authority shall inform the Agency of a reactivation of an authorisation for a type of vehicle 
+previously suspended within 20 working days following the issue of the reactivation of the authorisation. The 
+national safety authority shall indicate that the reactivation is accompanied by a modification of the original 
+authorisation. The national safety authority shall submit information regarding this modification. 
+The process indicated in clause 5.2.3 above for modification of an authorisation shall apply. 
+5.2.7. Withdrawal 
+The national safety authority shall inform the Agency of any withdrawal of an existing authorisation for a type of 
+vehicle within 5 working days following the withdrawal of the authorisation. 
+The Agency shall check the information submitted by the national safety authority and, within 5 working days 
+following the receipt of this information, shall either validate it or request its correction or clarification.
+EN 
+L 264/38 
+Official Journal of the European Union 
+8.10.2011
+In the cases where an authorisation has a validity term, the IT system shall automatically change the status of the 
+authorisation to ‘expired’ according to the validity term indicated by the relevant national safety authority. 
+5.2.8. Modification of an authorisation which may lead to a modification of a registered type of vehicle 
+Before requesting a modification of an authorisation which may lead to a modification of a registered type of 
+vehicle, the national safety authority shall coordinate with national safety authorities who have granted auth­
+orisation for this registered type, and in particular the authority who has registered the type in ERATV. 
+5.3. 
+Entry or modification of data by the Agency 
+Normally, the Agency shall not introduce any data into the register. The data shall be submitted by the national 
+safety authority and the role of the Agency consists of validation and publication only. 
+In exceptional circumstances, such as technical impossibility of following the normal procedure, the Agency may, 
+following a request from a national safety authority, enter or modify data in ERATV. In this case, the national 
+safety authority that requested the entry or modification of data shall confirm the data entered or modified by the 
+Agency and the Agency shall duly document the process. The timescales for entering data in ERATV as indicated 
+in Section 5.2 shall apply. 
+5.4. 
+Publication of data by the Agency 
+The Agency shall make publicly available the data that has been validated. 
+5.5. 
+Error handling in submitted data 
+ERATV shall allow correcting errors in the recorded data. In the cases when an error has been corrected, ERATV 
+shall indicate the date of correction. 
+5.6. 
+Possible searches and reports 
+ERATV shall allow the following reports: 
+(1) For a national safety authority and the Agency: 
+— information as indicated in Annex II submitted by any national safety authority and not validated by the 
+Agency for any type of vehicle for which the authorisation is active, suspended or withdrawn (including 
+expired authorisations) as far as this information is kept in historical records, 
+— any of the reports available to public. 
+(2) For the public: 
+— information as indicated in Annex II submitted by any national safety authority and validated by the 
+Agency for any type of vehicle for which the authorisation is active, suspended or withdrawn (including 
+expired authorisations) as far as this information is kept in historical records. 
+ERATV shall allow the public to perform searches at least by the following criteria and any combination of them: 
+— by type code, 
+— by type name or part of it, 
+— by manufacturer’s name or part of it, 
+— by vehicle category/subcategory, 
+— by TSI(s) the type is in conformity with, 
+— by Member State or combination of Member States where the type of vehicle is authorised, 
+— by status of the authorisation, 
+— by any of the technical characteristics. 
+Where appropriate the search criteria shall allow indicating a range for a technical characteristic. 
+5.7. 
+Historical records 
+ERATV shall retain the complete historical record of all the modifications, including correction of errors, requests 
+for clarifications and answers, related to a registered type of vehicle for 10 years from the date of withdrawal of the 
+authorisation in all the Member States and for 10 years from the date of withdrawal of the registration from any 
+NVR of the last vehicle of this type, whatever occurs later.
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/39
+5.8. 
+Automatic notification of changes 
+Following a modification, suspension, reactivation or withdrawal of an authorisation of a vehicle type, the IT 
+system shall send the national safety authority of any Member State where the vehicle types is authorised an 
+automatic e-mail informing about the change. 
+In the cases where an authorisation has a validity term, the IT system shall send the relevant national safety 
+authority an automatic e-mail informing about the forthcoming expiry date 3 months before this date. 
+6. 
+GLOSSARY 
+Term or abbreviation 
+Definition 
+Vehicle 
+Railway vehicle as defined in Article 2(c) of Directive 2008/57/EC. 
+Type 
+Vehicle type as defined in Article 2(w) of Directive 2008/57/EC. Type must reflect the 
+unit that has been subject of the conformity assessment and authorisation. This unit 
+may be a single vehicle, a rake of vehicles or a trainset. 
+Version 
+Version of a type as covered by the type examination certificate. 
+Manufacturer 
+Any natural or legal person who manufacturers a vehicle or has a vehicle designed or 
+manufactured, and markets that vehicle under his name or trademark. The indication 
+of manufacturer in ERATV is for reference only; it is without prejudice to the intel­
+lectual property rights, contractual responsibilities or civil liability. 
+Authorisation holder 
+Entity that applied for and received the authorisation of type of vehicle. 
+Restriction 
+Any condition or limitation indicated in the authorisation of type of vehicle that 
+applies to placing in service or use of any vehicle in conformity with this type. 
+Restrictions do not include technical characteristics that are included in Section 4 of 
+Annex II (List and format of parameters). 
+Modification of 
+authorisation 
+Decision taken by a national safety authority according to which certain conditions of 
+an authorisation for a type of vehicle previously issued by this national safety authority 
+need to be changed. Modification of authorisation may include, but is not limited to, 
+restrictions, modification of validity date, renewal of authorisation after a change in the 
+rules. 
+Suspension of 
+authorisation 
+Decision taken by a national safety authority according to which an authorisation for a 
+vehicle type is temporarily not valid and no vehicle may be authorised to be placed in 
+service on the basis of its conformity to the given type, until the causes that motivated 
+the suspension have not been analysed. Suspension of authorisation for a vehicle type 
+does not apply to the vehicles already in service. 
+Reactivation of 
+authorisation 
+Decision taken by a national safety authority according to which a suspension of 
+authorisation it previously issued no longer applies. 
+Withdrawal of 
+authorisation 
+Decision taken by a national safety authority according to which an authorisation for a 
+vehicle type is no longer valid and no vehicle may be authorised to be placed in 
+service on the basis of its conformity to the given type. Withdrawal of authorisation 
+for a vehicle type does not apply to the vehicles already in service. 
+Error 
+Transmitted or published data that do not correspond to the given authorisation for 
+type of vehicle. Modification of authorisation does not fall under this definition.
+EN 
+L 264/40 
+Official Journal of the European Union 
+8.10.2011
+ANNEX II 
+DATA TO BE REGISTERED AND FORMAT 
+For each authorised type of vehicle ERATV shall include the following data: 
+— identification of the type, 
+— manufacturer, 
+— conformity with the TSIs, 
+— authorisations granted in different Member States, including general information about these authorisations, their 
+status (active, suspended or withdrawn), list of parameters for which conformity with national rules has been checked, 
+— technical characteristics. 
+The data to be registered in ERATV for each type of vehicle and their format shall be as indicated below. The data to be 
+registered depend on the category of the vehicle as indicated below. 
+The values indicated for the parameters related to the technical characteristics shall be those recorded in the technical 
+documentation accompanying the type examination certificate. 
+In the cases where possible values for a parameter are limited to a predefined list, these lists shall be maintained and 
+updated by the Agency. 
+For the types of vehicle that are not in conformity with all the relevant TSIs in force, the national safety authority that has 
+granted the type authorisation may limit the information to be provided on the technical characteristics indicated in 
+Section 4 below to the parameters that have been checked according to the applicable rules. 
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+0 
+Identification of the type 
+Heading (no data) 
+0.1 
+TYPE ID 
+[number] XX-XXX-XXXX-X (according 
+to Annex III) 
+Y 
+Y 
+Y 
+Y 
+0.2 
+Versions included in this type 
+[number] XXX + [character string] 
+(according to Annex III) 
+Y 
+Y 
+Y 
+Y 
+0.3 
+Date of record in ERATV 
+[date] DD-MM-YYYY 
+Y 
+Y 
+Y 
+Y 
+1 
+General information 
+Heading (no data) 
+1.1 
+Type name 
+[character string] (max 256 characters) 
+O 
+O 
+O 
+O 
+1.2 
+Alternative type name 
+[character string] (max 256 characters) 
+O 
+O 
+O 
+O 
+1.3 
+Manufacturer’s name 
+[character string] (max 256 characters) 
+Selection from a predefined list, possi­
+bility to add new manufacturers 
+Y 
+Y 
+Y 
+Y 
+1.4 
+Category 
+[character string] Selection from a 
+predefined list (according to Annex III) 
+Y 
+Y 
+Y 
+Y
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/41
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+1.5 
+Subcategory 
+[character string] Selection from a 
+predefined list (according to Annex III) 
+Y 
+Y 
+Y 
+Y 
+2 
+Conformity with TSIs 
+Heading (no data) 
+2.1 
+Conformity with TSI 
+For each TSI: 
+[character 
+string] 
+Y/N/Partial/Not 
+applicable Selection from a predefined 
+list of vehicle related TSIs (both in 
+force and those that were previously 
+in force) (multiple selection possible) 
+Y 
+Y 
+Y 
+Y 
+2.2 
+Reference of ‘EC type examination 
+certificates’ (if module SB applied) 
+and/or ‘EC design examination certifi­
+cates’ (if module SH1 applied) 
+[character string] (possibility to indicate 
+several certificates, e.g. certificate for 
+rolling stock subsystem, certificate for 
+CCS, etc.) 
+Y 
+Y 
+Y 
+Y 
+2.3 
+Applicable specific cases (specific cases 
+conformity 
+with 
+which 
+has 
+been 
+assessed) 
+[character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) based on TSIs (for each TSI 
+marked as Y or P) 
+Y 
+Y 
+Y 
+Y 
+2.4 
+Sections of TSI not complied with 
+[character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) based on TSIs (for each TSI 
+marked as P) 
+Y 
+Y 
+Y 
+Y 
+3 
+Authorisations 
+Heading (no data) 
+3.1 
+Authorisation in 
+Heading (no data) 
+3.1.1 
+Member State of authorisation 
+[character string] Selection from a 
+predefined list Codes are those officially 
+published and updated on the European 
+website in the Interinstitutional style 
+guide 
+Y 
+Y 
+Y 
+Y 
+3.1.2 
+Current status 
+Heading (no data) 
+3.1.2.1 
+Status 
+[character string] + [date]Field auto­
+matically filled in by the system. 
+Possible options: ActiveSuspended DD- 
+MM-YYYY, Withdrawn DD-MM-YYYY, 
+Expired DD-MM-YYYY 
+Y 
+Y 
+Y 
+Y 
+3.1.2.2 
+Validity of authorisation (if defined) 
+[date] DD-MM-YYYY 
+Y 
+Y 
+Y 
+Y 
+3.1.2.3 
+Coded restrictions 
+[character string] Code assigned by the 
+Agency 
+Y 
+Y 
+Y 
+Y 
+3.1.2.4 
+Non-coded restrictions 
+[character string] 
+Y 
+Y 
+Y 
+Y 
+3.1.3 
+Historical 
+Heading (no data) 
+3.1.3.1 
+Original authorisation 
+Heading (no data) 
+Y 
+Y 
+Y 
+Y
+EN 
+L 264/42 
+Official Journal of the European Union 
+8.10.2011
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+3.1.3.1.1 
+Date 
+[date] DD-MM-YYYY 
+Y 
+Y 
+Y 
+Y 
+3.1.3.1.2 
+Authorisation holder 
+[character string] (max 256 characters) 
+Selection from a predefined list, possi­
+bility to add new organisations 
+Y 
+Y 
+Y 
+Y 
+3.1.3.1.3 
+Authorisation document reference 
+[character string] (EIN) 
+Y 
+Y 
+Y 
+Y 
+3.1.3.1.4 
+National 
+certificate 
+references 
+(if 
+applicable) 
+[character string] 
+Y 
+Y 
+Y 
+Y 
+3.1.3.1.5 
+Parameters for which conformity to 
+applicable national rules has been 
+assessed 
+[character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) 
+based 
+on 
+Commission 
+Decision 2009/965/EC 
+Y 
+Y 
+Y 
+Y 
+3.1.3.1.6 
+Comments 
+[character string] (max 1 024 char­
+acters) 
+O 
+O 
+O 
+O 
+3.1.3.X 
+Modification of authorisation 
+Heading (no data) (X is progressive from 2 
+onwards, as many times as modifications of 
+the authorisation of type have been issued) 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.1 
+Type of modification 
+[character 
+string] 
+Text 
+from 
+a 
+predefined list (modification, suspen­
+sion, reactivation, withdrawal) 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.2 
+Date 
+[date] DD-MM-YYYY 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.3 
+Authorisation holder (if applicable) 
+[character string] (max 256 characters) 
+Selection from a predefined list, possi­
+bility to add new organisations 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.4 
+Authorisation modification document 
+reference 
+[character string] 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.5 
+National 
+certificate 
+references 
+(if 
+applicable) 
+[character string] 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.6 
+Applicable national rules (if applicable) 
+[character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) 
+based 
+on 
+Commission 
+Decision 2009/965/EC 
+Y 
+Y 
+Y 
+Y 
+3.1.3.X.7 
+Comments 
+[character string] (max 1 024 char­
+acters) 
+O 
+O 
+O 
+O 
+3.X 
+Authorisation in 
+Heading (no data) (X is progressive incre­
+mented by one unit from 2 onwards each 
+time an authorisation for this type has been 
+granted (including the suspended and 
+withdrawn ones)). This Section contains 
+same fields as 3.1 
+Y 
+Y 
+Y 
+Y
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/43
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4 
+Technical 
+characteristics 
+of 
+the 
+vehicle 
+Heading (no data) 
+4.1 
+General technical characteristics 
+Heading (no data) 
+4.1.1 
+Number of driving cabs 
+[Number] 0/1/2 
+Y 
+Y 
+Y 
+Y 
+4.1.2 
+Speed 
+Heading (no data) 
+4.1.2.1 
+Maximum design speed 
+[Number] km/h 
+Y 
+Y 
+Y 
+Y 
+4.1.2.2 
+Maximum speed when empty 
+[Number] km/h 
+N 
+N 
+Y 
+N 
+4.1.3 
+Wheel set gauge 
+[character 
+string] 
+Selection 
+from 
+predefined list 
+Y 
+Y 
+Y 
+Y 
+4.1.4 
+Conditions of use regarding train 
+formation 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+N 
+Y 
+4.1.5 
+Maximum number of trainsets or loco­
+motives coupled together in multiple 
+operation. 
+[number] 
+Y 
+N 
+N 
+N 
+4.1.6 
+Number of elements in the rake of 
+freight wagons (only for subcategory 
+‘rake of freight wagons’) 
+[number] 
+N 
+N 
+Y 
+N 
+4.1.7 
+Letter marking 
+[character string] Selection from a 
+predefined list (according to Annex P 
+of OPE TSI) 
+N 
+N 
+Y 
+N 
+4.1.8 
+Type meets the requirements necessary 
+for validity of the vehicle authorisation 
+granted by one Member State in other 
+Member States 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+Y 
+Y 
+4.1.9 
+Dangerous goods for which the vehicle 
+is suitable (tank code) 
+[character string] Tank code 
+N 
+N 
+Y 
+N 
+4.1.10 
+Structural category 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+Y 
+Y 
+4.2 
+Vehicle kinematic gauge 
+Heading (no data) 
+4.2.1 
+Vehicle kinematic gauge (interoperable 
+gauge) 
+[character 
+string] 
+Selection 
+from 
+predefined 
+list 
+(more 
+than 
+one 
+possible) (the list will be different for 
+different categories depending on the 
+applicable TSI) 
+Y 
+Y 
+Y 
+Y 
+4.2.2 
+Vehicle kinematic gauge (other gauges 
+assessed using the kinematic method) 
+[character 
+string] 
+Selection 
+from 
+predefined list (more than one possible) 
+O 
+O 
+O 
+O 
+4.3 
+Environmental conditions 
+Heading (no data) 
+4.3.1 
+Temperature range 
+[character string] Selection from a 
+predefined list (more than one possible) 
+Y 
+Y 
+Y 
+Y
+EN 
+L 264/44 
+Official Journal of the European Union 
+8.10.2011
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.3.2 
+Altitude range 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+N 
+Y 
+4.3.3 
+Snow, ice and hail conditions 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+N 
+Y 
+4.3.4 
+Ballast pick up (for v ≥ 190 km/h 
+vehicles only) 
+Open point 
+OP 
+OP 
+N 
+N 
+4.4 
+Fire safety 
+Heading (no data) 
+4.4.1 
+Fire safety category 
+[character string] Selection from a 
+predefined list 
+Y 
+Y 
+N 
+Y 
+4.5 
+Design mass and loads 
+Heading (no data) 
+4.5.1 
+Permissible payload for different line 
+categories 
+[number] t for line category [character 
+string] 
+OP 
+OP 
+Y 
+OP 
+4.5.2 
+Design mass 
+Heading (no data) 
+4.5.2.1 
+Design mass in working order 
+[number] kg 
+Y 
+Y 
+O 
+Y 
+4.5.2.2 
+Design mass under normal payload 
+[number] kg 
+Y 
+Y 
+O 
+Y 
+4.5.2.3 
+Design mass under exceptional payload 
+[number] kg 
+Y 
+Y 
+N 
+Y 
+4.5.3 
+Static axle load 
+Heading (no data) 
+4.5.3.1 
+Static axle load in working order 
+[number] kg 
+Y 
+Y 
+O 
+Y 
+4.5.3.2 
+Static axle load under normal payload/ 
+maximum payload for freight wagons 
+[number] kg 
+Y 
+Y 
+O 
+Y 
+4.5.3.3 
+Static axle load under exceptional 
+payload 
+[number] kg 
+Y 
+Y 
+N 
+Y 
+4.5.4 
+Quasi-static guiding force (if exceeds 
+the limit defined in TSI or not defined 
+in the TSI) 
+[number] kN 
+Y 
+Y 
+N 
+Y 
+4.6 
+Rolling stock dynamic behaviour 
+Heading (no data) 
+4.6.1 
+Cant deficiency (maximum uncom­
+pensated lateral acceleration) for which 
+the vehicle has been assessed 
+[number] mm 
+For dual gauge vehicles, values for each 
+gauge shall be indicated 
+Y 
+Y 
+O 
+Y 
+4.6.2 
+Vehicle equipped with a cant deficiency 
+compensation system (tilting vehicle) 
+[Boolean] Y/N 
+Y 
+Y 
+Y 
+Y
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/45
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.6.3 
+In service limits of equivalent conicity 
+(or worn wheel profile) for which the 
+vehicle has been tested 
+Open point 
+OP 
+OP 
+OP 
+OP 
+4.7 
+Braking 
+Heading (no data) 
+4.7.1 
+Maximum train deceleration 
+[number] m/s 2 
+Y 
+N 
+N 
+Y 
+4.7.2 
+Service braking 
+Heading (no data) 
+4.7.2.1 
+Brake performance on steep gradients 
+with normal payload 
+Heading (no data) 
+4.7.2.1.1 
+Reference case of TSI 
+[character string] from a predefined list 
+Y 
+Y 
+Y 
+Y 
+4.7.2.1.2 
+Speed (if no reference case is indicated) 
+[number] km/h 
+Y 
+Y 
+Y 
+Y 
+4.7.2.1.3 
+Gradient (if no reference case is 
+indicated) 
+[number] ‰ (mm/m) 
+Y 
+Y 
+Y 
+Y 
+4.7.2.1.4 
+Distance (if no reference case is 
+indicated) 
+[number] km 
+Y 
+Y 
+Y 
+Y 
+4.7.2.1.5 
+Time (if distance is not indicated) (if no 
+reference case is indicated) 
+[number] min 
+Y 
+Y 
+Y 
+Y 
+4.7.3 
+Parking brake 
+Heading (no data) 
+4.7.3.1 
+All vehicles of this type must be 
+equipped 
+with 
+a 
+parking 
+brake 
+(parking brake mandatory for vehicles 
+of this type) 
+[Boolean] Y/N 
+N 
+N 
+Y 
+Y 
+4.7.3.2 
+Parking brake type (if the vehicle is 
+fitted with it) 
+[character string] from a predefined list 
+Y 
+Y 
+Y 
+Y 
+4.7.3.3 
+Maximum gradient on which the unit is 
+kept immobilised by the parking brake 
+alone (if the vehicle is fitted with it) 
+[number] ‰ (mm/m) 
+Y 
+Y 
+Y 
+Y 
+4.7.4 
+Braking systems fitted on the vehicle 
+Heading (no data) 
+4.7.4.1 
+Eddy current brake 
+Heading (no data) 
+4.7.4.1.1 
+Eddy current brake fitted 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.7.4.1.2 
+Possibility of preventing the use of the 
+eddy current brake (only if fitted with 
+eddy current brake) 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.7.4.2 
+Magnetic brake 
+Heading (no data) 
+4.7.4.2.1 
+Magnetic brake fitted 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y
+EN 
+L 264/46 
+Official Journal of the European Union 
+8.10.2011
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.7.4.2.2 
+Possibility of preventing the use of the 
+magnetic brake (only if fitted with 
+magnetic brake) 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.7.4.3 
+Regenerative brake (only for vehicles 
+with electrical traction) 
+Heading (no data) 
+4.7.4.3.1 
+Regenerative brake fitted 
+[Boolean] Y/N 
+Y 
+N 
+N 
+Y 
+4.7.4.3.2 
+Possibility of preventing the use of the 
+regenerative brake (only if fitted with 
+regenerative brake) 
+[Boolean] Y/N 
+Y 
+N 
+N 
+Y 
+4.8 
+Geometrical characteristics 
+Heading (no data) 
+4.8.1 
+Vehicle length 
+[number] m 
+Y 
+Y 
+Y 
+Y 
+4.8.2 
+Minimum in-service wheel diameter 
+[number] mm 
+Y 
+Y 
+Y 
+Y 
+4.8.3 
+Shunting restrictions 
+[Boolean] Y/N 
+N 
+N 
+Y 
+N 
+4.8.4 
+Minimum horizontal curve radius capa­
+bility 
+[number] m 
+Y 
+Y 
+Y 
+Y 
+4.8.5 
+Minimum vertical convex curve radius 
+capability 
+[number] m 
+O 
+O 
+O 
+O 
+4.8.6 
+Minimum vertical concave curve radius 
+capability 
+[number] m 
+O 
+O 
+O 
+O 
+4.8.7 
+Height of loading platform (for flat 
+wagons and combined transport) 
+[number] mm 
+N 
+N 
+Y 
+N 
+4.8.8 
+Suitability for transport on ferries 
+[Boolean] Y/N 
+Y 
+Y 
+Y 
+Y 
+4.9 
+Equipment 
+Heading (no data) 
+4.9.1 
+Type of end coupling (indicating tensile 
+and compressive forces) 
+[Character string] From a predefined list 
+(multiple selection possible) 
+Y 
+Y 
+Y 
+Y 
+4.9.2 
+Axle bearing condition monitoring (hot 
+axles box detection) 
+[Character string] From a predefined list 
+(multiple selection possible) 
+Y 
+Y 
+Y 
+Y 
+4.9.3 
+Flange lubrication 
+Heading (no data) 
+4.9.3.1 
+Flange lubrication fitted 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.9.3.2 
+Possibility of preventing the use of the 
+lubrication device (only if fitted with 
+flange lubrication) 
+[Boolean] Y/N 
+Y 
+N 
+N 
+Y 
+4.10 
+Energy supply 
+Heading (no data)
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/47
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.10.1 
+Energy supply system 
+[Character string] From a predefined list 
+(multiple selection possible) 
+Y 
+Y 
+N 
+Y 
+4.10.2 
+Maximum power (to be indicated for 
+each energy supply system the vehicle 
+is equipped for) 
+[Number] 
+kW 
+for 
+[energy 
+supply 
+system automatically prefilled in] 
+O 
+O 
+N 
+O 
+4.10.3 
+Maximum rated current from the 
+catenary (to be indicated for each elec­
+trical energy supply system the vehicle 
+is equipped for) 
+[Number] A for [Voltage automatically 
+prefilled in] 
+Y 
+Y 
+N 
+Y 
+4.10.4 
+Maximum current at standstill per 
+pantograph (to be indicated for each 
+DC systems the vehicle is equipped for) 
+[Number] A for [Voltage automatically 
+prefilled in] 
+Y 
+Y 
+N 
+Y 
+4.10.5 
+Height of interaction of pantograph 
+with contact wires (over top of rail) 
+(to be indicated for each energy 
+supply system the vehicle is equipped 
+for) 
+[Number] From [m] to [m] (with two 
+decimals) 
+Y 
+Y 
+N 
+Y 
+4.10.6 
+Pantograph head (to be indicated for 
+each energy supply system the vehicle 
+is equipped for) 
+[Character string] for [energy supply 
+system automatically prefilled in] 
+From 
+a 
+predefined 
+list 
+(multiple 
+selection possible) 
+Y 
+Y 
+N 
+Y 
+4.10.7 
+Number of pantographs in contact with 
+the overhead contact line (OCL) (to be 
+indicated for each energy supply system 
+the vehicle is equipped for) 
+[Number] 
+Y 
+Y 
+N 
+Y 
+4.10.8 
+Shortest 
+distance 
+between 
+two 
+pantographs in contact with the OCL 
+(to be indicated for each energy 
+supply system the vehicle is equipped 
+for; to be indicated for single and, if 
+applicable, multiple operation) (only if 
+number of raised pantographs is more 
+than 1) 
+[Number] [m] 
+Y 
+Y 
+N 
+Y 
+4.10.9 
+Type of OCL used for the test of 
+current collection performance (to be 
+indicated 
+for 
+each 
+energy 
+supply 
+system the vehicle is equipped for) 
+(only if number of raised pantographs 
+is more than 1) 
+[Character string] for [energy supply 
+system automatically prefilled in] 
+From 
+a 
+predefined 
+list 
+(multiple 
+selection possible) 
+Y 
+N 
+N 
+Y
+EN 
+L 264/48 
+Official Journal of the European Union 
+8.10.2011
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.10.10 
+Material of pantograph contact strip the 
+vehicle may be equipped with (to be 
+indicated 
+for 
+each 
+energy 
+supply 
+system the vehicle is equipped for) 
+[Character string] for [energy supply 
+system automatically prefilled in] 
+From 
+a 
+predefined 
+list 
+(multiple 
+selection possible) 
+Y 
+Y 
+N 
+Y 
+4.10.11 
+Automatic 
+dropping 
+device 
+(ADD) 
+fitted (to be indicated for each energy 
+supply system the vehicle is equipped 
+for) 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.10.12 
+TSI conform energy meter for billing 
+purposes installed on board 
+[Boolean] Y/N 
+Y 
+Y 
+N 
+Y 
+4.11 
+Noise related characteristics 
+Heading (no data) 
+4.11.1 
+Pass-by noise level (dB(A)) 
+[Number] (dB(A)) 
+O 
+O 
+O 
+O 
+4.11.2 
+Pass-by noise level was measured under 
+reference conditions 
+[Boolean] Y/N 
+Y 
+Y 
+Y 
+Y 
+4.11.3 
+Stationary noise level (dB(A)) 
+[Number] (dB(A)) 
+O 
+O 
+O 
+O 
+4.11.4 
+Starting noise level (dB(A)) 
+[Number] (dB(A)) 
+O 
+N 
+N 
+O 
+4.12 
+Passenger related characteristics 
+Heading (no data) 
+4.12.1 
+General passenger related characteristics 
+Heading (no data) 
+4.12.1.1 
+Number of fixed seats 
+From [Number] to [Number] 
+O 
+O 
+N 
+N 
+4.12.1.2 
+Number of toilets 
+[Number] 
+O 
+O 
+N 
+N 
+4.12.1.3 
+Number of sleeping places 
+From [Number] to [Number] 
+O 
+O 
+N 
+N 
+4.12.2 
+PRM related characteristics 
+Heading (no data) 
+4.12.2.1 
+Number of priority seats 
+From [Number] to [Number] 
+Y 
+Y 
+N 
+N 
+4.12.2.2 
+Number of wheelchair spaces 
+From [Number] to [Number] 
+Y 
+Y 
+N 
+N 
+4.12.2.3 
+Number of PRM accessible toilets 
+[Number] 
+Y 
+Y 
+N 
+N 
+4.12.2.4 
+Number 
+of 
+wheelchair 
+accessible 
+sleeping places 
+From [Number] to [Number] 
+Y 
+Y 
+N 
+N 
+4.12.3 
+Passenger access and egress 
+Heading (no data) 
+4.12.3.1 
+Platform heights for which the vehicle 
+is designed. 
+[Number] from predefined list (multiple 
+selection possible) 
+Y 
+Y 
+N 
+N 
+4.12.3.2 
+Description of any integrated boarding 
+aids (if provided) 
+[Character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) 
+Y 
+Y 
+N 
+N
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/49
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.12.3.3 
+Description of any portable boarding 
+aids if considered in the design of the 
+vehicle for meeting the PRM TSI 
+requirements 
+[Character string] Selection from a 
+predefined 
+list 
+(multiple 
+selection 
+possible) 
+Y 
+Y 
+N 
+N 
+4.13 
+On-board CCS equipment (for vehicles 
+with a driving cab only) 
+Heading (no data) 
+4.13.1 
+Signalling 
+Heading (no data) 
+4.13.1.1 
+ETCS equipment on-board and its level 
+[Character string] From a predefined list 
+Y 
+Y 
+Y 
+Y 
+4.13.1.2 
+ETCS baseline.version (x.y). If the 
+version is not fully compatible it shall 
+be indicated in brackets 
+[Character string] From a predefined list 
+Y 
+Y 
+Y 
+Y 
+4.13.1.3 
+ETCS 
+on-board 
+equipment 
+for 
+reception of infill-function information 
+via loop or GSM-R 
+[Character string] From a predefined list 
+(more than one option possible) 
+Y 
+Y 
+Y 
+Y 
+4.13.1.4 
+ETCS 
+national 
+applications 
+imple­
+mented (NID_XUSER of Packet 44) 
+[Number] 
+From 
+a 
+predefined 
+list 
+according 
+to 
+the 
+List 
+of 
+ETCS 
+Variables 
+(more 
+than 
+one 
+option 
+possible) 
+Y 
+Y 
+Y 
+Y 
+4.13.1.5 
+Class B or other train protection, 
+control and warning systems installed 
+(system and, if applicable, version) 
+[Character string] From a predefined list 
+(more than one option possible) 
+Y 
+Y 
+Y 
+Y 
+4.13.1.6 
+Special conditions implemented on- 
+board 
+to 
+switch 
+over 
+between 
+different train protection, control and 
+warning systems. 
+[Character string] From combination of 
+systems installed on board (‘System 
+XX’/‘System 
+YY’) 
+(more 
+than 
+one 
+option possible) 
+Y 
+Y 
+Y 
+Y 
+4.13.2 
+Radio 
+Heading (no data) 
+4.13.2.1 
+GSM-R equipment on board and its 
+version (FRS and SRS) 
+[Character string] From a predefined list 
+Y 
+Y 
+Y 
+Y 
+4.13.2.2 
+Number of GSM-R mobile sets in 
+driving cab for data transmission 
+[Number]: 0, 1, 2 or 3 
+Y 
+Y 
+Y 
+Y 
+4.13.2.3 
+Class B or other radio systems installed 
+(system and, if applicable, version) 
+[Character string] From a predefined list 
+(more than one option possible) 
+Y 
+Y 
+Y 
+Y 
+4.13.2.4 
+Special conditions implemented on- 
+board 
+to 
+switch 
+over 
+between 
+different radio systems. 
+[Character string] From combination of 
+systems installed on board (‘System 
+XX’/‘System 
+YY’) 
+(more 
+than 
+one 
+option possible) 
+Y 
+Y 
+Y 
+Y
+EN 
+L 264/50 
+Official Journal of the European Union 
+8.10.2011
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.14 
+Compatibility 
+with 
+train 
+detection 
+systems 
+Heading (no data) 
+4.14.1 
+Type of train detection systems for 
+which the vehicle has been designed 
+and assessed 
+[Character string] From a predefined list 
+(more than one option possible) 
+Y 
+Y 
+Y 
+Y 
+4.14.2 
+Detailed vehicle characteristics related 
+to compatibility with train detection 
+systems 
+Heading (no data) 
+Y 
+Y 
+Y 
+Y 
+4.14.2.1 
+Maximum distance between consecutive 
+axles 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.2 
+Minimum distance between consecutive 
+axles 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.3 
+Distance between the first and the last 
+axle 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.4 
+Maximum length of the vehicle nose 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.5 
+Minimum wheel rim width 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.6 
+Minimum wheel diameter 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.7 
+Minimum flange thickness 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.8 
+Minimum flange height 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.9 
+Maximum flange height 
+[Number] mm 
+Y 
+Y 
+Y 
+Y 
+4.14.2.10 
+Minimum axle load 
+[Number] t 
+Y 
+Y 
+Y 
+Y 
+4.14.2.11 
+Metal and inductive components-free 
+space between wheels 
+Open point 
+OP 
+OP 
+OP 
+OP 
+4.14.2.12 
+Wheel material is ferromagnetic 
+[Boolean] Y/N 
+Y 
+Y 
+Y 
+Y 
+4.14.2.13 
+Maximum sanding output 
+[Number] g per [Number] s 
+Y 
+N 
+N 
+Y 
+4.14.2.14 
+Possibility of preventing the use of 
+sanding 
+Y/N 
+Y 
+N 
+N 
+Y 
+4.14.2.15 
+Vehicle metal mass 
+Open point 
+OP 
+OP 
+OP 
+OP 
+4.14.2.16 
+Maximum impedance between opposite 
+wheels of a wheelset 
+[Number] Ω 
+Y 
+Y 
+Y 
+Y 
+4.14.2.17 
+Minimum vehicle impedance (between 
+wheels and pantograph) (only for 
+vehicles equipped for 
+1 500 V 
+or 
+3 000 V DC) 
+[Number] Ω for [Number] Hz (more 
+than one line is possible) 
+Y 
+N 
+N 
+Y
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/51
+Parameter 
+Data format 
+Applicability to vehicle 
+categories (Yes, No, 
+Optional, Open Point)
+ 
+1. Traction vehicles 
+2. Hauled passenger vehicles 
+3. Freight wagons 
+4. Special vehicles
+ 
+4.14.2.18 
+Electromagnetic interferences caused by 
+return current in the rails 
+Open point 
+OP 
+OP 
+OP 
+OP 
+4.14.2.19 
+Electromagnetic emission of the train 
+with respect to compatibility with 
+train detection systems 
+Open point 
+OP 
+OP 
+OP 
+OP 
+Notes: 
+1. Where a parameter is defined in the applicable TSI, the value indicated for the parameter shall be the one assessed in 
+the verification procedure. 
+2. Predefined lists shall be maintained and kept updated by the Agency in accordance with the TSIs in force, including 
+the TSIs that may be applied during a transitional period. 
+3. For parameters indicated as ‘open point’ no data shall be introduced until the ‘open point’ is not closed in the relevant 
+TSI. 
+4. For parameters indicated as ‘optional’, indication of data shall be subject to the decision of the applicant for the type 
+authorisation. 
+5. Fields 0.1-0.3 shall be filled in by the Agency.
+EN 
+L 264/52 
+Official Journal of the European Union 
+8.10.2011
+ANNEX III 
+STRUCTURE OF TYPE NUMBER 
+Each type of vehicle shall receive a number consisting of 10 digits with the following structure: 
+X X 
+X X X 
+X X X X 
+X 
+Category 
+— 
+Family 
+(Platform) 
+Incrementa 
+number 
+Check digit 
+Subcategory 
+|ﬄﬄﬄﬄﬄﬄﬄﬄﬄ{zﬄﬄﬄﬄﬄﬄﬄﬄﬄ} |ﬄﬄﬄﬄﬄﬄﬄﬄ{zﬄﬄﬄﬄﬄﬄﬄﬄ} |ﬄﬄﬄﬄﬄﬄﬄﬄﬄﬄﬄ{zﬄﬄﬄﬄﬄﬄﬄﬄﬄﬄﬄ} |ﬄﬄﬄﬄﬄﬄﬄﬄﬄ{zﬄﬄﬄﬄﬄﬄﬄﬄﬄ} 
+Field 1 
+Field 2 
+Field 3 
+Field 4 
+Where: 
+Field 1 (digits 1 and 2) is assigned according to category and subcategory of the vehicle type in accordance with the 
+following table: 
+Code 
+Category 
+Subcategory 
+11 
+Traction vehicles 
+Locomotive 
+12 
+Reserved 
+13 
+Self-propelled passenger trainset (incl. railbuses) 
+14 
+Reserved 
+15 
+Self-propelled freight trainset 
+16 
+Reserved 
+17 
+Shunter 
+18 
+Reserved 
+19 
+Other (tramways, light rail vehicles, etc.) 
+31 
+Hauled passenger vehicles 
+Passenger coach (incl. sleeping cars, restaurant, etc.) 
+32 
+Reserved 
+33 
+Van 
+34 
+Reserved 
+35 
+Car carrier 
+36 
+Reserved 
+37 
+Vehicle for services (e.g. kitchen) 
+38 
+Reserved 
+39 
+Fixed rake of coaches 
+40 
+Reserved 
+41 
+Other 
+42-49 
+Reserved
+EN 
+8.10.2011 
+Official Journal of the European Union 
+L 264/53
+Code 
+Category 
+Subcategory 
+51 
+Freight wagons (hauled) 
+Freight wagon 
+52 
+Reserved 
+53 
+Fixed rake of freight wagons 
+54-59 
+Reserved 
+71 
+Special vehicles 
+Self-propelled special vehicle 
+72 
+Reserved 
+73 
+Hauled special vehicle 
+74-79 
+Reserved 
+Field 2 (digits from 3 to 5) is assigned according to the family to which the type of vehicle belongs. For new families (i.e. 
+families not yet registered in ERATV) digits are progressively incremented by one unit each time an application for 
+registration of a vehicle type belonging to a new family is received by the Agency. 
+Field 3 (digits from 6 to 9) is a progressive number incremented by one unit each time an application for registration of a 
+vehicle type belonging to a given family is received by the Agency. 
+Field 4 (digit 10) is a check digit determined in the following manner (Luhn algorithm or modulus 10): 
+— the digits in the even positions of the basic number (fields from 1 to 9 counting from the right) are taken at their 
+own decimal value, 
+— the digits in the odd positions of the basic number (counting from the right) are multiplied by 2, 
+— the sum formed by the digits in even position and by all the digits which constitute the partial products obtained 
+from the odd positions is then established, 
+— the units digit of this sum is retained, 
+— the complement required to bring the units digit to 10 forms the check-digit; should this units digit be nought, then 
+the check-digit will also be nought. 
+Examples of determining the check digit: 
+1 — Let the basic number be 
+3 
+3 
+8 
+4 
+4 
+7 
+9 
+6 
+1 
+Multiplication factor 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+6 
+3 
+16 
+4 
+8 
+7 
+18 
+6 
+2 
+Sum: 6 + 3 + 1 + 6 + 4 + 8 + 7 + 1 + 8 + 6 + 2 = 52 
+The units digit of this sum is 2. 
+The check-digit number will therefore be 8 and the basic number thus becomes the registration number 
+33 844 7961 — 8. 
+2 — Let the basic number be 
+3 
+1 
+5 
+1 
+3 
+3 
+2 
+0 
+4 
+Multiplication factor 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+6 
+1 
+10 
+1 
+6 
+3 
+4 
+0 
+8 
+Sum: 6 + 1 + 1 + 0 + 1 + 6 + 3 + 4 + 0 + 8 = 30 
+The units digit of this sum is 0. 
+The check-digit number will therefore be 0 and the basic number thus becomes the registration number 
+31 513 3204 — 0. 
+If the type examination certificate or design examination certificate covers more than one version of the vehicle type, each 
+of these versions shall be identified by an incremental three-digit number.
+EN 
+L 264/54 
+Official Journal of the European Union 
+8.10.2011

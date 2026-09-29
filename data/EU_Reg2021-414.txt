@@ -1,0 +1,1420 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/414 
+of 8 March 2021 
+on technical arrangements for developing, maintaining and employing electronic systems for the 
+exchange and storage of information under Regulation (EU) No 952/2013 of the European 
+Parliament and of the Council 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Articles 8(1)(b) and 17 thereof, 
+Whereas: 
+(1) 
+Article 6(1) of Regulation (EU) No 952/2013 (‘the Code’) requires that all exchanges of information, such as 
+declarations, applications or decisions, between customs authorities of the Member States and between economic 
+operators and customs authorities of the Member States, and the storage of that information, as required under the 
+customs legislation, be made by using electronic data-processing techniques. 
+(2) 
+Commission Implementing Decision (EU) 2019/2151 (2) establishes the Work Programme for the implementation 
+of the electronic systems required for the application of the Code, which are to be developed through projects listed 
+in section II of the Annex to that Implementing Decision. 
+(3) 
+Important technical arrangements for the functioning of the electronic systems should be specified, such as 
+arrangements for development, testing and deployment as well as for maintenance and for changes to be introduced 
+in the electronic systems. Further arrangements should be specified concerning data protection, updating of data, 
+limitation of data processing and systems ownership and security. 
+(4) 
+In order to safeguard the rights and interests of the Union, Member States and economic operators, it is important to 
+lay down the procedural rules and provide for alternative solutions to be implemented in the event of a temporary 
+failure of the electronic systems. 
+(5) 
+The EU Customs Trader Portal, as initially developed through the UCC Authorised Economic Operator (AEO), 
+European Binding Tariff Information (EBTI) and Information Sheets (INF) for Special Procedures project (INF SP) 
+projects, aims at providing a unique access point for economic operators and other persons, and to access each of 
+the Specific Trader Portals, developed for their related systems. 
+(6) 
+The Customs Decisions system, developed through the UCC Customs Decisions project referred to in Implementing 
+Decision (EU) 2019/2151, pursues the objective of harmonising the processes for the application for a customs 
+decision, for the decision taking and the decision management in the whole of the Union using only electronic data- 
+processing techniques. It is therefore necessary to lay down the rules governing that electronic system. The scope of 
+the system should be determined by reference to the customs decisions which are to be applied for, taken and 
+managed using that system. Detailed rules should be set out for the system’s common components (EU trader 
+portal, central customs decisions management system and customer reference services) and national components 
+(national trader portal and national customs decisions management system), by specifying their functions and their 
+interconnections. 
+(1) OJ L 269, 10.10.2013, p. 1.
+(2) Commission Implementing Decision (EU) 2019/2151 of 13 December 2019 establishing the work programme relating to the 
+development and deployment of the electronic systems provided for in the Union Customs Code (OJ L 325, 16.12.2019, p. 168).
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/37   
+(7) 
+The Uniform User Management and Digital Signature system, developed through the Direct Trader Access to the 
+European Information Systems (Uniform User Management & Digital Signature) project referred to in Implementing 
+Decision (EU) 2019/2151, is to manage the authentication and access verification process for economic operators 
+and other persons. Detailed rules need to be set out regarding the scope and characteristics of the system by 
+defining the different components (common and national components) of the system, their functions and 
+interconnections. However, the 'Digital Signature' functionality is not yet available as part of the Uniform User 
+Management and Digital Signature system. No detailed rules could therefore be laid down regarding that 
+functionality in this Regulation. 
+(8) 
+The European Binding Tariff Information (EBTI) system, as upgraded through the UCC Binding Tariff Information 
+(BTI) project referred to in Implementing Decision (EU) 2019/2151, is aimed at aligning the processes for applying 
+for, taking and managing BTI decisions with the requirements of the Code using only electronic data-processing 
+techniques. It is therefore necessary to lay down rules governing that system. Detailed rules should be laid down for 
+the system’s common components (EU trader portal, central EBTI system and BTI usage monitoring) and national 
+components (national trader portal and national BTI system), by specifying their functions and interconnections. 
+Moreover, the project aims to facilitate the monitoring of compulsory BTI usage and the monitoring and 
+management of BTI extended usage. 
+(9) 
+The Economic Operator Registration and Identification (EORI) system, as upgraded through the UCC Economic 
+Operator Registration and Identification system (EORI 2) project referred to in Implementing Decision (EU) 
+2019/2151, is aimed at upgrading the existing trans-European EORI system, which enables the registration and 
+identification of economic operators of the Union and of third country economic operators and other persons for 
+the purposes of applying the customs legislation of the Union. It is therefore necessary to lay down rules governing 
+the system by specifying the components (central EORI system and national EORI systems) and the use of the EORI 
+system. 
+(10) 
+The Authorised Economic Operator (AEO) system, as upgraded through the UCC Authorised Economic Operator 
+(AEO) project referred to in Implementing Decision (EU) 2019/2151, is aimed at improving the business processes 
+relating to AEO applications and authorisations and their management. The system is also aimed at implementing 
+the electronic form to be used for AEO applications and decisions, and providing economic operators with an EU 
+Customs Trader Portal through which to submit AEO applications and receive AEO decisions electronically. 
+Detailed rules should be laid down for the system’s common components. 
+(11) 
+The Import Control System 2 (ICS2), as developed through the ICS2 project referred to in Implementing Decision 
+(EU) 2019/2151 is aimed at strengthening safety and security of goods entering the Union. The system supports the 
+collection of entry summary declaration (ENS) data from different economic operators and other persons acting in 
+the international supply chains for goods. It is aimed at supporting all exchanges of information related to 
+fulfilment of the ENS requirements between the customs authorities of the Member States and economic operators 
+and other persons through a Harmonised Trader Interface developed either as a common or as a national 
+application. It is also aimed at supporting via a common repository and related processes, the real-time 
+collaborative implementation of security and safety risk analysis by the customs offices of first entry and exchange 
+of risk analysis results among the customs authorities of the Member States, prior to goods departure from third 
+countries and/or prior to their arrival in the customs territory of the Union. The system supports customs measures 
+to address safety and security risks identified following risk analysis, including customs controls and the exchange of 
+results of controls, and, where relevant, notifications to economic operators and other persons regarding certain 
+measures which they need to take to mitigate risks. The system supports monitoring and evaluation by the 
+Commission and Member States’ customs authorities of the implementation of the common safety and security risk 
+criteria and standards and of the control measures and priority control areas referred to in the Code. 
+(12) 
+The Automated Export System, as upgraded through the UCC Automated Export System (AES) project referred to in 
+Implementing Decision (EU) 2019/2151, is aimed at upgrading the existing Export Control System to be aligned 
+with the new business and data requirements laid down in the Code. The system is also aimed at offering all the 
+required functionalities and at covering the necessary interfaces with supporting systems, namely the New 
+EN
+Official Journal of the European Union 
+L 81/38                                                                                                                                             
+9.3.2021   
+Computerised Transit System and the Excise Movement Control System. In addition, AES supports the 
+implementation of the centralised clearance at export functionalities. As AES is a decentralised trans-European 
+system, it is necessary to lay down rules by specifying the components and the use of the system. 
+(13) 
+The New Computerised Transit System, as upgraded through the UCC New Computerised Transit System (NCTS) 
+project referred to in Implementing Decision (EU) 2019/2151, is aimed at upgrading the existing NCTS Phase 4 to 
+be aligned with the new business and data requirements laid down in the Code. The system is also aimed at offering 
+new functionalities referred to in the Code and at covering the necessary interfaces with supporting systems and 
+AES. As NCTS is a decentralised trans-European system, it is necessary to lay down rules by specifying the 
+components and the use of the system. 
+(14) 
+The INF SP system, developed through the UCC Information Sheets (INF) for Special Procedures project referred to in 
+Implementing Decision (EU) 2019/2151, aims at developing a new trans-European system to support and 
+streamline the processes of INF data management and the electronic handling of INF data in the domain of Special 
+Procedures. Detailed rules should be laid down to specify the system’s components and its usage. 
+(15) 
+The customs risk management system referred to in Article 36 of Commission Implementing Regulation (EU) 
+2015/2447 (3) aims at supporting the exchange of risk information between Member States’ customs authorities 
+and between them and the Commission with a view to supporting the implementation of the common risk 
+management framework. 
+(16) 
+The Centralised Clearance for Import system, as developed through UCC Centralised Clearance for Import (CCI) 
+project referred to in Implementing Decision (EU) 2019/2151 aims at allowing for goods to be placed under a 
+customs procedure using centralised clearance, thereby allowing economic operators to centralise their business 
+from a customs viewpoint. The processing of the customs declaration and the physical release of the goods should 
+be coordinated between the customs offices involved. As CCI is a decentralised trans-European system, it is 
+necessary to lay down rules by specifying the components and the use of the system. 
+(17) 
+Commission Implementing Regulation (EU) 2019/1026 (4) sets out technical arrangements for developing, 
+maintaining and employing electronic systems for the exchange of information and for the storage of such 
+information under the Code. Given the number of changes to that Regulation that would be necessary in order to 
+take account of the fact that EUCTP, INF SP, ICS2, AES, NCTS, CRMS and CCI have now or will become operational, 
+and for reasons of clarity, Implementing Regulation (EU) 2019/1026 should be repealed. 
+(18) 
+This Regulation respects the fundamental rights and observes the principles recognised by the Charter of 
+Fundamental Rights of the European Union, and notably the right to protection of personal data. Where for the 
+purposes of the application of the customs legislation of the Union it is necessary to process personal data in the 
+electronic systems, those data must be processed in accordance with Regulations (EU) 2016/679 (5) and (EU) 
+2018/1725 of the European Parliament and of the Council (6). The personal data of economic operators and other 
+(3) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain 
+provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ 
+L 343, 29.12.2015, p. 558).
+(4) Commission Implementing Regulation (EU) 2019/1026 of 21 June 2019 on technical arrangements for developing, maintaining and 
+employing electronic systems for the exchange of information and for the storage of such information under the Union Customs Code 
+(OJ L 167, 24.6.2019, p. 3).
+(5) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with 
+regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data 
+Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+(6) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons 
+with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of 
+such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/39   
+persons processed by the electronic systems are restricted to the dataset as defined in Annex A, Title I, Chapter 1, 
+Group 3 – Parties; Annex A, Title I, Chapter 2, Group 3 – Parties; Annex B, Title I, Chapter 3, Group 3 – Parties; 
+Annex B, Title II, Group 3 – Parties; and Annex 12-01 to Commission Delegated Regulation (EU) 2015/2446 (7). 
+(19) 
+The European Data Protection Supervisor was consulted in accordance with Article 42 of Regulation (EU) 
+2018/1725. 
+(20) 
+The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, 
+HAS ADOPTED THIS REGULATION: 
+CHAPTER I 
+GENERAL PROVISIONS 
+Article 1 
+Scope 
+1.
+This Regulation shall apply to the following electronic systems as developed or upgraded through the following 
+projects referred to in the Annex to Implementing Decision (EU) 2019/2151: 
+(a) the Customs Decisions system (CDS), as developed through the UCC Customs Decisions project; 
+(b) the Uniform User Management and Digital Signature (UUM&DS) system, as developed through the Direct trader access 
+to the European Information Systems (Uniform User Management & Digital Signature) project; 
+(c) the European Binding Tariff Information (EBTI) system, as upgraded through the UCC Binding Tariff Information (BTI) 
+project; 
+(d) the Economic Operator Registration and Identification (EORI) system, as upgraded in line with the requirements of 
+Regulation (EU) No 952/2013 ('the Code') through the EORI 2 project; 
+(e) the Authorised Economic Operator (AEO) system, as upgraded in line with the requirements of the Code through the 
+AEO upgrade project; 
+(f) the Import Control System 2 (ICS2), as developed through the ICS2 project; 
+(g) the Automated Export System (AES), as developed in line with the requirements of the Code through the AES project; 
+(h) the New Computerised Transit System (NCTS), as upgraded in line with the requirements of the Code through the 
+NCTS upgrade project; 
+(7) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European 
+Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 
+29.12.2015, p. 1).
+EN
+Official Journal of the European Union 
+L 81/40                                                                                                                                             
+9.3.2021   
+(i) the INF SP system, as developed through the UCC Information Sheets (INF) for Special Procedures project; 
+(j) the Centralised Clearance for Import System (CCI), as developed through the UCC CCI project. 
+2.
+This Regulation shall also apply to the following electronic systems: 
+(a) the European Union Customs Trader Portal; 
+(b) the customs risk management system (CRMS) referred to in Article 36 of Implementing Regulation (EU) 2015/2447. 
+Article 2 
+Definitions 
+For the purposes of this Regulation, the following definitions shall apply: 
+(1) ‘common component’ means a component of the electronic systems developed at Union level, which is available for all 
+Member States or identified as common by the Commission for reasons of efficiency, security and rationalisation; 
+(2) ‘national component’ means a component of the electronic systems developed at national level, which is available in 
+the Member State that created such component or contributed to its joint creation; 
+(3) ‘decentralised system’ means a trans-European system consisting of common and national components based on 
+common specifications; 
+(4) ‘trans-European system’ means a collection of collaborating systems with responsibilities distributed across the national 
+administrations and the Commission, and developed in cooperation with the Commission. 
+Article 3 
+Contact points for the electronic systems 
+The Commission and the Member States shall designate contact points for each of the electronic systems referred to in 
+Article 1, for the purposes of exchanging information to ensure a coordinated development, operation and maintenance of 
+those electronic systems. 
+They shall communicate the details of those contact points to each other and inform each other immediately of any changes 
+to those details. 
+CHAPTER II 
+EU CUSTOMS TRADER PORTAL 
+Article 4 
+Objective and structure of the EU Customs Trader Portal 
+The EU Customs Trader Portal shall provide a unique entry point for economic operators and other persons to access the 
+Specific Trader Portals of the trans-European systems referred to in Article 6(1). 
+Article 5 
+Authentication and access to the EU Customs Trader Portal 
+1.
+The authentication and access verification of economic operators and other persons for the purposes of access to the 
+EU Customs trader portal (EUCTP) shall be effected using the UUM&DS system. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/41   
+For customs representatives to be authenticated and be able to access the EUCTP, their empowerment to act in that capacity 
+shall be registered in the UUM&DS system or in an identity and access management system set up by a Member State 
+pursuant to Article 20. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+EUCTP shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the EUCTP shall be 
+effected using the UUM&DS system or the network services provided by the Commission. 
+Article 6 
+Use of the EUCTP 
+1.
+The EUCTP shall provide access to the Specific Trader Portals of the trans-Europeans systems EBTI, AEO, and INF 
+referred to in Article 24, Article 38 and Article 67, respectively, as well as to the Shared Trader Interface for ICS2 referred 
+to in Article 45. 
+2.
+The EUCTP shall be used for the exchange of information between customs authorities of the Member States and 
+economic operators and other persons, on the requests, applications, authorisations and decisions related to EBTI, AEO, 
+and INF. 
+3.
+The EUCTP may be used for the exchange of information between customs authorities of the Member States and 
+economic operators and other persons, on entry summary declarations and where applicable, on their amendments, 
+issued referrals and invalidation related to ICS2. 
+CHAPTER III 
+CUSTOMS DECISIONS SYSTEM 
+Article 7 
+Objective and structure of the CDS 
+1.
+The CDS shall enable communication between the Commission, customs authorities of the Member States, economic 
+operators and other persons for the purposes of submitting and processing applications and decisions referred to in Article 
+8(1), as well as the management of decisions related to the authorisations, namely, amendments, revocations, annulments 
+and suspensions. 
+2.
+The CDS shall consist of the following common components: 
+(a) an EU trader portal; 
+(b) a central customs decisions management system ('central CDMS'); 
+(c) customer reference services (CRS). 
+3.
+Member States may create the following national components: 
+(a) a national trader portal; 
+(b) a national customs decisions management system ('national CDMS'). 
+Article 8 
+Use of the CDS 
+1.
+The CDS shall be used for the purposes of submitting and processing applications for the following authorisations, as 
+well as the management of decisions related to the applications or authorisations: 
+(a) authorisation for the simplification of the determination of amounts being part of the customs value of the goods, as 
+referred to in Article 73 of the Code; 
+EN
+Official Journal of the European Union 
+L 81/42                                                                                                                                             
+9.3.2021   
+(b) authorisation for the provision of a comprehensive guarantee, including possible reduction or waiver, as referred to in 
+Article 95 of the Code; 
+(c) authorisation of deferment of the payment of the duty payable, as far as the permission is not granted in relation to a 
+single operation, as referred to in Article 110 of the Code; 
+(d) authorisation for the operation of temporary storage facilities, as referred to in Article 148 of the Code; 
+(e) authorisation to establish regular shipping services, as referred to in Article 120 of Delegated Regulation (EU) 
+2015/2446; 
+(f) 
+authorisation for the status of authorised issuer, as referred to in Article 128 of Delegated Regulation (EU) 2015/2446; 
+(g) authorisation for the regular use of a simplified declaration, as referred to in Article 166(2) of the Code; 
+(h) authorisation for centralised clearance, as referred to in Article 179 of the Code; 
+(i) 
+authorisation to lodge a customs declaration through an entry of data in the declarant’s records, including for the 
+export procedure, as referred to in Article 182 of the Code; 
+(j) 
+authorisation for self-assessment, as referred to in Article 185 of the Code; 
+(k) authorisation for the status of an authorised weigher of bananas, as referred to in Article 155 of Delegated Regulation 
+(EU) 2015/2446; 
+(l) 
+authorisation for the use of the inward processing procedure, as referred to in Article 211(1)(a) of the Code; 
+(m) authorisation for the use of the outward processing procedure, as referred to in Article 211(1)(a) of the Code; 
+(n) authorisation for the use of the end-use procedure, as referred to in Article 211(1)(a) of the Code; 
+(o) authorisation for the use of the temporary admission procedure, as referred to in Article 211(1)(a) of the Code; 
+(p) authorisation for the operation of storage facilities for customs warehousing of goods, as referred to in Article 
+211(1)(b) of the Code; 
+(q) authorisation for the status of an authorised consignee for TIR operation, as referred to in Article 230 of the Code; 
+(r) 
+authorisation for the status of an authorised consignor for Union transit, as referred to in Article 233(4)(a) of the Code; 
+(s) 
+authorisation for the status of an authorised consignee for Union transit, as referred to in Article 233(4)(b) of the 
+Code; 
+(t) 
+authorisation for the use of seals of a special type, as referred to in Article 233(4)(c) of the Code; 
+(u) authorisation to use a transit declaration with reduced data requirements, as referred to in Article 233(4)(d) of the 
+Code; 
+(v) authorisation for the use of an electronic transport document as a customs declaration, as referred to in Article 
+233(4)(e) of the Code. 
+2.
+The common components of the CDS shall be used with respect to applications and authorisations referred to in 
+paragraph 1, as well as the management of decisions related to those applications and authorisations, where those 
+authorisations or decisions may have an impact in more than one Member State. 
+3.
+A Member State may decide that the common components of the CDS may be used with respect to applications and 
+authorisations referred to in paragraph 1, as well as the management of decisions related to those applications and 
+authorisations, where those authorisations or decisions have an impact only in that Member State. 
+4.
+The CDS shall not be used with respect to applications, authorisations or decisions other than those listed in 
+paragraph 1. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/43   
+Article 9 
+Authentication and access to the CDS 
+1.
+The authentication and access verification of economic operators and other persons for the purposes of access to the 
+common components of the CDS shall be effected using the UUM&DS system. 
+For customs representatives to be authenticated and be able to access the common components of the CDS, their 
+empowerment to act in that capacity shall be registered in the UUM&DS system or in an identity and access management 
+system set up by a Member State pursuant to Article 20. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the CDS shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the CDS shall be effected using the UUM&DS system or the network services provided by the Commission. 
+Article 10 
+EU trader portal 
+1.
+The EU trader portal shall be an entry point to the CDS for economic operators and other persons. 
+2.
+The EU trader portal shall interoperate with the central CDMS as well as with national CDMS where created by 
+Member States. 
+3.
+The EU trader portal shall be used for applications and authorisations referred to in Article 8(1), as well as the 
+management of decisions related to those applications and authorisations, where those authorisations or decisions may 
+have an impact in more than one Member State. 
+4.
+A Member State may decide that the EU trader portal may be used for applications and authorisations referred to in 
+Article 8(1), as well as the management of decisions related to those applications and authorisations, where those 
+authorisations or decisions have an impact only in that Member State. 
+Where a Member State takes a decision to use the EU trader portal for authorisations or decisions that have an impact only 
+in that Member State, it shall inform the Commission thereof. 
+Article 11 
+Central CDMS 
+1.
+The central CDMS shall be used by the customs authorities of the Member States for the processing of the 
+applications and authorisations referred to in Article 8(1), as well as the management of decisions related to those 
+applications and authorisations for the purposes of verifying whether the conditions for the acceptance of an application 
+and for taking a decision are fulfilled. 
+2.
+The central CDMS shall interoperate with the EU trader portal, the customer reference services referred to in 
+Article 13, and the national CDMS, where created by the Member States. 
+Article 12 
+Consultation between the customs authorities of the Member States using the CDMS 
+A customs authority of a Member State shall use the central CDMS when it needs to consult a customs authority of another 
+Member State before taking a decision regarding the applications or authorisations referred to in Article 8(1). 
+EN
+Official Journal of the European Union 
+L 81/44                                                                                                                                             
+9.3.2021   
+Article 13 
+Customer reference services 
+1.
+The customer reference services shall be used for the central storage of data relating to the authorisations referred to 
+in Article 8(1), as well as decisions related to those authorisations, and shall enable the consultation, replication and 
+validation of those authorisations by other electronic systems established for the purposes of Article 16 of the Code. 
+2.
+The customer reference services shall be used to store data from Registered Exporter (REX) referred to in Article 80(1) 
+of Implementing Regulation (EU) 2015/2447, EORI and AEO systems. 
+Article 14 
+National trader portal 
+1.
+The national trader portal, where created, shall be an additional entry point to the CDS for economic operators and 
+other persons. 
+2.
+With respect to applications and authorisations referred to in Article 8(1), as well as the management of decisions 
+related to those applications and authorisations where those authorisations or decisions may have an impact in more than 
+one Member State, economic operators and other persons may choose to use the national trader portal, where created, or 
+the EU trader portal. 
+3.
+The national trader portal shall interoperate with the national CDMS, where created. 
+4.
+Where a Member State creates a national trader portal, it shall inform the Commission thereof. 
+Article 15 
+National CDMS 
+1.
+A national CDMS, where created, shall be used by the customs authority of the Member State which created it for 
+processing the applications and authorisations referred to in Article 8(1), as well as the management of decisions related to 
+those applications and authorisations for the purposes of verifying whether the conditions for the acceptance of an 
+application and for taking a decision are fulfilled. 
+2.
+The national CDMS shall interoperate with the central CDMS for the purposes of consultation between the customs 
+authorities of the Member States as referred to in Article 12. 
+CHAPTER IV 
+UNIFORM USER MANAGEMENT AND DIGITAL SIGNATURE SYSTEM 
+Article 16 
+Objective and structure of the UUM&DS system 
+1.
+The UUM&DS system shall enable the communication between the Commission and the Member States’ identity and 
+access management systems referred to in Article 20 for the purposes of providing secure authorised access to the 
+electronic systems to the Commission’s staff, economic operators and other persons. 
+2.
+The UUM&DS system shall consist of the following common components: 
+(a) an access management system; 
+(b) an administration management system. 
+3.
+A Member State shall create an identity and access management system as a national component of the UUM&DS 
+system. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/45   
+Article 17 
+Use of the UUM&DS system 
+The UUM&DS system shall be used to ensure the authentication and access verification of: 
+(a) economic operators and other persons for the purposes of having access to the EUCTP, the common components of 
+the CDS, the EBTI system, the AEO system, the INF SP system and ICS2; 
+(b) the Commission’s staff for the purposes of having access to the EUCTP, the common components of the CDS, the EBTI 
+system, the EORI system, AEO system, ICS2, AES, NCTS, CRMS, CCI and INF SP system for the purposes of 
+maintenance and management of the UUM&DS system. 
+Article 18 
+Access management system 
+The Commission shall set up the access management system to validate the access requests submitted by economic 
+operators and other persons within the UUM&DS system by interoperating with the Member States’ identity and access 
+management systems referred to in Article 20. 
+Article 19 
+Administration management system 
+The Commission shall set up the administration management system to manage the authentication and authorisation rules 
+for validating the identification data of economic operators and other persons for the purposes of allowing access to the 
+electronic systems. 
+Article 20 
+Member States’ identity and access management systems 
+The Member States shall set up an identity and access management system to ensure: 
+(a) a secure registration and storage of identification data of economic operators and other persons; 
+(b) a secure exchange of signed and encrypted identification data of economic operators and other persons. 
+CHAPTER V 
+EUROPEAN BINDING TARIFF INFORMATION SYSTEM 
+Article 21 
+Objective and structure of the EBTI system 
+1.
+The EBTI system shall in accordance with Articles 33 and 34 of the Code, enable the following: 
+(a) communication between the Commission, customs authorities of the Member States, economic operators and other 
+persons for the purposes of submitting and processing BTI applications and BTI decisions; 
+(b) the management of any subsequent event which may affect the original application or decision; 
+(c) the monitoring of the compulsory use of BTI decisions; 
+(d) the monitoring and management of the extended use of BTI decisions. 
+2.
+The EBTI system shall consist of the following common components: 
+(a) an EU Specific Trader Portal for EBTI; 
+(b) a central EBTI system; 
+(c) capability to monitor the usage of BTI decisions. 
+EN
+Official Journal of the European Union 
+L 81/46                                                                                                                                             
+9.3.2021   
+3.
+Member States may create, as a national component, a national binding tariff information system ('national BTI 
+system') together with a national trader portal. 
+Article 22 
+Use of the EBTI system 
+1.
+The EBTI system shall be used for the submission, processing, exchange and storage of information pertaining to 
+applications and decisions related to BTI or to any subsequent event which may affect the original application or decision 
+as referred to in Article 21(1) of Implementing Regulation (EU) 2015/2447. 
+2.
+The EBTI system shall be used to support the monitoring by the customs authorities of the Member States of the 
+compliance with the obligations resulting from the BTI in accordance with Article 21(3) of Implementing Regulation (EU) 
+2015/2447. 
+3.
+The EBTI system shall be used by the Commission to inform the Member States, pursuant to the third subparagraph 
+of Article 22(2) of Implementing Regulation (EU) 2015/2447, as soon as the quantities of goods that may be cleared 
+during a period of extended use have been reached. 
+Article 23 
+Authentication and access to the EBTI system 
+1.
+The authentication and access verification of economic operators and other persons for the purposes of access to the 
+common components of the EBTI system shall be effected using the UUM&DS system. 
+For customs representatives to be authenticated and be able to access the common components of the EBTI system, their 
+empowerment to act in that capacity shall be registered in the UUM&DS system or in an identity and access management 
+system set up by a Member State pursuant to Article 20. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the EBTI system shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the EBTI system shall be effected using the UUM&DS system or the network services provided by the 
+Commission. 
+Article 24 
+EU Specific Trader Portal for EBTI 
+1.
+The EU Specific Trader Portal for EBTI shall communicate with the EUCTP, where the latter shall be an entry point to 
+the EBTI system for economic operators and other persons. 
+2.
+The EU Specific Trader Portal for EBTI shall interoperate with the central EBTI system and offer redirection to national 
+trader portals where national BTI systems have been created by Member States. 
+3.
+The EU Specific Trader Portal for EBTI shall be used for submitting and exchanging information pertaining to 
+applications and decisions related to BTI or to any subsequent event which may affect the original application or decision. 
+Article 25 
+Central EBTI system 
+1.
+The central EBTI system shall be used by the customs authorities of the Member States to process, exchange and store 
+information pertaining to applications and decisions related to BTI or to any subsequent event which may affect the original 
+application or decision, for the purposes of verifying whether the conditions for the acceptance of an application, and for 
+taking a decision, are fulfilled. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/47   
+2.
+The central EBTI system shall be used by the customs authorities of the Member States for the purposes of 
+consultation, processing, exchange and storage of information as referred to in Article 16(4), Article 17 and Article 
+21(2)(b) and (5) of Implementing Regulation (EU) 2015/2447. 
+3.
+The central EBTI system shall interoperate with the EU Specific Trader Portal for EBTI, and with the national BTI 
+systems, where created. 
+Article 26 
+Consultation between the customs authorities of the Member States using the central EBTI system 
+A customs authority of a Member State shall use the central EBTI system for the purposes of consulting a customs authority 
+of another Member State in order to ensure compliance with Article 16(1) of Implementing Regulation (EU) 2015/2447. 
+Article 27 
+Monitoring of the usage of BTI decisions 
+The capability to monitor the usage of BTI decisions shall be used for the purposes of Article 21(3) and of the third 
+subparagraph of Article 22(2) of Implementing Regulation (EU) 2015/2447. 
+Article 28 
+National trader portal 
+1.
+Where a Member State has created a national BTI system in accordance with Article 21(3), the national trader portal 
+shall be the main entry point to the national BTI system for economic operators and other persons. 
+2.
+Economic operators and other persons shall use the national trader portal, where created, with respect to applications 
+and decisions related to BTI or to any subsequent event which may affect the original application or decision. 
+3.
+The national trader portal shall interoperate with the national BTI system, where created. 
+4.
+The national trader portal shall facilitate processes equivalent to those facilitated by the EU Specific Trader Portal for 
+EBTI. 
+5.
+Where a Member State creates a national trader portal, it shall inform the Commission thereof. The Commission shall 
+ensure that the national trader portal can be accessed directly from the EU Specific Trader Portal for EBTI. 
+Article 29 
+National BTI system 
+1.
+A national BTI system, where created, shall be used by the customs authority of the Member State which created it to 
+process, exchange and store information pertaining to applications and decisions related to BTI or to any subsequent event 
+which may affect the original application or decision, for the purposes of verifying whether the conditions for the 
+acceptance of an application or for taking a decision are fulfilled. 
+2.
+The customs authority of a Member State shall use its national BTI system for the purposes of consultation, 
+processing, exchange and storage of information as referred to in Article 16(4), Article 17 and Article 21(2)(b) and (5) of 
+Implementing Regulation (EU) 2015/2447, unless it uses the central EBTI system for those purposes. 
+3.
+The national BTI system shall interoperate with the national trader portal and with the central EBTI system. 
+EN
+Official Journal of the European Union 
+L 81/48                                                                                                                                             
+9.3.2021   
+CHAPTER VI 
+ECONOMIC OPERATOR REGISTRATION AND IDENTIFICATION SYSTEM 
+Article 30 
+Objective and structure of the EORI system 
+The EORI system shall enable a unique registration and identification, at Union level, of economic operators and other 
+persons. 
+The EORI system shall consist of the following components: 
+(a) a central EORI system; 
+(b) national EORI systems, where created by the Member States. 
+Article 31 
+Use of the EORI system 
+1.
+The EORI system shall be used for the following purposes: 
+(a) to receive the data for the registration of economic operators and other persons as referred to in Annex 12-01 to 
+Delegated Regulation (EU) 2015/2446 (‘EORI data’) provided by the Member States; 
+(b) to centrally store EORI data pertaining to the registration and identification of economic operators and other persons; 
+(c) to make available EORI data to the Member States. 
+2.
+The EORI system shall enable, to the customs authorities of the Member States, online access to the EORI data stored 
+at central system level. 
+3.
+The EORI system shall interoperate with all the other electronic systems where the EORI number is used. 
+Article 32 
+Authentication and access to the central EORI system 
+1.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the EORI system shall be effected using the network services provided by the Commission. 
+2.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the EORI system shall be effected using the UUM&DS system or the network services provided by the 
+Commission. 
+Article 33 
+Central EORI system 
+1.
+The central EORI system shall be used by the customs authorities of the Member States for the purposes of Article 7 
+of Implementing Regulation (EU) 2015/2447. 
+2.
+The central EORI system shall interoperate with the national EORI systems, where created. 
+Article 34 
+National EORI system 
+1.
+A national EORI system, where created, shall be used by the customs authority of the Member State which created it 
+to exchange and store EORI data. 
+2.
+A national EORI system shall interoperate with the central EORI system. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/49   
+CHAPTER VII 
+AUTHORISED ECONOMIC OPERATOR SYSTEM 
+Article 35 
+Objective and structure of the AEO system 
+1.
+The AEO system shall enable communication between the Commission, customs authorities of the Member States, 
+economic operators and other persons for the purposes of submitting and processing AEO applications and granting of 
+AEO authorisations as well as the management of any subsequent event which may affect the original decision as referred 
+to in Article 30(1) of Implementing Regulation (EU) 2015/2447. 
+2.
+The AEO system shall consist of the following common components: 
+(a) an EU Specific Trader Portal for AEO; 
+(b) a central AEO system. 
+3.
+Member States may create the following national components: 
+(a) a national trader portal; 
+(b) a national Authorised Economic Operator system ('national AEO system'). 
+Article 36 
+Use of the AEO system 
+1.
+The AEO system shall be used for the submission, exchange, processing and storage of information pertaining to 
+AEO applications and decisions or to any subsequent event which may affect the original decision as referred to in Article 
+30(1) and Article 31(1) and (4) of Implementing Regulation (EU) 2015/2447. 
+2.
+Customs authorities of the Member States shall use the AEO system to fulfil their obligations under Article 31(1) 
+and (4) of Implementing Regulation (EU) 2015/2447 and to keep record of the relevant consultations. 
+Article 37 
+Authentication and access to the central AEO system 
+1.
+The authentication and access verification of economic operators and other persons for the purposes of access to the 
+common components of the AEO system shall be effected using the UUM&DS system. 
+For customs representatives to be authenticated and be able to access the common components of the AEO system, their 
+empowerment to act in that capacity shall be registered in the UUM&DS system or in an identity and access management 
+system set up by a Member State pursuant to Article 20. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the AEO system shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the AEO system shall be effected using the UUM&DS system or the network services provided by the 
+Commission. 
+Article 38 
+EU Specific Trader Portal for AEO 
+1.
+The EU Specific Trader Portal for AEO shall communicate with the EUCTP, where the latter shall be an entry point to 
+the AEO system for economic operators and other persons. 
+EN
+Official Journal of the European Union 
+L 81/50                                                                                                                                             
+9.3.2021   
+2.
+The EU Specific Trader Portal for AEO shall interoperate with the central AEO system and offer redirection to the 
+national trader portal, where created. 
+3.
+The EU Specific Trader Portal for AEO shall be used for submitting and exchanging information pertaining to AEO 
+applications and decisions or to any subsequent event which may affect the original decision. 
+Article 39 
+Central AEO system 
+1.
+The central AEO system shall be used by the customs authorities of the Member States to exchange and store 
+information pertaining to AEO applications and decisions or to any subsequent event which may affect the original 
+decision. 
+2.
+The customs authorities of the Member States shall use the central AEO system for the purposes of the exchange and 
+storage of information, consultation and the management of decisions as referred to in Articles 30 and 31 of Implementing 
+Regulation (EU) 2015/2447. 
+3.
+The central AEO system shall interoperate with the EU trader portal and with the national AEO systems, where 
+created. 
+Article 40 
+National trader portal 
+1.
+The national trader portal, where created, shall allow the exchange of information pertaining to AEO applications and 
+decisions. 
+2.
+Economic operators and other persons shall use the national trader portal, where created, to exchange information 
+with the customs authorities of the Member States with respect to AEO applications and decisions. 
+3.
+The national trader portal shall interoperate with the national AEO system. 
+Article 41 
+National AEO system 
+1.
+A national AEO system, where created, shall be used by the customs authority of the Member State which created it to 
+exchange and store information pertaining to AEO applications and decisions or to any subsequent event which may affect 
+the original decision. 
+2.
+The national AEO system shall interoperate with the national trader portal, where created, and with the central AEO 
+system. 
+CHAPTER VIII 
+IMPORT CONTROL SYSTEM 2 
+Article 42 
+Objective and structure of the ICS2 
+1.
+The ICS2 shall support communication between customs authorities of the Member States, and between economic 
+operators and other persons and the customs authorities of the Member States, for the following purposes: 
+(a) fulfilment of entry summary declaration requirements; 
+(b) risk analysis by customs authorities of the Member States primarily for security and safety purposes and for customs 
+measures aimed at mitigating relevant risks including customs controls; 
+(c) communication between customs authorities of the Member States for the purpose of fulfilment of entry summary 
+declaration requirements. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/51   
+2.
+The ICS2 shall consist of the following common components: 
+(a) a shared trader interface; 
+(b) a common repository. 
+3.
+Each Member State shall create its national entry system as a national component. 
+4.
+A Member State may create its national trader interface as a national component. 
+Article 43 
+Use of the ICS2 
+1.
+The ICS2 shall be used for the following purposes: 
+(a) submitting, processing and storing the particulars of entry summary declarations, requests for amendments and 
+invalidations referred to in Articles 127 and 129 of the Code; 
+(b) receiving, processing and storing the particulars of entry summary declarations extracted from declarations as referred 
+to in Article 130 of the Code; 
+(c) submitting, processing and storing of information regarding notifications of arrival of a sea-going vessel or an aircraft 
+as referred to in Article 133 of the Code; 
+(d) receiving, processing and storing of information regarding presentation of goods to customs as referred to in 
+Article 139 of the Code; 
+(e) receiving, processing and storing of information regarding risk analysis requests and results, control recommendations, 
+decisions on controls, and control results as referred to in Articles 46(3) and (5) and 47(2) of the Code; 
+(f) receiving, processing, storing and communicating of the notifications and information to economic operators or other 
+persons as referred to in Article 186(2)(e), (3), (4), (5) and (6) of Implementing Regulation (EU) 2015/2447 and Article 
+24(2) of Delegated Regulation (EU) 2015/2446; 
+(g) submitting, processing and storing of information by the economic operators or other persons requested by customs 
+authorities of the Member States pursuant to Article 186(3) and (4) of Implementing Regulation (EU) 2015/2447. 
+2.
+The ICS2 shall be used to support the monitoring and evaluating by the Commission and the Member States of the 
+implementation of the common safety and security risk criteria and standards and of the control measures and priority 
+control areas referred to in Article 46(3) of the Code. 
+Article 44 
+Authentication and access to the ICS2 
+1. The authentication and access verification of economic operators and other persons for the purposes of access to the 
+common components of the ICS2 shall be effected using the UUM&DS system. 
+2. The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the ICS2 shall be effected using the network services provided by the Commission. 
+3. The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the ICS2 shall be effected using the UUM&DS system or the network services provided by the 
+Commission. 
+Article 45 
+Shared trader interface 
+1.
+The shared trader interface shall be an entry point to the ICS2 for economic operators and other persons for the 
+purpose of Article 182 (1a) of Implementing Regulation (EU) 2015/2447. 
+2.
+The shared trader interface shall interoperate with the ICS2 common repository referred to in Article 46. 
+EN
+Official Journal of the European Union 
+L 81/52                                                                                                                                             
+9.3.2021   
+3.
+The shared trader interface shall be used for submissions, requests for amendments, requests for invalidations, 
+processing and storage of the particulars of the entry summary declarations and notifications of arrival, as well as 
+exchange of information between the customs authorities of the Member States and economic operators and other persons. 
+Article 46 
+ICS2 common repository 
+1.
+The ICS2 common repository shall be used by the customs authorities of the Member States for the processing of the 
+particulars of entry summary declarations, requests for amendment, requests for invalidation, notifications of arrival, 
+information regarding presentation of goods, information regarding risk analysis requests and results, control 
+recommendations, control decisions, and control results and information exchanged with economic operators or other 
+persons. 
+2.
+The ICS2 common repository shall be used by the Commission and the Member States for the purpose of statistics 
+and evaluation, and for the exchange of entry summary declaration information between Member States. 
+3.
+The ICS2 common repository shall interoperate with the shared trader interface, national trader interfaces where 
+created by the Member States, and with the national entry systems. 
+Article 47 
+Exchange of information between customs authorities of the Member States using the ICS2 common repository 
+A customs authority of a Member State shall use the ICS2 common repository to exchange information with a customs 
+authority of another Member State in accordance with Article 186(2)(a) of Implementing Regulation (EU) 2015/2447 
+before completing the risk analysis primarily for security and safety purposes. 
+A customs authority of a Member State shall also use the ICS2 common repository to exchange information with a customs 
+authority of another Member State on the recommended controls, decisions taken with regard to recommended controls 
+and on the results of customs controls in accordance with Article 186(7) and (7a) of Implementing Regulation (EU) 
+2015/2447. 
+Article 48 
+National trader interface 
+1.
+The national trader interface, where created by the Member States, shall be an entry point to the ICS2 for economic 
+operators and other persons in accordance with Article 182 (1a) of Implementing Regulation (EU) 2015/2447 where the 
+submission is addressed to the Member State operating the national trader interface. 
+2.
+With respect to submissions, amendments, invalidation, processing, storage of the particulars of the entry summary 
+declarations and notifications of arrival, as well as exchange of information between the custom authorities and economic 
+operators and other persons, economic operators and other persons may choose to use the national trader interface, where 
+created, or the shared trader interface. 
+3.
+The national trader interface, where created, shall interoperate with the ICS2 common repository. 
+4.
+Where a Member State creates a national trader interface, it shall inform the Commission thereof. 
+Article 49 
+National Entry System 
+1.
+A national entry system shall be used by the customs authority of the relevant Member State for the following 
+purposes: 
+(a) exchange of entry summary declaration particulars extracted from the declarations referred in Article 130 of the Code; 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/53   
+(b) exchange of information and notifications with the ICS2 common repository for information regarding arrival of sea- 
+going vessel or an aircraft; 
+(c) exchange of information regarding presentation of goods; 
+(d) processing of risk analysis requests, exchange and processing of information regarding risk analysis results, of control 
+recommendations, of control decisions and of control results. 
+It shall also be used in the cases where a customs authority requests further information from the economic operators and 
+other persons and receives information from them. 
+2.
+The national entry system shall interoperate with the ICS2 common repository. 
+3.
+The national entry system shall interoperate with systems developed at national level for the purpose of retrieving 
+information referred to in paragraph 1. 
+CHAPTER IX 
+AUTOMATED EXPORT SYSTEM 
+Article 50 
+Objective and structure of the AES 
+1.
+The decentralised system AES shall enable communication between customs authorities of the Member States, and 
+between customs authorities of the Member States and economic operators and other persons for the purposes of 
+submitting and processing export and re-export declarations where goods are taken out of the customs territory of the 
+Union. The AES may also enable communication between customs authorities of the Member States for the purposes of 
+transmitting the exit summary declarations particulars in the situations referred to in the second subparagraph of Article 
+271(1) of the Code. 
+2.
+The AES shall consist of the following common components: 
+(a) a common communication network; 
+(b) central services. 
+3.
+Member States shall create the following national components: 
+(a) a national trader portal; 
+(b) a national export system ('national AES'); 
+(c) a common interface between AES and NCTS at national level; 
+(d) a common interface between AES and the Excise Movement Control System (EMCS) at national level. 
+Article 51 
+Use of the AES 
+The AES shall be used for the following purposes where goods are taken out of the customs territory of the Union or 
+moved to or out of special fiscal territories: 
+(a) to ensure the implementation of formalities at export and exit determined by the Code; 
+(b) to submit and process export and re-export declarations; 
+(c) to handle message exchanges between the customs office of export and customs office of exit and, in case of Centralised 
+Clearance at Export, between the supervising customs office and customs office of presentation; 
+(d) to handle message exchanges between the customs office of lodgement and customs office of exit in the situations 
+referred to in the second subparagraph of Article 271(1) of the Code. 
+Article 52 
+Authentication and access to the AES 
+1.
+Economic operators and other persons shall have access only to the national AES via the national trader portal. The 
+authentication and access verification shall be determined by the Member States. 
+EN
+Official Journal of the European Union 
+L 81/54                                                                                                                                             
+9.3.2021   
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the AES system shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the AES system shall be effected using the UUM&DS or the network services provided by the Commission. 
+Article 53 
+Common communication network of AES 
+1.
+The common communication network shall ensure the electronic communication among Member States’ national 
+AES. 
+2.
+The customs authorities of the Member States shall use the common communication network for the exchange of 
+information as referred to in points (c) and (d) of Article 51. 
+Article 54 
+National trader portal 
+1.
+The national trader portal shall allow the exchange of information between economic operators or other persons, and 
+the national AES of the customs authority of the Member States. 
+2.
+The national trader portal shall interoperate with the national AES. 
+Article 55 
+National Export System 
+1.
+The national AES interoperates with the national trader portal and shall be used by the customs authority of the 
+Member State to process export and re-export declarations. 
+2.
+The national AESs of the Member States shall communicate with each other electronically via the common 
+communication network and shall process export and exit information received from other Member States. 
+3.
+The Member States shall provide and maintain an interface at national level between their national AES and EMCS for 
+the purposes of Article 280 of the Code and Articles 21 and 25 of Council Directive (EU) 2020/262 (8). 
+4.
+The Member States shall provide and maintain an interface at national level between their national AES and NCTS for 
+the purposes of Article 280 of the Code, Article 329(5), (6) and Article 333(2)(b) and (c) of Implementing Regulation (EU) 
+2015/2447. 
+Article 56 
+IT transition 
+1.
+During the deployment window as defined in Implementing Decision (EU) 2019/2151, the Commission shall provide 
+the Member States with additional common components, transitional rules and supporting mechanisms to establish an 
+operational environment where the Member States which have not yet deployed the new system may continue on a 
+temporary basis to interoperate with the Member States which have already deployed the new system. 
+2.
+The Commission shall offer a common component in the form of a central convertor for the exchange of messages 
+over the common communication network. A Member State may decide to implement this at national level. 
+3.
+In case of a gradual connectivity of economic operators and other persons, a Member State may offer a national 
+convertor for the exchange of messages between the economic operator and other persons and the customs authority. 
+(8) Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (OJ L 58, 27.2.2020, 
+p. 4).
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/55   
+4.
+The Commission, in collaboration with the Member States, shall draw up the technical rules to be applied during the 
+transition period and which are of a business and technical nature to enable mapping and interoperability between 
+information exchange requirements defined in Commission Delegated Regulation (EU) 2016/341 (9) and Delegated 
+Regulation (EU) 2015/2446 together with Implementing Regulation (EU) 2015/2447. 
+CHAPTER X 
+NEW COMPUTERISED TRANSIT SYSTEM 
+Article 57 
+Objective and structure of the NCTS 
+1.
+The decentralised system NCTS shall enable communication between the customs authorities of the Member States, 
+and between the customs authorities of the Member States and economic operators and other persons, for the purposes of 
+submitting and processing customs declaration and notification where goods are placed under the transit procedure. 
+2.
+The NCTS shall consist of the following common components: 
+(a) common communication network; 
+(b) central services. 
+3.
+Member States shall create the following national components: 
+(a) a national trader portal; 
+(b) a national transit system ('national NCTS'); 
+(c) a common interface between NCTS and AES at national level. 
+Article 58 
+Use of the NCTS 
+The NCTS shall be used for the following purposes where goods are moved under a transit procedure: 
+(a) to ensure the formalities of transit determined by the Code; 
+(b) to ensure the formalities of the Convention on a Common Transit Procedure (10); 
+(c) to lodge and process transit declarations; 
+(d) to lodge a transit declaration containing the particulars necessary for risk analysis for safety and security purposes in 
+accordance with Article 263(4) of the Code; 
+(e) to lodge a transit declaration instead of an entry summary declaration as referred to in Article 130(1) of the Code. 
+Article 59 
+Authentication and access to the NCTS 
+1.
+Economic operators have access only to the national transit system via a national trader portal. The authentication 
+and access verification shall be determined by the Member States. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the NCTS shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the NCTS shall be effected using the UUM&DS or the network services provided by the Commission. 
+(9) Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the 
+European Parliament and of the Council as regards transitional rules for certain provisions of the Code where the relevant electronic 
+systems are not yet operational and amending Delegated Regulation (EU) 2015/2446 (OJ L 69, 15.3.2016, p. 1).
+(10) OJ L 226, 13.8.1987, p. 2.
+EN
+Official Journal of the European Union 
+L 81/56                                                                                                                                             
+9.3.2021   
+Article 60 
+Common communication network of the NCTS 
+1.
+The common communication network shall ensure the electronic communication among the national NCTS of 
+Member States and Contracting Parties of the Convention on a Common Transit Procedure. 
+2.
+The customs authorities of the Member States shall use the common communication network for the exchange of 
+information related to transit formalities. 
+Article 61 
+National trader portal 
+1.
+The national trader portal shall allow the exchange of information between the economic operators and other 
+persons, and the national NCTS of the customs authorities of the Member States. 
+2.
+The national trader portal shall interoperate with the national NCTS. 
+Article 62 
+National Transit System 
+1.
+The national NCTS shall interoperate with the national trader portal and shall be used by the customs authority of the 
+Member State or Common Transit Convention country to submit and process the transit declaration. 
+2.
+The national NCTS shall communicate electronically via the common communication network with all national 
+transit applications of Member States and Contracting Parties to the Convention on a Common Transit Procedure and shall 
+process transit information received from other Member States and Contracting Parties of the Convention on a Common 
+Transit Procedure. 
+3.
+The Member States shall provide and maintain an interface between their national NCTS and AES systems for the 
+purpose of Article 329(5) and (6) of Implementing Regulation (EU) 2015/2447. 
+Article 63 
+IT transition 
+1.
+During the transition period as defined in Implementing Decision (EU) 2019/2151, the Commission shall provide the 
+Member States with additional common components, transitional rules and supporting mechanisms to establish an 
+operational environment where the Member States which have not yet deployed the new system may continue on a 
+temporary basis to interoperate with the Member States which have already deployed the new system. 
+2.
+The Commission shall offer a common component in the form of a central convertor for the exchange of messages 
+over the common communication network. A Member State may decide to implement this at national level. 
+3.
+In case of a gradual connectivity of economic operators and other persons, a Member State may offer a national 
+convertor for the exchange of messages between the economic operator and other persons, and the customs authority. 
+4.
+The Commission, in collaboration with the Member States, shall draw up the technical rules to be applied during the 
+transition period and which are of a business and technical nature to enable mapping and interoperability between old 
+information exchange requirements (as defined in Delegated Regulation (EU) 2016/341) and new information exchange 
+requirements (i.e. as defined in Delegated Regulation (EU) 2015/2446 and together with Implementing Regulation (EU) 
+2015/2447). 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/57   
+CHAPTER XI 
+INF SPECIAL PROCEDURES SYSTEM 
+Article 64 
+Objective and structure of the INF SP system 
+1.
+The INF SP system shall enable communication between the customs authorities of the Member States and the 
+economic operators and other persons for the purpose of issuing and managing INF data in the domain of Special 
+Procedures. 
+2.
+The INF SP system shall consist of the following common components: 
+(a) an EU Specific Trader Portal for INF; 
+(b) a central INF system. 
+Article 65 
+Use of the INF SP system 
+1.
+INF SP shall be used for economic operators and other persons to submit INF requests and follow up on their status 
+and for customs authorities of the Member States to process such requests and manage INFs. 
+2.
+The INF SP shall allow the creation of INF by customs authorities of the Member States and communication between 
+the customs authorities of Member States where needed. 
+3.
+INF SP shall allow the calculation of the amount of import duties to be made in accordance with Article 86(3) of the 
+Code. 
+Article 66 
+Authentication and access to the central INF SP system 
+1.
+The authentication and access verification of economic operators and other persons for the purposes of accessing the 
+common components of the INF SP system shall be effected using the UUM&DS system. 
+For customs representatives to be authenticated and be able to access the common components of the INF SP system, their 
+empowerment to act in that capacity must be registered in the UUM&DS system or in an identity and access management 
+system set up by a Member State pursuant to Article 20. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the INF SP system shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the INF SP system shall be effected using the UUM&DS system or the network services provided by the 
+Commission. 
+Article 67 
+EU Specific Trader Portal for INF 
+1.
+The EU Customs Trader Portal shall provide access to the EU specific Trader Portal for INF as referred to in Article 6, 
+where the EU Specific Trader Portal shall be an entry point to the INF SP system for economic operators and other persons. 
+2.
+The EU Specific Trader Portal for INF shall interoperate with the central INF SP system. 
+Article 68 
+Central INF SP system 
+1.
+The central INF SP system shall be used by the customs authorities of the Member States to exchange and store 
+information pertaining to submitted INFs. 
+2.
+The central INF SP system shall interoperate with the EU Specific Trader Portal for INF. 
+EN
+Official Journal of the European Union 
+L 81/58                                                                                                                                             
+9.3.2021   
+CHAPTER XII 
+CUSTOMS RISK MANAGEMENT SYSTEM 
+Article 69 
+Objective and structure of the CRMS 
+1.
+CRMS shall enable communication, storage and exchange of risk information between Member States and between 
+Member States and the Commission to support the implementation of the common risk management framework. 
+2.
+Where created, a web service for national systems may be used, which allows the exchange of data with national 
+systems through a web interface. CRMS shall interoperate with the ICS2 common components. 
+Article 70 
+Use of the CRMS 
+1.
+CRMS shall be used for the following purposes in line with Article 46(3) and 46(5) of the Code: 
+(a) the exchange of risk information between the Member States and between Member States and the Commission as 
+referred to in Article 46(5) of the Code and in Article 36(1) of Implementing Regulation (EU) 2015/2447 and the 
+storage and processing of such information; 
+(b) the communication between the Member States and between Member States and the Commission of the information 
+related to the implementation of common risk criteria, priority control actions, crisis management as referred to in 
+Article 36(2) of Implementing Regulation (EU) 2015/2447 and the submission, processing and storage of that 
+information including the exchange of related-risk information and the analysis of the results of those actions; 
+(c) enabling Member States and the Commission to retrieve electronically from the system risk analysis reports on existing 
+risks and new trends to feed in the common risk management framework and national risk management system. 
+2.
+Where transfer of data from CRMS to national systems and from national systems to CRMS can be automated, 
+national systems shall be adapted to use the CRMS web service. 
+Article 71 
+Authentication and access to the CRMS 
+1.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the CRMS shall be effected using the network services provided by the Commission. 
+2.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of CRMS shall be effected using the UUM&DS system or the network services provided by the Commission. 
+Article 72 
+Common component of CRMS 
+1.
+The CRMS shall provide for risk information forms and feedback forms on risk analysis and control results to be filled 
+in on-line in the system, processed for reporting and stored in the system. Authorised users shall be able to retrieve the 
+forms and use them for national risk management and control purposes. 
+2.
+The CRMS shall provide for communication mechanisms allowing users (individually or as part of an organisational 
+unit) to provide and exchange risk information, to respond to specific requests from other users and to provide to the 
+Commission facts and analysis of the results of their actions in the course of the implementation of common risk criteria, 
+priority control actions and crisis management. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/59   
+3.
+The CRMS shall provide for tools enabling analyse and aggregation of data from risk information forms stored in the 
+systems. 
+4.
+The CRMS shall provide for a platform where information, including guides, detection technology information and 
+data, and links to other databases, relevant for risk management and controls shall be stored and made available to 
+authorised users for risk management and control purposes. 
+CHAPTER XIII 
+CENTRALISED CLEARANCE FOR IMPORT 
+Article 73 
+Objective and structure of the CCI 
+1.
+The decentralised system CCI shall enable communication between the customs authorities of the Member States, and 
+between the customs authorities of the Member States and economic operators for the purposes of submitting and 
+processing customs declarations in the context of centralised clearance for import where more than one Member State is 
+involved. 
+2.
+The CCI shall consist of the following common components: 
+(a) common communication network; 
+(b) central services. 
+3.
+Member States shall ensure that their national import systems communicate through the common communication 
+network for CCI with the national import systems of the other Member States and that it includes, at least, the following 
+national components: 
+(a) a national trader portal; 
+(b) a national CCI application; 
+(c) an interface with EMCS/System for Exchange of Excise Data at national level. 
+Article 74 
+Use of the CCI 
+The CCI System shall be used for the following purposes: 
+(a) to ensure the formalities of centralised clearance for import, where more than one Member State is involved, laid down 
+in the Code; 
+(b) to lodge and process standard customs declarations under the centralised clearance for import; 
+(c) to lodge and process simplified customs declarations and the respective supplementary declarations under the 
+centralised clearance for import; 
+(d) to lodge and process the respective customs declarations and presentation notifications provided in the authorisation 
+for entry in the declarant’s records under the centralised clearance for import. 
+Article 75 
+Authentication and access to the CCI 
+1.
+Economic operators shall only have access to the national import systems via a national trader portal developed by 
+the Member States. The authentication and access verification shall be determined by the Member States. 
+2.
+The authentication and access verification of Member States’ customs authorities for the purposes of access to the 
+common components of the CCI system shall be effected using the network services provided by the Commission. 
+3.
+The authentication and access verification of the Commission’s staff for the purposes of access to the common 
+components of the CCI system shall be effected using the UUM&DS or the network services provided by the Commission. 
+EN
+Official Journal of the European Union 
+L 81/60                                                                                                                                             
+9.3.2021   
+Article 76 
+Common communication network of the CCI 
+1.
+The common communication network shall ensure the electronic communication among Member States‘ national 
+CCI applications. 
+2.
+The customs authorities of the Member States shall use the common communication network for the exchange of 
+information relevant to CCI related import formalities. 
+Article 77 
+National trader portal 
+1.
+The national trader portal shall allow the exchange of information between the economic operators and the national 
+import systems of the customs authorities of the Member States. 
+2.
+The national trader portal shall interoperate with the national CCI applications. 
+Article 78 
+National CCI system 
+1.
+The national CCI system shall be used by the customs authority of the Member State which created it for the purposes 
+of processing customs declarations under the CCI. 
+2.
+The national CCI systems of the Member States shall communicate electronically via the common domain with each 
+other and shall process import information received from other Member States. 
+CHAPTER XIV 
+FUNCTIONING OF THE ELECTRONIC SYSTEMS AND TRAINING IN THE USE THEREOF 
+Article 79 
+Development, testing, deployment and management of the electronic systems 
+1.
+The common components shall be developed, tested, deployed and managed by the Commission, and where needed 
+they may be tested by the Member States. The national components shall be developed, tested, deployed and managed by 
+the Member States. 
+2.
+Member States shall ensure that the national components are interoperable with the common components. 
+3.
+The Commission shall design and maintain the common specifications for the decentralised systems in close 
+cooperation with the Member States. 
+4.
+The Member States shall develop, operate and maintain interfaces to provide the functionality of the decentralised 
+systems necessary for the information exchanges with economic operators and other persons through national 
+components and interfaces, and with other Member States through common components. 
+Article 80 
+Maintenance of and changes to the electronic systems 
+1.
+The Commission shall perform the maintenance of the common components and the Member States shall perform 
+the maintenance of their national components. 
+2.
+The Commission and the Member States shall ensure uninterrupted operation of the electronic systems. 
+3.
+The Commission may change the common components of the electronic systems to correct malfunctions, to add new 
+functionalities or alter existing ones. 
+4.
+The Commission shall inform the Member States of changes and updates to the common components. 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/61   
+5.
+Member States shall inform the Commission of changes and updates to the national components that may have 
+repercussions on the functioning of the common components. 
+6.
+The Commission and the Member States shall make the information on the changes and updates to the electronic 
+systems pursuant to paragraphs 4 and 5 publicly available. 
+Article 81 
+Temporary failure of the electronic systems 
+1.
+In case of a temporary failure of the electronic systems as referred to in Article 6(3)(b) of the Code, economic 
+operators and other persons shall submit the information to fulfil the formalities concerned by the means determined by 
+the Member States, including means other than electronic data processing techniques. 
+2.
+The customs authorities of the Member States shall make sure the information submitted in accordance with 
+paragraph 1 is made available in the respective electronic systems within seven days of the respective electronic systems 
+becoming available again. 
+3.
+By way of derogation from paragraph 1, in case of temporary failure of the ICS2, AES, CRMS or CCI, the business 
+continuity plan determined by the Member States and the Commission shall apply. 
+4.
+By way of derogation from paragraph 1, in case of temporary failure of the NCTS system, the business continuity 
+procedure shall apply as referred to in Annex 72-04 of Implementing Regulation (EU) 2015/2447. 
+5.
+The Commission and the Member States shall inform each other of the unavailability of the electronic systems 
+resulting from a temporary failure. 
+Article 82 
+Training support on the use and functioning of the common components 
+The Commission shall support the Member States on the use and functioning of the common components of the electronic 
+systems by providing the appropriate training material. 
+CHAPTER XV 
+DATA PROTECTION, DATA MANAGEMENT AND THE OWNERSHIP AND SECURITY OF THE ELECTRONIC SYSTEMS 
+Article 83 
+Personal data protection 
+1.
+The personal data registered in the electronic systems shall be processed for the purposes of implementing the 
+customs legislation having regard to the specific objectives of each of the electronic systems as set out in Article 4, Article 
+7(1), Article 16(1), Article 21(1), Article 30, Article 35(1), Article 42(1), Article 50(1), Article 57(1), Article 64(1), Article 
+69(1), and Article 73(1) respectively. 
+2.
+The national supervisory authorities in the field of personal data protection and the European Data Protection 
+Supervisor shall cooperate, in accordance with Article 62 of Regulation (EU) 2018/1725, to ensure coordinated 
+supervision of the processing of personal data registered in the electronic systems. 
+Article 84 
+Updating of data in the electronic systems 
+1.
+Member States shall ensure that the data registered at national level corresponds to the data registered in the common 
+components and is kept up to date. 
+2.
+By way of derogation of paragraph 1, in case of ICS2, Member States shall ensure that the following data corresponds 
+to and is kept up to date with data in the ICS2 common repository: 
+(a) data registered at national level and communicated from the national entry system to the ICS2 common repository; 
+(b) data received from the ICS2 common repository to the national entry system. 
+EN
+Official Journal of the European Union 
+L 81/62                                                                                                                                             
+9.3.2021   
+Article 85 
+Limitation of data access and data processing 
+1.
+The data registered in the common components of the electronic systems by a Member State may be accessed or 
+processed by that Member State. It may also be accessed and processed by another Member State where the latter is 
+involved in the processing of an application or the management of a decision to which the data relates. 
+2.
+The data registered in the common components of the electronic systems by an economic operator or other person 
+may be accessed or processed by that economic operator or that person. It may also be accessed and processed by a 
+Member State involved in the processing of an application or the management of a decision to which the data relates. 
+3.
+The data in the ICS2 common component that is communicated to or registered in the shared trader interface by an 
+economic operator or other person may be accessed or processed by that economic operator or that person. 
+4.
+The data registered in the central EBTI system by a Member State may be processed by that Member State. It may also 
+be processed by another Member State where it is involved in the processing of an application to which the data relates, 
+including by way of a consultation in accordance with Article 26. It may be accessed by all Member States in accordance 
+with Article 25(2). 
+5.
+The data registered in the central EBTI system by an economic operator or other person may be accessed or processed 
+by that economic operator or that person. It may be accessed by all Member States in accordance with Article 25(2). 
+6.
+The data in the ICS2 in the common components: 
+(a) communicated to a Member State by an economic operator or other person through shared trader interface into the 
+ICS2 common repository may be accessed and processed by that Member State in the ICS2 common repository. 
+Where needed, that Member State may also access this information registered in the shared trader interface; 
+(b) communicated to or registered in the ICS2 common repository by a Member State may be accessed or processed by 
+that Member State; 
+(c) referred in the above points (a) and (b) may also be accessed and processed by another Member State where the latter is 
+involved in the risk analysis and/or control process to which the data relates in accordance with Article 186(2)(a), (b) 
+and (d), (5), (7) and (7a) and Article 189(3) and (4) of Implementing Regulation (EU) 2015/2447, with exception of 
+data recorded in the system by customs authorities of other Member States in relation to information on security and 
+safety risks as referred to in Article 186(2)(a) of Implementing Regulation (EU) 2015/2447; 
+(d) may be processed by the Commission in cooperation with the Member States for the purposes referred to in Article 
+43(2) of this Regulation and in Article 182(1)(c) of Implementing Regulation (EU) 2015/2447. The results of such 
+processing may be accessed by the Commission and the Member States. 
+7.
+The data in the ICS2 common component that is registered in the ICS2 common repository by the Commission may 
+be accessed and processed by the Commission and Member States. 
+Article 86 
+System ownership 
+1.
+The Commission shall be the system owner of the common components. 
+2.
+The Member States shall be the system owners of the national components. 
+Article 87 
+System security 
+1.
+The Commission shall ensure the security of the common components. The Member States shall ensure the security 
+of the national components. 
+For those purposes, the Commission and Member States shall take, at least, the necessary measures to: 
+(a) prevent any unauthorised person from having access to installations used for the processing of data; 
+EN
+Official Journal of the European Union 
+9.3.2021                                                                                                                                            
+L 81/63   
+(b) prevent the entry of data and any consultation, modification or deletion of data by unauthorised persons; 
+(c) detect any of the activities referred to in points (a) and (b). 
+2.
+The Commission and the Member States shall inform each other of any activities that might result in a breach or a 
+suspected breach of the security of the electronic systems. 
+3.
+The Commission and the Member States shall establish security plans concerning all systems. 
+Article 88 
+Controller and Processor for the systems 
+For systems referred to in Article 1 in this Regulation and in relation to the processing of personal data: 
+(a) the Member States shall act as controllers as defined in point 7 of Article 4 of Regulation (EU) 2016/679 and comply 
+with the obligations in that Regulation; 
+(b) the Commission shall act as processor as defined in point 12 of Article 3 of Regulation (EU) 2018/1725 and comply 
+with the obligations in that Regulation; 
+(c) by way of derogation from point (b), the Commission shall act as a joint controller together with the Member States in 
+ICS2, where processing the data for monitoring and evaluating the implementation of the common security and safety 
+risk criteria and standards and of the control measures and priority control in accordance with point (d) of Article 
+85(6), and in CRMS. 
+CHAPTER XVI 
+FINAL PROVISIONS 
+Article 89 
+Assessment of the electronic systems 
+The Commission and the Member States shall conduct assessments of the components they are responsible for and shall in 
+particular analyse the security and integrity of the components and the confidentiality of data processed within those 
+components. 
+The Commission and the Member States shall inform each other of the assessment results. 
+Article 90 
+Repeal 
+Implementing Regulation (EU) 2019/1026 is repealed. References to that Implementing Regulation shall be construed as 
+references to this Regulation. 
+Article 91 
+Entry into force 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 8 March 2021.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 81/64                                                                                                                                             
+9.3.2021   

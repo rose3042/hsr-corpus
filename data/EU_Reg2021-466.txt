@@ -1,0 +1,188 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION DELEGATED REGULATION (EU) 2021/466 
+of 17 November 2020 
+supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by 
+specifying the number and the title of the variables for the income and living conditions domain on 
+health and quality of life 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2019/1700 of the European Parliament and the Council of 10 October 2019 establishing 
+a common framework for European statistics relating to persons and households, based on data at individual level collected 
+from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the European 
+Parliament and of the Council and repealing Council Regulation (EC) No 577/98 and Regulation (EC) No 1177/2003 of 
+the European Parliament and the Council (1), and in particular Article 6(1) thereof, 
+Whereas: 
+(1) 
+To cover the needs identified in the relevant detailed topics, the Commission should specify the number and title of 
+the variables for the data set in the living conditions domain (EU-SILC). 
+(2) 
+The EU statistics on income and living conditions survey (‘EU-SILC survey’) is a key instrument for providing 
+information required by the European Semester and the European Pillar of Social Rights, in particular for income 
+distribution, poverty and social exclusion. It also provides information on health care, health determinants, health 
+status and disability from the three-yearly module on Health, and data on well-being and social and cultural 
+participation from the six-yearly module on Quality of life. 
+(3) 
+The number of variables to be collected does not exceed by more than 5% the number of variables collected for the 
+living conditions domain when Regulation (EU) 2019/1700 entered into force on 3 November 2019, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The number and the title of the variables for the three-yearly module on Health and six yearly module on Quality of life in 
+the living conditions domain are set out in the Annex. 
+(1) OJ L 261 I, 14.10.2019, p. 1.
+EN
+Official Journal of the European Union 
+19.3.2021                                                                                                                                            
+L 96/1   
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 17 November 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 96/2                                                                                                                                            
+19.3.2021   
+ANNEX 
+Number and titles of the variables for the three yearly module on Health and six yearly module on Quality of life in the 
+income and living conditions domain.                                                              
+Module 
+Detailed topic 
+Variable identifier 
+Variable name 
+Health 
+Health care 
+(6 collected variables) 
+HS200 
+Financial burden of medical care 
+(excluding medicines) 
+HS210 
+Financial burden of dental care 
+HS220 
+Financial burden of medicines 
+PH090 
+Number of consultations with a general 
+practitioner or family doctor in the past 
+12 months 
+PH080 
+Number of consultations with dentist, 
+orthodontist or other dental care 
+specialists in the past 12 months 
+PH100 
+Number of consultations of a medical or 
+surgical specialist (excluding dentists, 
+orthodontists or other dental care 
+specialists) in the past 12 months 
+Health determinants 
+(8 collected variables) 
+PH110A 
+BMI 1 Weight 
+PH110B 
+BMI 2 Height 
+PH122 
+Type of physical activity when working 
+PH132 
+Frequency of physical activities 
+(excluding working) 
+PH142 
+Frequency of eating fruit (excluding any 
+juice) 
+PH152 
+Frequency of eating vegetables or salad 
+(excluding any juice) 
+PH171 
+Frequency of tobacco use (including 
+electronic cigarettes or similar electronic 
+devices) 
+PH180 
+Frequency of consumption of an 
+alcoholic drink of any kind 
+Details on health status 
+and disability 
+(6 collected variables) 
+PH101 
+Difficulty in seeing, even when wearing 
+glasses or contact lenses 
+PH111 
+Difficulty in hearing, even when using a 
+hearing aid 
+PH121 
+Difficulty in walking or climbing steps 
+PH131 
+Difficulty in remembering or 
+concentrating  
+EN
+Official Journal of the European Union 
+19.3.2021                                                                                                                                            
+L 96/3   
+PH141 
+Difficulty (with self-care such as) washing 
+all over or dressing 
+PH151 
+Difficulty in communicating (using usual 
+language, for example understanding or 
+being understood by others) 
+Quality of life 
+Well-being 
+(7 collected variables) 
+PW241 
+Feeling left out 
+PW030 
+Satisfaction with financial situation 
+PW160 
+Satisfaction with personal relationships 
+PW120 
+Satisfaction with time use (amount of 
+leisure time) 
+PW230 
+Feeling lonely 
+PW090 
+Being happy 
+PW180 
+Help from others 
+Social and cultural 
+participation 
+(13 collected variables) 
+PS010 
+Number of times going to the cinema 
+PS020 
+Number of times going to live 
+performances (plays, concerts, operas, 
+ballet and dance performances) 
+PS030 
+Number of visits to cultural sites 
+PS040 
+Number of times attending live sport 
+events 
+PS041 
+Practice of artistic activities 
+PS042 
+Reading books (including e-books or 
+audio books, during year) 
+PS050 
+Frequency of getting together with family 
+(relatives) 
+PS060 
+Frequency of getting together with friends 
+PS070 
+Frequency of contacts with family 
+(relatives) 
+PS080 
+Frequency of contacts with friends 
+PS110 
+Participation in formal voluntary 
+activities 
+PS111 
+Participation in informal voluntary 
+activities 
+PS102 
+Active citizenship   
+EN
+Official Journal of the European Union 
+L 96/4                                                                                                                                            
+19.3.2021   

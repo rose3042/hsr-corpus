@@ -1,0 +1,150 @@
+EUROPEANSTANDARD
+EN50126-1
+NORMEEUROPEENNE
+EUROPAISCHENORM
+October2017
+ICS29.280;45.020
+SupersedesEN50126-1:1999
+EnglishVersion
+Railway Applications - The Specification and Demonstration of
+Reliability, Availability, Maintainability and Safety (RAMS)- Part
+1:GenericRAMSProcess
+Applications ferroviaires-Specification et demonstration de
+Bahnanwendungen-Spezifikation und Nachweis von
+lafiabilite,deladisponibilite,de lamaintenabilite etdela
+Zuverlassigkeit, Verfugbarkeit, Instandhaltbarkeit und
+securite (FDMS)-Partie 1: Processus FMDS generique
+Sicherheit (RAMS)-Teil 1: Generischer RAMS Prozess
+This EuropeanStandardwasapprovedbyCENELEC on2017-07-03.CENELEC members areboundtocomplywith theCEN/CENELEC
+Internal Regulations which stipulatethe conditions forgivingthis European Standard the status of anationalstandardwithoutany alteration.
+ManagementCentreortoanyCENELECmember.
+This European Standard exists in three official versions (English, French, German). A version in any other language made by translation
+under the responsibility of a CENELEC member into its own language and notified to the CEN-CENELEC Management Centre has the
+same status as the official versions.
+CENELEC members are the national electrotechnical committees of Austria, Belgium, Bulgaria, Croatia, Cyprus, the Czech Republic,
+Denmark, Estonia, Finland, Former Yugoslav Republic of Macedonia, France, Gemany, Greece, Hungary,Iceland, Ireland, Italy, Latvia,
+Switzerland, Turkey and the United Kingdom.
+CENELEC
+EuropeanCommitteeforElectrotechnical Standardization
+ComiteEuropeendeNormalisationElectrotechnique
+Europaisches Komitee fur Elektrotechnische Normung
+CEN-CENELECManagementCentre:AvenueMarnix17,B-1000Brussels
+Ref.No.EN50126-1:2017E
+
+EN50126-1:2017 (E)
+Contents
+Page
+Europeanforeword.
+Introduction..
+Scope
+Normative references.
+.9
+Termsand definitions
+Abbreviations
+20
+RailwayRAMS
+20
+5.1
+Introduction
+20
+5.2
+Multi-levelSystemapproach
+21
+5.2.1
+Conceptsof systemhierarchy
+21
+5.2.2
+Systemrequirementsandcharacteristics
+22
+5.2.3
+Defining a system ..
+23
+5.3
+Railwaysystem overview..
+23
+5.3.1
+Introduction..
+23
+5.3.2
+Stakeholdersinvolvedinarailwaysystem
+23
+5.3.3
+RailwaysystemstructureandapportionmentofRAMSrequirements..
+.24
+5.4
+RailwayRAMSand quality of service.
+24
+5.5
+ElementsofrailwayRAMS.
+24
+5.6
+FactorsinfluencingrailwayRAMS
+27
+5.6.1
+General..
+27
+5.6.2
+Classes offailures
+27
+5.6.3
+Derivation of detailed railway specific influencing factors.
+27
+5.6.4
+Humanfactors
+32
+5.7
+SpecificationofrailwayRAMSrequirements
+34
+5.7.1
+General.
+34
+5.7.2
+RAMSspecification.
+34
+5.8
+Riskbasedapproach
+34
+5.9
+Risk reduction strategy
+35
+5.9.1
+Introduction.
+35
+Reductionof risks relatedto safety
+5.9.2
+35
+5.9.3
+ReductionofrisksrelatedtoRAM
+36
+ManagementofrailwayRAMS-generalrequirements
+37
+6.1
+Introduction
+37
+6.2
+Lifecycleforthe system under consideration.
+37
+6.3
+Risk assessment..
+45
+6.4
+Organisationalrequirements
+46
+6.4.1
+Introduction..
+46
+6.4.2
+Requirements
+47
+6.5
+Applicationofthis standard and adaptabilitytoprojectscopeandsize
+47
+6.5.1
+General requirements
+47
+6.5.2
+Case of complex systemswithdifferenthierarchicallevels.
+49
+6.5.3
+Renewalwithinexistingsystems.
+50

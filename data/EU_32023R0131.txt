@@ -1,0 +1,160 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/131 
+of 18 January 2023
+amending Implementing Regulation (EU) 2019/1259 imposing a definitive anti-dumping duty on 
+imports of threaded tube or pipe cast fittings, of malleable cast iron and spheroidal graphite cast 
+iron, originating in the People’s Republic of China and Thailand, and subjecting imports of tube or 
+pipe cast fittings originating in the People’s Republic of China to surveillance 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection 
+against dumped imports from countries not members of the European Union (1), and in particular Article 14(1) thereof,
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (2), and in particular Article 56(5) thereof,
+Whereas:
+(1)
+By Commission Implementing Regulation (EU) 2019/1259 (3), the European Commission imposed definitive anti- 
+dumping duties on imports of threaded tube or pipe cast fittings, of malleable cast iron and spheroidal graphite cast 
+iron, excluding bodies of compression fittings using ISO DIN 13 metric thread and malleable iron threaded circular 
+junction boxes without having a lid, originating in the People’s Republic of China (‘the PRC’) and Thailand (‘the 
+product concerned’).
+(2)
+The main input raw materials for the product concerned are metal scrap, coke/electricity/gas, sand (for moulding) 
+and zinc (for galvanisation). The first step of the manufacturing process is the melting of metal scrap. This is 
+followed by the moulding process and the casting of various shapes which are then separated into single pieces. The 
+products have to go through a lengthy annealing process to ensure that they are sufficiently malleable to be used in 
+applications where, for example, shock and vibration resistance are required and to withstand rapid temperature 
+changes. Subsequently, fittings can be galvanized. Then final manufacturing steps including the threading and other 
+machining take place.
+(3)
+According to Implementing Regulation (EU) 2019/1259, the Chinese exporting producer Jinan Meide Casting Co., 
+Ltd (‘Jinan Meide’), TARIC (4) additional code B336, is subject to the anti-dumping measures imposed by 
+Implementing Regulation (EU) 2019/1259.
+(4)
+In the course of 2021 and 2022, the Union industry of the like product submitted information to the Commission 
+regarding the acquisition of Odlewnia Zawiercie S.A., a producer of the like product located in Poland, by Meide 
+Group Co., Ltd. (‘Meide Group’), a company established in the PRC.
+(1) OJ L 176, 30.6.2016, p. 21.
+(2) OJ L 269, 10.10.2013, p. 1.
+(3) Commission Implementing Regulation (EU) 2019/1259 of 24 July 2019 imposing a definitive anti-dumping duty on imports of 
+threaded tube or pipe cast fittings, of malleable cast iron and spheroidal graphite cast iron, originating in the People’s Republic of 
+China and Thailand, following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament 
+and of the Council (OJ L 197, 25.7.2019, p. 2).
+(4) The Integrated Tariff of the European Union.
+EN
+Official Journal of the European Union 
+L 17/84 
+19.1.2023  
+
+(5)
+Based on public information, the transaction was approved by the competent national authorities (5) and was then 
+completed (6).
+(6)
+Meide Group is active in the production and sale of the product concerned, among other products. In addition, 
+Meide Group is engaged in the import and export of its products and those of third parties (7). The product 
+concerned exported by Meide Group from the PRC to the Union is subject to the anti-dumping measures imposed 
+by Implementing Regulation (EU) 2019/1259.
+(7)
+Meide Group and Jinan Meide are related companies.
+(8)
+Therefore, the Commission considered that the completion of the transaction warranted a change to the relevant 
+TARIC codes in order to better monitor imports, for the reasons that follow.
+(9)
+The product concerned currently falls under Combined Nomenclature (‘CN’) code ex 7307 19 10 (TARIC codes 
+7307 19 10 10 and 7307 19 10 20).
+(10)
+Besides the TARIC codes subject to measures, the residual TARIC code 7307 19 10 90 includes a number of 
+products, among them the two products expressly excluded by the product definition of the product concerned (i. 
+e., bodies of compression fittings using ISO DIN 13 metric thread and malleable iron threaded circular junction 
+boxes without having a lid) and also unthreaded tube or pipe cast fittings.
+(11)
+Threading is only the last manufacturing step of the product concerned. Therefore, unthreaded and semi-finished 
+tube or pipe cast fittings could be imported in the Union under the residual TARIC code, to which anti-dumping 
+measures do not apply, and could undergo the threading process within the Union.
+(12)
+The Commission considered the data retrievable from the current TARIC code structure not sufficiently adequate to 
+monitor the import flows of unthreaded tube or pipe cast fittings from the PRC, because they are currently mixed 
+with the high number of products falling within the residual TARIC code 7307 19 10 90.
+(13)
+Therefore, the TARIC codes under CN code ex 7307 19 10 should be restructured into threaded (TARIC codes 
+7307 19 10 03, 7307 19 10 05, 7307 19 10 10, 7307 19 10 13, 7307 19 10 20, 7307 19 10 30), or unthreaded 
+(TARIC codes 7307 19 10 35, 7307 19 10 40, 7307 19 10 45) products. Moreover, for both threaded and 
+unthreaded products, it should be specified whether they are made of malleable cast iron (TARIC codes 
+7307 19 10 10 and 7307 19 10 35 respectively), spheroidal graphite cast iron (TARIC codes 7307 19 10 20 and 
+7307 19 10 40 respectively) or other materials (TARIC codes 7307 19 10 30 and 7307 19 10 45 respectively). 
+Finally, within the threaded tube or pipe fittings of malleable cast iron and spheroidal graphite cast iron, new 
+specific TARIC codes should be created for the products expressly excluded by the product definition of the product 
+concerned, namely bodies of compression fittings using ISO DIN 13 metric thread, of malleable cast iron (TARIC 
+code 7307 19 10 03), malleable cast iron threaded circular junction boxes without having a lid (TARIC code 
+7307 19 10 05) and bodies of compression fittings using ISO DIN 13 metric thread, of spheroidal graphite cast iron 
+(TARIC code 7307 19 10 13).
+(14)
+The TARIC codes to which measures apply – TARIC codes 7307 19 10 10 and 7307 19 10 20 – remain unchanged 
+and only the description should be updated to ‘Other’ to ensure consistency with the new TARIC structure.
+(5) See https://uokik.gov.pl/news.php?news_id=17989 and Decision DKK-83/2022 of 16 March 2022, available at: https://uokik.gov.pl/ 
+koncentracje.php?news_id=17397
+(6) See both the Orbis M&A database and https://globallegalchronicle.com/meide-groups-acquisition-of-odlewnia-zawiercie/
+(7) See Decision DKK-83/2022, cit.
+EN
+Official Journal of the European Union 
+19.1.2023 
+L 17/85  
+
+(15)
+This new TARIC structure will enable the Commission to monitor adequately the development of imports of tube or 
+pipe cast fittings from the PRC, in particular the import flows of unthreaded tube or pipe cast fittings from the PRC, 
+which are not subject to anti-dumping measures, in comparison with imports of the product concerned subject to 
+anti-dumping measures. In order to ensure the availability of the data, imports of tube or pipe cast fittings from the 
+PRC will be subject to surveillance.
+(16)
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established by 
+Article 15(1) of Regulation (EU) 2016/1036 and of the Customs Code Committee established by Article 285 of 
+Regulation (EU) No 952/2013,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The following paragraphs are added to Article 1 of Implementing Regulation (EU) 2019/1259:
+‘6.
+The following new TARIC codes and descriptions shall be created for the products indicated:
+- - - - Threaded
+- - - - - Of malleable cast iron
+7307 19 10 03
+- - - - - - Bodies of compression fittings using ISO DIN 13 metric thread
+7307 19 10 05
+- - - - - - Circular junction boxes without having a lid
+- - - - - Of spheroidal graphite cast iron
+7307 19 10 13
+- - - - - - Bodies of compression fittings using ISO DIN 13 metric thread
+7307 19 10 30
+- - - - - Other
+- - - - Unthreaded
+7307 19 10 35
+- - - - - Of malleable cast iron
+7307 19 10 40
+- - - - - Of spheroidal graphite cast iron
+7307 19 10 45
+- - - - - Other
+7.
+The following new descriptions shall be attributed to the TARIC codes indicated:
+7307 19 10 10
+- - - - - - Other
+7307 19 10 20
+- - - - - - Other’
+Article 2
+Imports under the TARIC codes mentioned in Article 1, or any corresponding future codes, originating in the People’s 
+Republic of China shall be subject to surveillance to allow the Commission to follow the statistical trends of imports of 
+tube or pipe cast fittings, in accordance with Article 56(5) of Regulation (EU) No 952/2013.
+Article 3
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+EN
+Official Journal of the European Union 
+L 17/86 
+19.1.2023  
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 18 January 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+19.1.2023 
+L 17/87

@@ -1,0 +1,920 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/402 
+of 22 February 2023
+granting a Union authorisation for the biocidal product family ‘CMIT/MIT SOLVENT BASED’ in 
+accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning 
+the making available on the market and use of biocidal products (1), and in particular Article 44(5), first subparagraph, 
+thereof,
+Whereas:
+(1)
+On 14 June 2017, Dow Europe GmbH (‘the applicant’) submitted an application to the European Chemicals Agency 
+(‘the Agency’) in accordance with Article 43(1) of Regulation (EU) No 528/2012 for Union authorisation of a 
+biocidal product family named ‘CMIT/MIT SOLVENT BASED’ of product-type 6, as described in Annex V to that 
+Regulation, for preservation of aviation fuel, crude oil and middle distillate fuel, providing written confirmation that 
+the competent authority of France had agreed to evaluate the application. The application was recorded under case 
+number BC-NN032576-24 in the Register for Biocidal Products. On 16 April 2020, the applicant withdrew the 
+application as regards use of ‘CMIT/MIT SOLVENT BASED’ in aviation fuels. On 31 October 2020, the application 
+was transferred by the applicant to Nutrition & Biosciences Netherlands B.V.
+(2)
+The biocidal product family ‘CMIT/MIT SOLVENT BASED’ comprises products for preservation of de-watered crude 
+oil and refined products (middle and light distillate fuels) containing 5-chloro-2-methylisothiazol-3(2H)-one 
+and 2-methylisothiazol-3(2H)-one (‘C(M)IT/MIT’) as the active substance, which is included in the Union list of 
+approved active substances referred to in Article 9(2) of Regulation (EU) No 528/2012.
+(3)
+On 28 August 2019, the evaluating competent authority submitted, in accordance with Article 44(1) of Regulation 
+(EU) No 528/2012, the assessment report and the conclusions of its evaluation to the Agency.
+(4)
+On 7 April 2020, the Agency submitted an opinion (2), the draft summary of the biocidal product characteristics 
+(‘SPC’) of ‘CMIT/MIT SOLVENT BASED’ and the final assessment report on the biocidal product family to the 
+Commission in accordance with Article 44(3) of Regulation (EU) No 528/2012.
+(1) OJ L 167, 27.6.2012, p. 1.
+(2) ECHA opinion of 5 March 2020 on the Union authorisation of the biocidal product family ‘CMIT-MIT Solvent Based’ (ECHA/BPC/246/ 
+2020), https://echa.europa.eu/bpc-opinions-on-union-authorisation.
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/1  
+(5)
+The opinion concludes that ‘CMIT/MIT SOLVENT BASED’ is a biocidal product family within the meaning of 
+Article 3(1), point (s), of Regulation (EU) No 528/2012, that it is eligible for Union authorisation in accordance 
+with Article 42(1) of that Regulation and that, subject to compliance with the draft SPC, it meets the conditions laid 
+down in Article 19(1) and (6) of that Regulation. The opinion included a minority position expressed by the member 
+appointed by Germany, which concluded that the use of ‘CMIT/MIT SOLVENT BASED’ as a preservative in fuels 
+conflicts with the national legislation of that Member State (10th Federal Emission Control Ordinance §2 (1) 
+and (2)), which forbids that fuels for on-road motor vehicles contain additives with chlorine or bromine compounds 
+and which forbids the placing on the market of additives that contain chlorine or bromine as these compounds cause 
+formation of dioxins during the fuel combustion.
+(6)
+On 15 January 2021, the Agency transmitted the draft SPC to the Commission in all the official languages of the 
+Union in accordance with Article 44(4) of Regulation (EU) No 528/2012.
+(7)
+To address the concerns on dioxin formation expressed in the minority position to the opinion, on 24 July 2020, the 
+Commission requested an opinion from the Agency under Article 75(1), point (g), of Regulation (EU) No 528/2012 
+to estimate the amount of formation of dioxins and the overall contribution to the emissions of dioxins due to the 
+use of the biocidal product family ‘CMIT/MIT SOLVENT BASED’ in fuels used for road and water transport. The 
+Commission also requested the Agency to clarify the level of the risks to the environment and human health due to 
+the exposure to dioxins via the environment from the use of the biocidal product family ‘CMIT/MIT SOLVENT 
+BASED’.
+(8)
+On 5 July 2021, the Agency submitted the requested opinion to the Commission (3) concluding that although the 
+potential consequences of the use of C(M)IT/MIT as a preservative in oil and fuel cannot be neglected, it is not 
+possible to draw any conclusions on the magnitude of the potential contribution of the use of C(M)IT/MIT in fuels 
+with respect to dioxin exposure, nor on the potential consequences of chlorine additives such as C(M)IT/MIT in 
+fuels on human health and on the environment.
+(9)
+The objectives of the Stockholm Convention on Persistent Organic Pollutants (‘Stockholm Convention’) (4) and 
+Regulation (EU) 2019/1021 of the European Parliament and of the Council (5) are to protect human health and the 
+environment from persistent organic pollutants (POPs), which include dioxins. The Commission considers that 
+refusing the Union authorisation for the biocidal product family ‘CMIT/MIT SOLVENT BASED’ would not lead to a 
+significant decrease of dioxin emissions compared to granting it, as the same or similar chlorine-containing 
+additives are currently allowed to be placed on the market under transitional measures of Regulation (EU) 
+No 528/2012 by the Member States or could be authorised under national authorisations granted in accordance 
+with Regulation (EU) No 528/2012. Furthermore, as a consequence of the ambitions of the European Green 
+Deal (6) and Regulation (EU) 2021/1119 of the European Parliament and of the Council (7) (the European Climate 
+Law (8)) to achieve climate neutrality by 2050, the overall amount of fuel that may potentially be treated with the 
+biocidal product family and combusted in motors or heating systems is expected to decline significantly in the 
+coming decades. Consequently, the possible formation of dioxins associated with the use of the biocidal product 
+family ‘CMIT/MIT SOLVENT BASED’ will decrease accordingly, thus contributing to achieve the objectives of the 
+Stockholm Convention and Regulation (EU) 2019/1021.
+(3) Biocidal Products Committee (BPC) Opinion on a request according to Article 75(1)(g) of Regulation (EU) No 528/2012 on the 
+evaluation of dioxins emissions from the use of the biocidal product family (BPF) ‘CMIT/MIT SOLVENT BASED’ in fuels used in road 
+and ship transport (ECHA/BPC/283/2021).
+(4) Stockholm Convention on Persistent Organic Pollutants (OJ L 209, 31.7.2006, p. 3).
+(5) Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants 
+(OJ L 169, 25.6.2019, p. 45).
+(6) A European Green Deal | European Commission (europa.eu).
+(7) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving 
+climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (OJ L 243, 9.7.2021, p. 1).
+(8) European Climate Law (europa.eu).
+EN
+Official Journal of the European Union 
+L 56/2 
+23.2.2023  
+(10)
+On 16 November 2021, in accordance with Article 44(5), second subparagraph, of Regulation (EU) No 528/2012, 
+Denmark made a request to the Commission for the Union authorisation of the biocidal product family ‘CMIT/MIT 
+SOLVENT BASED’ not to apply in its territory, based on the grounds provided in Article 37(1), points (a) and (c), of 
+that Regulation, as the presence of halogenated organic compounds such as C(M)IT/MIT in fuel may result in the 
+formation of dioxins during fuel combustion, alternatives for fuel preservation without halogenated compounds are 
+available and preservatives for fuels are not used by refineries or at service stations in Denmark.
+(11)
+On 12 December 2021, Germany requested that the Commission adjusts the conditions of the Union authorisation 
+of the biocidal product family ‘CMIT/MIT SOLVENT BASED’ in its territory in accordance with Article 44(5), second 
+subparagraph, of Regulation (EU) No 528/2012, based on the grounds referred to in Article 37(1) points (a) and (c), 
+of that Regulation so as not to allow its use for the preservation of fuels for non-rail bound on-road motor vehicles, 
+except for the purpose of research, development or analysis in line with national legislation as set out in the 10th 
+Federal 
+Emission 
+Control 
+Ordinance (9)
+in 
+combination 
+with 
+the 
+German 
+Road 
+Traffic 
+Act 
+(Straßenverkehrsgesetz) (10).
+(12)
+On 15 July 2022, in accordance with Article 44(5), second subparagraph, of Regulation (EU) No 528/2012, Belgium 
+made a request to the Commission for the Union authorisation of the biocidal product family ‘CMIT/MIT SOLVENT 
+BASED’ not to apply in its territory, based on the grounds provided in Article 37(1), points (a) and (c), of that 
+Regulation, as it considers that the presence of halogenated organic compounds such as C(M)IT/MIT in fuel may 
+result in the formation of dioxins during fuel combustion, that the formation of dioxins should be minimised and, 
+where feasible, fully eliminated in Belgium, and that alternatives for fuel preservation without halogenated 
+compounds are available.
+(13)
+The Commission considers that the requests made by Germany to adjust the conditions and the requests made by 
+Denmark and Belgium not to apply the Union authorisation of the biocidal product family ‘CMIT/MIT SOLVENT 
+BASED’ in the respective territories of those Member States in accordance with Article 44(5), second subparagraph, 
+of Regulation (EU) No 528/2012 can be considered justified on the grounds of the protection of the environment 
+and the protection of health and life of humans pursuant to Article 37(1), points (a) and (c), of that Regulation as 
+the presence of halogenated organic compounds, such as C(M)IT/MIT, in fuel may result in the formation of dioxins 
+during fuel combustion.
+(14)
+Therefore, the biocidal product family ‘CMIT/MIT SOLVENT BASED’ should not be authorised for use in Denmark 
+and Belgium and should be not be used in Germany for the preservation of fuels for non-rail bound on-road motor 
+vehicles, except for the purpose of research, development or analysis.
+(15)
+Therefore, the Commission concurs with the opinion of the Agency and considers it appropriate to grant a Union 
+authorisation for ‘CMIT/MIT SOLVENT BASED’ with the adjustments for Germany, Denmark and Belgium 
+requested in accordance with Article 44(5), second subparagraph, of Regulation (EU) No 528/2012.
+(16)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Biocidal Products,
+HAS ADOPTED THIS REGULATION:
+Article 1
+A Union authorisation with authorisation number EU-0023657-0000 is granted to Nutrition & Biosciences Netherlands B. 
+V. for the making available on the market and use of the biocidal product family ‘CMIT/MIT SOLVENT BASED’ in 
+accordance with the summary of the biocidal product characteristics set out in the Annex.
+(9) Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes.
+(10) Straßenverkehrsgesetz.
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/3  
+However, the Union authorisation shall not apply in the territory of the Kingdom of Denmark and in the territory of the 
+Kingdom of Belgium, nor shall it apply in the territory of the Federal Republic of Germany for the preservation of fuels for 
+non-rail bound on-road motor vehicles, except for the purpose of research, development or analysis.
+The Union authorisation is valid from 15 March 2023 until 28 February 2033.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 22 February 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 56/4 
+23.2.2023  
+ANNEX 
+Summary of product characteristics for a biocidal product family 
+CMIT/MIT SOLVENT BASED
+Product type 6 – Preservatives for products during storage (Preservatives)
+Authorisation number: EU-0023657-0000
+R4BP asset number: EU-0023657-0000
+PART I
+FIRST INFORMATION LEVEL
+1.
+ADMINISTRATIVE INFORMATION
+1.1.
+Family name
+Name
+CMIT/MIT SOLVENT BASED
+1.2.
+Product type(s)
+Product type(s)
+PT06 – Preservatives for products during storage 
+(Preservatives)
+1.3.
+Authorisation holder
+Name and address of the authorisation 
+holder
+Name
+MC (Netherlands) 1 B.V.
+Address
+Willem Einthovenstraat 4, 2342BH Oegstgeest 
+Netherlands
+Authorisation number
+EU-0023657-0000
+R4BP asset number
+EU-0023657-0000
+Date of the authorisation
+15 March 2023
+Expiry date of the authorisation
+28 February 2033
+1.4.
+Manufacturer(s) of the biocidal products
+Name of manufacturer
+Specialty Electronic Materials Switzerland GmbH
+Address of manufacturer
+Im Ochsensand, 9470 Buchs Switzerland
+Location of manufacturing sites
+Im Ochsensand, 9470 Buchs Switzerland
+Name of manufacturer
+AD Productions BV
+Address of manufacturer
+Markweg Zuid 27, 4794 SN Heijningen Netherlands
+Location of manufacturing sites
+Markweg Zuid 27, 4794 SN Heijningen Netherlands
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/5  
+1.5.
+Manufacturer(s) of the active substance(s)
+Active substance
+Mixture of 5-chloro-2-methyl-2H- isothiazol-3-one (Einecs 247-500-7) 
+and 2-methyl-2H-isothiazol-3-one (Einecs 220-239-6) (Mixture 
+of CMIT/MIT)
+Name of manufacturer
+Jiangsu FOPIA Chemicals Co., Ltd (Specialty Electronic Materials 
+Switzerland GmbH)
+Address of manufacturer
+Touzeng Village, Binhuai Town, 224555 Binhai County, Yancheng City, 
+Jiangsu China
+Location of manufacturing sites
+Touzeng Village, Binhuai Town, 224555 Binhai County, Yancheng City, 
+Jiangsu China
+2.
+PRODUCT FAMILY COMPOSITION AND FORMULATION
+2.1.
+Qualitative and quantitative information on the composition of the family
+Common name
+IUPAC name
+Function
+CAS number
+EC number
+Content (%)
+Min
+Max
+Mixture of 5-chloro- 
+2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 247-500-7) 
+and 2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 220-239-6) 
+(Mixture of CMIT/MIT)
+Active 
+Substance
+55965-84-9
+10,8
+12,1
+Butyl carbitol
+2-(2-butoxye­
+thoxy)ethanol
+Non-active 
+substance
+112-34-5
+203-961-6
+0,0
+89,2
+2.2.
+Type(s) of formulation
+Formulation(s)
+AL – Any other liquid
+PART II
+SECOND INFORMATION LEVEL – META SPC(S)
+META SPC 1
+1.
+META SPC 1 ADMINISTRATIVE INFORMATION
+1.1.
+Meta SPC 1 identifier
+Identifier
+Meta SPC KATHON FP
+EN
+Official Journal of the European Union 
+L 56/6 
+23.2.2023  
+1.2.
+Suffix to the authorisation number
+Number
+1-1
+1.3.
+Product type(s)
+Product type(s)
+PT06 – Preservatives for products during storage 
+(Preservatives)
+2.
+META SPC 1 COMPOSITION
+2.1.
+Qualitative and quantitative information on the composition of the meta SPC 1
+Common name
+IUPAC name
+Function
+CAS number
+EC number
+Content (%)
+Min
+Max
+Mixture of 5-chloro- 
+2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 247-500-7) 
+and 2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 220-239-6) 
+(Mixture of CMIT/MIT)
+Active 
+Substance
+55965-84-9
+10,8
+12,1
+2.2.
+Type(s) of formulation of the meta SPC 1
+Formulation(s)
+AL – Any other liquid
+3.
+HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 1
+Hazard statements
+Causes severe skin burns and eye damage.
+May cause an allergic skin reaction.
+Very toxic to aquatic life with long lasting effects.
+Corrosive to the respiratory tract.
+Precautionary statements
+Do not breathe vapours.
+Contaminated work clothing should not be allowed out of the workplace.
+Avoid release to the environment.
+Wear protective gloves/protective clothing/eye protection.
+Specific treatment (see supplemental first aid instructions on this label).
+IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+IF ON SKIN: Wash with plenty of water.
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. 
+Rinse skin with water.
+IF INHALED: Remove person to fresh air and keep comfortable for 
+breathing.
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/7  
+IF IN EYES: Rinse cautiously with water for several minutes. Remove 
+contact lenses, if present and easy to do. Continue rinsing.
+Immediately call a POISON CENTER/doctor.
+Take off contaminated clothing. And wash it before reuse.
+Collect spillage.
+If skin irritation or rash occurs: Get medical advice.
+Store locked up.
+Dispose of contents to an approved facility in accordance with local, 
+regional, national and international regulations.
+4.
+AUTHORISED USE(S) OF THE META SPC 1
+4.1.
+Use description
+Table 1. Use # 1 – Preservation of de-watered crude oil and refined products (middle and light distillate 
+fuels) with a maximum water content of 2 %
+Product type
+PT06 – Preservatives for products during storage (Preservatives)
+Where relevant, an exact description of 
+the authorised use
+Preservation of de-watered crude oil and refined products (middle and 
+light distillate fuels) with a maximum water content of 2 %
+Target organism(s) (including 
+development stage)
+Scientific name: Fungi/moulds
+Common name: mould
+Development stage: vegetative cells and spores
+Scientific name: Fungi/Yeast
+Common name: yeast
+Development stage: vegetative cells
+Scientific name: Bacteria
+Common name: bacteria
+Development stage: vegetative cells
+Field(s) of use
+Indoor
+The biocidal product family is recommended to control microorganisms 
+in de-watered crude oil and refined products (middle and light distillate 
+fuels) with a maximum water content of 2 %.
+The biocidal product family is not to be used for the preservation of 
+aviation fuels, naphthas, alkenes/olefins and aromatics (simple and more 
+complex structures).
+Application method(s)
+Method: Loading of biocidal product into the blend tank containing 
+de-watered crude oils or refined products (middle and light distillate fuels)
+Detailed description:
+The biocidal product is added as a single dose at the time of manufacture, 
+storage or shipment.
+Dose the biocidal product to the end use fluid at a point to ensure 
+adequate mixing using automated metering or by manual pouring using a 
+safe measuring dosing system.
+The biocidal product should not be dispensed as supplied into an empty 
+fuel tank. Fuel tanks being treated with the biocidal product should be at 
+least 10 % full in order to ensure good homogenisation of the biocidal 
+product, which aids effectiveness of the treatment.
+EN
+Official Journal of the European Union 
+L 56/8 
+23.2.2023  
+Fuel tanks and sumps should be drained of water regularly. Following 
+treatment, drain off dead microorganisms and other debris from the 
+treated fuel which have accumulated at the bottom of the tank. Filters 
+should also be checked frequently and examined for the build-up of 
+suspended solids. Whenever periodic maintenance is carried out, tanks 
+should be checked for microbial growth.
+Application rate(s) and frequency
+Application Rate: Preservation for mid and long term storage and curative 
+treatment 50-100 ppm v/v of biocidal product as supplied. Refined 
+products (middle and light distillate fuels) and de-watered crude oils – 
+Mid/long term preservation: 50 to 150 ppm v/v of biocidal product as 
+supplied – Curative treatment: 200 to 400 ppm v/v of biocidal product as 
+supplied
+Dilution (%): -
+Number and timing of application:
+De-watered crude oils:
+Mid/long-term preservation:
+— 50 to 150 ppm v/v of biocidal product as supplied (0,75 – 2,25 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 4 weeks, depending 
+on the dose used.
+Curative treatment::
+— Bacteria: 200 to 400 ppm v/v of biocidal product as supplied (3 – 6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+— Fungi (Yeasts/Moulds): 400 ppm v/v of biocidal product as supplied (6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+Refined products (middle and light distillate fuels):
+Mid/long-term preservation:
+— 50 to 150 ppm v/v of biocidal product as supplied (0,75 – 2,25 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 4 weeks, depending 
+on the dose used.
+Curative treatment::
+— Bacteria: 200 to 400 ppm v/v of biocidal product as supplied (3 – 6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+— Fungi (Yeasts/Moulds): 400 ppm v/v of biocidal product as supplied (6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+Repeat as necessary when contamination is detected.
+Category(ies) of users
+Professional
+Pack sizes and packaging material
+Flasks: 5 l nominal, material of construction is high density polyethylene 
+(HDPE)
+Pails: 20 l nominal, material of construction is HDPE
+Pails: 25 l nominal, material of construction is HDPE
+Drums: 215 l nominal, material of construction is HDPE
+Drums: 220 l nominal, material of construction is HDPE
+Intermediate bulk container (IBC): 1000 l nominal, material of 
+construction is HDPE
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/9  
+4.1.1. Use-specific instructions for use
+See general directions for use.
+4.1.2. Use-specific risk mitigation measures
+See general directions for use.
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect 
+the environment
+See general directions for use.
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+See general directions for use.
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+See general directions for use.
+5.
+GENERAL DIRECTIONS FOR USE (1) OF THE META SPC 1
+5.1.
+Instructions for use
+— Always read the label or leaflet before use and follow all the instructions provided.
+— Respect the conditions of use of the biocidal product (concentration, contact time, temperature, pH, etc.)
+— For preservation during mid/long-term storage, contact time needs to be 1 to 4 weeks, depending on the dose 
+used. For curative treatment, the biocidal effect is achieved after 1-3 days.
+— Products are to be used only for mid or long-term storage or for curative treatment. Do not use in case of high 
+turnover systems.
+— Check regularly the residual concentration of the active substance (both in the fuel and aqueous phases) between 
+fuel transfers in order to ensure lack of contamination between treatments. The choice of intervals between 
+treatments is based on the check of the residual active substance concentrations.
+— Microbiological tests to prove adequacy of preservation have to be undertaken (both in the fuel and aqueous 
+phases) by the user of the product in order to determine the effective dose of the preservative for the specific 
+matrix/location/system. If needed, consult the manufacturer of the preservative product.
+Not authorised for use in the Kingdom of Denmark and in the Kingdom of Belgium.
+Applicable in the Federal Republic of Germany only: Do not use the products for the preservation of fuels for non 
+rail bound on road motor vehicles, except for the purpose of research, development or analysis.
+5.2.
+Risk mitigation measures
+— For preservation up to the dose of 6 ppm, the maximum amount of treated de-watered crude oil or refined 
+products emptied daily per site is 15 000 m3.
+— For preservation up to the dose of 3 ppm, the maximum amount of treated de-watered crude oil or refined 
+products emptied daily per site is 35 000 m3.
+When handling the biocidal product:
+— Wear protective chemical resistant gloves meeting the requirements of the European Standard EN 374 (glove 
+material to be specified by the authorisation holder within the product information) and a protective coverall 
+(at least type 6 EN13034), during product handling phase.
+(1) Instructions for use, risk mitigation measures and other directions for use under this section are valid for any authorised uses within 
+the meta SPC 1.
+EN
+Official Journal of the European Union 
+L 56/10 
+23.2.2023  
+— Wear chemical goggles meeting the requirements of the European Standard EN 166 during product handling 
+phase.
+— The following technical and organisational measures should be implemented:
+— regular cleaning of the equipment and work area;.
+— the use of a dosing pump for manual loading;
+— minimisation of manual phases;
+— adequate ventilation during application of product.
+5.3.
+Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the 
+environment
+— IF SWALLOWED: Rinse mouth. Do NOT induce vomiting. Call a POISON CENTER or doctor/physician if you 
+feel unwell.
+— IF ON SKIN: Rinse skin with water (or shower). Take off immediately all contaminated clothing and wash it 
+before reuse.
+— IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. 
+Continue rinsing.
+— IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+— If skin irritation or rash occurs: Get medical advice/attention.
+— Keep the container or label available.
+5.4.
+Instructions for safe disposal of the product and its packaging
+— Release only to an industrial sewage treatment plant (STP).
+— Dispose of unused product, its packaging and all other waste, in accordance with local regulations.
+— Do not discharge unused product on the ground, into water courses, into pipes (sink, toilets) nor down the drain.
+5.5.
+Conditions of storage and shelf-life of the product under normal conditions of storage
+Shelf-life: 24 months
+6.
+OTHER INFORMATION
+—
+7.
+THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 1
+7.1.
+Trade name(s), authorisation number and specific composition of each individual product
+Trade name(s)
+KATHON FP 1.5 Biocide
+Market area: EU
+BLUECIDE 832
+Market area: EU
+BIOCIDA CARBURANTE 
+DIESEL-BIODIESEL
+Market area: EU
+T2642
+Market area: EU
+XC85957
+Market area: EU
+BIOSTOP 15 GL
+Market area: EU
+C 412 GP 10
+Market area: EU
+SPEC-AID 8Q700
+Market area: EU
+Predator 9015
+Market area: EU
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/11  
+FuelClear M15
+Market area: EU
+MIRECIDE-KW/615
+Market area: EU
+BIOC41770A
+Market area: EU
+Bactron B1770
+Market area: EU
+Authorisation number
+EU-0023657-0001 1-1
+Common name
+IUPAC name
+Function
+CAS number
+EC number
+Content (%)
+Mixture of 5-chloro- 
+2-methyl-2H- isothiazol- 
+3-one (Einecs 
+247-500-7) 
+and 2-methyl-2H- 
+isothiazol-3-one (Einecs 
+220-239-6) (Mixture 
+of CMIT/MIT)
+Active Substance
+55965-84-9
+11,3
+META SPC 2
+1.
+META SPC 2 ADMINISTRATIVE INFORMATION
+1.1.
+Meta SPC 2 identifier
+Identifier
+Meta SPC KATHON HP
+1.2.
+Suffix to the authorisation number
+Number
+1-2
+1.3.
+Product type(s)
+Product type(s)
+PT06 – Preservatives for products during storage 
+(Preservatives)
+2.
+META SPC 2 COMPOSITION
+2.1.
+Qualitative and quantitative information on the composition of the meta SPC 2
+Common name
+IUPAC name
+Function
+CAS number
+EC number
+Content (%)
+Min
+Max
+Mixture of 5-chloro- 
+2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 247-500-7) 
+and 2-methyl-2H- 
+isothiazol-3-one 
+(Einecs 220-239-6) 
+(Mixture of CMIT/MIT)
+Active 
+Substance
+55965-84-9
+10,8
+12,1
+EN
+Official Journal of the European Union 
+L 56/12 
+23.2.2023  
+Butyl carbitol
+2-(2-butoxye­
+thoxy)ethanol
+Non-active 
+substance
+112-34-5
+203-961-6
+87,9
+89,2
+2.2.
+Type(s) of formulation of the meta SPC 2
+Formulation(s)
+AL – Any other liquid
+3.
+HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 2
+Hazard statements
+Causes severe skin burns and eye damage.
+May cause an allergic skin reaction.
+Very toxic to aquatic life with long lasting effects.
+Corrosive to the respiratory tract.
+Precautionary statements
+Do not breathe vapours.
+Contaminated work clothing should not be allowed out of the workplace.
+Wear protective gloves meeting the requirements of the European Standard 
+EN 374/protective clothing of at least type 6 EN13034/Wear chemical 
+goggles meeting the requirements of the European Standard EN 166.
+Specific treatment (see supplemental first aid instructions on this label).
+IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+IF ON SKIN: Wash with plenty of water.
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water.
+IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact 
+lenses, if present and easy to do. Continue rinsing.
+Immediately call a POISON CENTER/doctor.
+Take off contaminated clothing. And wash it before reuse.
+Wash contaminated clothing before reuse.
+If skin irritation or rash occurs: Get medical advice.
+Store locked up.
+Dispose of contents to an approved facility in accordance with local, regional, 
+national and international regulations.
+Avoid release to the environment.
+Collect spillage.
+4.
+AUTHORISED USE(S) OF THE META SPC 2
+4.1.
+Use description
+Table 2. Use # 1 – Preservation of de-watered crude oil and refined products (middle and light distillate 
+fuels) with a maximum water content of 2 %
+Product type
+PT06 – Preservatives for products during storage (Preservatives)
+Where relevant, an exact description 
+of the authorised use
+Preservation of de-watered crude oil and refined products (middle and light 
+distillate fuels) with a maximum water content of 2 %
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/13  
+Target organism(s) (including 
+development stage)
+Scientific name: Bacteria
+Common name: bacteria
+Development stage: vegetative cells
+Scientific name: Fungi/Yeast
+Common name: yeast
+Development stage: vegetative cells
+Scientific name: Fungi/moulds
+Common name: mould
+Development stage: vegetative cells
+Field(s) of use
+Indoor
+The biocidal product family is recommended to control microorganisms in 
+de-watered crude oil and refined products (middle and light distillate fuels) 
+with a maximum water content of 2 %.
+The biocidal product family is not to be used for the preservation of aviation 
+fuels, naphthas, alkenes/olefins and aromatics (simple and more complex 
+structures).
+Application method(s)
+Method: Loading of biocidal product into the blend tank containing 
+de-watered crude oils or refined products (middle and light distillate fuels)
+Detailed description:
+The biocidal product is added as a single dose at the time of manufacture, 
+storage or shipment.
+Dose the biocidal product to the end use fluid at a point to ensure adequate 
+mixing using automated metering or by manual pouring using a safe 
+measuring dosing system.
+The biocidal product should not be dispensed as supplied into an empty fuel 
+tank. Fuel tanks being treated with the biocidal product should be at least 
+10 % full in order to ensure good homogenisation of the biocidal product, 
+which aids effectiveness of the treatment.
+Fuel tanks and sumps should be drained of water regularly. Following 
+treatment, drain off dead microorganisms and other debris from the treated 
+fuel which have accumulated at the bottom of the tank. Filters should also be 
+checked frequently and examined for the build-up of suspended solids. 
+Whenever periodic maintenance is carried out, tanks should be checked for 
+microbial growth.
+Application rate(s) and frequency
+Application Rate: Refined products (middle and light distillate fuels) and 
+de-watered crude oils – Mid/long term preservation: 50 to 150 ppm v/v of 
+biocidal product as supplied – Curative treatment: 200 to 400 ppm v/v of 
+biocidal product as supplied
+Dilution (%):
+Number and timing of application:
+De-watered crude oils
+Mid/long-term preservation:
+— Bacteria: 33 to 200 ppm v/v of biocidal product as supplied (0,5 – 3 
+ppm v/v CMIT/MIT),
+— Fungi (Yeasts/Moulds): 50 to 200 ppm v/v of biocidal product as supplied 
+(0,75 – 3 ppm v/v CMIT/MIT), contact time needs to be 1-4 weeks, 
+depending on the dose used.
+EN
+Official Journal of the European Union 
+L 56/14 
+23.2.2023  
+Curative treatment:
+— Bacteria: 200 to 400 ppm v/v of biocidal product as supplied (3 – 6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+— Fungi (Yeasts/Moulds): 400 ppm v/v of biocidal product as supplied (6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+Refined products (middle and light distillate fuels)
+Mid/long-term preservation:
+— Bacteria: 33 to 200 ppm v/v of biocidal product as supplied (0,5 – 3 
+ppm v/v CMIT/MIT), contact time needs to be 1-4 weeks, depending on 
+the dose used.
+— Fungi (Yeasts/Moulds): 50 to 200 ppm v/v of biocidal product as supplied 
+(0,75 – 3 ppm v/v CMIT/MIT), contact time needs to be 1-4 weeks, 
+depending on the dose used.
+Curative treatment:
+— Bacteria: 200 to 400 ppm v/v of biocidal product as supplied (3 – 6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+— Fungi (Yeasts/Moulds): 400 ppm v/v of biocidal product as supplied (6 
+ppm v/v CMIT/MIT), contact time needs to be 1 to 3 days, depending 
+on the dose used.
+Repeat as necessary when contamination is detected.
+Category(ies) of users
+Professional
+Pack sizes and packaging material
+Flasks: 5 l nominal, material of construction is high density polyethylene 
+(HDPE)
+Pails: 20 l and 25 l nominal, material of construction is HDPE
+Drums: 215 l and 220 l nominal, material of construction is HDPE
+Intermediate bulk container (IBC): 1000 l nominal, material of construction 
+is HDPE
+4.1.1. Use-specific instructions for use
+See general directions for use.
+4.1.2. Use-specific risk mitigation measures
+See general directions for use.
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect 
+the environment
+See general directions for use.
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+See general directions for use.
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+See general directions for use.
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/15  
+5.
+GENERAL DIRECTIONS FOR USE (2) OF THE META SPC 2
+5.1.
+Instructions for use
+— Always read the label or leaflet before use and follow all the instructions provided.
+— Respect the conditions of use of the biocidal product (concentration, contact time, temperature, pH, etc.)
+— For preservation during mid/long-term storage, contact time needs to be 1 to 4 weeks, depending on the dose 
+used. For curative treatment, the biocidal effect is achieved after 1-3 days.
+— Products are to be used only for mid or long-term storage or for curative treatment. Do not use in case of high 
+turnover systems.
+— Check regularly the residual concentration of the active substance (both in the fuel and aqueous phases) between 
+fuel transfers in order to ensure lack of contamination between treatments. The choice of intervals between 
+treatments is based on the check of the residual active substance concentrations.
+— Microbiological tests to prove adequacy of preservation have to be undertaken (both in the fuel and aqueous 
+phases) by the user of the product in order to determine the effective dose of the preservative for the specific 
+matrix/location/system. If needed, consult the manufacturer of the preservative product.
+Not authorised for use in the Kingdom of Denmark and in the Kingdom of Belgium.
+Applicable in the Federal Republic of Germany only: Do not use the products for the preservation of fuels for non 
+rail bound on road motor vehicles, except for the purpose of research, development or analysis.
+5.2.
+Risk mitigation measures
+— For preservation up to the dose of 6 ppm, the maximum amount of treated de-watered crude oil or refined 
+products emptied daily per site is 15 000 m3.
+— For preservation up to the dose of 3 ppm, the maximum amount of treated de-watered crude oil or refined 
+products emptied daily per site is 35 000 m3.
+When handling the biocidal product:
+— Wear protective chemical resistant gloves meeting the requirements of the European Standard EN 374 (glove 
+material to be specified by the authorisation holder within the product information) and a protective coverall 
+(at least type 6 EN13034), during product handling phase.
+— Wear chemical goggles meeting the requirements of the European Standard EN 166 during product handling 
+phase.
+— The following technical and organisational measures should be implemented:
+— regular cleaning of the equipment and work area;.
+— the use of a dosing pump for manual loading;
+— minimisation of manual phases;
+— adequate ventilation during application of product.
+5.3.
+Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the 
+environment
+— IF SWALLOWED: Rinse mouth. Do NOT induce vomiting. Call a POISON CENTER or doctor/physician if you 
+feel unwell.
+— IF ON SKIN: Rinse skin with water (or shower). Take off immediately all contaminated clothing and wash it 
+before reuse.
+— IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. 
+Continue rinsing.
+— IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+(2) Instructions for use, risk mitigation measures and other directions for use under this section are valid for any authorised uses within 
+the meta SPC 2.
+EN
+Official Journal of the European Union 
+L 56/16 
+23.2.2023  
+— If skin irritation or rash occurs: Get medical advice/attention.
+— Keep the container or label available.
+5.4.
+Instructions for safe disposal of the product and its packaging
+— Release only to an industrial sewage treatment plant (STP).
+— Dispose of unused product, its packaging and all other waste, in accordance with local regulations.
+— Do not discharge unused product on the ground, into water courses, into pipes (sink, toilets) nor down the drain.
+5.5.
+Conditions of storage and shelf-life of the product under normal conditions of storage
+Shelf-life: 3 months
+6.
+OTHER INFORMATION
+—
+7.
+THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 2
+7.1.
+Trade name(s), authorisation number and specific composition of each individual product
+Trade name(s)
+KATHON HP 120 Biocide
+Market area: EU
+BLUECIDE 833
+Market area: EU
+Predator 9000
+Market area: EU
+FuelClear M68 Pro
+Market area: EU
+MIRECIDE-KW/615.C
+Market area: EU
+Authorisation number
+EU-0023657-0002 1-2
+Common name
+IUPAC name
+Function
+CAS number
+EC number
+Content (%)
+Mixture of 5-chloro- 
+2-methyl-2H- isothiazol- 
+3-one (Einecs 
+247-500-7) 
+and 2-methyl-2H- 
+isothiazol-3-one (Einecs 
+220-239-6) (Mixture 
+of CMIT/MIT)
+Active Substance
+55965-84-9
+11,3
+Butyl carbitol
+2-(2-butoxye­
+thoxy)ethanol
+Non-active 
+substance
+112-34-5
+203-961-6
+88,7
+EN
+Official Journal of the European Union 
+23.2.2023 
+L 56/17  

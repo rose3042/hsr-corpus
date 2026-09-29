@@ -1,0 +1,192 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/911 
+of 30 June 2020 
+specifying the characteristics of small-area wireless access points pursuant to Article 57(2) of 
+Directive (EU) 2018/1972 of the European Parliament and the Council establishing the European 
+Electronic Communications Code 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 
+establishing the European Electronic Communications Code (1), and in particular Article 57(2) thereof, 
+Whereas: 
+(1) 
+As recognised by Directive (EU) 2018/1972, since low power small-area wireless access points are likely to have a 
+positive impact on the use of radio spectrum and on the development of wireless communications in the Union, the 
+deployment of small-area wireless access points should be facilitated through a permit-exempt deployment regime. 
+(2) 
+A small-area wireless access point comprises different elements such as a signal processing unit, an antenna system, 
+cable connections and casing. In some cases, the antenna system or portions thereof could be installed separately 
+from the other elements of a small-area wireless access point and connected by one or more dedicated cables. This 
+may be the case for distributed antenna systems or a distributed radio system used by one or multiple operators. A 
+small-area wireless access point may be designed to serve two or more spectrum users. 
+(3) 
+In order to ensure public acceptance and sustainable deployment, small-area wireless access points subject to the 
+second subparagraph of Article 57(1) of Directive (EU) 2018/1972 should have minimal visual impact. To achieve 
+this, they should be either invisible or mounted in a visually non-obtrusive way onto their supporting structure. 
+Their operation should also ensure a high level of protection of public health, as laid down in Council 
+Recommendation 1999/519/EC (2) on the limitation of exposure of the general public to electromagnetic fields 
+(EMF). 
+(4) 
+Directive 2014/53/EU of the European Parliament and of the Council (3) on the harmonisation of the laws of the 
+Member States relating to the making available on the market of radio equipment provides that radio equipment, 
+including a small-area wireless access point, shall be constructed so as to ensure the protection of people’s health 
+and safety. 
+(5) 
+The physical and technical characteristics of small-area wireless access points subject to the second subparagraph of 
+Article 57(1) of Directive (EU) 2018/1972 should therefore be defined in terms of maximum volume, restrictions on 
+weight and maximum emission power for user connectivity. The choice of maximum volume to delimit the visual 
+impact of a small-area wireless access point should allow design flexibility and adaptability to the physical and 
+technical characteristics of the supporting structure. 
+(6) 
+The study for the Commission ‘Light Deployment Regime for Small-Area Wireless Access Points 
+(SAWAPs) (4)’demonstrates that a volume limit of 20 litres should be sufficient to contain the main elements of a 
+small-area wireless access point, while ensuring its unobtrusive character. This maximum volume should apply to 
+any deployment of a small-area wireless access point serving one or more spectrum users, as well as of multiple 
+(1) OJ L 321, 17.12.2018, p. 36. 
+(2) Council Recommendation 1999/519/EC of 12 July 1999 on the limitation of exposure of the general public to electromagnetic fields 
+(0 Hz to 300 GHz) (OJ L 199, 30.7.1999, p. 59). 
+(3) Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the 
+Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC (OJ L 153, 
+22.5.2014, p. 62). 
+(4) Smart 2018/0017, https://op.europa.eu/en/publication-detail/-/publication/463e2d3d-1d8f-11ea-95ab-01aa75ed71a1/language-en/ 
+format-PDF/source-112125706 
+EN
+Official Journal of the European Union 
+L 208/48                                                                                                                                           
+1.7.2020   
+small-area wireless access points sharing an infrastructure site of small surface, such as a light pole, a traffic light, a 
+billboard or a bus stop, which due to its physical dimensions and/or dense replication in a given area is likely to 
+generate visual clutter. 
+(7) 
+Small-area wireless access points, should comply with the European harmonised standard EN 62232:2017 (5) 
+‘Determination of RF field strength, power density and specific absorption rate (SAR) in the vicinity of radiocommunication 
+base stations for the purpose of evaluating human exposure’, which provides a methodology for the installation of base 
+stations taking into account their emission power for the purpose of evaluating human exposure to the electro- 
+magnetic fields (‘EMF’), in compliance with the limits set in Recommendation 1999/519/EC. 
+(8) 
+This standard applies to all type of base stations divided into five installation classes corresponding to different limits 
+of their equivalent isotropical radiated power (EIRP) of a few milliwatt (Class E0), 2 Watt (Class E2), 10 Watt (Class 
+E10), 100 Watt (Class E100) and above 100 Watt (Class E+) respectively. Out of these classes, considering the 
+installation safety distances to be respected under this standard and since Directive (EU) 2018/1972 provides that 
+small-area wireless access points should be low power equipment, this Regulation should only apply to the 
+installation classes E0, E2 and E10. Table 2 of clause 6.2.4 of EN 62232:2017 requires that the lowest radiating part 
+of the antenna of a Class E10 has a height of at least 2,2 metres above the general public walkway to ensure a 
+distance of at least 20 cm between the main antenna lobe and the human body of a 2 m tall person (6). 
+(9) 
+For aesthetic reasons, the indoor installation of small-area wireless access points of Class E10, which are likely to 
+utilise the maximum volume limit of 20 litres, should be limited to large indoor places with a ceiling height of at 
+least 4 metres, such as museums, stadiums, convention centres, airports, metro-transport stations, railway stations, 
+or shopping centres. 
+(10) 
+The weight of a small-area wireless access point and its shape should not impose structural reinforcement of the 
+support structure used. 
+(11) 
+As further development of the relevant standards is foreseen, if they are to cover small-area wireless access points 
+employing active antenna systems, such access points should not fall in the scope of the permit-exempt deployment 
+regime at this stage. 
+(12) 
+In order to allow supervision and monitoring by the competent authorities, in particular in cases of multiple co- 
+located antenna systems, any operator which has deployed small-area wireless access points in compliance with the 
+characteristics laid down in this Regulation, should submit in due time a notification to the competent authority 
+concerning the installation and location of those access points. 
+(13) 
+This Regulation is without prejudice to the powers of the Member States to determine the aggregate levels of EMF 
+resulting from the colocation or the aggregation in a local area of small-area wireless access points covered by the 
+second subparagraph of Article 57(1) of Directive (EU) 2018/1972, and to ensure their compliance with applicable 
+aggregate exposure limits in accordance with Union law by means other than individual permits. 
+(14) 
+The implementation of this Regulation should be regularly monitored in order to facilitate its review if necessary, 
+taking into account national practice and developments in standardisation, in particular with regard to the inclusion 
+of active antenna systems. 
+(15) 
+This Regulation is without prejudice to national measures regarding safety, utility supply and respect of private 
+property, including the right of owners to determine the use of their property. 
+(16) 
+This Regulation is without prejudice to the application of less restrictive regimes at national level for the deployment 
+of small-area wireless access points, in order to facilitate commensurate density and low visual impact of small-area 
+wireless access deployment. 
+(17) 
+The measures provided for in this Regulation are in accordance with the opinion of the Communications 
+Committee, 
+(5) Applicable to the frequency range 110 MHz–100 GHz. 
+(6) Annex C.4 of EN 62232:2017. 
+EN
+Official Journal of the European Union 
+1.7.2020                                                                                                                                          
+L 208/49   
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+This Regulation lays down the physical and technical characteristics of small-area wireless access points referred to in the 
+second subparagraph of Article 57(1) of Directive (EU) 2018/1972. 
+This Regulation shall not apply to small-area wireless access points with an active antenna system. 
+Article 2 
+For the purposes of this Regulation, the following definitions shall apply: 
+(1) ‘equivalent isotropical radiated power (EIRP)’ means the product of the power supplied to the antenna and the antenna 
+gain in a given direction relative to an isotropic antenna; 
+(2) ‘antenna system’ means a hardware part of a small-area wireless access point that radiates radio frequency energy for 
+the purpose of providing wireless connectivity to end users; 
+(3) ‘active antenna system (AAS)’ means an antenna system of a small-area wireless access point, where the amplitude 
+and/or phase between antenna elements is continually adjusted resulting in an antenna pattern that varies in response 
+to short term changes in the radio environment. This excludes long-term beam shaping such as fixed electrical down 
+tilt. In a small-area wireless access point equipped with an AAS, the latter is integrated as part of the small-area 
+wireless access point; 
+(4) ‘indoor’ means any space, including transportation vehicles, that has a ceiling or roof or any fixed or moveable 
+structure or device which is capable of covering all that space, and except for doors, windows and passageways, is 
+wholly enclosed by walls or sides, either permanently or temporarily, regardless of the type of material used for the 
+roof, wall or sides, and regardless of whether the structure is permanent or temporary; 
+(5) ‘outdoor’ means any space which is not indoor. 
+Article 3 
+1.
+Small-area wireless access points referred to in the second subparagraph of Article 57(1) of Directive (EU) 2018/1972 
+shall be fully and safely integrated in their supporting structure and therefore invisible to the general public, or meet the 
+conditions set out in point A of the Annex to this Regulation, and shall comply with the requirements of the European 
+standard laid down in point B of the Annex to this Regulation. 
+2.
+Paragraph 1 is without prejudice to powers of the Member States to determine the aggregate levels of EMF resulting 
+from the colocation or the aggregation in a local area of small-area wireless access points and to ensure compliance with 
+applicable aggregate EMF exposure limits in accordance with Union law by means other than individual permits. 
+3.
+Operators which have deployed small-area wireless access points, which comply with the characteristics laid down in 
+paragraph 1, shall notify the competent authorities about the installation and location of those access points. 
+Article 4 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+It shall apply from 21 December 2020. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 30 June 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 208/50                                                                                                                                           
+1.7.2020   
+ANNEX 
+A. Conditions referred to in Article 3(1) 
+1. The total volume of the visible part of a small-area wireless access point serving one or more spectrum users shall not 
+exceed 20 litres. 
+2. The total volume of the visible parts of multiple separate small-area wireless access points sharing the same 
+infrastructure site of small surface, such as a light pole, a traffic light, a billboard or a bus stop, shall not exceed 20 litres. 
+3. In the cases where the antenna system and other elements, such as a radiofrequency unit, a digital processor, a storage 
+unit, a cooling system, power supply, cabling connections, backhaul elements or elements for earthing and fixation, of 
+the small-area wireless access point are separately installed, any portion thereof in excess of 20 litres shall be made 
+invisible. 
+4. The small-area wireless access point shall comply with visual characteristics which ensure visual consistency with the 
+supporting structure and have a proportionate size relative to the overall size of the supporting structure, coherent 
+shape, neutral colours and concealed cables, and shall not, together with other small-area wireless access points that 
+are already installed in adjacent sites, create aggregate visual clutter. 
+5. The weight of a small-area wireless access point and its shape shall not impose a structural reinforcement of the 
+supporting structure. 
+B. Requirements of European standard referred to in Article 3(1) 
+1. Deployment shall be in accordance with the installation classes E0, E2 and E10 of Table 2 of clause 6.2.4 of the 
+European standard EN 62232:2017 ‘Determination of RF field strength, power density and specific absorption rate 
+(SAR) in the vicinity of radiocommunication base stations for the purpose of evaluating human exposure’. 
+2. A small-area wireless access point of the installation class E10 shall be only deployed outdoors or in indoor spaces with 
+a ceiling height of at least 4 m. 
+3. In the case of multiple co-located antenna systems (or portions thereof) of one or more small-area wireless access 
+points, the criteria for the EIRP contained in the reference in point 1 shall apply to the sum of EIRP of all co-located 
+antenna systems (or portions thereof).   
+EN
+Official Journal of the European Union 
+1.7.2020                                                                                                                                          
+L 208/51   

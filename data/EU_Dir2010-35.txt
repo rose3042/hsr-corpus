@@ -1,0 +1,1543 @@
+I
+(Legislative acts)
+DIRECTIVES
+DIRECTIVE 2010/35/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 16 June 2010
+on transportable pressure equipment and repealing Council Directives 76/767/EEC, 84/525/EEC,
+84/526/EEC, 84/527/EEC and 1999/36/EC
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EURO-
+PEAN UNION,
+Having regard to the Treaty on the Functioning of the European
+Union, and in particular Article 91 thereof,
+Having regard to the proposal from the European Commission,
+Having regard to the opinion of the European Economic and
+Social Committee (1),
+After consulting the Committee of the Regions,
+Acting in accordance with the ordinary legislative procedure (2),
+Whereas:
+(1)
+Council Directive 1999/36/EC of 29 April 1999 on trans-
+portable pressure equipment (3) was adopted as a first step
+towards enhancing transport safety for transportable pres-
+sure equipment, whilst ensuring the free movement of
+transportable pressure equipment in a single transport
+market.
+(2)
+In the light of developments in transport safety, it is nec-
+essary to update certain technical provisions of Directive
+1999/36/EC.
+(3)
+Directive 2008/68/EC of the European Parliament and of
+the Council of 24 September 2008 on the inland transport
+of dangerous goods (4) extended the application of the
+provisions of certain international agreements to cover
+national traffic in order to harmonise the conditions under
+which dangerous goods are transported by road, rail and
+inland waterways across the Union.
+(4)
+It is therefore necessary to update the provisions of Direc-
+tive 1999/36/EC accordingly to avoid conflicting rules, in
+particular as regards conformity requirements, conformity
+assessment and conformity assessment procedures in rela-
+tion to transportable pressure equipment.
+(5)
+In order to enhance safety with regard to transportable
+pressure equipment approved for the inland transport of
+dangerous goods and to ensure free movement, including
+placing on the market, making available on the market and
+use of such transportable pressure equipment within the
+Union, it is necessary to lay down detailed rules concern-
+ing the obligations of the various operators and the require-
+ments to be fulfilled by the equipment concerned.
+(6)
+Decision No 768/2008/EC of the European Parliament and
+of the Council of 9 July 2008 on a common framework for
+the marketing of products (5) constitutes a general frame-
+work of a horizontal nature for future legislation harmo-
+nising the conditions for the marketing of products. This
+framework should apply where appropriate for the trans-
+portable pressure equipment sector in line with the objec-
+tive of harmonising rules on the free movement of
+products.
+(7)
+In order not to hinder transport operations between Mem-
+ber States and third countries, this Directive should not
+apply to transportable pressure equipment exclusively used
+for the transport of dangerous goods between the territory
+of the Union and that of third countries.
+(1) Opinion of 17 February 2010 (not yet published in the Official Jour-
+nal).
+(2) Position of the European Parliament of 5 May 2010 (not yet published
+in the Official Journal) and Decision of the Council of 31 May 2010.
+(3) OJ L 138, 1.6.1999, p. 20.
+(4) OJ L 260, 30.9.2008, p. 13.
+(5) OJ L 218, 13.8.2008, p. 82.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/1
+(8)
+The obligations of the different economic operators,
+including owners and operators of transportable pressure
+equipment, should be clearly defined in the interests of
+transport safety and the free movement of transportable
+pressure equipment.
+(9)
+Economic operators should in relation to their respective
+roles in the supply chain be responsible for the compliance
+of transportable pressure equipment with the safety and
+market access rules.
+(10)
+Compliance of new transportable pressure equipment with
+the technical requirements of the Annexes to Directive
+2008/68/EC and this Directive should be demonstrated by
+means of a conformity assessment to provide evidence that
+the transportable pressure equipment is safe.
+(11)
+Periodic inspections, intermediate inspections and excep-
+tional checks of transportable pressure equipment should
+be carried out in accordance with the Annexes to Directive
+2008/68/EC and with this Directive to ensure continued
+compliance with their safety requirements.
+(12)
+Transportable pressure equipment should bear a mark
+indicating its compliance with Directive 2008/68/EC and
+this Directive to ensure its free movement and free use.
+(13)
+This Directive should not apply to transportable pressure
+equipment which was placed on the market before the rel-
+evant date of implementation of Directive 1999/36/EC and
+which has not been subject to reassessment of conformity.
+(14)
+Where existing transportable pressure equipment not pre-
+viously assessed for conformity with Directive 1999/36/EC
+is to benefit from free movement and free use, it should be
+subject to reassessment of conformity.
+(15)
+It is necessary to set requirements for authorities respon-
+sible for the assessment, notification and monitoring of
+notified bodies in order to ensure a consistent level of qual-
+ity in the performance of notified bodies.
+(16)
+The conformity assessment procedures provided for in the
+Annexes to Directive 2008/68/EC and in this Directive
+require the intervention of inspection bodies setting out
+detailed operational requirements to ensure a uniform level
+of performance throughout the Union. These inspection
+bodies should then be notified by the Member States to the
+Commission.
+(17)
+The notifying authority should retain responsibility for
+monitoring the notified body regardless of where the noti-
+fied body performs its activities in order to ensure clear
+responsibility for ongoing monitoring.
+(18)
+It is necessary to lay down common rules for the mutual
+recognition of notified bodies which ensure compliance
+with Directive 2008/68/EC and this Directive. Those com-
+mon rules will have the effect of eliminating unnecessary
+costs and administrative procedures related to the approval
+of the equipment and of eliminating technical barriers to
+trade.
+(19)
+Member States should be able to take measures to limit or
+prohibit the placing on the market and use of equipment
+in cases where such equipment presents a risk to safety in
+certain specified circumstances, including when such
+equipment is in compliance with Directive 2008/68/EC
+and with this Directive.
+(20)
+The Commission should draw up specific guidelines to
+facilitate the practical implementation of the technical pro-
+visions of this Directive, taking into account the results of
+the exchange of experiences as foreseen in Articles 28
+and 29.
+(21)
+The Commission should be empowered to adopt delegated
+acts in accordance with Article 290 of the Treaty on the
+Functioning of the European Union (TFEU) in respect of
+certain adaptations of the Annexes. It is of particular
+importance that the Commission carry out appropriate
+consultations during its preparatory work, including at
+expert level.
+(22)
+Council Directive 76/767/EEC of 27 July 1976 on the
+approximation of the laws of the Member States relating to
+common provisions for pressure vessels and methods for
+inspecting them (1), Council Directive 84/525/EEC of
+17 September 1984 on the approximation of the laws of
+the Member States relating to seamless, steel gas cylin-
+ders (2), Council Directive 84/526/EEC of 17 September
+1984 on the approximation of the laws of the Member
+States relating to seamless, unalloyed aluminium and alu-
+minium
+alloy
+gas
+cylinders (3),
+Council
+Directive
+84/527/EEC of 17 September 1984 on the approximation
+of the laws of the Member States relating to welded unal-
+loyed steel gas cylinders (4) and Directive 1999/36/EC have
+become obsolete and should therefore be repealed.
+(23)
+In accordance with paragraph 34 of the Interinstitutional
+Agreement on better law-making (5), Member States are
+encouraged to draw up, for themselves and in the interest
+of the Union, their own tables, which will, as far as pos-
+sible, illustrate the correlation between this Directive and
+their transposition measures, and to make those tables
+public,
+(1) OJ L 262, 27.9.1976, p. 153.
+(2) OJ L 300, 19.11.1984, p. 1.
+(3) OJ L 300, 19.11.1984, p. 20.
+(4) OJ L 300, 19.11.1984, p. 48.
+(5) OJ C 321, 31.12.2003, p. 1.
+L 165/2
+EN
+Official Journal of the European Union
+30.6.2010
+HAVE ADOPTED THIS DIRECTIVE:
+CHAPTER 1
+SCOPE AND DEFINITIONS
+Article 1
+Scope
+1.
+This Directive sets out detailed rules concerning transport-
+able pressure equipment to enhance safety and ensure free move-
+ment of such equipment within the Union.
+2.
+This Directive shall apply to:
+(a)
+new transportable pressure equipment as defined in
+Article 2(1), which does not bear the conformity markings
+provided
+for
+in
+Directives
+84/525/EEC,
+84/526/EEC,
+84/527/EEC or 1999/36/EC, for the purpose of making it
+available on the market;
+(b) transportable pressure equipment as defined in Article 2(1),
+bearing the conformity markings provided for in this Direc-
+tive or in Directives 84/525/EEC, 84/526/EEC, 84/527/EEC
+or 1999/36/EC, for the purposes of its periodic inspections,
+intermediate inspections, exceptional checks and use;
+(c)
+transportable pressure equipment as defined in Article 2(1),
+which does not bear the conformity markings provided for
+in Directive 1999/36/EC, for the purposes of reassessment of
+conformity.
+3.
+This Directive shall not apply to transportable pressure
+equipment which was placed on the market before the date of
+implementation of Directive 1999/36/EC and which has not been
+subject to a reassessment of conformity.
+4.
+This Directive shall not apply to transportable pressure
+equipment used exclusively for the transport of dangerous goods
+between Member States and third countries, carried out in accor-
+dance with Article 4 of Directive 2008/68/EC.
+Article 2
+Definitions
+For the purposes of this Directive the following definitions shall
+apply:
+(1)
+‘transportable pressure equipment’ means:
+(a)
+all pressure receptacles, their valves and other accesso-
+ries when appropriate, as covered in Chapter 6.2 of the
+Annexes to Directive 2008/68/EC;
+(b) tanks, battery vehicles/wagons, multiple-element gas
+containers (MEGCs), their valves and other accessories
+when appropriate, as covered in Chapter 6.8 of the
+Annexes to Directive 2008/68/EC;
+when the equipment under (a) or (b) is used in accordance
+with those Annexes for the transport of Class 2 gases,
+excluding gases or articles with figures 6 and 7 in the clas-
+sification code, and for the transport of the dangerous sub-
+stances of other classes specified in Annex I to this Directive.
+Transportable pressure equipment shall be understood as
+including gas cartridges (UN No 2037) and excluding aero-
+sols (UN No 1950), open cryogenic receptacles, gas cylin-
+ders for breathing apparatus, fire extinguishers (UN
+No 1044), transportable pressure equipment exempted
+according
+to
+1.1.3.2
+of
+the
+Annexes
+to
+Directive
+2008/68/EC
+and
+transportable
+pressure
+equipment
+exempted from the rules for construction and testing of
+packaging according to special provisions in 3.3 of the
+Annexes to Directive 2008/68/EC;
+(2)
+‘Annexes to Directive 2008/68/EC’ means Section I.1 of
+Annex I, Section II.1 of Annex II, and Section III.1 of
+Annex III to Directive 2008/68/EC;
+(3)
+‘placing on the market’ means the first making available of
+transportable pressure equipment on the Union market;
+(4)
+‘making available on the market’ means any supply of trans-
+portable pressure equipment for distribution or use on the
+Union market in the course of a commercial or public ser-
+vice activity, whether in return for payment or free of charge;
+(5)
+‘use’ means filling, temporary storage linked to carriage,
+emptying and refilling of transportable pressure equipment;
+(6)
+‘withdrawal’ means any measure aimed at preventing trans-
+portable pressure equipment from being made available on
+the market or from being used;
+(7)
+‘recall’ means any measure aimed at achieving the return of
+transportable pressure equipment that has already been
+made available to the end user;
+(8)
+‘manufacturer’ means any natural or legal person who manu-
+factures transportable pressure equipment, or parts thereof,
+or who has such equipment designed or manufactured and
+markets it under his name or trademark;
+(9)
+‘authorised representative’ means any natural or legal per-
+son established within the Union who has received a written
+mandate from the manufacturer to act on his behalf in rela-
+tion to specified tasks;
+(10) ‘importer’ means any natural or legal person established
+within the Union, who places transportable pressure equip-
+ment or parts thereof from a third country on the Union
+market;
+(11) ‘distributor’ means any natural or legal person established
+within the Union, other than the manufacturer or the
+importer, who makes transportable pressure equipment or
+parts thereof available on the market;
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/3
+(12) ‘owner’ means any natural or legal person established within
+the Union who owns transportable pressure equipment;
+(13) ‘operator’ means any natural or legal person established in
+the Union using transportable pressure equipment;
+(14) ‘economic operator’ means the manufacturer, the authorised
+representative, the importer, the distributor, the owner or
+the operator acting in the course of a commercial or public
+service activity, whether in return for payment or free of
+charge;
+(15) ‘conformity assessment’ means the assessment and the pro-
+cedure for the assessment of conformity set out in the
+Annexes to Directive 2008/68/EC;
+(16) ‘Pi marking’ means a marking which indicates that the trans-
+portable pressure equipment is in conformity with the appli-
+cable conformity assessment requirements set out in the
+Annexes to Directive 2008/68/EC and in this Directive;
+(17) ‘reassessment of conformity’ means the procedure under-
+taken, at the request of the owner or operator, for the sub-
+sequent assessment of the conformity of transportable
+pressure equipment manufactured and placed on the mar-
+ket before the date of implementation of Directive
+1999/36/EC;
+(18) ‘periodic inspection’ means the periodic inspection and the
+procedures governing the periodic inspection as set out in
+the Annexes to Directive 2008/68/EC;
+(19) ‘intermediate inspection’ means the intermediate inspection
+and the procedures governing the intermediate inspection as
+set out in the Annexes to Directive 2008/68/EC;
+(20) ‘exceptional check’ means the exceptional check and the pro-
+cedures governing the exceptional check set out in the
+Annexes to Directive 2008/68/EC;
+(21) ‘national accreditation body’ means the sole body in a Mem-
+ber State that performs accreditation with authority derived
+from the State;
+(22) ‘accreditation’ means an attestation by a national accredita-
+tion body that a notified body meets the requirements set
+out in the second paragraph of 1.8.6.8 of the Annexes to
+Directive 2008/68/EC;
+(23) ‘notifying authority’ means the authority designated by a
+Member State pursuant to Article 17;
+(24) ‘notified body’ means an inspection body meeting the
+requirements
+set
+out
+in
+the
+Annexes
+to
+Directive
+2008/68/EC and the conditions set out in Articles 20 and 26
+of this Directive and notified in accordance with Article 22
+of this Directive;
+(25) ‘notification’ is the process of awarding notified body status
+to an inspection body and includes communication of this
+information to the Commission and to the Member States;
+(26) ‘market surveillance’ means the activities carried out and
+measures taken by public authorities to ensure that trans-
+portable pressure equipment during its life cycle complies
+with the requirements set out in Directive 2008/68/EC and
+this Directive and does not endanger health, safety or any
+other aspect of public interest protection.
+Article 3
+On-site requirements
+Member States may on their territory establish on-site require-
+ments for the mid- or long-term storage or the on-site use of
+transportable pressure equipment. However, Member States shall
+not establish additional requirements for the transportable pres-
+sure equipment itself.
+CHAPTER 2
+OBLIGATIONS OF ECONOMIC OPERATORS
+Article 4
+Obligations of manufacturers
+1.
+When placing their transportable pressure equipment on
+the market, manufacturers shall ensure that the equipment has
+been designed, manufactured and documented in accordance
+with the requirements set out in the Annexes to Directive
+2008/68/EC and in this Directive.
+2.
+Where the compliance of the transportable pressure equip-
+ment with the applicable requirements has been demonstrated
+through the conformity assessment process set out in the Annexes
+to Directive 2008/68/EC and in this Directive, manufacturers
+shall affix the Pi marking in accordance with Article 15 of this
+Directive.
+3.
+Manufacturers shall keep the technical documentation
+specified in the Annexes to Directive 2008/68/EC. This documen-
+tation shall be kept for the period specified therein.
+4.
+Manufacturers who consider or have reason to believe that
+transportable pressure equipment which they have placed on the
+market is not in conformity with the Annexes to Directive
+2008/68/EC or with this Directive shall immediately take the cor-
+rective measures necessary to bring the transportable pressure
+equipment into conformity, to withdraw it or to recall it, if appro-
+priate. Furthermore, where the transportable pressure equipment
+presents a risk, manufacturers shall immediately inform the com-
+petent national authorities of the Member States in which they
+made the transportable pressure equipment available to that
+effect, giving details, in particular, of the non-compliance and of
+any corrective measures taken.
+5.
+Manufacturers shall document all such instances of non-
+compliance and corrective measures.
+L 165/4
+EN
+Official Journal of the European Union
+30.6.2010
+6.
+Manufacturers shall, further to a reasoned request from the
+competent national authority, provide it with all the information
+and documentation necessary to demonstrate the conformity of
+the transportable pressure equipment, in a language easily under-
+stood by that authority. They shall cooperate with that authority,
+at its request, as regards any action taken to eliminate the risks
+posed by transportable pressure equipment which they have
+placed on the market.
+7.
+Manufacturers shall only provide information to operators
+which complies with the requirements set out in the Annexes to
+Directive 2008/68/EC and in this Directive.
+Article 5
+Authorised representatives
+1.
+Manufacturers may, by a written mandate, appoint an
+authorised representative.
+The obligations set out in Article 4(1) and (2) and the drawing up
+of technical documentation shall not form part of the authorised
+representative’s mandate.
+2.
+An authorised representative shall perform the tasks speci-
+fied in the mandate received from the manufacturer. The mandate
+shall allow the authorised representative to do at least the
+following:
+(a)
+keep the technical documentation at the disposal of national
+surveillance authorities for at least the period as specified in
+the Annexes to Directive 2008/68/EC for manufacturers;
+(b) further to a reasoned request from a competent national
+authority, provide that authority with all the information and
+documentation necessary to demonstrate the conformity of
+the transportable pressure equipment in a language easily
+understood by that authority;
+(c)
+cooperate with the competent national authorities, at their
+request, on any action taken to eliminate the risks posed by
+transportable pressure equipment covered by the mandate.
+3.
+The identity and address of the authorised representative
+shall be indicated on the certificate of conformity specified in the
+Annexes to Directive 2008/68/EC.
+4.
+Authorised representatives shall only provide information
+to operators which complies with the requirements set out in the
+Annexes to Directive 2008/68/EC and in this Directive.
+Article 6
+Obligations of importers
+1.
+Importers shall only place on the Union market transport-
+able pressure equipment which is in conformity with the Annexes
+to Directive 2008/68/EC and with this Directive.
+2.
+Before placing transportable pressure equipment on the
+market, importers shall ensure that the appropriate conformity
+assessment procedure has been carried out by the manufacturer.
+They shall ensure that the manufacturer has drawn up the tech-
+nical documentation and that the transportable pressure equip-
+ment bears the Pi marking and is accompanied by the certificate
+of conformity specified in the Annexes to Directive 2008/68/EC.
+Where an importer considers or has reason to believe that the
+transportable pressure equipment is not in conformity with the
+Annexes to Directive 2008/68/EC or with this Directive, he shall
+not place the transportable pressure equipment on the market
+until it has been brought into conformity. Furthermore, where the
+transportable pressure equipment presents a risk, the importer
+shall inform the manufacturer and the market surveillance
+authorities to that effect.
+3.
+Importers shall indicate their name and the address at which
+they can be contacted either in, or attached to, the certificate of
+conformity specified in the Annexes to Directive 2008/68/EC.
+4.
+Importers shall ensure that, while transportable pressure
+equipment is under their responsibility, storage or transport con-
+ditions do not jeopardise its compliance with the requirements set
+out in the Annexes to Directive 2008/68/EC.
+5.
+Importers who consider or have reason to believe that trans-
+portable pressure equipment which they have placed on the mar-
+ket is not in conformity with the Annexes to Directive
+2008/68/EC or with this Directive shall immediately take the cor-
+rective measures necessary to bring the transportable pressure
+equipment into conformity, to withdraw it or to recall it, if appro-
+priate. Furthermore, where the transportable pressure equipment
+presents a risk, importers shall immediately inform the manufac-
+turer and the competent national authorities of the Member States
+in which they made the transportable pressure equipment avail-
+able to that effect, giving details, in particular, of the non-
+compliance and of any corrective measures taken.
+Importers shall document all such instances of non-compliance
+and corrective measures.
+6.
+Importers shall, for at least the period specified in the
+Annexes to Directive 2008/68/EC for manufacturers, keep a copy
+of the technical documentation at the disposal of the market sur-
+veillance authorities and ensure that the technical documentation
+can be made available to those authorities upon request.
+7.
+Importers shall, further to a reasoned request from the com-
+petent national authority, provide it with all the information and
+documentation necessary to demonstrate the conformity of the
+transportable pressure equipment, in a language easily understood
+by that authority. They shall cooperate with that authority, at its
+request, on any action taken to eliminate the risks posed by trans-
+portable pressure equipment which they have placed on the
+market.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/5
+8.
+Importers shall only provide information to operators
+which complies with the requirements set out in the Annexes to
+Directive 2008/68/EC and in this Directive.
+Article 7
+Obligations of distributors
+1.
+Distributors shall only make available on the Union market
+transportable pressure equipment which is in conformity with the
+Annexes to Directive 2008/68/EC and with this Directive. Before
+making transportable pressure equipment available on the mar-
+ket distributors shall verify that the transportable pressure equip-
+ment bears the Pi marking, and that it is accompanied by the
+certificate of conformity and the contact address referred to in
+Article 6(3) of this Directive.
+Where a distributor considers or has reason to believe that trans-
+portable pressure equipment is not in conformity with the
+Annexes to Directive 2008/68/EC or with this Directive, he shall
+not make the transportable pressure equipment available on the
+market until it has been brought into conformity. Furthermore,
+where the transportable pressure equipment presents a risk, the
+distributor shall inform the manufacturer or the importer to that
+effect as well as the market surveillance authorities.
+2.
+Distributors shall ensure that, while transportable pressure
+equipment is under their responsibility, storage or transport con-
+ditions do not jeopardise its compliance with the requirements set
+out in the Annexes to Directive 2008/68/EC.
+3.
+Distributors who consider or have reason to believe that
+transportable pressure equipment which they have made available
+on the market is not in conformity with the Annexes to Directive
+2008/68/EC or with this Directive shall make sure that the cor-
+rective measures necessary to bring that transportable pressure
+equipment into conformity, to withdraw it or to recall it, if appro-
+priate, are taken. Furthermore, where the transportable pressure
+equipment presents a risk, distributors shall immediately inform
+the manufacturer, the importer, where relevant, and the compe-
+tent national authorities of the Member States in which they made
+the transportable pressure equipment available to that effect, giv-
+ing details, in particular, of the non-compliance and of any cor-
+rective measures taken.
+Distributors shall document all such instances of non-compliance
+and corrective measures.
+4.
+Distributors shall, further to a reasoned request from the
+competent national authority, provide it with all the information
+and documentation necessary to demonstrate the conformity of
+the transportable pressure equipment in a language easily under-
+stood by that authority. They shall cooperate with that authority,
+at its request, on any action taken to eliminate the risks posed by
+transportable pressure equipment which they have made available
+on the market.
+5.
+Distributors shall only provide information to operators
+which complies with the requirements set out in the Annexes to
+Directive 2008/68/EC and in this Directive.
+Article 8
+Obligations of owners
+1.
+Where an owner considers or has reason to believe that
+transportable pressure equipment is not in conformity with the
+Annexes to Directive 2008/68/EC, including the requirements for
+periodic inspection, and with this Directive, he shall not make it
+available or use it until it has been brought into conformity. Fur-
+thermore, where the transportable pressure equipment presents a
+risk, the owner shall inform the manufacturer or the importer or
+the distributor to that effect as well as the market surveillance
+authorities.
+Owners shall document all such instances of non-compliance and
+corrective measures.
+2.
+Owners shall ensure that, while transportable pressure
+equipment is under their responsibility, storage or transport con-
+ditions do not jeopardise its compliance with the requirements set
+out in the Annexes to Directive 2008/68/EC.
+3.
+Owners shall only provide information to operators which
+complies with the requirements set out in the Annexes to Direc-
+tive 2008/68/EC and in this Directive.
+4.
+This Article shall not apply to private individuals intending
+to use or using transportable pressure equipment for their per-
+sonal or domestic use or for their leisure or sporting activities.
+Article 9
+Obligations of operators
+1.
+Operators shall only use transportable pressure equipment
+which is in conformity with the requirements set out in the
+Annexes to Directive 2008/68/EC and in this Directive.
+2.
+Where the transportable pressure equipment presents a risk,
+the operator shall inform the owner to that effect as well as the
+market surveillance authorities.
+Article 10
+Cases in which obligations of manufacturers apply to
+importers and distributors
+An importer or distributor shall be considered a manufacturer for
+the purposes of this Directive and subject to the obligations of the
+manufacturer pursuant to Article 4, where he places transport-
+able pressure equipment on the market under his name or trade-
+mark or modifies transportable pressure equipment already
+placed on the market in such a way that compliance with the
+applicable requirements may be affected.
+L 165/6
+EN
+Official Journal of the European Union
+30.6.2010
+Article 11
+Identification of economic operators
+Economic operators shall, on request from the market surveil-
+lance authority, identify the following to it for a period of at least
+10 years:
+(a)
+any economic operator who has supplied them with trans-
+portable pressure equipment;
+(b) any economic operator to whom they have supplied trans-
+portable pressure equipment.
+CHAPTER 3
+CONFORMITY OF TRANSPORTABLE PRESSURE EQUIPMENT
+Article 12
+Conformity of transportable pressure equipment and its
+assessment
+1.
+The transportable pressure equipment referred to in
+Article 1(2)(a) shall meet the relevant conformity assessment, peri-
+odic inspection, intermediate inspection and exceptional checks
+requirements set out in the Annexes to Directive 2008/68/EC and
+in Chapters 3 and 4 of this Directive.
+2.
+The transportable pressure equipment referred to in
+Article 1(2)(b) shall meet the specifications of the documentation
+according to which the equipment was manufactured. The equip-
+ment shall be subject to periodic inspections, intermediate inspec-
+tions and exceptional checks in accordance with the Annexes to
+Directive 2008/68/EC and with the requirements of Chapters 3
+and 4 of this Directive.
+3.
+Certificates of conformity assessment and certificates of
+reassessment of conformity and reports of periodic inspections,
+intermediate inspections and exceptional checks issued by a noti-
+fied body shall be valid in all Member States.
+For demountable parts of refillable transportable pressure equip-
+ment a separate conformity assessment may be carried out.
+Article 13
+Reassessment of conformity
+The reassessment of conformity of transportable pressure equip-
+ment referred to in Article 1(2)(c) manufactured and put into ser-
+vice before the date of implementation of Directive 1999/36/EC
+shall be established in accordance with the conformity reassess-
+ment procedure set out in Annex III to this Directive.
+The Pi marking shall be affixed in accordance with Annex III to
+this Directive.
+Article 14
+General principles of the Pi marking
+1.
+The Pi marking shall only be affixed by the manufacturer or,
+in cases of reassessment of conformity, as set out in Annex III. For
+gas
+cylinders
+previously
+in
+compliance
+with
+Directives
+84/525/EEC, 84/526/EEC or 84/527/EEC the Pi mark shall be
+affixed by or under the surveillance of the notified body.
+2.
+The Pi marking shall be affixed only to transportable pres-
+sure equipment which:
+(a)
+meets the conformity assessment requirements in the
+Annexes to Directive 2008/68/EC and in this Directive; or
+(b) meets the reassessment of conformity requirements referred
+to in Article 13.
+It shall not be affixed to any other transportable pressure
+equipment.
+3.
+By affixing or having affixed the Pi marking, the manufac-
+turer indicates that he takes responsibility for the conformity of
+the transportable pressure equipment with all applicable require-
+ments set out in the Annexes to Directive 2008/68/EC and in this
+Directive.
+4.
+For the purposes of this Directive, the Pi marking shall be
+the only marking which attests conformity of the transportable
+pressure equipment with the applicable requirements set out in
+the Annexes to Directive 2008/68/EC and in this Directive.
+5.
+The affixing on transportable pressure equipment of mark-
+ings, signs and inscriptions which are likely to mislead third par-
+ties as to the meaning or form of the Pi marking, shall be
+prohibited. Any other marking shall be affixed to the transport-
+able pressure equipment in such a way that the visibility, legibil-
+ity and meaning of the Pi marking are not thereby impaired.
+6.
+Demountable parts of refillable transportable pressure
+equipment with a direct safety function shall be Pi-marked.
+7.
+Member States shall ensure correct implementation of the
+rules governing the Pi marking and shall take appropriate action
+in the event of improper use of the marking. Member States shall
+also provide for penalties for infringements, which may include
+criminal sanctions for serious infringements. Those penalties shall
+be proportionate to the seriousness of the offence and constitute
+an effective deterrent against improper use.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/7
+Article 15
+Rules and conditions for the affixing of the Pi marking
+1.
+The Pi marking shall consist of the following symbol in the
+following form:
+2.
+The minimum height of the Pi marking shall be 5 mm. For
+transportable pressure equipment with a diameter less than or
+equal to 140 mm the minimum height shall be 2,5 mm.
+3.
+The proportions given in the graduated drawing in para-
+graph 1 shall be respected. The grid does not form part of the
+marking.
+4.
+The Pi marking shall be affixed visibly, legibly and perma-
+nently to the transportable pressure equipment or to its data plate
+as well as to demountable parts of refillable transportable pres-
+sure equipment having a direct safety function.
+5.
+The Pi marking shall be affixed before the new transport-
+able pressure equipment or demountable parts of refillable trans-
+portable pressure equipment having a direct safety function are
+placed on the market.
+6.
+The Pi marking shall be followed by the identification num-
+ber of the notified body involved in the initial inspections and
+tests.
+The identification number of the notified body shall be affixed by
+the body itself, or under its instructions, by the manufacturer.
+7.
+The marking of the date of the periodic inspection or, where
+appropriate, the intermediate inspection shall be accompanied by
+the identification number of the notified body responsible for the
+periodic inspection.
+8.
+With regard to gas cylinders previously in compliance with
+Directives 84/525/EEC, 84/526/EEC or 84/527/EEC not bearing
+the Pi marking, when the first periodic inspection is carried out
+in accordance with this Directive, the identification number of the
+notified body responsible shall be preceded by the Pi marking.
+Article 16
+Free movement of transportable pressure equipment
+Without prejudice to the safeguard procedures in Articles 30
+and 31 of this Directive and to the market surveillance framework
+set out in Regulation (EC) No 765/2008 (1), no Member State
+shall prohibit, restrict or impede on its territory the free move-
+ment, the making available on the market and the use of trans-
+portable pressure equipment, which complies with this Directive.
+CHAPTER 4
+NOTIFYING AUTHORITIES AND NOTIFIED BODIES
+Article 17
+Notifying authorities
+1.
+Member States shall designate a notifying authority that
+shall be responsible for setting up and carrying out the necessary
+procedures for the assessment, notification and subsequent moni-
+toring of notified bodies.
+2.
+Member States may decide that the assessment and moni-
+toring referred to in paragraph 1 shall be carried out by a national
+accreditation body within the meaning of and in accordance with
+Regulation (EC) No 765/2008.
+3.
+Where the notifying authority delegates or otherwise
+entrusts the monitoring referred to in paragraph 1 to a body
+which is not a governmental entity, that body shall be a legal
+entity and shall comply mutatis mutandis with the requirements set
+out in Article 18(1) to (6). In addition the entrusted body shall
+have arrangements to cover liabilities arising out of its activities.
+4.
+The notifying authority shall take full responsibility for the
+tasks performed by the body referred to in paragraph 3.
+Article 18
+Requirements relating to notifying authorities
+1.
+The notifying authority shall be established in such a way
+that no conflicts of interest with notified bodies occur.
+2.
+The notifying authority shall be organised and operated so
+as to safeguard the objectivity and impartiality of its activities.
+3.
+The notifying authority shall be organised in such a way
+that each decision relating to notification of the notified bodies is
+taken by competent persons different from those who carried out
+the assessment.
+(1) Regulation (EC) No 765/2008 of the European Parliament and of the
+Council of 9 July 2008 setting out the requirements for accreditation
+and market surveillance relating to the marketing of products
+(OJ L 218, 13.8.2008, p. 30).
+L 165/8
+EN
+Official Journal of the European Union
+30.6.2010
+4.
+The notifying authority shall not offer or provide any activi-
+ties or consultancy services on a commercial or competitive basis
+that notified bodies perform.
+5.
+The notifying authority shall safeguard the confidentiality of
+the information obtained.
+6.
+The notifying authority shall have a sufficient number of
+competent personnel at its disposal for the proper performance
+of its tasks.
+Article 19
+Information obligation of notifying authorities
+Member States shall inform the Commission of their national pro-
+cedures for the assessment, notification and monitoring of noti-
+fied bodies, and of any changes to that information.
+The Commission shall make that information publicly available.
+Article 20
+Requirements relating to notified bodies
+1.
+For the purposes of notification, a notified body shall meet
+the requirements set out in the Annexes to Directive 2008/68/EC
+and in this Directive.
+2.
+A competent authority, within the meaning of the Annexes
+to Directive 2008/68/EC may be a notified body provided it meets
+the requirements set out in the Annexes to Directive 2008/68/EC
+and in this Directive and that it does not also act as the notifying
+authority.
+3.
+The notified body shall be established under national law
+and shall have legal personality.
+4.
+The notified body shall participate in, or ensure that its
+assessment personnel is informed of, the relevant standardisation
+activities and the activities of the notified body coordination
+group established pursuant to Article 29 and apply as general
+guidance the administrative decisions and documents produced as
+a result of the work of that group.
+Article 21
+Application for notification
+1.
+An inspection body shall submit an application for notifi-
+cation to the notifying authority of the Member State in which it
+is established.
+2.
+The application shall be accompanied by a description of:
+(a)
+the activities relating to conformity assessment, periodic
+inspection, intermediate inspection, exceptional checks and
+reassessment of conformity;
+(b) the procedures relating to point (a);
+(c)
+the transportable pressure equipment for which the body
+claims to be competent;
+(d) an accreditation certificate issued by a national accreditation
+body within the meaning of Regulation (EC) No 765/2008,
+attesting that the inspection body fulfils the requirements set
+out in Article 20 of this Directive.
+Article 22
+Notification procedure
+1.
+Notifying authorities shall notify only those bodies which
+have satisfied the requirements set out in Article 20.
+2.
+They shall notify the Commission and the other Member
+States using the electronic tool developed and managed by the
+Commission.
+3.
+The notification shall include the information required in
+Article 21(2).
+4.
+The body concerned may perform the activities of a noti-
+fied body only where no objections are raised by the Commission
+or the other Member States within two weeks of a notification.
+Only such a body shall be considered a notified body for the pur-
+poses of this Directive.
+5.
+The Commission and the other Member States shall be noti-
+fied of any subsequent relevant changes to the notification.
+6.
+In–house inspection services of the applicant as defined in
+the Annexes to Directive 2008/68/EC shall not be notified.
+Article 23
+Identification numbers and lists of notified bodies
+1.
+The Commission shall assign an identification number to a
+notified body.
+It shall assign a single such number even where the body is noti-
+fied under several Union acts.
+2.
+The Commission shall make publicly available the list of the
+bodies notified under this Directive, including the identification
+numbers that have been allocated to them and the activities for
+which they have been notified.
+The Commission shall ensure that that list is kept up to date.
+Article 24
+Changes to notifications
+1.
+Where a notifying authority has ascertained or has been
+informed that a notified body no longer meets the requirements
+set out in Article 20, or that it is failing to fulfil its obligations, the
+notifying authority shall restrict, suspend or withdraw notifica-
+tion, as appropriate, depending on the seriousness of the failure
+to meet those requirements or fulfil those obligations. It shall
+immediately inform the Commission and the other Member
+States accordingly.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/9
+2.
+In the event of withdrawal, restriction or suspension of noti-
+fication or where the notified body has ceased its activity, the
+notifying Member State shall take the appropriate steps to ensure
+that the files of that body are either processed by another notified
+body or kept available for the responsible notifying and market
+surveillance authorities on request.
+Article 25
+Challenge to the competence of notified bodies
+1.
+The Commission shall investigate all cases where it doubts
+or doubt is brought to its attention regarding the competence of
+a notified body or the continued fulfilment by a notified body of
+the requirements and responsibilities to which it is subject.
+2.
+The notifying Member State shall provide the Commission,
+on request, with all information relating to the basis for the noti-
+fication or the maintenance of the competence of the body
+concerned.
+3.
+The Commission shall ensure that all sensitive information
+obtained in the course of its investigations is treated confidentially.
+4.
+Where the Commission ascertains that a notified body does
+not meet, or no longer meets, the requirements for its notifica-
+tion, it shall inform the notifying Member State accordingly and
+request it to take the necessary corrective measures, including
+de-notification, if necessary.
+Article 26
+Operational obligations of notified bodies
+1.
+Notified bodies shall carry out conformity assessments, peri-
+odic inspections, intermediate inspections and exceptional checks
+in accordance with the terms of their notification and the proce-
+dures set out in the Annexes to Directive 2008/68/EC.
+2.
+Notified bodies shall carry out reassessments of conformity
+in accordance with Annex III.
+3.
+Notified bodies notified by one Member State shall be
+authorised to work in all Member States. The notifying authority
+which carried out the initial assessment and notification retains
+the responsibility for monitoring the ongoing activities of the
+notified body.
+Article 27
+Information obligation of notified bodies
+1.
+Notified bodies shall inform the notifying authority of the
+following:
+(a)
+any refusal, restriction, suspension or withdrawal of a
+certificate;
+(b) any circumstances affecting the scope of and conditions for
+notification;
+(c)
+any request for information on activities performed which
+they have received from market surveillance authorities;
+(d) on request, activities performed within the scope of their
+notification and any other activity performed, including
+cross-border activities and subcontracting.
+2.
+Notified bodies shall provide the other bodies notified under
+this Directive carrying out similar conformity assessment, peri-
+odic inspection, intermediate inspections and exceptional checks
+activities covering the same transportable pressure equipment
+with relevant information on issues relating to negative and, on
+request, positive conformity assessment results.
+Article 28
+Exchange of experience
+The Commission shall provide for the organisation of exchange
+of experience between the Member States’ national authorities
+responsible under this Directive for:
+(a)
+notification policy;
+(b) market surveillance.
+Article 29
+Coordination of notified bodies
+The Commission shall ensure that appropriate coordination and
+cooperation between bodies notified under this Directive are put
+in place and properly operated in the form of a sectoral group of
+notified bodies.
+Member States shall ensure that the bodies notified by them par-
+ticipate in the work of that group, directly or by designated
+representatives.
+CHAPTER 5
+SAFEGUARD PROCEDURES
+Article 30
+Procedure for dealing with transportable pressure
+equipment presenting a risk at national level
+1.
+Where the market surveillance authorities of one Member
+State have taken action pursuant to Article 20 of Regulation (EC)
+No 765/2008 or where they have sufficient reason to believe that
+transportable pressure equipment covered by this Directive pre-
+sents a risk to the health or safety of persons or to other aspects
+of public interest protection covered by this Directive, they shall
+carry out an evaluation in relation to the transportable pressure
+equipment concerned covering all the requirements laid down in
+this Directive. The relevant economic operators shall cooperate as
+necessary with the market surveillance authorities, including
+granting access to their premises and providing samples as
+appropriate.
+L 165/10
+EN
+Official Journal of the European Union
+30.6.2010
+Where, in the course of that evaluation, the market surveillance
+authorities find that the transportable pressure equipment does
+not comply with the requirements set out in the Annexes to
+Directive 2008/68/EC and in this Directive, they shall without
+delay require the relevant economic operator to take all appropri-
+ate corrective action to bring the transportable pressure equip-
+ment into compliance with those requirements, to withdraw the
+transportable pressure equipment from the market or to recall it
+within a reasonable period, commensurate with the nature of the
+risk, as they may prescribe.
+The market surveillance authorities shall inform the relevant noti-
+fied body accordingly.
+Article 21 of Regulation (EC) No 765/2008 shall apply to the cor-
+rective action referred to in the second subparagraph of this
+paragraph.
+2.
+Where the market surveillance authorities consider that
+non-compliance is not restricted to their national territory, they
+shall inform the Commission and the other Member States of the
+results of the evaluation and of the actions which they have
+required the economic operator to take.
+3.
+The economic operator shall ensure that all appropriate cor-
+rective action is taken in respect of transportable pressure equip-
+ment that it has made available on the Union market.
+4.
+Where the relevant economic operator does not take
+adequate corrective action within the period referred to in the sec-
+ond subparagraph of paragraph 1, the market surveillance
+authorities shall take all appropriate provisional measures to pro-
+hibit or restrict the transportable pressure equipment being made
+available on their national market, to withdraw the equipment
+from that market or to recall it.
+They shall inform the Commission and the other Member States,
+without delay, of those measures.
+5.
+The information referred to in paragraph 4 shall include all
+available details, in particular the data necessary for the identifi-
+cation of the non-compliant transportable pressure equipment,
+the origin of the equipment, the nature of the alleged non-
+compliance and the risk involved, the nature and duration of the
+national measures taken and the arguments put forward by the
+relevant economic operator. In particular, the market surveillance
+authorities shall indicate whether the non-compliance is due to
+either:
+(a)
+failure of the transportable pressure equipment to meet
+requirements relating to the health or safety of persons or to
+other aspects of public interest protection set out in the
+Annexes to Directive 2008/68/EC and in this Directive, or
+(b) shortcomings in the standards or technical codes referred to
+in the Annexes to Directive 2008/68/EC or in other provi-
+sions of that Directive.
+6.
+Member States other than the Member State initiating the
+procedure shall without delay inform the Commission and the
+other Member States of any measures adopted and of any addi-
+tional information at their disposal relating to the non-
+compliance of the transportable pressure equipment concerned,
+and, in the event of disagreement with the notified national mea-
+sure, of their objections.
+7.
+Where, within two months of receipt of the information
+referred to in paragraph 4, no objection has been raised by either
+a Member State or the Commission in respect of a provisional
+measure taken by a Member State, that measure shall be deemed
+justified.
+8.
+Member States shall ensure that appropriate restrictive mea-
+sures are taken in respect of the transportable pressure equipment
+concerned, such as withdrawal of the transportable pressure
+equipment from their market, without delay.
+Article 31
+Union safeguard procedure
+1.
+Where, on completion of the procedure set out in
+Article 30(3) and (4), objections are raised against a measure taken
+by a Member State or where the Commission considers a national
+measure to be contrary to a legally binding Union act, the Com-
+mission shall without delay enter into consultation with the Mem-
+ber States and the relevant economic operator or operators and
+shall evaluate the national measure. On the basis of the results of
+that evaluation, the Commission shall decide whether the national
+measure is justified or not.
+The Commission shall address its decision to all Member States
+and shall immediately communicate it to them and to the relevant
+economic operator or operators.
+2.
+If the national measure is considered justified, all Member
+States shall take the measures necessary to ensure that the non-
+compliant transportable pressure equipment is withdrawn from
+their markets, and shall inform the Commission accordingly.
+If the national measure is considered unjustified, the Member
+State concerned shall withdraw it.
+3.
+Where the national measure is considered justified and the
+non-compliance of the transportable pressure equipment is attrib-
+uted to shortcomings in the standards as referred to in
+Article 30(5)(b), the Commission shall inform the relevant Euro-
+pean standardisation body or bodies and may bring the matter
+before the Committee set up by Article 5 of Directive
+98/34/EC (1). That Committee may consult the relevant European
+standardisation body or bodies before delivering its opinion.
+(1) Directive 98/34/EC of the European Parliament and of the Council of
+22 June 1998 laying down a procedure for the provision of informa-
+tion in the field of technical standards and regulations and of rules on
+Information Society services (OJ L 204, 21.7.1998, p. 37).
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/11
+Article 32
+Compliant transportable pressure equipment which
+presents a risk to health and safety
+1.
+Where having performed an evaluation pursuant to
+Article 30(1) a Member State finds that although transportable
+pressure equipment is in compliance with Directive 2008/68/EC
+and this Directive, it presents a risk to the health or safety of per-
+sons or to other aspects of public interest protection, it shall
+require the relevant economic operator to take all appropriate
+measures to ensure that the transportable pressure equipment
+concerned, when placed on the market, no longer presents that
+risk, to withdraw the equipment from the market or to recall it
+within a reasonable period, commensurate with the nature of the
+risk, as it may prescribe.
+2.
+The economic operator shall ensure that corrective action is
+taken in respect of all the transportable pressure equipment con-
+cerned that he has made available on the market or is using
+throughout the Union.
+3.
+The Member State shall immediately inform the Commis-
+sion and the other Member States. That information shall include
+all available details, in particular the data necessary for the iden-
+tification of the transportable pressure equipment concerned, the
+origin and the supply chain of the equipment, the nature of the
+risk involved and the nature and duration of the national mea-
+sures taken.
+4.
+The Commission shall without delay enter into consultation
+with the Member States and the relevant economic operator or
+operators and shall evaluate the national measures taken. On the
+basis of the results of that evaluation, the Commission shall decide
+whether the measure is justified or not, and where necessary, pro-
+pose appropriate measures.
+5.
+The Commission shall address its decision to all Member
+States and shall immediately communicate it to them and to the
+relevant economic operator or operators.
+Article 33
+Formal non-compliance
+1.
+Without prejudice to Article 30, where a Member State
+makes one of the following findings, it shall require the relevant
+economic operator to put an end to the non-compliance
+concerned:
+(a)
+that the Pi marking has been affixed in violation of Article 12,
+13, 14 or 15;
+(b) that the Pi marking has not been affixed;
+(c)
+that the technical documentation is either not available or
+not complete;
+(d) that
+the
+requirements
+of
+the
+Annexes
+to
+Directive
+2008/68/EC and of this Directive have not been complied
+with.
+2.
+Where the non-compliance referred to in paragraph 1 per-
+sists, the Member State concerned shall take all appropriate mea-
+sures to restrict or prohibit the transportable pressure equipment
+being made available on the market or shall ensure that it is
+recalled or withdrawn from the market.
+CHAPTER 6
+FINAL PROVISIONS
+Article 34
+Transitional provisions
+Within their territory, Member States may maintain the provi-
+sions listed in Annex II.
+Member States which maintain such provisions shall inform the
+Commission thereof. The Commission shall inform the other
+Member States.
+Article 35
+Adaptation to scientific and technical progress
+The Commission may adopt delegated acts in accordance with
+Article 290 TFEU as regards adaptations of the Annexes to this
+Directive to scientific and technical progress, in particular taking
+into
+account
+amendments
+to
+the
+Annexes
+to
+Directive
+2008/68/EC.
+For the delegated acts referred to in this Article, the procedures set
+out in Articles 36, 37 and 38 shall apply.
+Article 36
+Exercise of delegation
+1.
+The powers to adopt the delegated acts referred to in
+Article 35 shall be conferred on the Commission for an indeter-
+minate period of time.
+2.
+As soon as it adopts a delegated act, the Commission shall
+notify it simultaneously to the European Parliament and the
+Council.
+3.
+The powers to adopt delegated acts are conferred on the
+Commission subject to the conditions laid down in Articles 37
+and 38.
+Article 37
+Revocation of the delegation
+1.
+The delegation of power referred to in Article 35 may be
+revoked by the European Parliament or by the Council.
+2.
+The institution which has commenced an internal proce-
+dure for deciding whether to revoke the delegation of powers
+shall endeavour to inform the other institution and the Commis-
+sion within a reasonable time before the final decision is taken,
+indicating the delegated powers which could be subject to revo-
+cation and possible reasons for a revocation.
+3.
+The decision of revocation shall put an end to the delega-
+tion of the powers specified in that decision and shall take effect
+immediately or at a later date specified therein. It shall not affect
+the validity of the delegated acts already in force. It shall be pub-
+lished in the Official Journal of the European Union.
+L 165/12
+EN
+Official Journal of the European Union
+30.6.2010
+Article 38
+Objections to delegated acts
+1.
+The European Parliament or the Council may object to a
+delegated act within a period of two months from the date of
+notification.
+At the initiative of the European Parliament or the Council this
+period shall be extended by two months.
+2.
+If, on expiry of that period, neither the European Parliament
+nor the Council has objected to the delegated act it shall be pub-
+lished in the Official Journal of the European Union and shall enter
+into force at the date stated therein.
+The delegated act may be published in the Official Journal of the
+European Union and enter into force before the expiry of that
+period if the European Parliament and the Council have both
+informed the Commission of their intention not to raise
+objections.
+3.
+If the European Parliament or the Council objects to a del-
+egated act, it shall not enter into force. The institution which
+objects shall state the reasons for objecting to the delegated act.
+Article 39
+Repeal
+Directives 76/767/EEC, 84/525/EEC, 84/526/EEC, 84/527/EEC
+and 1999/36/EC are repealed with effect from 1 July 2011.
+References to the repealed Directive 1999/36/EC shall be con-
+strued as references to this Directive.
+Article 40
+Recognition of equivalence
+1.
+EEC pattern approval certificates for transportable pressure
+equipment
+issued
+pursuant
+to
+Directives
+84/525/EEC,
+84/526/EEC and 84/527/EEC and EC design-examination certifi-
+cates issued pursuant to Directive 1999/36/EC shall be recogn-
+ised as equivalent to the type approval certificates referred to in
+the Annexes to Directive 2008/68/EC and shall be subject to the
+provisions on time-limited recognition of type approvals set out
+in those Annexes.
+2.
+Valves and accessories referred to in Article 3(3) of Direc-
+tive 1999/36/EC and marked with the mark of Directive
+97/23/EC (1) according to Article 3(4) of Directive 1999/36/EC
+may still be used.
+Article 41
+Obligations on Member States
+Member States shall take the necessary measures to ensure that
+the economic operators concerned comply with the provisions
+set out in Chapters 2 and 5. Member States shall also ensure that
+the necessary implementing measures are taken in respect of
+Articles 12 to 15.
+Article 42
+Transposition
+1.
+Member States shall bring into force the laws, regulations
+and administrative provisions necessary to comply with this
+Directive by 30 June 2011 at the latest. They shall forthwith
+inform the Commission thereof.
+When Member States adopt these measures, they shall contain a
+reference to this Directive or shall be accompanied by such refer-
+ence on the occasion of their official publication. The methods of
+making such reference shall be laid down by Member States.
+2.
+Member States shall communicate to the Commission the
+text of the main provisions of national law which they adopt in
+the field covered by this Directive.
+3.
+Notwithstanding paragraph 1, Member States shall ensure
+that Article 21(2)(d) applies with effect from 1 January 2012 at
+the latest.
+4.
+Member States shall ensure the laws, regulations and admin-
+istrative provisions referred to in paragraph 1 apply to pressure
+receptacles, their valves and other accessories used for the carriage
+of UN No 1745, UN No 1746 and UN No 2495 from 1 July 2013
+at the latest.
+Article 43
+Entry into force
+This Directive shall enter into force on the 20th day following its
+publication in the Official Journal of the European Union.
+Article 44
+Addressees
+This Directive is addressed to the Member States.
+Done at Strasbourg, 16 June 2010.
+For the European Parliament
+The President
+J. BUZEK
+For the Council
+The President
+D. LÓPEZ GARRIDO
+(1) Directive 97/23/EC of the European Parliament and of the Council of
+29 May 1997 on the approximation of the laws of the Member States
+concerning pressure equipment (OJ L 181, 9.7.1997, p. 1).
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/13
+ANNEX I
+List of dangerous goods other than those in class 2
+UN Number
+Class
+Dangerous substance
+1051
+6.1
+HYDROGEN CYANIDE, STABILISED
+containing less than 3 % water
+1052
+8
+HYDROGEN FLUORIDE, ANHY-
+DROUS
+1745
+5.1
+BROMINE PENTAFLUORIDE
+Excluding carriage in tanks
+1746
+5.1
+BROMINE TRIFLUORIDE
+Excluding carriage in tanks
+1790
+8
+HYDROFLUORIC ACID
+with more than 85 % hydrogen fluoride
+2495
+5.1
+IODINE PENTAFLUORIDE
+Excluding carriage in tanks
+L 165/14
+EN
+Official Journal of the European Union
+30.6.2010
+ANNEX II
+TRANSITIONAL PROVISIONS
+1. Member States may retain their national provisions concerning devices intended for connection with other equipment
+and colour codes applicable to transportable pressure equipment until such time as relevant standards for use are added
+to the Annexes to Directive 2008/68/EC.
+2. Member States in which the ambient temperature is regularly lower than – 20 °C may impose more stringent standards
+as regards the operating temperature of material intended for transportable pressure equipment for use in the national
+transport of dangerous goods within their territory until provisions on the appropriate reference temperatures for given
+climatic zones are incorporated into the Annexes to Directive 2008/68/EC.
+In that case, in the Pi marking of the transportable pressure equipment, including the demountable parts having a direct
+safety function, the identification number of the notified body shall be followed by ‘– 40 °C’ or other relevant marking
+approved by the competent authority.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/15
+ANNEX III
+PROCEDURE FOR THE REASSESSMENT OF CONFORMITY
+1. The method for ensuring that the transportable pressure equipment referred to in Article 1(2)(c) manufactured and put
+into service before the dates of implementation of Directive 1999/36/EC complies with the relevant provisions of the
+Annexes to Directive 2008/68/EC and of this Directive as applicable at the time of reassessment shall be as set out in
+this Annex.
+2. The owner or operator must make available to a notified body conforming to EN ISO/IEC 17020:2004 type A, notified
+for reassessment of conformity, the information regarding the transportable pressure equipment which enables that body
+to identify the equipment precisely (origin, design rules, and for acetylene cylinders also details of the porous material).
+The information shall include, where appropriate, any prescribed restrictions on use, and any notes on possible damage
+or repairs which have been carried out.
+3. The type A notified body, notified for reassessment of conformity, shall assess whether the transportable pressure equip-
+ment affords at least the same degree of safety as the transportable pressure equipment referred to in the Annexes to
+Directive 2008/68/EC. The assessment shall be carried out on the basis of the information produced in accordance with
+paragraph 2 and, where appropriate, of further inspections.
+4. If the results of the assessment in paragraph 3 are satisfactory, the transportable pressure equipment shall be subject to
+the periodic inspection provided for in the Annexes to Directive 2008/68/EC. If the requirements of that periodic inspec-
+tion are met the Pi marking shall be applied by or under the surveillance of the notified body responsible for the peri-
+odic inspection in accordance with Article 14(1) to (5). The Pi marking shall be followed by the identification number of
+the notified body responsible for the periodic inspection. The notified body responsible for the periodic inspection shall
+issue a certificate of reassessment in accordance with paragraph 6.
+5. Where pressure receptacles were manufactured in series, Member States may authorise the reassessment of conformity
+of individual pressure receptacles, including their valves and other accessories used for transport, to be carried out by a
+notified body notified for periodic inspection of the relevant transportable pressure receptacles provided that confor-
+mity of the type has been assessed in accordance with paragraph 3 by a type A notified body, responsible for the reas-
+sessment of conformity, and a certificate of type reassessment issued. The Pi marking shall be followed by the
+identification number of the notified body responsible for the periodic inspection.
+6. In all cases the notified body responsible for the periodic inspection shall issue the certificate of reassessment containing
+as a minimum:
+(a)
+the identification of the notified body issuing the certificate, and, if different, the identification number of the type
+A notified body responsible for the reassessment of conformity in accordance with paragraph 3;
+(b)
+the name and address of owner or operator specified in paragraph 2;
+(c)
+in the case of the application of the procedure in paragraph 5, the data identifying the certificate of type
+reassessment;
+(d)
+the data for identification of the transportable pressure equipment to which Pi marking has been applied including
+at least the serial number or numbers; and
+(e)
+the date of issue.
+7. A certificate of type reassessment shall be issued.
+Where the procedure in paragraph 5 is applied the type A body, responsible for the reassessment of conformity, shall
+issue the certificate of type reassessment containing as a minimum:
+(a)
+the identification of the notified body issuing the certificate;
+(b)
+the name and address of the manufacturer and the holder of the original type approval for the transportable pres-
+sure equipment being reassessed when the holder is not the manufacturer;
+L 165/16
+EN
+Official Journal of the European Union
+30.6.2010
+(c)
+the data identifying the transportable pressure equipment belonging to the series;
+(d)
+the date of issue; and
+(e)
+the words: ‘this certificate does not authorise manufacture of transportable pressure equipment or parts thereof’.
+8. By affixing or having affixed the Pi marking, the owner or operator indicates that he takes responsibility for the con-
+formity of the transportable pressure equipment with all applicable requirements set out in the Annexes to Directive
+2008/68/EC and in this Directive as applicable at the time of reassessment.
+9. Where appropriate, the provisions of Annex II (2) shall be taken into account and the cold marking provided for in that
+Annex shall also be affixed.
+30.6.2010
+EN
+Official Journal of the European Union
+L 165/17
+Statement by the European Parliament, the Council and the Commission on Article 290 TFEU
+‘The European Parliament, Council and Commission declare that the provisions of this Directive shall be with-
+out prejudice to any future position of the institutions as regards the implementation of Article 290 TFEU or
+individual legislative acts containing such provisions.’
+Statement by the Commission concerning the notification of delegated acts
+‘The European Commission takes note that except in cases where the legislative act provides for an urgency
+procedure, the European Parliament and the Council consider that the notification of delegated acts, shall take
+into account the periods of recess of the institutions (winter, summer and European elections), in order to
+ensure that the European Parliament and the Council are able to exercise their prerogatives within the time
+limits laid down in the relevant legislative acts, and is ready to act accordingly.’
+L 165/18
+EN
+Official Journal of the European Union
+30.6.2010

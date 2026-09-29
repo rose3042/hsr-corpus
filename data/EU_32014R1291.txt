@@ -1,0 +1,176 @@
+COMMISSION DELEGATED REGULATION (EU) No 1291/2014 
+of 16 July 2014 
+on the conditions for classification, without testing, of wood-based panels under EN 13986 and 
+solid wood panelling and cladding under EN 14915 with regard to their fire protection ability, 
+when used for wall and ceiling covering 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying 
+down harmonised conditions for the marketing of construction products and repealing Council Directive 
+89/106/EEC (1), and in particular Article 27(5) thereof, 
+Whereas: 
+(1)  
+A system for classifying the performance of construction products, construction works and parts thereof with 
+regard to their resistance to fire was adopted in Commission Decision 2000/367/EC (2). Wood-based panels 
+covered by the harmonised standard EN 13986, as well as solid wood panelling and cladding covered by the har­
+monised standard EN 14915 are among the construction products to which that Decision applies. 
+(2)  
+Tests have shown those products to have a stable and predictable performance concerning fire protection ability 
+when used for wall and ceiling covering provided that the products meet certain conditions regarding the density 
+of the wood and the thickness of the panels, panelling and cladding. 
+(3)  
+Wood-based panels covered by the harmonised standard EN 13986 and solid wood panelling and cladding 
+covered by the harmonised standard EN 14915 should therefore be deemed to satisfy the classes of performance 
+for fire protection ability established in Decision 2000/367/EC on those conditions without further testing being 
+required, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Wood-based panels covered by the harmonised standard EN 13986 and solid wood panelling and cladding covered by 
+the harmonised standard EN 14915 which fulfil the conditions set out in the Annex shall be deemed to satisfy the 
+classes of performance indicated in the Annex without testing, when they are used for wall and ceiling covering. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 July 2014. 
+For the Commission 
+The President 
+José Manuel BARROSO  
+5.12.2014 
+L 349/25 
+Official Journal of the European Union 
+EN     
+(1) OJ L 88, 4.4.2011, p. 5. 
+(2) Commission Decision 2000/367/EC of 3 May 2000 implementing Council Directive 89/106/EEC as regards the classification of the 
+resistance to fire performance of construction products, construction works and parts thereof (OJ L 133, 6.6.2000, p. 26). 
+
+ANNEX 
+Product (1) 
+EN product 
+standard 
+Product detail (2) 
+Minimum mean 
+density 
+(kg/m3) 
+Minimum 
+thickness 
+(mm) 
+K Class (3) 
+Hardboard 
+EN 13986 
+With and without tongue and 
+groove (5) 
+800 
+9 
+K2 10 (4) 
+OSB 
+EN 13986 
+With and without tongue and 
+groove (6) 
+600 
+10 
+K2 10 (4) 
+Particleboard 
+EN 13986 
+With tongue and groove (7) 
+600 
+10 
+K2 10 (4) 
+Particleboard 
+EN 13986 
+With and without tongue and 
+groove (6) 
+600 
+12 
+K2 10 (4) 
+Plywood 
+EN 13986 
+With and without tongue and 
+groove (6) 
+450 
+12 
+K2 10 (4) 
+Solid wood panels 
+EN 13986 
+With and without tongue and 
+groove (6) 
+450 
+12 
+K2 10 (4) 
+Particleboard 
+EN 13986 
+With tongue and groove (8) 
+600 
+25 
+K2 30 
+OSB 
+EN 13986 
+With tongue and groove (8) 
+600 
+30 
+K2 30 
+Plywood 
+EN 13986 
+With tongue and groove (8) 
+450 
+26 
+K2 30 
+Solid wood panels 
+EN 13986 
+With tongue and groove (8) 
+450 
+26 
+K2 30 
+Solid wood panels 
+EN 13986 
+With tongue and groove (9) 
+450 
+53 
+K2 60 
+Solid wood panelling and 
+cladding 
+EN 14915 
+With tongue and groove (10) 
+450 
+15 
+K2 10 (4) 
+Solid wood panelling and 
+cladding 
+EN 14915 
+With tongue and groove (10) 
+450 
+27 
+K2 30 
+Solid wood panelling and 
+cladding 
+EN 14915 
+With tongue and groove (11) 
+450 
+2 × 27 (12) 
+K2 60 
+(1)  
+Mounted directly on any substrate without an air gap. 
+(2)  
+Joints with square edges or tongue and groove profile and with the same thickness as the product and without gaps. 
+(3)  
+Class as set out in Decision 2000/367/EC. 
+(4)  
+K1 10 for substrates ≥ 300 kg/m3 
+(5)  
+Brad length minimum 40 mm and spacing maximum 100 mm 
+(6)  
+Screw length minimum 30 mm and spacing maximum 200 mm 
+(7)  
+Screw length minimum 30 mm and spacing maximum 150 mm 
+(8)  
+Screw length minimum 50 mm and spacing maximum 200 mm 
+(9)  
+Screw length minimum 75 mm and spacing maximum 200 mm 
+(10)  Nail length minimum 60 mm and spacing maximum 600 mm 
+(11)  Nail length minimum 50 mm (in each layer) and spacing maximum 600 mm 
+(12)  The two layers are mounted with the longitudinal direction of the layers perpendicular to each other.   
+5.12.2014 
+L 349/26 
+Official Journal of the European Union 
+EN

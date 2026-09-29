@@ -1,0 +1,145 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/1092 
+of 24 July 2020 
+amending Implementing Regulation (EU) No 1263/2011 as regards the authorisation of Lactococcus 
+lactis (NCIMB 30160) as a feed additive for all animal species 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on 
+additives for use in animal nutrition (1), and in particular Article 13(2) thereof, 
+Whereas: 
+(1) 
+Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the 
+grounds and procedures for granting or modifying such authorisation. 
+(2) 
+The use of Lactococcus lactis NCIMB 30160 as a feed additive was authorised for all animal species by Commission 
+Implementing Regulation (EU) No 1263/2011 (2). 
+(3) 
+In accordance with Article 13(1) of Regulation (EC) No 1831/2003, the Commission requested the European Food 
+Safety Authority (‘the Authority’) to issue an opinion on whether the authorisation of Lactococcus lactis (NCIMB 
+30160) as a feed additive would still meet the conditions laid down in Article 5 of Regulation (EC) No 1831/2003, 
+considering a modification of the terms of that authorisation. The modification relates to the formulation of the 
+additive, consisting of the inclusion of polyethylene glycol (PEG 4000) in the list of cryoprotectants that can be used 
+for the manufacture of the additive. The request was accompanied by the relevant supporting data. 
+(4) 
+The Authority concluded in its opinions of 6 March 2018 (3) and 7 October 2019 (4) that, under the proposed 
+conditions of use, preparations of PEG 4000 as an excipient in formulations with Lactococcus lactis (NCIMB 30160) 
+do not modify the previous conclusions that the additive does not have an adverse effect on animal health, human 
+health or the environment and that it is efficacious as silage additive. Therefore, no safety concerns are expected 
+when PEG 4000 is used as a cryoprotectant in the additive Lactococcus lactis NCIMB 30160 up to a maximum 
+concentration of 0,025 mg PEG 4000/kg silage. The Authority does not consider that there is a need for specific 
+requirements of post-market monitoring. 
+(5) 
+The assessment of the proposed modification to the authorisation shows that the conditions for authorisation, as 
+provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. 
+(6) 
+Implementing Regulation (EU) No 1263/2011 should therefore be amended accordingly. 
+(7) 
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The Annex to Implementing Regulation (EU) No 1263/2011 is amended in accordance with the Annex to this Regulation. 
+(1) OJ L 268, 18.10.2003, p. 29. 
+(2) Commission Implementing Regulation (EU) No 1263/2011 of 5 December 2011 concerning the authorisation of Lactobacillus buchneri 
+(DSM 16774), Lactobacillus buchneri (DSM 12856), Lactobacillus paracasei (DSM 16245), Lactobacillus paracasei (DSM 16773), Lactobacillus 
+plantarum (DSM 12836), Lactobacillus plantarum (DSM 12837), Lactobacillus brevis (DSM 12835), Lactobacillus rhamnosus (NCIMB 
+30121), Lactococcus lactis (DSM 11037), Lactococcus lactis (NCIMB 30160), Pediococcus acidilactici (DSM 16243) and Pediococcus 
+pentosaceus (DSM 12834) as feed additives for all animal species (OJ L 322, 6.12.2011, p. 3). 
+(3) EFSA Journal 2018; 16(3):5218. 
+(4) EFSA Journal 2019; 17(11):5890. 
+EN
+Official Journal of the European Union 
+L 241/10                                                                                                                                         
+27.7.2020   
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 24 July 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+27.7.2020                                                                                                                                         
+L 241/11   
+ANNEX 
+In the Annex to Implementing Regulation (EU) No 1263/2011, the entry concerning the additive with the identification number 1k2082 is replaced by the following:                                                                
+Identification 
+number of the 
+additive 
+Additive 
+Composition, chemical formula, 
+description, analytical method 
+Species or 
+category of 
+animal 
+Maximum age 
+Minimum 
+content 
+Maximum 
+content 
+Other provisions 
+End of period of 
+authorisation 
+CFU of additive/kg of fresh 
+material 
+Category of technological additives. Functional group: silage additives 
+‘1k2082 
+Lactococcus lactis 
+(NCIMB 30160) 
+Additive composition: 
+Preparation of Lactococcus lactis 
+(NCIMB 30160) containing a mini­
+mum of 4 × 1011 CFU/g additive 
+One of the following cryoprotec­
+tants: ascorbic acid, lactose, manni­
+tol, monosodium glutamate, so­
+dium citrate, whey powder or 
+polyethylene glycol (PEG 4000) 
+Characterisation of the active substance: 
+Lactococcus lactis (NCIMB 30160) 
+Analytical method (1): 
+Enumeration: pour plate method 
+using MSR agar (ISO 15214) 
+Identification: Pulsed-Field Gel Elec­
+trophoresis (PFGE) 
+All animal 
+species 
+- 
+- 
+- 
+1. In the directions for use of the 
+additive and premixtures, the 
+storage conditions shall be indi­
+cated. 
+2. Minimum content of the additive 
+when used without combination 
+with other micro-organisms as si­
+lage additives: 1 × 108 CFU/kg 
+fresh material. 
+3. If used as a cryoprotectant, poly­
+ethylene glycol (PEG 4000) shall 
+be used up to a maximum con­
+centration of 0,025 mg/kg si­
+lage. 
+4. For users of the additive and pre­
+mixtures, feed business opera­
+tors shall establish operational 
+procedures and organisational 
+measures to address potential 
+risks resulting from its use. 
+Where those risks cannot be 
+eliminated or reduced to a mini­
+mum by such procedures and 
+measures, the additive and pre­
+mixtures shall be used with per­
+sonal protective equipment, in­
+cluding breathing protection. 
+16.8.2030 
+(1) Details of the analytical methods are available at the following address of the Reference Laboratory: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports’   
+EN
+Official Journal of the European Union 
+L 241/12                                                                                                                                         
+27.7.2020   

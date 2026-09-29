@@ -1,0 +1,177 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/532 
+of 22 March 2021 
+concerning the classification of certain goods in the Combined Nomenclature 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof, 
+Whereas: 
+(1) 
+In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) 
+No 2658/87 (2), it is necessary to adopt measures concerning the classification of the goods referred to in the 
+Annex to this Regulation. 
+(2) 
+Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. 
+Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional 
+subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff 
+and other measures relating to trade in goods. 
+(3) 
+Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be 
+classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table. 
+(4) 
+It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this 
+Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the 
+holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months. 
+(5) 
+The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature 
+under the CN code indicated in column (2) of that table. 
+Article 2 
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with 
+Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this 
+Regulation. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+(1) OJ L 269, 10.10.2013, p. 1.
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff 
+(OJ L 256, 7.9.1987, p. 1).
+EN
+Official Journal of the European Union 
+26.3.2021                                                                                                                                         
+L 106/55   
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 22 March 2021.  
+For the Commission 
+Gerassimos THOMAS 
+Director-General 
+Directorate-General for Taxation and Customs Union     
+EN
+Official Journal of the European Union 
+L 106/56                                                                                                                                         
+26.3.2021   
+ANNEX 
+Description of the goods 
+Classification 
+(CN-code) 
+Reasons 
+(1) 
+(2) 
+(3) 
+An apparatus (so-called ‘camera station 
+appliance’ or ‘all-in-one recorder’) presented in 
+a 
+single 
+housing 
+with 
+dimensions 
+of 
+approximately 33 × 23 × 8 cm, comprising 
+the following components: 
+— passive and active elements, 
+— a processor, 
+— a graphic card, 
+— an internal memory (hard disc drive). 
+The apparatus does not have a TV tuner. 
+The apparatus is equipped with the following 
+interfaces: RJ45, USB, VGA, SPF and HDMI 
+and integrated eight-port switch with PoE 
+(Power over Ethernet) capability. 
+It is equipped with a ‘standard automatic data- 
+processing machine’ operating system. It is also 
+preconfigured and preloaded with special 
+‘camera management software’ and includes 
+licences for eight channels. 
+The apparatus is designed to receive audio and 
+video data via a telecommunication interface 
+(and Internet Protocol (IP)) from up to eight 
+surveillance cameras (IP cameras). The data 
+can be recorded on the internal hard disc, on 
+an external storage (via the USB interface) or 
+the apparatus can send the data via the 
+telecommunication networks to another IP 
+address (for example, to a server, a switch, a 
+mobile 
+phone, 
+or 
+an 
+automatic 
+data- 
+processing machine). 
+The apparatus can be connected to a monitor or 
+a display and to a keyboard control. It is 
+presented to be used within a security and 
+surveillance system. 
+8521 90 00 
+Classification is determined by general rules 1 
+and 6 for the interpretation of the Combined 
+Nomenclature, note 3 to Section XVI, note 5 
+(E) to Chapter 84 and by the wording of CN 
+codes 8521 and 8521 90 00. 
+Given its objective characteristics, the apparatus 
+is intended to work together with up to eight 
+cameras for video-surveillance purposes. A 
+machine which, for such purposes, records 
+signals from cameras and can either send them 
+to another IP address or reproduce them on a 
+display or monitor, performs a specific function 
+other than data processing within the meaning 
+of note 5(E) to Chapter 84. (See also judgement 
+of the Court of Justice of 17 March 2005, 
+Ikegami 
+Electronics, 
+C-467/03, 
+ECLI:EU: 
+C:2005:182). Classification under heading 
+8471 
+as 
+an 
+automatic 
+data-processing 
+machine is consequently excluded. 
+The apparatus is designed for the purpose of 
+performing two or more complementary 
+functions within the meaning of note 3 to 
+Section 
+XVI, 
+namely 
+transmission 
+and 
+reception of data of heading 8517 and video 
+recording and reproducing of heading 8521. 
+Based on the objective characteristics of the 
+apparatus, the principal function is that of 
+video 
+recording 
+within 
+a 
+security 
+and 
+surveillance system. The transmission and 
+reception of data is merely an ancillary 
+function intended to improve the operation of 
+the system in which the apparatus is 
+incorporated. Classification under heading 
+8517 
+is 
+therefore 
+excluded. 
+(See 
+also 
+judgement of the Court of Justice of 
+25 February 2016, G. E. Security, C-143/15, 
+ECLI:EU:C:2016:115, paragraphs 55 to 57). 
+The apparatus is therefore to be classified as 
+other 
+video 
+recording 
+or 
+reproducing 
+apparatus, whether or not incorporating a 
+tuner, under CN code 8521 90 00.   
+EN
+Official Journal of the European Union 
+26.3.2021                                                                                                                                         
+L 106/57   

@@ -1,0 +1,420 @@
+DIRECTIVES 
+COMMISSION DIRECTIVE 2014/88/EU 
+of 9 July 2014 
+amending Directive 2004/49/EC of the European Parliament and of the Council as regards common 
+safety indicators and common methods of calculating accident costs 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety of 
+the Community's railways and amending Council Directive 95/18/EC on the licensing of railway undertakings and Dir­
+ective 2001/14/EC on the allocation of railway infrastructure capacity and the levying of charges for the use of railway 
+infrastructure and safety certification (Railway Safety Directive) (1), and in particular Article 5(2) thereof, 
+Whereas: 
+(1)  
+In accordance with Article 5(1) of Directive 2004/49/EC information on common safety indicators (CSIs) is to be 
+collected by Member States in order to facilitate assessment as to whether the common safety targets (CSTs) have 
+been achieved and provide for the monitoring of the general development of railway safety. In conformity with 
+Article 7(3) of the Directive, the CSTs should define the safety levels expressed in risk acceptance criteria for soci­
+etal risks. The main purpose of the CSIs should be to measure safety performance and facilitate assessment of the 
+economic impact of CSTs. Therefore, it is necessary to move from indicators relating to accident-related costs 
+borne by railways to indicators relating to the economic impact of accidents on society. 
+(2)  
+Attributing monetary values to improved safety performance should be seen in the context of limited budgetary 
+resources for public policy actions. Priority should therefore be given to initiatives that ensure an efficient alloca­
+tion of resources. 
+(3)
+Article 9 of Regulation (EC) No 881/2004 of the European Parliament and of the Council (2) mandates the Euro­
+pean Railway Agency (the Agency) to set up a network with the safety authorities (as defined in Article 3 of Dir­
+ective 2004/49/EC) and with the national bodies responsible for investigations in order to define the content of 
+the CSIs listed in Annex I to Directive 2004/49/EC. The Agency delivered its recommendation on the revision of 
+Annex I on 10 December 2013 (ERA-REC-08-2013). 
+(4)  
+Annex I to Directive 2004/49/EC should therefore be amended accordingly. 
+(5)  
+The measures provided for in this Directive are in accordance with the opinion of the Committee established 
+pursuant to Article 27(1) of Directive 2004/49/EC, 
+HAS ADOPTED THIS DIRECTIVE: 
+Article 1 
+Annex I to Directive 2004/49/EC is replaced by the text in the Annex to this Directive. 
+10.7.2014 
+L 201/9 
+Official Journal of the European Union 
+EN     
+(1) OJ L 164, 30.4.2004, p. 44. 
+(2) Regulation (EC) No 881/2004 of the European parliament and the Council of 29 April 2004 establishing a European railway agency 
+(Agency Regulation) (OJ L 164, 30.4.2004, p. 1). 
+Article 2 
+1.
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with 
+this Directive by 30 July 2015 at the latest. They shall communicate the text of those provisions to the Commission 
+forthwith. 
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such 
+a reference on their official publication. Member States shall determine how such reference is to be made. 
+2.
+Member States shall communicate to the Commission the text of the main provisions of national law which they 
+adopt in the field covered by this Directive. 
+3.
+The obligations to transpose and implement this Directive shall not apply to the Republic of Cyprus and the 
+Republic of Malta for as long as no railway system is established on their territories. 
+Article 3 
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+Article 4 
+This Directive is addressed to the Member States. 
+Done at Brussels, 9 July 2014. 
+For the Commission 
+The President 
+José Manuel BARROSO  
+10.7.2014 
+L 201/10 
+Official Journal of the European Union 
+EN     
+ANNEX 
+‘ANNEX I 
+Common safety indicators 
+Common safety indicators (CSIs) shall be reported annually by the safety authorities defined in Article 3(g). 
+Indicators relating to activities referred to in Article 2(2), (a) and (b), should be accounted for separately, if they are 
+submitted. 
+If new facts or errors are discovered after the submission of the report, the indicators for one particular year shall be 
+amended or corrected by the safety authority at the first convenient opportunity and at the latest in the next annual 
+report. 
+Common definitions for the CSIs and methods to calculate the economic impact of accidents are laid down in the 
+Appendix. 
+1.  
+Indicators relating to accidents 
+1.1.  Total and relative (to train-kilometres) number of significant accidents and a break-down for the following types of 
+accidents: 
+—  collision of train with rail vehicle, 
+—  collision of train with obstacle within the clearance gauge, 
+—  derailment of train, 
+—  level crossing accident, including accident involving pedestrians at level crossing, and a further break-down for 
+the five types of level crossings defined in point 6.2, 
+—  accident to persons involving rolling stock in motion, with the exception of suicides and attempted suicides, 
+—  fire in rolling stock, 
+—  other. 
+Each significant accident shall be reported under the type of the primary accident, even if the consequences of the 
+secondary accident are more severe (e.g. a derailment followed by a fire). 
+1.2.  Total and relative (to train-kilometres) number of persons seriously injured and killed by type of accident divided 
+into the following categories: 
+—  passenger (also relative to total passenger-kilometres and passenger train-kilometres), 
+—  employee or contractor, 
+—  level crossing user, 
+—  trespasser, 
+—  other person at a platform, 
+—  other person not at a platform. 
+2.  
+Indicators relating to dangerous goods 
+Total and relative (to train-kilometres) number of accidents involving the transport of dangerous goods by rail 
+divided into the following categories: 
+—  accident involving at least one railway vehicle transporting dangerous goods, as defined in the Appendix, 
+—  number of such accidents in which dangerous goods are released. 
+3.  
+Indicators relating to suicides 
+Total and relative (to train-kilometres) number of suicides and attempted suicides 
+10.7.2014 
+L 201/11 
+Official Journal of the European Union 
+EN     
+4.  
+Indicators relating to precursors of accidents 
+Total and relative (to train-kilometres) number of precursors to accidents and a break down on the following types 
+of precursor: 
+—  broken rail, 
+—  track buckle and other track misalignment, 
+—  wrong-side signalling failure, 
+—  signal passed at danger when passing a danger point, 
+—  signal passed at danger without passing a danger point, 
+—  broken wheel on rolling stock in service, 
+—  broken axle on rolling stock in service. 
+All precursors are to be reported, both those resulting and those not resulting in accidents. (A precursor resulting 
+in a significant accident shall also be reported under indicators relating to precursors; a precursor not resulting in a 
+significant accident shall only be reported under indicators relating to precursors). 
+5.  
+Indicators to calculate the economic impact of accidents 
+Total in euro and relative (to train-kilometres): 
+—  number of deaths and serious injuries multiplied by the Value of Preventing a Casualty (VPC), 
+—  cost of damages to environment, 
+—  cost of material damages to rolling stock or infrastructure, 
+—  cost of delays as a consequence of accidents. 
+Safety authorities shall report the economic impact of significant accidents. 
+The VPC is the value society attributes to the prevention of a casualty and as such shall not form a reference for 
+compensation between parties involved in accidents. 
+6.  
+Indicators relating to technical safety of infrastructure and its implementation 
+6.1.  Percentage of tracks with Train Protection Systems (TPSs) in operation and percentage of train-kilometres using on- 
+board TPSs, where these systems provide: 
+—  warning, 
+—  warning and automatic stop, 
+—  warning and automatic stop and discrete supervision of speed, 
+—  warning and automatic stop and continuous supervision of speed. 
+6.2.  Number of level crossings (total, per line kilometre and track kilometre) by the following five types: 
+(a)  passive level crossing 
+(b)  active level crossing: 
+(i)  manual, 
+(ii)  automatic with user-side warning, 
+(iii)  automatic with user-side protection, 
+(iv)  rail-side protected.    
+10.7.2014 
+L 201/12 
+Official Journal of the European Union 
+EN     
+Appendix 
+Common definitions for the CSIs and methods of calculating the economic impact of accidents 
+1.  
+Indicators relating to accidents 
+1.1.  
+“significant accident” means any accident involving at least one rail vehicle in motion, resulting in at least one 
+killed or seriously injured person, or in significant damage to stock, track, other installations or environment, or 
+extensive disruptions to traffic, excluding accidents in workshops, warehouses and depots; 
+1.2.  
+“significant damage to stock, track, other installations or environment” means damage that is equivalent to 
+EUR 150 000 or more; 
+1.3.  
+“extensive disruptions to traffic” means that train services on a main railway line are suspended for six hours or 
+more; 
+1.4.
+“train” means one or more railway vehicles hauled by one or more locomotives or railcars, or one railcar travel­
+ling alone, running under a given number or specific designation from an initial fixed point to a terminal fixed 
+point, including a light engine, i.e. a locomotive travelling on its own,; 
+1.5.  
+“collision of train with rail vehicle” means a front to front, front to end or a side collision between a part of a 
+train and a part of another train or rail vehicle, or with shunting rolling stock; 
+1.6.  
+“collision of train with obstacle within the clearance gauge” means a collision between a part of a train and 
+objects fixed or temporarily present on or near the track (except at level crossings if lost by a crossing vehicle or 
+user), including collision with overhead contact lines; 
+1.7.  
+“derailment of train” means any case in which at least one wheel of a train leaves the rails; 
+1.8.  
+“level crossing accident” means any accident at level crossings involving at least one railway vehicle and one or 
+more crossing vehicles, other crossing users such as pedestrians or other objects temporarily present on or near 
+the track if lost by a crossing vehicle or user; 
+1.9.  
+“accident to persons involving rolling stock in motion” means accidents to one or more persons who are either 
+hit by a railway vehicle or by an object attached to, or that has become detached from, the vehicle, this includes 
+persons who fall from railway vehicles as well as persons who fall or are hit by loose objects when travelling on 
+board vehicles; 
+1.10.  “fire in rolling stock” means a fire or explosion that occurs in a railway vehicle (including its load) when it is 
+running between the departure station and the destination, including when stopped at the departure station, the 
+destination or intermediate stops, as well as during re-marshalling operations; 
+1.11.  “other (accident)” means any accident other than a collision of train with rail vehicle, collision of train with 
+obstacle within the clearance gauge, derailment of train, level crossing accident, an accident to person involving 
+rolling stock in motion or a fire in rolling stock; 
+1.12.  “passenger” means any person, excluding a member of the train crew, who makes a trip by rail, including a 
+passenger trying to embark onto or disembark from a moving train for accident statistics only; 
+1.13.  “employee or contractor” means any person whose employment is in connection with a railway and is at work at 
+the time of the accident, including the staff of contractors, self-employed contractors, the crew of the train and 
+persons handling rolling stock and infrastructure installations; 
+1.14.  “level crossing user” means any person using a level crossing to cross the railway line by any means of transport 
+or by foot; 
+1.15.  “trespasser” means any person present on railway premises where such presence is forbidden, with the exception 
+of a level crossing user; 
+10.7.2014 
+L 201/13 
+Official Journal of the European Union 
+EN     
+1.16.  “other person at a platform” means any person at a railway platform who is not defined as “passenger”, “employee 
+or contractor”, “level crossing user”, “other person not at a platform” or “trespasser”; 
+1.17.  “other person not at a platform” means any person not at a railway platform who is not defined as “passenger”, 
+“employee or contractor”, “level crossing user”, “other person at a platform” or “trespasser”; 
+1.18.  “death (killed person)” means any person killed immediately or dying within 30 days as a result of an accident, 
+excluding any suicide; 
+1.19.  “serious injury (seriously injured person)” means any person injured who was hospitalised for more than 
+24 hours as a result of an accident, excluding any attempted suicide. 
+2.  
+Indicators relating to dangerous goods 
+2.1.  
+“accident involving the transport of dangerous goods” means any accident or incident that is subject to reporting 
+in accordance with RID (1)/ADR section 1.8.5; 
+2.2.  
+“dangerous goods” means those substances and articles the carriage of which is prohibited by RID, or authorised 
+only under the conditions prescribed therein. 
+3.  
+Indicators relating to suicides 
+3.1.  
+“suicide” means an act to deliberately injure oneself resulting in death, as recorded and classified by the competent 
+national authority; 
+3.2.  
+“attempted suicide” means an act to deliberately injure oneself resulting in serious injury. 
+4.  
+Indicators relating to precursors of accidents 
+4.1.  
+“broken rail” means any rail which is separated in two or more pieces, or any rail from which a piece of metal 
+becomes detached, causing a gap of more than 50 mm in length and more than 10 mm in depth on the running 
+surface; 
+4.2.  
+“track buckle or other track misalignment” means any fault related to the continuum and the geometry of track, 
+requiring track to be placed out of service or immediate restriction of permitted speed; 
+4.3.  
+“wrong side signalling failure” means any technical failure of a signalling system (either to infrastructure or to 
+rolling stock), resulting in signalling information less restrictive than that demanded; 
+4.4.  
+“Signal Passed at Danger when passing a danger point” means any occasion when any part of a train proceeds 
+beyond its authorised movement and travels beyond the danger point; 
+4.5.  
+“Signal Passed at Danger without passing a danger point” means any occasion when any part of a train proceeds 
+beyond its authorised movement but does not travel beyond the danger point. 
+Unauthorised movement as referred to in points 4.4 and 4.5 above means to pass: 
+—  a trackside colour light signal or semaphore at danger, or an order to STOP where a Train Protection system 
+(TPS) is not operational, 
+—  the end of a safety related movement authority provided in a TPS, 
+—  a point communicated by verbal or written authorisation laid down in regulations, 
+—  stop boards (buffer stops are not included) or hand signals. 
+10.7.2014 
+L 201/14 
+Official Journal of the European Union 
+EN     
+(1) RID, Regulations concerning the International Carriage of Dangerous Goods by Rail, as adopted under Directive 2008/68/EC of the Euro­
+pean Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13). 
+Any case in which a vehicle without any traction unit attached or a train that is unattended runs away past a 
+signal at danger is not included. Any case in which, for any reason, the signal is not turned to danger in time to 
+allow the driver to stop the train before the signal is not included. 
+Safety Authorities may report separately on the four indices of unauthorised movement listed in the indents in 
+this point and shall report at least an aggregate indicator containing data on all four items indices. 
+4.6.  
+“broken wheel on rolling stock in service” means a break affecting the wheel and creating a risk of accident 
+(derailment or collision); 
+4.7.
+“broken axle on rolling stock in service” means a break affecting the axle and creating a risk of accident (derail­
+ment or collision). 
+5.  
+Common methodologies to calculate the economic impact of accidents 
+5.1.  
+The Value of Preventing a Casualty (VPC) is composed of: 
+(1)  Value of safety per se: Willingness to Pay (WTP) values based on stated preference studies carried out in the 
+Member State for which they are applied. 
+(2)  Direct and indirect economic costs: cost values appraised in the Member State, composed of: 
+—  medical and rehabilitation cost, 
+—  legal court cost, cost for police, private crash investigations, the emergency service and administrative 
+costs of insurance, 
+—  production losses: value to society of goods and services that could have been produced by the person if 
+the accident had not occurred. 
+When calculating the costs of casualties, fatalities and serious injuries shall be considered separately (different 
+VPC for fatality and serious injury). 
+5.2.  
+Common principles to appraise the value of safety per se and direct/indirect economic costs: 
+For the value of safety per se, the assessment of whether available estimates are appropriate or not shall be based 
+on the following considerations: 
+—  estimates shall relate to a system for valuation of mortality risk reduction in the transport sector and follow a 
+Willingness to Pay (WTP) approach according to stated preference methods, 
+—  the respondent sample used for the values shall be representative of the population concerned. In particular, 
+the sample has to reflect the age/income distribution along with other relevant socioeconomic/demographic 
+characteristics of the population, 
+— method for eliciting WTP values: survey design shall be such that questions are clear/meaningful to respon­
+dents. 
+Direct and indirect economic costs shall be appraised on the basis of the real costs borne by society. 
+5.3.  
+Definitions 
+5.3.1.  “Cost of damage to environment” means costs that are to be met by Railway Undertakings and Infrastructure 
+Managers, appraised on the basis of their experience, in order to restore the damaged area to its state before the 
+railway accident. 
+5.3.2.  “Cost of material damage to rolling stock or infrastructure” means the cost of providing new rolling stock or 
+infrastructure, with the same functionalities and technical parameters as that damaged beyond repair, and the cost 
+of restoring repairable rolling stock or infrastructure to its state before the accident, to be estimated by Railway 
+Undertakings and Infrastructure Managers on the basis of their experience, including also costs related to the 
+leasing of rolling stock, as a consequence of non-availability due to damaged vehicles. 
+10.7.2014 
+L 201/15 
+Official Journal of the European Union 
+EN     
+5.3.3. “Cost of delays as a consequence of accidents” means the monetary value of delays incurred by users of rail trans­
+port (passengers and freight customers) as a consequence of accidents, calculated by the following model: 
+VT = monetary value of travel time savings 
+Value of time for a passenger of a train (an hour) 
+VTP = [VT of work passengers] * [Average percentage of work passengers per year] + [VT of non-work passen­
+gers] * [Average percentage of non-work passengers per year] 
+VTP is measured in EUR per passenger per hour 
+“Work passenger” means a passenger travelling in connection with their professional activities excluding 
+commuting. 
+Value of time for a freight train (an hour) 
+VTF = [VT of freight trains] * [(Tonne-Km)/(Train-Km)] 
+VTF is measured in EUR per freight tonne per hour 
+Average tonnes of goods transported per train in one year = (Tonne-Km)/(Train-Km) 
+CM = Cost of 1 minute of delay of a train 
+Passenger train 
+CMP = K1 * (VTP/60) * [(Passenger-Km)/(Train-Km)] 
+Average number of passengers per train in one year = (Passenger-Km)/(Train-Km) 
+Freight train 
+CMF = K2 * (VTF/60) 
+Factors K1 and K2 are between the value of time and the value of delay, as estimated by stated preference studies, 
+to take into account that the time lost as a result of delays is perceived significantly more negatively than normal 
+travel time. 
+Cost of delays of an accident = CMP * (Minutes of delay of passenger trains) + CMF * (Minutes of delay of freight 
+trains) 
+Scope of the model 
+Cost of delays is to be calculated for significant accidents, as follows: 
+—  real delays on the railway lines where accidents occurred as measured at terminal station 
+—  real delays or, if not possible, estimated delays on the other affected lines. 
+6.  
+Indicators relating to technical safety of infrastructure and its implementation 
+6.1.  
+“Train Protection System (TPS)” means a system that helps to enforce obedience to signals and speed restrictions. 
+6.2.  
+“On-board systems” mean systems assisting the driver to observe line-side signalling and in cab signalling and 
+thus providing protection of danger points and enforcement of speed limits. On-board TPSs are described as 
+follows: 
+(a)  Warning, providing automatic warning to driver. 
+(b)  Warning and automatic stop, providing automatic warning to driver and automatic stop when passing a 
+signal at danger. 
+10.7.2014 
+L 201/16 
+Official Journal of the European Union 
+EN     
+(c)  Warning and automatic stop and discrete supervision of speed, providing protection of danger points, where 
+“discrete supervision of speed” means supervision of speed at certain locations (speed traps) at the approach 
+of a signal. 
+(d)  Warning and automatic stop and continuous supervision of speed, providing protection of danger points and 
+continuous supervision of the speed limits of the line, where “continuous supervision of speed” means contin­
+uous indication and enforcement of the maximal allowed target speed on all sections of the line. 
+Type (d) is regarded as Automatic Train Protection (ATP) system. 
+6.3.
+“level crossing” means any level intersection between a road or passage and a railway, as recognised by the infra­
+structure manager and open to public or private users. Passages between platforms within stations are excluded, 
+as well as passages over tracks for the sole use of employees. 
+6.4.  
+“road” means, for the purpose of railway accident statistics, any public or private road, street or highway, 
+including adjacent footpaths and bicycle lanes. 
+6.5.  
+“passage” means any route, other than a road, provided for the passage of people, animals, vehicles or machinery. 
+6.6.  
+“passive level crossing” means a level crossing without any form of warning system or protection activated when 
+it is unsafe for the user to traverse the crossing. 
+6.7.  
+“active level crossing” means a level crossing where the crossing users are protected from or warned of the 
+approaching train by devices activated when it is unsafe for the user to traverse the crossing. 
+—  Protection by the use of physical devices includes: 
+—  half or full barriers, 
+—  gates. 
+—  Warning by the use of fixed equipment at level crossings: 
+—  visible devices: lights, 
+—  audible devices: bells, horns, klaxons, etc. 
+Active level crossings are classified as: 
+(a)  Manual: a level crossing where user-side protection or warning is manually activated by a railway employee. 
+(b)  Automatic with user-side warning: a level crossing where user-side warning is activated by the approaching 
+train. 
+(c)  Automatic with user-side protection: a level crossing where user-side protection is activated by the 
+approaching train. This shall include a level crossing with both user-side protection and warning. 
+(d)  Rail-side protected: a level crossing where a signal or other train protection system permits a train to proceed 
+once the level crossing is fully user-side protected and is free from incursion. 
+7.  
+Definitions of the scaling bases 
+7.1.  
+“train-km” means the unit of measure representing the movement of a train over one kilometre. The distance 
+used is the distance actually run, if available, otherwise the standard network distance between the origin and des­
+tination shall be used. Only the distance on the national territory of the reporting country shall be taken into 
+account. 
+7.2.  
+“passenger-km” means the unit of measure representing the transport of one passenger by rail over a distance of 
+one kilometre. Only the distance on the national territory of the reporting country shall be taken into account. 
+7.3.  
+“line km” means the length measured in kilometres of the railway network in Member States, whose scope is laid 
+down in Article 2. For multiple-track railway lines, only the distance between origin and destination is to be 
+counted. 
+7.4.  
+“track km” means the length measured in kilometres of the railway network in Member States, whose scope is 
+laid down in Article 2. Each track of a multiple-track railway line is to be counted.’  
+10.7.2014 
+L 201/17 
+Official Journal of the European Union 
+EN     

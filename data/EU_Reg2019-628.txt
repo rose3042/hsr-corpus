@@ -1,0 +1,1177 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2019/628 
+of 8 April 2019 
+concerning model official certificates for certain animals and goods and amending Regulation (EC) 
+No 2074/2005 and Implementing Regulation (EU) 2016/759 as regards these model certificates 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on 
+official controls and other official activities performed to ensure the application of food and feed law, rules on animal 
+health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) 
+No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and 
+(EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) 
+No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC and 
+repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, 
+Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council 
+Decision 92/438/EEC (Official Controls Regulation) (1), and in particular points (a), (c) and (e) of the first paragraph of 
+Articles 90 and 126(3) thereof, 
+Whereas: 
+(1)  
+Regulation (EU) 2017/625 lays down rules for official controls and other control activities performed by the 
+competent authorities of the Member States in order to verify compliance with Union legislation in the area of, 
+among others, food safety at all stages of the production, processing and distribution process. In particular, it 
+provides for official certification when considered appropriate to ensure compliance with EU rules on animals 
+and goods. 
+(2)  
+Point (a) of the first paragraph of Article 90 of Regulation (EU) 2017/625 empowers the Commission to adopt, 
+by means of implementing acts, rules concerning model official certificates and rules for the issuance of such 
+certificates, where requirements are not laid down in the rules referred to in Article 1(2) of that Regulation. 
+(3)  
+Consignments of animals and goods shall be accompanied by an official certificate issued either on paper or in 
+electronic form. Therefore, it is appropriate to establish common requirements as regards issuance of official 
+certificates in both cases in addition to the requirements laid down in Chapter VII of Title II of Regulation 
+(EU) 2017/625. 
+(4)  
+Model certificates are included in the electronic system Traces, set up by Commission Decision 2003/623/EC (2), 
+to facilitate and accelerate administrative procedures at Union borders and to enable electronic communication 
+between the competent authorities which helps preventing possible fraudulent or deceptive practices in respect of 
+the official certificates. 
+(5)  
+Since 2003, computer technology has evolved considerably and the Traces system has been modified to improve 
+the quality, processing and secure exchange of data. As a result, the format of the model certificates and the notes 
+on their completion laid down in this Regulation should be adapted to the Traces system, for example by 
+reflecting the use of multiple Combined Nomenclature (CN) codes or providing traceability for triangular trade, 
+where the country of dispatch is not the country of origin of the consignment. 
+(6)  
+In accordance with Article 133(4) of Regulation (EU) 2017/625, the Traces system is to be integrated into the 
+Information Management System for Official Controls (IMSOC). The model health certificates laid down in this 
+Regulation should therefore be adapted to IMSOC. 
+(7)  
+Point (c) of the first paragraph of Article 90 of Regulation (EU) 2017/625 empowers the Commission to lay 
+down by means of implementing acts rules concerning the procedures to be followed for the issuance of 
+replacement certificates. 
+17.5.2019 
+L 131/101 
+Official Journal of the European Union 
+EN     
+(1) OJ L 95, 7.4.2017, p. 1. 
+(2) Commission Decision 2003/623/EC of 19 August 2003 concerning the development of an integrated computerised veterinary system 
+known as Traces (OJ L 216, 28.8.2003, p. 58). 
+(8)  
+To avoid misuse and abuse, it is important to define the cases where a replacement certificate may be issued and 
+the requirements that need to be met by such certificates. In particular, these cases should be limited to obvious 
+administrative errors, such as transposed numbers in the container number or seal number, spelling errors in 
+addresses or in product descriptions. 
+(9)  
+Article 126(2)(c) of Regulation (EU) 2017/625 establishes the requirement that consignments of certain animals 
+and goods are to be accompanied by an official certificate, an official attestation or any other evidence that the 
+consignment complies with the applicable rules referred to in Article 1(2) of that Regulation. 
+(10)  
+Commission Delegated Regulation (EU) 2019/625 (3) provides for a list of goods and animals intended for 
+human consumption, in particular products of animal origin, live insects and sprouts and seeds intended for the 
+production of sprouts, that need to be accompanied by an official certificate upon the entry into the Union if 
+intended for placing on the market. To facilitate official controls upon the entry into the Union, model official 
+certificates should be laid down for such goods and animals intended for human consumption in accordance 
+with Point (a) of the first paragraph of Article 90 and Article 126(3) of Regulation (EU) 2017/625. 
+(11)  
+Model certificates required for public health reasons are currently laid down in various legal acts. It is appropriate 
+to consolidate these model certificates in one single legal act by making cross-references to them. 
+(12)  
+With respect to certification of certain products of animal origin for animal health reasons, common model 
+certificates are used. The requirements for certification for animal health reasons should be revised by 21 April 
+2021, which is the date of application of Regulation (EU) 2016/429 of the European Parliament and of the 
+Council (4). The common model certificates should be maintained until that revision. 
+(13)  
+For reasons of harmonisation and clarity, model certificates currently laid down in Commission Regulation (EC) 
+No 2074/2005 (5), Commission Regulation (EU) No 211/2013 (6) and Commission Implementing Regulation 
+(EU) 2016/759 (7) should be incorporated into this Regulation. As a result, Regulation (EC) No 2074/2005 and 
+Implementing Regulation (EU) 2016/759 should be amended accordingly and Regulation (EU) No 211/2013 
+should be repealed. 
+(14)  
+To facilitate the verification of compliance with EU requirements, it seems appropriate to introduce additional 
+new model health certificates for the entry of rendered animal fats and greaves, insects and reptile meat intended 
+for placing on the market. Such model certificates also make it easier for competent authorities in third countries 
+to understand EU requirements and therefore facilitate the entry of animal fats and greaves, insects and reptile 
+meat into the Union. 
+(15)  
+Point (e) of the first paragraph of Article 90 of Regulation (EU) 2017/625 empowers the Commission to adopt, 
+by means of implementing acts, rules concerning the format of documents that are to accompany animals or 
+goods after official controls have been performed. In accordance with Article 5 of Commission Delegated 
+Regulation (EU) 2019/624 (8), such health certificates are to accompany animals to the slaughterhouse after 
+ante-mortem inspection has been carried at the holding of provenance. The format of such certificates should 
+therefore be laid down in this Regulation. 
+17.5.2019 
+L 131/102 
+Official Journal of the European Union 
+EN     
+(3) Commission Delegated Regulation (EU) 2019/625 of 4 March 2019 supplementing Regulation (EU) 2017/625 of the European 
+Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods 
+intended for human consumption (see page 18 of this Official Journal). 
+(4) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and 
+amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1). 
+(5) Commission Regulation (EC) No 2074/2005 of 5 December 2005 laying down implementing measures for certain products under 
+Regulation (EC) No 853/2004 of the European Parliament and of the Council and for the organisation of official controls under 
+Regulation (EC) No 854/2004 of the European Parliament and of the Council and Regulation (EC) No 882/2004 of the European 
+Parliament and of the Council, derogating from Regulation (EC) No 852/2004 of the European Parliament and of the Council and 
+amending Regulations (EC) No 853/2004 and (EC) No 854/2004 (OJ L 338, 22.12.2005, p. 27). 
+(6) Commission Regulation (EU) No 211/2013 of 11 March 2013 on certification requirements for imports into the Union of sprouts and 
+seeds intended for the production of sprouts (OJ L 68, 12.3.2013, p. 26). 
+(7) Commission Implementing Regulation (EU) 2016/759 of 28 April 2016 drawing up lists of third countries, parts of third countries and 
+territories from which Member States are to authorise the introduction into the Union of certain products of animal origin intended for 
+human consumption, laying down certificate requirements, amending Regulation (EC) No 2074/2005 and repealing Decision 
+2003/812/EC (OJ L 126, 14.5.2016, p. 13). 
+(8) Commission Delegated Regulation (EU) 2019/624 of 8 February 2019 concerning specific rules for the performance of official controls 
+on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 
+of the European Parliament and of the Council (see page 1 of this Official Journal). 
+(16)  
+In the case of emergency slaughter outside the slaughterhouse, it is appropriate for reasons of harmonisation and 
+clarity, to lay down a model certificate in this Regulation for the declaration to be issued by the (official) 
+veterinarian in accordance with point 6 of Chapter VI of Section I of Annex III of Regulation (EC) No 853/2004 
+of the European Parliament and of the Council (9). 
+(17)  
+As Regulation (EU) 2017/625 applies with effect from 14 December 2019, this Regulation should also apply 
+from that date. 
+(18)  
+It is appropriate to introduce a transitional period to take into account the consignments of animals and goods 
+shipped and certified, if required, before the date of application of this Regulation. 
+(19)  
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Subject matter and scope 
+1.
+This Regulation lays down: 
+(a)  rules for the uniform application of Articles 88 and 89 of Regulation (EU) 2017/625 as regards the signature and 
+issuance of official certificates and the guarantees of reliability for official certificates, in order to comply with the 
+requirements of Article 126(2)(c) of that Regulation; 
+(b)  requirements for model official certificates which are not submitted in IMSOC; 
+(c)  requirements for model official certificates which are submitted in IMSOC; 
+(d)  requirements for replacement certificates. 
+2.
+This Regulation also sets out: 
+(a)  model official certificates for the entry into the Union of animals, products of animal origin, composite products, 
+germinal products and animal by-products and notes for its completion; 
+(b)  specific model official certificates for the entry into the Union of the following animals and goods intended for 
+human consumption and placing on the market: 
+(i)  products of animal origin for which such certificate is required in accordance with Article 13 of Delegated 
+Regulation (EU) 2019/625; 
+(ii)  live insects; 
+(iii)  sprouts and seeds intended for the production of sprouts; 
+(c)  model official certificates in the case of ante-mortem inspection at the holding of provenance or in the case of 
+emergency slaughter outside the slaughterhouse. 
+Article 2 
+Definitions 
+For the purpose of this Regulation, the following definitions shall apply:  
+(1) ‘placing on the market’ means placing on the market as defined in point (8) of Article 3 of Regulation (EC) 
+No 178/2002 of the European Parliament and of the Council (10); 
+17.5.2019 
+L 131/103 
+Official Journal of the European Union 
+EN     
+(9) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for 
+food of animal origin (OJ L 139, 30.4.2004, p. 55). 
+(10) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles 
+and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety 
+(OJ L 31, 1.2.2002, p. 1). 
+(2) ‘sprouts’ means sprouts as defined in point (a) of Article 2 of Commission Implementing Regulation (EU) 
+No 208/2013 (11);  
+(3) ‘slaughterhouse’ means a slaughterhouse as defined in point 1.16 of Annex I to Regulation (EC) No 853/2004;  
+(4) ‘fresh meat’ means fresh meat as defined in point 1.10 of Annex I to Regulation (EC) No 853/2004;  
+(5) ‘meat’ means meat as defined in point 1.1 of Annex I to Regulation (EC) No 853/2004;  
+(6) ‘poultry’ means poultry as defined in point 1.3 of Annex I to Regulation (EC) No 853/2004;  
+(7) ‘wild game’ means wild game as defined in point 1.5 of Annex I to Regulation (EC) No 853/2004;  
+(8) ‘eggs’ means eggs as defined in point 5.1 of Annex I to Regulation (EC) No 853/2004;  
+(9) ‘egg products’ means egg products as defined in point 7.3 of Annex I to Regulation (EC) No 853/2004;  
+(10) ‘meat preparations’ means meat preparations as defined in point 1.15 of Annex I to Regulation (EC) No 853/2004;  
+(11) ‘meat products’ means meat products as defined in point 7.1 of Annex I to Regulation (EC) No 853/2004;  
+(12) ‘treated stomachs, bladders and intestines’ means treated stomachs, bladders and intestines as defined in point 7.9 
+of Annex I to Regulation (EC) No 853/2004;  
+(13) ‘bivalve molluscs’ means bivalve molluscs as defined in point 2.1 of Annex I to Regulation (EC) No 853/2004;  
+(14) ‘fishery products’ means fishery products as defined in point 3.1 of Annex I to Regulation (EC) No 853/2004;  
+(15) ‘raw milk’ means raw milk as defined in point 4.1 of Annex I to Regulation (EC) No 853/2004;  
+(16) ‘dairy products’ means dairy products as defined in point 7.2. of Annex I to Regulation (EC) No 853/2004;  
+(17) ‘colostrum’ means colostrum as defined in point 1 of Section IX of Annex III of Regulation (EC) No 853/2004;  
+(18) ‘colostrum-based products’ means colostrum-based products as defined in points 2 of Section IX of Annex III of 
+Regulation (EC) No 853/2004;  
+(19) ‘frogs’ legs' means frogs' legs as defined in point 6.1 of Annex I to Regulation (EC) No 853/2004;  
+(20) ‘snails’ means snails as defined in point 6.2 of Annex I to Regulation (EC) No 853/2004;  
+(21) ‘rendered animal fat’ means rendered animal fat defined in point 7.5 of Annex I to Regulation (EC) No 853/2004;  
+(22) ‘greaves’ means greaves as defined in point 7.6 of Annex I to Regulation (EC) No 853/2004;  
+(23) ‘gelatine’ means gelatine as defined in point 7.7 of Annex I to Regulation (EC) No 853/2004;  
+(24) ‘collagen’ means collagen as defined in point 7.8 of Annex I to Regulation (EC) No 853/2004;  
+(25) ‘honey’ means honey as defined in point 1 of Part IX of Annex II to Regulation (EU) No 1308/2013 of the 
+European Parliament and of the Council (12); 
+17.5.2019 
+L 131/104 
+Official Journal of the European Union 
+EN     
+(11) Commission Implementing Regulation (EU) No 208/2013 of 11 March 2013 on traceability requirements for sprouts and seeds 
+intended for the production of sprouts (OJ L 68, 12.3.2013, p. 16). 
+(12) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common 
+organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) 
+No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671). 
+(26) ‘apiculture products’ means apiculture products as defined in point 2 of Part IX of Annex II to Regulation (EU) 
+No 1308/2013;  
+(27) ‘reptile meat’ means reptile meat as defined in point (16) of Article 2 of Delegated Regulation (EU) 2019/625;  
+(28) ‘insects’ means insects as defined in point (17) of Article 2 of Delegated Regulation (EU) 2019/625;  
+(29) ‘reefer vessel’ means a reefer vessel as defined in point (26) of Article 2 of Delegated Regulation (EU) 2019/625;  
+(30) ‘freezer vessel’ means a freezer vessel as defined in point 3.3 of Annex I to Regulation (EC) No 853/2004;  
+(31) ‘factory vessel’ means a factory vessel as defined in point 3.2 of Annex I to Regulation (EC) No 853/2004;  
+(32) ‘production area’ means a production area as defined in point 2.5 of Annex I to Regulation (EC) No 853/2004;  
+(33) ‘dispatch centre’ means a dispatch centre as defined in point 2.7 of Annex I to Regulation (EC) No 853/2004;  
+(34) ‘mechanically separated meat’ means mechanically separated meat as defined in point 1.14 of Annex I to 
+Regulation (EC) No 853/2004;  
+(35) ‘game-handling establishment’ means a game-handling establishment as defined in point 1.18 of Annex I to 
+Regulation (EC) No 853/2004;  
+(36) ‘cutting plant’ means a cutting plant as defined in point 1.17 of Annex I to Regulation (EC) No 853/2004;  
+(37) ‘farmed game’ means farmed game as defined in point 1.6 of Annex I to Regulation (EC) No 853/2004. 
+Article 3 
+Requirements for model official certificates not submitted in IMSOC 
+The model official certificates for those animals, products of animal origin, composite products, germinal products, 
+animal by-products, sprouts and seeds intended for the production of sprouts originating from third countries or 
+regions thereof which are required by Union legislation for the entry into the Union and are not submitted in IMSOC, 
+shall meet the following requirements:  
+(1) In addition to the signature of the certifying officer, the certificate shall bear an official stamp. The colour of 
+signature shall be different to the colour of the printing. This requirement also applies to stamps other than those 
+embossed or watermarked.  
+(2) Where the model certificate contains statements, the statements which are not relevant shall be crossed out, 
+initialled and stamped by the certifying officer, or completely removed from the certificate.  
+(3) The certificate shall consist of: 
+(a)  a single sheet of paper; or 
+(b)  several sheets of paper where all sheets are indivisible and constitute an integral whole; or 
+(c)  a sequence of pages numbered so as to indicate that it is a particular page in a finite sequence.  
+(4) Where the certificate consists of a sequence of pages, each page shall indicate the unique code as referred to in 
+Article 89(1)(a) of Regulation (EU) 2017/625 and bear the signature of the certifying officer and the official stamp.  
+(5) The certificate shall be issued before the consignment to which it relates leaves the control of the competent 
+authorities of the third country issuing the certificate. 
+17.5.2019 
+L 131/105 
+Official Journal of the European Union 
+EN     
+Article 4 
+Requirements for model official certificates submitted in IMSOC 
+1.
+The model official certificates for the entry into the Union of animals, products of animal origin, composite 
+products, germinal products and animal by-products originating from third countries or regions thereof, submitted in 
+IMSOC, shall be based on the model official certificate laid down in Annex I. 
+2.
+Part II of the model official certificates referred to in paragraph 1 shall include the specific health guarantees and 
+the information as required in Part II of the relevant model official certificates for those animals, products of animal 
+origin, composite products, germinal products and animal by-products originating from third countries or regions 
+thereof which are required by Union legislation for the entry into the Union. 
+3.
+The official certificate shall be submitted in IMSOC before the consignment to which it relates leaves the control of 
+the competent authorities of the third country issuing the certificate. 
+4.
+The requirements laid down in this Article shall not affect the nature, content and format of the official certificates 
+or attestations referred to in Article 73(2)(b) and (c) and Article 129(2)(a) of Regulation (EU) 2017/625. 
+Article 5 
+Replacement certificates 
+1.
+Competent authorities may issue a replacement certificate only in the case of administrative errors in the initial 
+certificate or where the initial certificate has been damaged or lost. 
+2.
+The replacement certificate shall not modify information in the initial certificate concerning the identification, 
+traceability and health guarantees of consignments. 
+3.
+In addition, the replacement certificate shall: 
+(a)  make clear reference to the unique code referred to in Article 89(1)(a) of Regulation (EU) 2017/625 and the date of 
+issue of the initial certificate, and clearly state that it replaces the initial certificate; 
+(b)  have a new certificate number different to that of the initial certificate; 
+(c)  carry the date when it was issued, as opposed to the date of issue of the initial certificate; and 
+(d)  be presented in its original to the competent authorities, except in the case of electronic replacement certificates 
+submitted in IMSOC. 
+Article 6 
+Notes on the completion of model official certificates 
+The model official certificates referred to in Articles 12, 13 and 15 to 27 shall be completed on the basis of the notes 
+set out in Annex II. 
+Article 7 
+Model official certificates for the entry into the Union for placing on the market of fresh meat of 
+ungulates 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificates ‘BOV’, ‘OVI’, ‘POR’, ‘EQU’, ‘RUF’, ‘RUW’, ‘SUF’, ‘SUW’ and ‘EQW’ set out in Part 2 of 
+Annex II to Commission Regulation (EU) No 206/2010 (13) shall be used for the entry into the Union for placing on the 
+market of fresh meat of ungulates. 
+17.5.2019 
+L 131/106 
+Official Journal of the European Union 
+EN     
+(13) Commission Regulation (EU) No 206/2010 of 12 March 2010 laying down lists of third countries, territories or parts thereof 
+authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements 
+(OJ L 73, 20.3.2010, p. 1). 
+Article 8 
+Model official certificates for the entry into the Union for placing on the market of meat of 
+poultry, ratites and wild game birds, eggs and egg products 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificates ‘POU’, ‘POU-MI/MSM’, ‘RAT’, ‘RAT-MI/MSM’, ‘WGM’, ‘WGM-MI/MSM’, ‘E’ and ‘EP’ set out in 
+Part 2 of Annex I to Commission Regulation (EC) No 798/2008 (14) shall be used for the entry into the Union for 
+placing on the market of meat of poultry, ratites and wild game birds, egg and egg products. 
+Article 9 
+Model official certificates for the entry into the Union for placing on the market of meat of wild 
+leporidae, of certain wild land mammals and of farmed rabbits 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificates ‘WL’, ‘WM’ and ‘RM’ set out in Annex II to Commission Regulation (EC) No 119/2009 (15) 
+shall be used for the entry into the Union for placing on the market of meat of wild leporidae, of certain wild land 
+mammals and of farmed rabbits. 
+Article 10 
+Model official certificate for the entry into the Union for placing on the market of meat 
+preparations 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Annex II to Commission Decision 2000/572/EC (16) shall be used for the entry 
+into the Union for placing on the market of meat preparations. 
+Article 11 
+Model official certificates for the entry into the Union for placing on the market of certain meat 
+products and treated stomachs, bladders and intestines 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Annex III to Commission Decision 2007/777/EC (17) shall be used for the entry 
+into the Union for placing on the market of certain meat products and treated stomachs, bladders and 
+intestines. However, in the case of the entry into the Union for placing on the market of casings, the animal health 
+certificate set out in Annex I A to Commission Decision 2003/779/EC (18) shall be used. 
+Article 12 
+Model official certificates for the entry into the Union for placing on the market of live bivalve 
+molluscs, echinoderms, tunicates and marine gastropods 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Chapter A of Part I of Annex III to this Regulation shall be used for the entry into 
+the Union for placing on the market of live bivalve molluscs, echinoderms, tunicates and marine gastropods. In the 
+17.5.2019 
+L 131/107 
+Official Journal of the European Union 
+EN     
+(14) Commission Regulation (EC) No 798/2008 of 8 August 2008 laying down a list of third countries, territories, zones or compartments 
+from which poultry and poultry products may be imported into and transit through the Community and the veterinary certification 
+requirements (OJ L 226, 23.8.2008, p. 1). 
+(15) Commission Regulation (EC) No 119/2009 of 9 February 2009 laying down a list of third countries or parts thereof, for imports into, 
+or transit through, the Community of meat of wild leporidae, of certain wild land mammals and of farmed rabbits and the veterinary 
+certification requirements (OJ L 39, 10.2.2009, p. 12). 
+(16) Commission Decision 2000/572/EC of 8 September 2000 laying down the animal and public health and veterinary certification 
+conditions for imports of meat preparations into the Community from third countries (OJ L 240, 23.9.2000, p. 19). 
+(17) Commission Decision 2007/777/EC of 29 November 2007 laying down the animal and public health conditions and model certificates 
+for imports of certain meat products and treated stomachs, bladders and intestines for human consumption from third countries and 
+repealing Decision 2005/432/EC (OJ L 312, 30.11.2007, p. 49). 
+(18) Commission Decision 2003/779/EC of 31 October 2003 laying down animal health requirements and veterinary certification for the 
+import of animal casings from third countries (OJ L 285, 1.11.2003, p. 38). 
+case of the entry into the Union and placing on the market of processed bivalve molluscs belonging to the species 
+Acanthocardia tuberculatum, the model official certification set out in Chapter B of Part I of Annex III to this Regulation 
+shall be added to the certificate referred to in the first sentence. 
+Article 13 
+Model official certificates for the entry into the Union for placing on the market of fishery 
+products 
+1.
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation 
+(EU) 2017/625, the model official certificate set out in Chapter A of Part II of Annex III to this Regulation shall be used 
+for the entry into the Union for placing on the market of fishery products. 
+2.
+In the case of fishery products caught by vessels flying the flag of a Member State and transferred in third 
+countries with or without storage, the model certificate set out in Chapter B of Part II of Annex III to this Regulation 
+shall be used. 
+3.
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation 
+(EU) 2017/625, the model official certificate to be signed by the captain, set out in Chapter C of Part II to Annex III to 
+this Regulation shall be used when fishery products are imported directly from a reefer, freezer or factory vessel as 
+provided for in Article 11(3) of Delegated Regulation (EU) 2019/625. 
+Article 14 
+Model official certificates for the entry into the Union for placing on the market of raw milk, 
+colostrum, dairy products and colostrum-based products 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificates ‘Milk-RM’, ‘Milk-RMP’, ‘Milk-HTB’, ‘Milk-HTC’ and ‘Colostrum-C/CPB’ set out in Part 2 of 
+Annex II to Commission Regulation (EU) No 605/2010 (19) shall be used for the entry into the Union for placing on the 
+market of raw milk, colostrum, dairy products and colostrum-based products. 
+Article 15 
+Model official certificate for the entry into the Union for placing on the market of chilled, frozen 
+or prepared frogs' legs intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out Part III of Annex III to this Regulation shall be used for the entry into the Union for 
+placing on the market of chilled, frozen or prepared frogs' legs intended for human consumption. 
+Article 16 
+Model official certificate for the entry into the Union for placing on the market of chilled, frozen, 
+shelled, cooked, prepared or preserved snails intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part IV of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of chilled, frozen, shelled, cooked, prepared or preserved snails intended for human 
+consumption. 
+17.5.2019 
+L 131/108 
+Official Journal of the European Union 
+EN     
+(19) Commission Regulation (EU) No 605/2010 of 2 July 2010 laying down animal and public health and veterinary certification conditions 
+for the introduction into the European Union of raw milk, dairy products, colostrum and colostrum-based products intended for 
+human consumption (OJ L 175, 10.7.2010, p. 1). 
+Article 17 
+Model official certificate for the entry into the Union for placing on the market of rendered 
+animal fats and greaves intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part V of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of rendered animal fats and greaves intended for human consumption. 
+Article 18 
+Model official certificate for the entry into the Union for placing on the market of gelatine 
+intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part VI of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of gelatine intended for human consumption. 
+Article 19 
+Model official certificate for the entry into the Union for placing on the market of collagen 
+intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part VII of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of collagen intended for human consumption. 
+Article 20 
+Model official certificate for the entry into the Union for placing on the market of raw materials 
+for the production of gelatine and collagen intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part VIII of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of raw materials for the production of gelatine and collagen intended for human 
+consumption. 
+Article 21 
+Model official certificate for the entry into the Union for placing on the market of treated raw 
+materials for the production of gelatine and collagen intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part IX of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of treated raw materials for the production of gelatine and collagen intended for human 
+consumption. 
+Article 22 
+Model official certificate for the entry into the Union for placing on the market of honey and 
+other apiculture products intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part X of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of honey and other apiculture products intended for human consumption. 
+17.5.2019 
+L 131/109 
+Official Journal of the European Union 
+EN     
+Article 23 
+Model official certificate for the entry into the Union for placing on the market of highly refined 
+chondroitin sulphate, hyaluronic acid, other hydrolysed cartilage products, chitosan, glucosamine, 
+rennet, isinglass and amino acids intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part XI of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of highly refined chondroitin sulphate, hyaluronic acid, other hydrolysed cartilage products, 
+chitosan, glucosamine, rennet, isinglass and amino acids intended for human consumption. 
+Article 24 
+Model official certificate for the entry into the Union for placing on the market of reptile meat 
+intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part XII of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of reptile meat intended for human consumption. 
+Article 25 
+Model official certificate for the entry into the Union for placing on the market of insects 
+intended for human consumption 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part XIII of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of insects intended for human consumption. 
+Article 26 
+Model official certificate for the entry into the Union for placing on the market of other products 
+of animal origin intended for human consumption and not covered by Articles 7 to 25 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part XIV of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of other products of animal origin intended for human consumption and not covered by 
+Articles 7 to 25 of this Regulation. 
+Article 27 
+Model official certificate for the entry into the Union for placing on the market of sprouts and 
+seeds intended for the production of sprouts 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out in Part XV of Annex III to this Regulation shall be used for the entry into the Union 
+for placing on the market of sprouts and seeds intended for the production of sprouts. 
+Article 28 
+Model official certificates in case of ante-mortem inspection at the holding of provenance 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificates set out in Annex IV to this Regulation shall be used in the case of ante-mortem inspection 
+at the holding of provenance in accordance with Articles 5 and 6 of Delegated Regulation (EU) 2019/624. 
+17.5.2019 
+L 131/110 
+Official Journal of the European Union 
+EN     
+Article 29 
+Model official certificate in case of emergency slaughter outside the slaughterhouse 
+To meet the certification requirements laid down in Articles 88, 89 and Article 126(2)(c) of Regulation (EU) 2017/625, 
+the model official certificate set out Annex V to this Regulation shall be used in the case of emergency slaughter outside 
+the slaughterhouse in accordance with Article 4 of Delegated Regulation (EU) 2019/624. 
+Article 30 
+Amendments to Regulation (EC) No 2074/2005 
+Regulation (EC) No 2074/2005 is amended as follows:  
+(1) Article 6 is deleted;  
+(2) Annex VI is deleted. 
+Article 31 
+Amendments to Implementing Regulation (EU) 2016/759 
+Implementing Regulation (EU) 2016/759 is amended as follows:  
+(1) Article 2 is deleted;  
+(2) Annex II is deleted. 
+Article 32 
+Repeal 
+Regulation (EU) No 211/2013 is repealed. References to Regulation (EU) No 211/2013 shall be construed as references 
+to this Regulation and read in accordance with the correlation table set out in Annex VI to this Regulation. 
+Article 33 
+Transitional provisions 
+Consignments of products of animal origin accompanied by the relevant certificates issued accordance with Regulation 
+(EC) No 2074/2005, Regulation (EU) No 211/2013 and Implementing Regulation (EU) 2016/759 may be accepted for 
+the entry into the Union until 13 March 2020 provided that the certificate was signed before 14 December 2019. 
+Until 13 March 2020, consignments of rendered animal fats and greaves may enter the Union when using the certificate 
+for meat products set out in Annex III to Decision 2007/777/EC and consignments of reptile meat, insects and other 
+products of animal origin referred to in Article 26 may enter the Union without certificate set out in Annex III of this 
+Regulation. 
+Article 34 
+Entry into force and application 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+It shall apply from 14 December 2019. 
+17.5.2019 
+L 131/111 
+Official Journal of the European Union 
+EN     
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 8 April 2019. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+17.5.2019 
+L 131/112 
+Official Journal of the European Union 
+EN     
+ANNEX I 
+MODEL OFFICIAL CERTIFICATES FOR THE ENTRY INTO THE UNION OF ANIMALS, PRODUCTS OF 
+ANIMAL ORIGIN, COMPOSITE PRODUCTS, GERMINAL PRODUCTS AND ANIMAL BY-PRODUCTS 
+17.5.2019 
+L 131/113 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/114 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/115 
+Official Journal of the European Union 
+EN     
+ANNEX II 
+NOTES ON THE COMPLETION OF THE MODEL OFFICIAL CERTIFICATES FOR THE ENTRY INTO THE 
+UNION OF ANIMALS, PRODUCTS OF ANIMAL ORIGIN, COMPOSITE PRODUCTS, GERMINAL PRODUCTS, 
+AND ANIMAL BY-PRODUCTS 
+General 
+To positively select any option, please tick or mark the relevant box with a cross (X). 
+Whenever mentioned, ‘ISO’ means the international standard two-letter code for a country, in accordance with the inter­
+national standard ISO 3166 alpha-2 (1). 
+Only one of the options may be selected in boxes I.15, I.18, I.20 and I.22. 
+If the consignee, the entry border control post (BCP) or the transport details (that is to say, the means and date) change 
+after the certificate has been issued, the operator responsible for the consignment must advise the competent authority 
+of the Member State of entry. Such a change shall not result in a request for a replacement certificate. 
+Part I: Details of the dispatched consignment 
+Country:  The name of the third country issuing the certificate. 
+Box I.1.  
+Consignor/Exporter: the name and address (street, city and region, province or state, as appropriate) of the 
+natural or legal person dispatching the consignment that must be located in the third country, except for the 
+re-entry of consignments originating from the European Union. 
+Box I.2.  
+Certificate reference No: the unique mandatory code assigned by the competent authority of the third country 
+in accordance with its own classification. This box is compulsory for all certificates not submitted in IMSOC. 
+Box I.2.a  IMSOC reference No: the unique reference code automatically assigned by IMSOC, if the certificate is 
+registered in IMSOC. This box must not be completed if the certificate is not submitted in IMSOC. 
+Box I.3.  
+Central competent authority: name of the central authority in the third country issuing the certificate. 
+Box I.4.  
+Local competent authority: if applicable, the name of the local authority in the third country issuing the 
+certificate. 
+Box I.5.  
+Consignee/Importer: name and address of the natural or legal person to whom the consignment is intended 
+in the Member State or third country of destination in the case of transit. However, this information is not 
+compulsory for consignments in transit through the European Union. 
+Box I.6.  
+Operator responsible for the consignment: 
+The name and address of the person in the European Union in charge of the consignment when presented to 
+the BCP and who makes the necessary declarations to the competent authorities either as the importer or on 
+behalf of the importer. 
+For products in transit through the European Union: the name and address are compulsory. 
+For certain animals: the name and address are compulsory if required by the relevant European Union 
+legislation. 
+For animals and products for the placing on the market: the name and address are optional. 
+Box I.7.  
+Country of origin: 
+For products: the name and ISO code of the country where the goods were produced, manufactured and 
+packaged (labelled with the identification mark). 
+17.5.2019 
+L 131/116 
+Official Journal of the European Union 
+EN     
+(1) List of country names and code elements under: http://www.iso.org/iso/country_codes/iso-3166-1_decoding_table.htm 
+For animals: the country of residence during the required period as set out in the relevant European Union 
+health certificate. For registered horses re-entering the European Union, the country of origin means the 
+country from which they were last consigned. 
+In the case of trade involving more than one third country (triangular trade), a separate certificate must be 
+completed for each country of origin. 
+Box I.8.  
+Region of origin: if applicable, for animals or products affected by the regionalisation measures in accordance 
+with European Union legislation. The code of approved regions, zones or compartments must be stated as 
+defined in the relevant European Union legislation. 
+Box I.9.  
+Country of destination: the name and ISO code of the European Union country of destination of the animals 
+or products. 
+If the products are in transit, the name and ISO code of the third country of destination is required. 
+Box I.10.  Region of destination: see box I.8. 
+Box I.11.  Place of dispatch: the name, address and approval number, if required by the European Union legislation, of 
+the holdings or establishments from which the animals or the products come from. 
+For animals: a holding or any other officially monitored agricultural, industrial or commercial establishment, 
+including zoos, amusement parks, wildlife and hunting reserves, where animals are regularly kept or bred. 
+For germinal products: semen collection or storage centres, or embryo collection or production teams. 
+For other products: any unit of a company in the food or animal by-product sector. Only the establishment 
+shipping the products is to be named. In the case of trade involving more than one third country (triangular 
+trade), the place of dispatch is the last third-country establishment of the export chain from which the final 
+consignment is transported to the European Union. 
+Box I.12.  Place of destination: 
+Except in the case of storage of products in transit, this information is optional. 
+For the placing on the market: the place where the animals or products are sent for final unloading. Give the 
+name, address and approval number of the holdings or establishments of the place of destination, if 
+applicable. 
+For storage of products in transit: the name, address and approval number of the warehouse in a free zone, 
+the customs warehouse or the ship supplier. 
+Box I.13.  Place of loading: 
+For animals: the name of the city or the place where the animals are loaded and if they are assembled 
+beforehand, the details of the official assembly centre. 
+For products: the name of the city and category (for example, establishment, holding, port or airport) of the 
+final place where the products are to be loaded in the means of transport for the journey to the European 
+Union. In the case of a container, state where it is to be placed aboard the final means of transport to the 
+European Union. In the case of a ferry, indicate the place where the truck embarked. 
+Box I.14.  Date and time of departure: 
+For animals: the date and time at which the animals are scheduled to leave in their means of transport 
+(aeroplane, vessel, railway or road vehicle). 
+For products: the date when the means of transport departs (aeroplane, vessel, railway or road vehicle). 
+Box I.15.  Means of transport: means of transport leaving the country of dispatch. 
+Mode of transport: aeroplane, vessel, railway, road vehicle or other. ‘Other’ means modes of transport not 
+covered by Council Regulation (EC) No 1/2005 (2). 
+17.5.2019 
+L 131/117 
+Official Journal of the European Union 
+EN     
+(2) Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and 
+amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1). 
+Identification of the means of transport: for aeroplanes the flight number, for vessels the ship name(s), for 
+railways the train identity and wagon number, for road transports the registration number plate with trailer 
+number plate if applicable. 
+In the case of a ferry, state the identification of the road vehicle, the registration number plate with trailer 
+number plate if applicable, and the name of the scheduled ferry. 
+Box I.16.  Entry BCP: state the name of the BCP and its identification code assigned by IMSOC. 
+Box I.17.  Accompanying documents: 
+The type and reference number of document must be stated when a consignment is accompanied by the 
+other documents such as CITES permit, permit for invasive alien species (IAS) or a commercial document (for 
+example, the airway bill number, the bill of lading number or the commercial number of the train or road 
+vehicle) 
+Box I.18.  Transport conditions: category of required temperature during the transport of products (ambient, chilled, 
+frozen). Only one category may be selected. 
+Box I.19.  Container No/Seal No: if applicable, the corresponding numbers. 
+The container number must be provided if the goods are transported in closed containers. 
+Only the official seal number must be stated. An official seal applies if a seal is affixed to the container, truck 
+or rail wagon under the supervision of the competent authority issuing the certificate. 
+Box I.20.  Goods certified as: state the purpose for the placing on the market of the animals or intended use for 
+products as specified in the relevant European Union health certificate. 
+Animal feedingstuffs: concerns only animal by-products intended for animal feed as referred to in Regulation 
+(EC) No 1069/2009 of the European Parliament and of the Council (3). 
+Approved body: movement of animals to an approved body, an institute or a centre in accordance with 
+Council Directive 92/65/EEC (4). 
+Artificial reproduction: concerns only germinal products. 
+Breeding/production: for breeding and production animals, including aquaculture animals intended for 
+farming. 
+Canning industry: concerns, for example, tuna intended for the canning industry. 
+Circus/exhibition: for registered circus and exhibition animals and aquatic animals for aquariums or similar 
+businesses not for further sale. 
+Fattening: concerns ovine and caprine animals only. 
+Further process: concerns only products which have to be further processed before being placed on the 
+market. 
+Game restocking: concerns only game for the purpose of rebuilding stocks. 
+Human consumption: concerns only products intended for human consumption for which a health or 
+veterinary certificate is required by European Union legislation. 
+Other: intended for purposes not listed elsewhere in this classification, including aquatic animals intended for 
+put-and-take fisheries. 
+17.5.2019 
+L 131/118 
+Official Journal of the European Union 
+EN     
+(3) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards 
+animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal 
+by-products Regulation) (OJ L 300, 14.11.2009, p. 1). 
+(4) Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the 
+Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules 
+referred to in Annex A (I) to Directive 90/425/EEC (OJ L 268, 14.9.1992, p. 54). 
+Pets: commercial movements into the Union of dogs, cats, ferrets and birds. For ornamental aquatic animals 
+intended for pet shops or similar businesses for further sale. 
+Pharmaceutical use: animal by-products unfit for human or animal consumption, as referred to in Regulation 
+(EC) No 1069/2009. 
+Quarantine: refers to Commission Implementing Regulation (EU) No 139/2013 (5) for birds other than 
+poultry, to Directive 92/65/EEC for carnivores, primates and bats, and to Council Directive 2006/88/EC (6) 
+for aquaculture animals. 
+Registered equidae: in accordance with Council Directive 2009/156/EC (7). 
+Relaying: concerns only aquaculture animals. 
+Slaughter: for animals destined directly or via an assembly centre to a slaughterhouse. 
+Technical use: animal by-products unfit for human or animal consumption, as referred to in Regulation (EC) 
+No 1069/2009. 
+Trade samples: as defined in point 39 of Annex I to Commission Regulation (EU) No 142/2011 (8). 
+Box I.21.  For transit: only for the transit of animals or products through the European Union from one third country 
+to another third country or from one part of a third country to another part of the same third country. State 
+the name and ISO code of the third country of destination. 
+Box I.22.  For internal market: for all consignments destined to the European Union market. 
+Definitive import: this option must only be used for consignments intended to be placed under the customs 
+procedure ‘release for free circulation’ in the European Union. 
+For certain animals (for example, registered equidae) only one of the following options must be selected: 
+Re-entry: this option must only be used for animals authorised for re-entry, such as registered horses for 
+racing, competition and cultural events re-entering the European Union after their temporary export. 
+Temporary admission: this option must only be used for the entry of animals authorised for temporary entry 
+into the European Union, such as registered horses for a period of less than 90 days. 
+Box I.23.  Total number of packages: the number of boxes, cages or stalls, in which the animals are being transported, 
+the number of cryogenic containers for germinal products or the number of packages for products. In the 
+case of bulk consignments, this box is optional. 
+Box I.24.  Quantity: 
+For animals: the total number of heads or straws expressed as units. 
+For germinal products: the total number of straws expressed as units. 
+For products and aquatic animals, except ornamental fish: the total gross and net weight in kilograms. 
+Total net weight: this is defined as the mass of the goods themselves without immediate containers or any 
+packaging. 
+Total gross weight: overall weight in kilograms. This is defined as the aggregate mass of the products and of 
+the immediate containers and all their packaging, but excluding transport containers and other transport 
+equipment. 
+17.5.2019 
+L 131/119 
+Official Journal of the European Union 
+EN     
+(5) Commission Implementing Regulation (EU) No 139/2013 of 7 January 2013 laying down animal health conditions for imports of 
+certain birds into the Union and the quarantine conditions thereof (OJ L 47, 20.2.2013, p. 1). 
+(6) Council Directive 2006/88/EC of 24 October 2006 on animal health requirements for aquaculture animals and products thereof, and on 
+the prevention and control of certain diseases in aquatic animals (OJ L 328, 24.11.2006, p. 14). 
+(7) Council Directive 2009/156/EC of 30 November 2009 on animal health conditions governing the movement and importation from 
+third countries of equidae (OJ L 192, 23.7.2010, p. 1). 
+(8) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European 
+Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human 
+consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the 
+border under that Directive (OJ L 54, 26.2.2011, p. 1). 
+Box I.25.  Description of goods: State the relevant Harmonised System code (HS code) and the title defined by the 
+World Customs Organisation as referred to in Council Regulation (EEC) No 2658/87 (9). This customs 
+description shall be supplemented, if necessary, by additional information required to classify the animals or 
+the products in veterinary terms. In addition, state any specific requirements relating to the animals or to the 
+nature/processing of the products as defined in the relevant European Union model health or veterinary 
+certificate. 
+Zone: for animals or products affected by the setting up of approved zones or compartments in accordance 
+with European Union legislation. The zones or production areas (for example, in the case of bivalve molluscs) 
+must be indicated as published in the European Union lists of approved establishments. 
+For animals: the species, breed or category, identification method, identification number, age, sex, quantity or 
+net weight, and test. 
+For germinal products: collection or production date, approval number of the centre or team, identification 
+of the straw, and quantity. In addition, as regards donor animals, the species, breed or category, and identifi­
+cation. 
+For products: the species, types of products, type of treatment, approval number of establishments together 
+with ISO country code (slaughter house, processing plant, cold store), number of packages, type of packaging, 
+batch number, net weight, and final consumer (i.e. products are packed for final consumer). 
+Species: the scientific name or as defined in accordance with European Union legislation. 
+Type of packaging: identify the type of packaging according to the definition given in Recommendation 
+No 21 (10) of UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business). 
+Part II: Certification 
+This part must be completed by an official veterinarian or an official inspector. 
+Box II.  
+Health information: please complete this part in accordance with the specific European Union health 
+requirements relating to the animal species or to the nature of the products and as defined in the equivalence 
+agreements with certain third countries or in other European Union legislation, such as that for certification. 
+Where there are no animal or public health attestations for the consignment, then the whole of this section 
+shall be deleted or invalidated or not be present at all in accordance with the footnotes for Part II of the 
+specific European Union health certificates. 
+Box II.a.  Certificate reference No: same reference code as in box I.2. 
+Box II.b.  IMSOC reference No: same reference code as in box I.2.a. 
+Certifying officer: 
+Official veterinarian or official inspector as defined by the relevant European Union legislation: the 
+name in capital letters, qualification and title, where applicable, identification number and original 
+stamp of the competent authority and date of signature.   
+17.5.2019 
+L 131/120 
+Official Journal of the European Union 
+EN     
+(9) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff 
+(OJ L 256, 7.9.1987, p. 1). 
+(10) Last version: Revision 9 Annexes V and VI as published on: http://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e- 
+business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.html 
+ANNEX III 
+MODEL OFFICIAL CERTIFICATES FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+ANIMALS AND GOODS INTENDED FOR HUMAN CONSUMPTION 
+PART I 
+CHAPTER A: MODEL OFFICIAL CERTIFICATE FOR THE ENTRY IN THE UNION FOR PLACING ON THE 
+MARKET OF LIVE BIVALVE MOLLUSCS, ECHINODERMS, TUNICATES AND MARINE GASTROPODS 
+17.5.2019 
+L 131/121 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/122 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/123 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/124 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/125 
+Official Journal of the European Union 
+EN     
+CHAPTER B: ADDITIONAL MODEL OFFICIAL CERTIFICATION FOR PROCESSED BIVALVE MOLLUSCS 
+BELONGING TO THE SPECIES ACANTHOCARDIA TUBERCULATUM 
+17.5.2019 
+L 131/126 
+Official Journal of the European Union 
+EN     
+PART II 
+CHAPTER A: MODEL OFFICIAL CERTIFICATE FOR THE ENTRY IN THE UNION FOR PLACING ON THE 
+MARKET OF FISHERY PRODUCTS 
+17.5.2019 
+L 131/127 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/128 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/129 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/130 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/131 
+Official Journal of the European Union 
+EN     
+CHAPTER B: MODEL OF OFFICIAL CERTIFICATE FOR FISHERY PRODUCTS CAUGHT BY VESSELS FLYING 
+THE FLAG OF A MEMBER STATE AND TRANSFERRED IN THIRD COUNTRIES WITH OR WITHOUT 
+STORAGE 
+17.5.2019 
+L 131/132 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/133 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/134 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/135 
+Official Journal of the European Union 
+EN     
+CHAPTER C: MODEL OF OFFICIAL CERTIFICATE TO BE SIGNED BY THE CAPTAIN ACCOMPANYING 
+FROZEN FISHERY PRODUCTS WHEN ENTERING THE UNION FOR PLACING ON THE MARKET DIRECTLY 
+FROM A FREEZER, REEFER OR FACTORY VESSEL 
+17.5.2019 
+L 131/136 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/137 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/138 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/139 
+Official Journal of the European Union 
+EN     
+PART III 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+CHILLED, FROZEN OR PREPARED FROGS' LEGS INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/140 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/141 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/142 
+Official Journal of the European Union 
+EN     
+PART IV 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+CHILLED, FROZEN, SHELLED, COOKED, PREPARED OR PRESERVED SNAILS INTENDED FOR HUMAN 
+CONSUMPTION 
+17.5.2019 
+L 131/143 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/144 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/145 
+Official Journal of the European Union 
+EN     
+PART V 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+RENDERED ANIMAL FATS AND GREAVES INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/146 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/147 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/148 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/149 
+Official Journal of the European Union 
+EN     
+PART VI 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+GELATINE INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/150 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/151 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/152 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/153 
+Official Journal of the European Union 
+EN     
+PART VII 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+COLLAGEN INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/154 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/155 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/156 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/157 
+Official Journal of the European Union 
+EN     
+PART VIII 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+RAW MATERIALS FOR THE PRODUCTION OF GELATINE AND COLLAGEN INTENDED FOR HUMAN 
+CONSUMPTION 
+17.5.2019 
+L 131/158 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/159 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/160 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/161 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/162 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/163 
+Official Journal of the European Union 
+EN     
+PART IX 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+TREATED RAW MATERIALS FOR THE PRODUCTION OF GELATINE AND COLLAGEN INTENDED FOR 
+HUMAN CONSUMPTION 
+17.5.2019 
+L 131/164 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/165 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/166 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/167 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/168 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/169 
+Official Journal of the European Union 
+EN     
+PART X 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+HONEY AND OTHER APICULTURE PRODUCTS INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/170 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/171 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/172 
+Official Journal of the European Union 
+EN     
+PART XI 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+HIGHLY REFINED CHONDROITIN SULPHATE, HYALURONIC ACID, OTHER HYDOLYSED CARTILAGE 
+PRODUCTS, CHITOSAN, GLUCOSAMINE, RENNET, ISINGLASS AND AMINO ACIDS INTENDED FOR 
+HUMAN CONSUMPTION 
+17.5.2019 
+L 131/173 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/174 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/175 
+Official Journal of the European Union 
+EN     
+PART XII 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+REPTILE MEAT INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/176 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/177 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/178 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/179 
+Official Journal of the European Union 
+EN     
+PART XIII 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+INSECTS INTENDED FOR HUMAN CONSUMPTION 
+17.5.2019 
+L 131/180 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/181 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/182 
+Official Journal of the European Union 
+EN     
+PART XIV 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+OTHER PRODUCTS OF ANIMAL ORIGIN INTENDED FOR HUMAN CONSUMPTION NOT COVERED BY 
+ARTICLES 7 TO 25 OF COMMISSION IMPLEMENTING REGULATION (EU) 2019/628 
+17.5.2019 
+L 131/183 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/184 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/185 
+Official Journal of the European Union 
+EN     
+PART XV 
+MODEL OFFICIAL CERTIFICATE FOR THE ENTRY INTO THE UNION FOR PLACING ON THE MARKET OF 
+SPROUTS AND SEEDS INTENDED FOR THE PRODUCTION OF SPROUTS 
+17.5.2019 
+L 131/186 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/187 
+Official Journal of the European Union 
+EN     
+17.5.2019 
+L 131/188 
+Official Journal of the European Union 
+EN     
+ANNEX IV 
+MODEL OFFICIAL CERTIFICATES IN THE CASE OF ANTE-MORTEM INSPECTION AT THE HOLDING OF 
+PROVENANCE 
+Part I: MODEL OFFICIAL CERTIFICATE FOR LIVE ANIMALS 
+17.5.2019 
+L 131/189 
+Official Journal of the European Union 
+EN     
+Part II: MODEL OFFICIAL CERTIFICATE FOR POULTRY INTENDED FOR THE PRODUCTION OF FOIE 
+GRAS AND DELAYED EVISCERATED POULTRY 
+17.5.2019 
+L 131/190 
+Official Journal of the European Union 
+EN     
+Part III: MODEL OFFICIAL CERTIFICATE FOR FARMED GAME SLAUGHTERED AT THE HOLDING OF 
+PROVENANCE 
+17.5.2019 
+L 131/191 
+Official Journal of the European Union 
+EN     
+Part IV: MODEL OFFICIAL CERTIFICATE FOR FARMED GAME SLAUGHTERED AT THE HOLDING in 
+accordance with point 3a of Section III of Annex III to Regulation (EC) No 853/2004 
+17.5.2019 
+L 131/192 
+Official Journal of the European Union 
+EN     
+ANNEX V 
+MODEL OFFICIAL CERTIFICATE IN THE CASE OF EMERGENCY SLAUGHTER OUTSIDE THE 
+SLAUGHTERHOUSE IN ACCORDANCE WITH ARTICLE 4 OF COMMISSION DELEGATED REGULATION 
+(EU) 2019/624 (1) 
+MODEL OFFICIAL CERTIFICATE IN THE CASE OF EMERGENCY SLAUGHTER OUTSIDE THE SLAUGH­
+TERHOUSE 
+17.5.2019 
+L 131/193 
+Official Journal of the European Union 
+EN     
+(1) Commission Delegated Regulation (EU) 2019/624 of 8 February 2019 concerning specific rules for the performance of official controls 
+on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 
+of the European Parliament and of the Council (OJ L 131, 17.5.2019, p. 1). 
+ANNEX VI 
+CORRELATION TABLE REFERRED TO IN ARTICLE 32 
+Regulation (EU) No 211/2013 
+This Regulation 
+Article 1 
+Article 1(2)(b)(ii) 
+Article 2 
+Article 2(2) 
+Article 3 
+Article 27 
+Article 4 
+— 
+Article 5 
+— 
+Annex 
+Part XV of Annex III   
+17.5.2019 
+L 131/194 
+Official Journal of the European Union 
+EN     

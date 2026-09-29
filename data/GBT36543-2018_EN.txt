@@ -1,0 +1,1722 @@
+ICS 01.040. 45
+S 04
+
+National Standard of the People’s Republic of China
+
+GB/T 36543—2018
+
+Terms for railway bridge
+
+$A be FF Rial 7L
+
+(English Translation)
+
+Issue date: 2018-07-13 Implementation date: 2019-02-01
+
+Issued by State Administration for Market Regulation
+Standardization Administration of the People’s Republic of China
+
+
+Contents
+
+nye) a-\1\.0) 40 MARReRR CORREO ee eee
+
+1 Scope
+
+Beam and arch
+Structural components of beam and arch
+Bridge bearing
+
+Pier and abutment
+
+ont onw#krk WN
+
+Bridge design
+
+Index
+
+Bridge FOUNCATION ver resree cee cee cee eee tee eee cee cee cee ene ceases cee een eee nen see nen see ee ees eee eee eee ren eee een aee eee eee
+
+GB/T 36543—2018
+
+* 14
+17
+19
++ 20
++ 25
+
+
+GB/T 36543—2018
+
+Foreword
+
+National Railway Administration of the People’s Republic of China is in charge of this English transla-
+tion. In case of any doubt about the contents of English translation, the Chinese original shall be con-
+sidered authoritative.
+
+This standard is drafted in accordance with the rules given in the GB/T 1. 1—2009 Directives for
+standardization—Part 1: Structure and drafting of standards .
+
+This standard was proposed and prepared by the National Railway Administration of the People’s
+Republic of China.
+
+
+GB/T 36543—2018
+
+Terms for railway bridge
+
+1 Scope
+
+This standard specifies the basic terms and definitions for railway bridge engineering structures.
+
+This standard is applicable to railway bridge engineering structures.
+2 Bridge
+
+2.1
+railway bridge
+
+structure that allows a railway to cross a natural obstacle or a man-made facility
+
+2.2
+jacked-in bridge or culvert
+
+bridge or culvert that crosses the existing railway earthworks and is constructed by jacking method
+
+2.3
+bridge superstructure
+
+structure that is located above the bearing of a girder bridge or above the arch line of an arch bridge
+
+and spans a bridge opening
+
+2.4
+steel bridge
+
+bridge whose superstructure is mainly made of steel
+
+2.5
+reinforced concrete bridge
+
+bridge whose superstructure is mainly made of concrete containing tensioned steel bar
+
+GB/T 36543—2018
+
+2.6
+prestressed concrete bridge
+
+bridge whose superstructure is mainly made of prestressed concrete
+
+2.7
+stone bridge
+
+bridge whose superstructure is made of stone
+
+2.8
+girder bridge
+
+bridge that uses girder as superstructure
+
+2.9
+arch bridge
+
+bridge that uses arch ring or arch rib as superstructure
+
+2. 10
+rigid frame bridge
+
+bridge whose superstructure is rigidly connected to piers and abutments
+
+2.11
+frame bridge
+
+bridge whose main load-bearing member is designed as an integrated box frame
+
+2.12
+slant-legged rigid frame bridge
+
+rigid frame bridge supported by slant columns to increase the span of the bridge
+
+2.13
+suspension bridge
+
+bridge whose deck is hung by vertical suspenders on cables which are suspended between towers
+and connected to the anchorages at each end of the girders
+
+GB/T 36543—2018
+
+2.14
+cable-stayed bridge
+
+bridge whose superstructure comprises towers and main girders which are connected by stay cables
+
+2.15
+movable bridge
+
+bridge where one or two spans of the superstructure may be lifted. turned horizontally or vertically
+
+2.16
+pontoon (floating) bridge
+
+bridge supported by civil ships, standard boats or pontoon boxes as floating piers over which the su-
+perstructure is erected
+
+2.17
+deck bridge
+
+bridge whose deck is located above the superstructure
+
+2. 18
+half-through bridge
+
+bridge whose deck passes through the superstructure
+
+2.19
+through bridge
+
+bridge whose deck is located below the superstructure
+
+2.20
+single-track bridge
+
+bridge with only one rail laid
+
+2.21
+double-track bridge
+
+bridge with two rails laid
+
+GB/T 36543—2018
+
+2.22
+multi-track bridge
+
+bridge with more than two rails laid
+
+2.23
+viaduct
+
+multi-span bridge built to replace an embankment to cross a deep valley. low-lying land. man-made
+facility
+
+2.24
+rail-cum-road bridge
+
+bridge for both road and railway traffic
+2.25
+
+fly over bridge
+
+grade separated bridge
+
+bridge that crosses railways. highways. urban roads. etc.
+
+2. 26
+bridge with turnout
+
+bridge with a rail turnout on it
+
+2.27
+bridge with slab track
+
+bridge with slab track on the deck
+
+2. 28
+main bridge
+
+bridge that crosses the main channel of a river or a deep valley or the main part of a man-made facility
+
+2.29
+approach bridge
+
+bridge that connects the embankment and the main bridge
+
+GB/T 36543—2018
+
+3 Beam and arch
+
+3.1
+beam
+
+straight or curve members, mainly bearing the bending moment and shear force produced by various
+loads
+
+3.2
+truss
+
+planar or spatial grid structure composed of several members that mainly bear the axial force
+produced by various loads
+
+3.3
+main girder
+
+girder that supports various loads in the superstructure and transmits them to piers and abutments
+
+3.4
+simply supported beam
+
+beam rested on two end bearings, one of which is an axially constrained hinge bearing and the other
+is an axially rolling bearing
+
+3.5
+continuous beam
+
+beams with two or more continuous spans supported by bearings
+
+3.6
+cantilever girder
+
+girder with a cantilever extending beyond its fulcrum
+
+3.7
+continuous rigid frame girder
+
+girder with two or more continuous spans and rigid connection between the beam body and the pier
+top
+
+GB/T 36543—2018
+
+3.8
+steel plate girder
+
+|-shaped main girder composed of steel plate or profile steel and with lateral and sway bracing con-
+nections
+
+3.9
+deck girder composed of steel plates
+
+steel plate girder with the deck located on the upper flange of the main girder
+
+3. 10
+through girder composed of steel plates
+
+steel plate girder with the deck located on the lower flange of the main girder
+
+3.11
+steel box girder
+
+single-chamber or multi-chamber box girder composed of steel plates reinforced by longitudinal or
+transverse stiffeners
+
+3.12
+composite girder
+
+girder formed by combining reinforced concrete slabs and steel girders to bear the loads as a whole
+
+3. 13
+truss girder
+
+girder formed by trusses
+
+3.14
+welded and bolted steel girder
+
+steel girder formed by several component segments welded in the factory and then connected by
+high-strength bolts at the site
+
+3.15
+riveted steel girder
+
+steel girder formed by riveting members and joints
+6
+
+3.16
+welded and riveted steel girder
+
+steel girder with members welded at the factory and joints riveted at the site
+
+3.17
+all-welded steel girder
+
+steel girder with all joints and members connected by welding
+
+3.18
+main truss
+
+planar truss that bears the loads and transmits them directly to the bearing
+
+3.19
+parallel chord truss
+
+truss girder with parallel upper and lower chords
+
+3. 20
+polygonal chord truss
+
+truss girder with unparallel upper and lower chords
+
+3.21
+deck truss
+
+truss girder with the deck being located in the upper chord plane
+
+3. 22
+through truss
+
+truss girder with the deck being located in the lower chord plane
+3. 23
+pony truss
+
+half-through truss
+
+through truss without upper flange lateral bracing system
+
+GB/T 36543—2018
+
+GB/T 36543—2018
+
+3.24
+reinforced concrete girder
+
+concrete girder with load-bearing rebar
+
+3.25
+prestressed concrete girder
+
+concrete girder with prestressed rebar
+
+3. 26
+concrete box girder
+
+concrete girder whose cross section consists of one or more boxes
+
+3.27
+concrete T beam
+
+concrete beam with T-shaped cross section
+
+3. 28
+
+concrete slab bridge
+
+ordinary reinforced concrete beam with wide web and short span
+
+3.29
+shape reinforced concrete beam
+
+beam that combines profile steel and concrete to bear the loads as a whole
+
+NOTE It is also known as SRC beam.
+
+3. 30
+beam with ballastless track
+
+beam in the bridge superstructure on which ballastless track is laid
+
+3. 31
+trough girder
+
+prestressed concrete girder with concave groove-shaped cross section and with track laid on the bot-
+tom plate
+8
+
+GB/T 36543—2018
+
+3. 32
+spandrel filled arch
+
+upper bearing arch with solid spandrel
+
+3. 33
+open-spandrel arch
+
+upper bearing arch with non-solid spandrel
+
+3. 34
+tied arch
+
+arch with horizontal tie bars to balance the horizontal forces at the two arch springs
+
+4 Structural components of beam and arch
+
+4.1
+web
+
+plate used in two situations. in which either
+a) acting in the direction of load action for structures or members of T-shaped cross section, or
+b) connecting two flanges for structures or members of I-shaped and box-shaped cross sections
+
+4.2
+flange plate
+
+plate perpendicular to or inclined from a web in the structure or member with I-shaped or T-shaped
+cross section
+
+4.3
+diaphragm
+
+transverse connecting component arranged between two concrete girders or inside a box-shaped
+member
+
+4.4
+stiffening plate
+
+steel plate of the main girder stiffened at the upper flange of the cross beam end for the through
+9
+
+GB/T 36543—2018
+
+steel plate girder bridge and steel truss girder
+
+4.5
+chord member
+
+member forming the upper and lower profiles in the main truss of a steel truss girder
+
+4.6
+web member
+
+member connecting the upper and lower chord members in the main truss of a steel truss girder
+
+4.7
+vertical member
+
+vertical web member in a steel truss girder
+
+4.8
+diagonal member
+
+diagonal web member in a steel truss girder
+
+4.9
+
+end diagonal member
+
+diagonal member located at each end of the main truss of a steel truss girder
+
+4.10
+end vertical member
+
+vertical member located at each end of the main truss of a steel truss girder
+
+4.11
+joint
+
+intersection or connection between web members and chord members (centrelines) of a steel truss
+girder
+
+4.12
+lacing
+
+steel plate connecting intersecting members at joints of a steel truss girder
+10
+
+GB/T 36543—2018
+
+4.13
+splice plate
+
+steel plate that connects two members in a steel girder and transmits the internal force of the mem-
+bers
+
+4.14
+fill plate
+
+plate between two other plates of unequal thickness in a steel girder
+
+4.15
+integrated joint
+
+steel truss joint. formed by welding its component members together inside the joint and bolting the
+members outside
+
+4.16
+flange lateral bracing system
+
+bracing system horizontally arranged between two main girders (or main trusses) in a steel bridge
+
+4.17
+sway bracing
+
+bracing system between two main girders (or main trusses) in a steel bridge, which is arranged on
+the vertical plane perpendicular to the longitudinal direction of bridge
+
+4.18
+traction (braking) bracing
+
+frame in a steel truss that is arranged in the plane of flange lateral bracing system to transmit the
+force generated by train braking or traction to the main truss
+
+4.19
+portal frame
+
+portal frame in the through steel truss or through steel arch bridge where the horizontal force acting
+on the flange lateral bracing system is transmitted to the bearing
+
+NOTE Portal frame is generally composed of end diagonal members or end vertical members and struts in between
+
+ll
+
+GB/T 36543—2018
+
+4.20
+longitudinal girder
+
+beam that is positioned in a steel girder construction and is arranged in the axial direction of a bridge
+and supported on a cross girder
+
+4.21
+floor beam
+
+cross girder
+
+beam that is positioned in a steel girder construction and is arranged transversely along a bridge axis
+and supported on a main girder (or main truss)
+
+4.22
+end floor beam
+
+beam arranged at each end of the main girder (or main truss) of a steel bridge
+
+4.23
+jacking floor beam
+
+beam that can directly bear the lifting load when the main girder (or main truss) of a steel bridge is
+being jacked up
+
+4.24
+bridge floor system
+
+general term for facilities that are set up on the bridge deck to perform specific functions
+
+NOTE Bridge floor system generally includes the water-proof system, protective layer, sidewalk, railing. ballast retai-
+
+ning wall (protective wall). cable trough. etc.
+
+4.25
+bridge deck
+
+bridge top surface that supports track structures and other facilities
+
+4. 26
+open bridge floor
+
+bridge deck where sleepers are laid directly on the longitudinal or main girder without ballast
+
+GB/T 36543—2018
+
+4.27
+orthotropic deck
+
+integral bridge deck without separate longitudinal girders and cross girders
+
+4. 28
+ballasted bridge deck
+
+bridge deck where ballasts and sleepers are laid
+
+4.29
+ballastless bridge deck
+
+bridge deck where a concrete or reinforced concrete base is used as a support for the track structure
+
+4. 30
+sealing device
+
+facility arranged between sectional joints of the bridge deck to prevent leakage from the joint surface
+
+4.31
+guard rail on bridge
+
+non-running rail laid at the inner sides of the two running rails on the bridge to prevent trains from
+excessive deviation from the centreline of the bridge in the event of derailment
+
+4. 32
+bridge guard timber
+
+longitudinal square timber on the open bridge deck that is used to fix the sleepers
+
+4, 33
+ballast trough
+
+part of ballasted bridge that accommodates the ballast
+
+4. 34
+ballast retaining wall
+
+reinforced concrete wall retaining ballast on both sides of the track
+
+13
+
+GB/T 36543—2018
+
+4.35
+protection wall
+
+concrete wall installed on the bridge deck to prevent the train from falling off the bridge in the event
+of derailment
+
+4. 36
+rain shield
+
+L-shaped weatherproof plate provided outside the sidewalk of the bridge deck to prevent rainwater
+from entering the surface of the beam body
+
+4.37
+arch ring
+
+arched structure that bears the loads and transmits them to the pier/abutment
+
+4. 38
+arch rib
+
+frame of the main arch ring of an arch bridge. or the curve structure serving as an arch ring
+
+4,39
+arch spring
+
+part where the arch ring is connected to the pier/ abutment
+
+4.40
+structure filled arch ring
+
+structure between the arch ring (or arch rib) and the deck of the deck arch bridge
+
+5 Bridge bearing
+
+5.1
+bridge bearing
+
+force-transmission component arranged between the superstructure and the substructure of the
+bridge
+
+14
+
+GB/T 36543—2018
+
+5.2
+fixed bearing
+
+bearing where the beam body can rotate about the fulcrum only in the vertical plane
+
+5.3
+movable bearing
+
+bearing where the beam body can rotate about the fulcrum in the vertical plane and move in the lon-
+gitudinal direction of bridge
+
+5.4
+bearing movable in one direction
+
+movable bearing that allows the linear displacement either in longitudinal or transverse direction of
+bridge while bearing the vertical reaction force
+
+5.5
+longitudinally movable bearing
+
+bearing movable in one direction that only allows the beam end to move in the longitudinal direction
+of bridge
+
+5.6
+transversely movable bearing
+
+bearing movable in one direction that only allows the beam end to move in the transverse direction
+of bridge
+
+5.7
+freely movable bearing
+
+movable bearing that allows the linear displacement in any horizontal direction and only bears the
+vertical reaction force
+
+5.8
+laminated rubber bearing
+
+bridge bearing consisting of flat rubber plates stiffened by thin steel plates
+
+GB/T 36543—2018
+
+5.9
+pot rubber bearing
+
+bridge bearing consisting of a steel basin, a rubber plate sealed in the steel basin and a sliding plate
+
+5. 10
+plane bearing
+
+bridge bearing consisting of an upper and a lower steel bearing plate
+
+5.11
+rocker bearing
+
+bearing consisting of an upper steel bearing plate and a lower bearing plate with curved surface
+
+5. 12
+pendulum bearing
+
+bearing consisting of an upper steel pendulum, rocker shaft and a lower bearing plate
+
+5. 13
+multiple roller bearing
+
+bearing consisting of an upper and a lower steel pendulum, spoke shaft and bearing plate
+
+5. 14
+spherical steel bearing
+
+steel bearing consisting of an upper pendulum, a spherical crown and a lower pendulum
+
+5.15
+cylinder surface steel bearing
+
+steel bearing consisting of upper pendulum, a cylindrical lining plate and lower pendulum
+
+NOTE The contact surface with the cylindrical lining plate is an arc surface.
+
+5. 16
+hyperboloid surface steel bearing
+
+steel bearing consisting of an upper pendulum, a hyperbolic steel lining plate and a lower pendulum
+
+16
+
+GB/T 36543—2018
+
+5.17
+
+rocker-slippery plate steel bearing
+
+bearing consisting of an upper and a lower steel pendulum, a rocker and a bearing plate
+
+6 Pier and abutment
+
+6.1 Pier
+
+6.1.1
+pier
+
+structure that supports adjacent bridge superstructures and transmits their loads to the foundation
+
+6.1.2
+hollow pier
+
+pier with hollow shaft
+
+6.1.3
+solid pier
+
+solid pier with shaft made of concrete or masonry
+
+6.1.4
+light pier
+
+pier made of reinforced concrete
+
+6.1.5
+pier cap
+
+part at the top of a pier that accommodates the bridge bearings and transmits the load to the pier
+body
+
+6.1.6
+pier shaft
+
+pier cap or the bottom surface of bearing plate bed (in case of no pier cap) and part of the pier body
+above the top surface of the foundation
+
+17
+
+GB/T 36543—2018
+
+6.1.7
+bridge tower
+pylon
+
+tower that supports cables in suspension bridge or cable-stayed bridge and transfers their loads di-
+rectly to the foundation
+
+6.2 Abutment
+
+6.2.1
+abutment
+
+retaining structure that connects the bridge superstructure and the subgrade
+
+6.2.2
+T-shaped abutment
+
+abutment formed by the front wall supporting the bridge superstructure and the rear wall parallel to
+the railway line, exhibiting a T shape on the cross section
+
+6. 2.3
+U-shaped abutment
+
+abutment formed by the abutment body supporting the bridge superstructure and the wing walls on
+both sides, exhibiting a U shape on the cross section
+
+6.2.4
+
+straight abutment
+
+abutment formed by the abutment body supporting the bridge superstructure and the wing walls on
+both sides
+
+6.2.5
+abutment with cantilevered retaining wall
+
+U-shaped abutment without the lower part of the abutment tail
+
+6.2.6
+breast wall of abutment
+
+wall above the abutment cap that is used for blocking the embankment filling earth behind the abut-
+ment
+18
+
+GB/T 36543—2018
+
+6.2.7
+ballast retaining wall of abutment
+
+wall arranged on the top of the abutment for retaining ballast
+
+7 Bridge foundation
+
+7.1
+subsoil
+soil foundation
+
+soil layer that bears the structural load
+
+7.2
+bridge foundation
+
+structure that transmits the loads borne by the bridge pier to natural foundation soil
+
+7.3
+open cut foundation
+
+shallow foundation constructed by step-slope excavation
+
+7.4
+open caisson foundation
+
+foundation formed by sinking the caisson with upper and lower openings to the design elevation, fol-
+lowed by bottom sealing and capping
+
+7.5
+cutting caisson foundation
+
+foundation formed by vertical excavation and pouring concrete
+
+7.6
+caisson foundation
+
+box-shaped structure with a pressurized chamber at the lower end. which is sunk to the design ele-
+vation of the foundation
+
+19
+
+GB/T 36543—2018
+
+7.7
+pile foundation
+
+foundation consisting of pile and pile cap
+
+7.8
+bored pile
+
+foundation pile formed by pouring concrete after a pile hole is drilled with the drilling tool and the re-
+inforced cage (if any) is placed in the hole
+
+7.9
+excavation pile
+
+foundation pile formed by pouring concrete after a pile hole is manually dug and a reinforced cage Cif
+any) is placed in the hole
+
+7.10
+driven pile
+
+foundation pile formed by driving a prefabricated pile into the soil
+
+7.11
+pile raft
+
+part of a pile foundation, which is used to anchor the pile head, enable the pile group to bear the load
+as a whole and support the abutment
+
+8 Bridge design
+
+8.1
+length of bridge
+
+distance between the front wall and breast wall of the abutment
+
+NOTE 1 For anarch bridge. it is the distance between the expansion joints at both ends (the upper end wall of the arch
+
+and the abutment).
+
+NOTE 2 Fora rigid frame bridge. it is the distance between the outer sides of adjacent rigid frames in the span direc-
+
+tion.
+
+20
+
+GB/T 36543—2018
+
+8.2
+overall length of bridge
+
+distance between the ends of two abutments on the bridge axis
+
+8.3
+clearance under bridge
+
+space between the bottom of the bridge superstructure and the navigation (rafting) or design water
+surface, pavement or rail top
+
+8.4
+bridge opening
+
+area required for safe passage of design floods. drifts and ships under a river-crossing bridge. inclu-
+ding the length of the bridge opening. the height of the clearance above the water surface and the
+water depth after river bed erosion and deposition
+
+8.5
+structure clearance on bridge
+
+minimum clearance above the rail top required for safe operation of train
+
+8.6
+bridge span
+
+horizontal distance between two adjacent bearing centres of the bridge superstructure in the longitu-
+dinal direction of bridge
+
+8.7
+super major bridge
+
+railway bridge with a length above 500 m
+
+8.8
+major bridge
+
+railway bridge with a length greater than 100 m but not exceeding 500 m
+
+8.9
+medium bridge
+
+railway bridge with a length greater than 20 m but not exceeding 100 m
+21
+
+GB/T 36543—2018
+
+8.10
+minor bridge
+
+railway bridge with a length of 20 m or below
+
+8.11
+depth of girder
+
+height from bottom to top of girder; height from the centreline of the lower chord members to the
+centreline of the upper chord members for a truss
+
+8.12
+length of girder
+
+length between the end faces of girder
+
+8.13
+centre to centre distance of main girder
+
+horizontal distance between the centrelines of the two main girders of the bridge superstructure
+
+8.14
+panel length
+
+distance between the centres of two adjacent joints of the main truss
+
+8.15
+cambering
+
+height of the line connecting the arch ring between the centres of the two bearings of the bridge su-
+
+perstructure
+
+8.16
+arch rise
+
+height of the line connecting the arch ring between the arch springs to the centre of the vault
+
+8.17
+CS-live load
+
+designation for standard live load carried by train operating on mixed passenger and freight railway in
+the People’s Republic of China
+22
+
+GB/T 36543—2018
+
+8.18
+ZK-live load
+
+designation for standard live load carried by high-speed railway train in the People’s Republic of China
+
+8.19
+
+vertical dynamic action of train
+
+vertical dynamic effect on bridges and other structures during train operation
+
+8. 20
+centrifugal force of train
+
+horizontal force generated by a running train on the curve, which tends to the outside of the curve
+
+8.21
+braking force of train
+
+horizontal force applied to the sub-rail structure in the same direction as the operating direction of
+train during braking
+
+8.22
+traction force of train
+
+horizontal force applied to the sub-rail structure in the opposite direction as the operating direction
+of train during starting
+
+8. 23
+lateral sway force of train
+
+sway force applied to the rail top when the train is operating
+
+8.24
+operation load
+
+specified load acting on the bridge or members determined through structural calculation for the op-
+eration stage
+
+8.25
+strength
+
+ability of materials or components to resist damage under forces
+23
+
+GB/T 36543—2018
+
+8. 26
+stiffness
+rigidity
+
+ability of structures or members to resist unit deformation
+
+8.27
+deflection
+
+displacement of each point on the axis of a structure or component within the cross-section at that
+point under load
+
+8. 28
+camber
+
+correction amount reserved in opposite direction of deflection during manufacture to offset the de-
+flection of the bridge superstructure under load
+
+8.29
+pre-camber
+
+correction amount reserved in the direction of reverse influence to offset the prestress shrinkage
+creep and tension elastic deformation
+
+8. 30
+deformation
+
+relative displacement between points in a structure or member caused by load
+
+8. 31
+allowable stress
+
+maximum stress that a material is allowed to withstand under a specific condition to ensure structur-
+al safety
+
+8. 32
+safety factor
+
+factor indicating the proportional relationship between the calculated critical load-carrying capacity
+and the calculated load when a structure or member reaches a specific failure state
+
+24
+
+GB/T 36543—2018
+
+Index
+
+abutment with cantilevered retaining wall csrsrsssssesseeseeeee eee eeseeecee see ese ees eeesesseeeseesserseesees 625
+
+all-welded steel girder <sr++sessessssseeerseeceeaeeces see ceeecesesece eee seeseses sete csesesenssesesesesessees 3.17
+
+APProach bridge «ssreeeceseseceeeeseeecesceecseessesscessee see steescesseesse ass esseessessseassesseessessesateastees DIG
+
+Arch Dridge —vsrersceeteseee eee ceeseeeeeeeecee ces eeeaeeces ene seeseeseseeseesescsseeseetesenessssessesessssesssesesene DQ
+
+ACH Sib ceeeee eee cceceeaee ccc cetes cee ceecee nse eeeeeeeesnseeee cesses ses eesseeaeesesssesessessecsssasresssstesesesseees A 3B
+
+APCH FING ceeteeset est eeseeeceecee cee seseesceeseeaseassenscescesseeenesessesseeses assess esssesssscseesseessesssesssaseess A OT
+
+ACH IGE cvrees eee cee eeewee see ceeees see seseeeuee sre see ses ese see see ses cesses eee aes see sesees see ses see eesererestesesoserers BIG
+
+arch spring See e ee nee ene nee cence eens ene cee nen aee nas seenae cesses cesaessesans ses ccssssasssssccsscssesssessssssssssssces A OO
+
+ballastless bridge deck s+++++s+s+esesseesesecenese sence cee cae secre seecneaesceeaesceeaeesesatesssaeetsssseesteeess A 2G
+
+ballast retaining wall of abutment crrrrsss+esteeesee cee eteeeenecescee cee aee ens cesseesseessessceeseeeseetsees 62.7
+
+DOA cercee tee ceeceeceeceeceeaeeeeecee ene seeeee ces aesseeeeeeaeaeeeeeceasanaseceesee ses seeseeseasesessessesesesessessesess BY
+
+bearing movable in One direction vvrrrrreseceesee see ceeeee cee ceseeseetcescescesereerecttetettettetteteettettenes BL A
+
+GB/T 36543—2018
+
+braking force of train
+
+breast wall Of ADUTMENT cercrrcrr cer cee terete cen cee cee cee ces cee een aee nesses nesses eee eee eee renee renee een eee eee
+
+bridge bearing
+
+bridge with slab track
+
+bridge with turnout
+
+bridge floor system
+
+bridge COCK cercreccscee cee cee eee cen ceecencen cesses ees serene wen ens cesses cesses cesses see nen see nee ses nee eases ses eee nen ene
+
+bridge foundation
+
+bridge guard timber
+
+bridge opening Peete eee eee Teer eT eer Terr errr Te eT re Te eer eT eer eter Te errr reer Te Teeter Terre tee Teeter Teer rere er rere eT
+
+bridge span
+
+bridge tOWER sreresteseseeete cesses ceeces eee eee ces cnseee cesses esses ceeces cee eee ces cee eeeaeeces cneaes cence eeanease
+
+cable-stayed bridge
+
+caisson foundation
+
+CAMDEL verter cs see cee ces cee cen cee een aee senses senses ees cen eee renee een eee een eee senses eee nee ene aan ene eee eee eee eee eee eee ane
+
+cambering
+
+cantilever girder
+
+centre to centre distance of main girder
+
+centrifugal force of train
+
+chord member
+26
+
++ 8.21
+
+6.2.6
+
+* 5.1
+
++ 2.27
+
+* 2.26
+
+- 4,24
+
+4.25
+
+* 7.2
+
+* 4,32
+
+8.4
+
+* 8.6
+
+2.3
+
+6.1.7
+
++ 7.6
+
+8. 28
+
+* 8.20
+
+° 4.5
+
+clearance under bridge
+
+composite girder
+
+concrete box girder
+
+concrete slab bridge Pere eee eee eee Teeter err e Te eee Tee Tee Tee TT eee TT eT rere rere ree eee ee Tre Tre Tee ere reer ree
+
+concrete T beam
+
+continuous rigid frame girder
+
+cross girder
+
+CS-live load
+
+cutting CAISSON FOUNCATION crrcrrrre ces cee cee cee cee cee cee ene cee ene cesses cee cns cee nen eee nen ses nae cases ces aee sen ens
+
+cylinder surface steel bearing
+
+deck bridge eee eT eee eee e Teer eee Te Tee Tee TT OTe Tre Teer errr erro tre rr etre rr etre rr errerr etre tre rr errr rrerrerrersy
+
+deck girder composed of steel plates
+
+deck truss
+
+deflection
+
+deformation
+
+depth of girder
+
+diagonal member <++essseeessseecee eee see eee cee cesses eee cee nee eee nee ce nee ces eee ces eee sesenegaeeeeaaeceeaeeceeeeesneees
+
+double-track bridge
+
+driven pile
+
+GB/T 36543—2018
+
+8.3
+
++ 3.12
+
++ 3.26
+
+3. 28
+
++ 3.27
+
+3.5
+
+3.7
+
++ 4.21
+
+* 3.9
+
++ 3.21
+
++ 8.27
+
++ 8.30
+
+- 8.11
+
+4.8
+
+4.3
+
++ 2.21
+
+* 7.10
+27
+
+GB/T 36543—2018
+
+end diagonal feals\a0]0\:) Me Oe ee ooo eros
+
+end floor beam
+
+EN Vertical MEMDEL cvrcrrrcrecee ste cee tee cee cee cee teens eee ens cesses see cne cesses cee nan eee nee ses nae eases ces aee renee
+
+EXCAVATION Pile serreereeteeeeeeeeete eee ee ee ete et ete eee EE eee EE EEE EEA EE EEE EEE EEE Eee Eee Eee Ee EEE EEe OnE ene ene eae eee tee
+
+fill plate
+
+fixed bearing
+
+flange lateral bracing system
+
+flange plate
+
+floor beam
+
+fly over bridge
+
+frame bridge
+
+freely movable bearing
+
+grade separated bridge eee Tee eee ere reer e eee eee Tee ere Te etree Terre Tet T etree etre Te err errr ere Tee etre Tree
+
+girder bridge Peer e ere TPO eee Tee Tr eT ee Teer err err err err e reer rere err e reer rere err errr rr err er ee Tre Tre rr err err err err err esses
+
+guard rail on bridge
+
+half-through bridge
+
+half-through LTITUSS crrccrcceceecceceeceeeee cee cen cee cen cesses eee caneen cee eeeaeeeee see een cee een see nee ree een ees eae tee ees
+
+hollow pier
+28
+
+4.9
+
+7.9
+
++ 5.7
+
+2.25
+
+2.8
+
+- 4,31
+
+hyperboloid surface steel bearing
+
+integrated joint
+
+jacked in bridge OF CUIVEr>L crretr reese tet cee eee cee cee cee ten cee een seenee see eee ees nne renee renee een eee see eee eee nen eee
+
+jacking floor beam <s++e+eesseseee eee cee eee cee eee cee aee cee eee cesses cesses cesses cesses ces eee ses eee ses ene ses cneaeseneees
+
+Fe) ga EE SOROS SRO OE TOO OE TEES OE IERSOESEOOEOOEIOO SECON CEOIOOCOSIOOSOOSOOOIOSOSSIESOSSIESS
+
+lacing
+
+laminated rubber bearing
+
+jateral sway force of train
+
+ength of bridge
+
+ength of girder
+
+ight pier
+
+ongitudinally movable bearing
+
+main girder
+
+main truss
+
+medium bridge PRT eSeR ESOS RTT RTOS T RTO O TOOT TOS eT eer eTTeTeerrereerrerrerrer restr err erre rr err err err errerrerrerrerrerty
+
+ONgitudinal girder -+++ereersseceeceseee eee see eee tease cencee essences ens eee sence ene ase cesses ene neeces ces ene nesses eee
+
+GB/T 36543—2018
+
++ 5.16
+
+2.2
+
+4. 23
+
+4.11
+
++ 5.8
+
++ 8.23
+
+- 8.1
+
+4. 20
+
+* 5.5
+
+2. 28
+
+* 3.3
+
+8.8
+
+8.9
+29
+
+GB/T 36543—2018
+
+minor bridge
+
+movable bearing
+
+movable bridge
+
+multiple roller bearing
+
+multi-track bridge
+
+open bridge floor
+
+open CAISSON FOUNCATION crrcrrrrr csr cee er teeceeeee cee cee cee ees cee een see nen see nen see see eee eee eee aee ren eae sen eee eee eee
+
+open cut foundation
+
+open-spandrel arch
+
+operation load
+
+orthotropic deck
+
+overall length of bridge
+
+panel length
+
+parallel chord truss
+
+pendulum bearing
+
+pier
+
+pier CAP vrrcrttetste settee cee tec ete cceeee cts sec cts ectaes ces cecceseecassccsaes ees ceccssesaes cee aes cesses ces sen aes eee ees
+
+pier shaft
+
+pile foundation «+++e+secesese ces cee ces cee ees enews one eeeceeeeeceeaeeceeaee cesses cesses cesses ces cneaes caeaes cease cease
+
+pile raft
+30
+
+* 2.22
+
+* 4.26
+
+7.4
+
+° 7.3
+
++ 3.33
+
+* 8.24
+
++ 4.27
+
++ 8.2
+
+* 6.1.1
+
+6.1.5
+
+* 6.1.6
+
+7.7
+
+* 7.11
+
+plane bearing
+
+polygonal chord truss
+
+pony truss
+
+portal frame
+
+pot rubber bearing
+
+prestressed concrete bridge
+
+protection wall
+
+rail-cum-road bridge
+
+railway bridge
+
+rain shield
+
+reinforced concrete bridge eee eee eee Tee ee eT eT eee eter eT Tete TT ete TT eT Terre reer rer rer rer rer Terr errerry
+
+reinforced concrete girder
+
+rigid frame bridge crresrssresses cesses see cenene nee ce cen ene nesses ene eeseece ene aeecen cee eae ate ces ens eneaeecen ene ees
+
+riveted steel girder
+
+rocker bearing
+
+pontoon (floating) bridge Dente rene eee eee eee eee eee eee eee eee eee eee eee eee eee eee eee eee eee eee EEE EEE OEE EEE TEE EE EE eee O88,
+
+DIe-CAMbEL «sseeesessse ses secsnces cesses cee sen cne senses eee ses cee see nse see ans as ses EB AEE AsO ene eed ALORA EAH EEE OEE Hed OO
+
+prestressed concrete girder ore eee CeCe RTC e TTR T Cee Tee Ere Tee Set Tet CCCI ete e rere err etre rer rer retreat re rrerrerrersy
+
+pylon err errr reer errr reer rere err errr rr er rere errr ree rr ere error rere err errr reer ee rT ere error ee reer rere err ere errr reer ere
+
+GB/T 36543—2018
+
++ 5.10
+
+5.9
+
+8.29
+
+* 2.6
+
+3.25
+
++ 4.35
+
+6.1.7
+
++ 2.24
+
+* 2.1
+
+- 4.36
+
+2.5
+
++ 3.24
+
+- 5.11
+
+5.17
+31
+
+GB/T 36543—2018
+
+safety factor
+
+sealing device «++s1se+ee reece eee cee eee cne nee ceeeee cenaeeceeaeeceaee cesses cesses cee ces ces cas cen ees aeeceeaes cee ees ees
+
+shape TEINFOrCeEd CONCret|e DEAN cerser crests see ete cee ces eee eee eee cee eee eee cee cee een eee sas cee eee see ses ees eee cee ees
+
+simply-supported beam
+
+single-track bridge <s+sessrceeeecee eee cee eee cee eee ce eee ces eee cesses cee eee cesses cee cee ces cae cee cae aes ceeees ene nes ens
+
+slant-legged rigid frame bridge
+
+SOI] FOUNCATION crrcreecrrcescee cee cee cee seen eee san een cae eee eee eee see een eee nen see nee ee eee eee eee eee eee nen eae en aan eee eee
+
+solid pier
+
+spandrel filled arch
+
+spherical steel bearing
+
+splice plate eter tet etter t etre eter ttt errr t tet tet terre tt etre tt etter t etter ret tere t ttt eter tre treet terre tree cers
+
+straight abutment
+
+steel box girder Pere eee ere eee reer ere ere reer eee eee Teer Terre reer errr Tr eer err e Teer ee Tre reer Terr errr rer rere ete ety
+
+steel bridge
+
+steel plate girder ss+ssssesessseeees see cee see cne eee cee eee ces eee cee eee ces ee ces eee cesses cee eee ces cae aee eae aee eae aee cee aes
+
+stiffness
+
+strength
+
+structure clearance on bridge
+
+structure filled arch ring
+32
+
+* 8.32
+
+4. 30
+
+3.29
+
+* 3.4
+
+2.20
+
+7.1
+
+* 6.1.3
+
++ 3.32
+
+* 6.2.4
+
+3.11
+
+° 2.4
+
+3.8
+
+4.4
+
+* 8.26
+
+2.7
+
+* 8.25
+
+° 8.5
+
+* 4.40
+
+subsoil
+
+super major bridge
+
+SUSPENSION Dridge <rerererrerecesces eee ete cee ees teats ce eee ee nesses eee ese see cee ene aee cee tes ene eect cet ene nee een eee
+
+sway bracing
+
+trough girder
+
+through bridge
+
+through girder composed of steel plates
+
+traction (braking) bracing
+
+traction force of train
+
+transversely movable bearing
+
+truss
+
+LTUSS Girer cese+eeeeeeceeeee cence cesses cee eee cesses cen eee ces cesses ene seseneses cneees ce eeecneees seeeee see aee cee ees eee
+
+U-shaped ADULMENL corcercre cee cte cee ceecee cee cee cee cee see cen cee cen aes een eee een cee ene scenes see eee ces eee eee eee eee nee
+
+vertical dynamic action of train
+
+vertical member
+
+viaduct
+
+GB/T 36543—2018
+
+* 7.1
+
+* 8.7
+
++ 3.31
+
+3.22
+
+3.34
+
++ 8.22
+
+* 5.6
+
+* 3.2
+
+6.2.2
+
+6.2.3
+
+° 47
+
+seeeeeeeees 2 D3
+33
+
+GB/T 36543—2018
+
+web
+
+web member
+
+welded and bolted steel girder
+
+welded and riveted steel girder
+
+ZK-live load
+
+
+
+

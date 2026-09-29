@@ -1,0 +1,214 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION REGULATION (EU) 2019/554 
+of 5 April 2019 
+amending Annex VI to Directive 2007/59/EC of the European Parliament and of the Council on 
+the certification of train drivers operating locomotives and trains on the railway system in the 
+Community 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive 2007/59/EC of the European Parliament and of the Council of 23 October 2007 on the 
+certification of train drivers operating locomotives and trains on the railway system in the Community (1), and in 
+particular Article 31 thereof, 
+Whereas: 
+(1)  
+Point 8 of Annex VI to Directive 2007/59/EC establishes the level of language skills to be fulfilled by train 
+drivers, so that they can communicate actively and effectively in routine, degraded and emergency 
+situations. Moreover, it gives the possibility of exempting the train drivers from the required level of language 
+skills in sections between the borders and the stations situated close to the borders and designated for cross 
+border operations. In order to enhance flexibility without any negative impact on safety, it is necessary to amend 
+point 8 of Annex VI to Directive 2007/59/EC. 
+(2)  
+The requirements specified in point 8 of Annex VI to Directive 2007/59/EC are not considered to be the most 
+effective means of ensuring a high level of safety while allowing efficient operation of the rail network. This is 
+particularly true in case of disruptions on the railway network of a Member State requiring the use of deviation 
+routes through neighbouring Member States. In those cases, train drivers with specific language skills are sought 
+at short notice to drive on the deviation routes, hence ensuring the continuity of operations. 
+(3)  
+It is necessary to explore alternative options to the current language requirements allowing for greater flexibility 
+but ensuring at least an equivalent level of safety with the current requirements. Those options could consist in 
+more targeted language requirements (i.e. with focus on rail specific terminology), or to a lower general language 
+level combined with alternative means to support effective communication. They should ensure an active and 
+effective communication in routine, degraded and emergency situations. 
+(4)  
+In order to obtain reliable results on the effectiveness of the alternative options, it is necessary to test the 
+alternative means in day-to-day operations. Therefore, the impact of those alternative options should be examined 
+under real conditions in the framework of pilot projects conducted in two phases. In the first phase, infrastructure 
+managers and railway undertakings should carry out pilot projects using alternative means and involving train 
+drivers who fulfil the requirements under point 8 of Annex VI to Directive 2007/59/EC. If in the first phase 
+those pilot projects prove that the alternative means effectively complement the language skills of the driver, then 
+in the second phase the pilot projects should be carried out with train drivers having a lower level of language 
+8.4.2019 
+L 97/1 
+Official Journal of the European Union 
+EN     
+(1) OJ L 315, 3.12.2007, p. 51. 
+skills than those required in point 8 of Annex VI to Directive 2007/59/EC and using the alternative means 
+proved effective in the first phase. A derogation should be requested jointly by the railway undertaking and 
+infrastructure manager to the Commission for carrying out the second phase. 
+(5)  
+The respective roles and responsibilities of all parties involved, such as the Commission, national safety 
+authorities and the European Union Agency for Railways, in the process of submitting and assessing the requests 
+for derogation as well as carrying out the pilot projects should be clarified. 
+(6)  
+The involvement of the national safety authorities is crucial in the process of submitting the requests for 
+derogation. Their positive opinion should accompany the application submitted jointly by the rail undertaking 
+and infrastructure manager. 
+(7)  
+The preparation and assessment of impacts of the envisaged pilot projects require time. It is however necessary 
+to have a legal ground/justification for more flexibility as regards the language requirements as soon as possible, 
+in order to carry out the pilot projects as soon as possible in order to be prepared for possible disruptions on the 
+EU rail network. For that reason, the new rules should be applicable without the need of further transposition by 
+the Member States. 
+(8)  
+Point 8 of Annex VI consists of a self-standing set of rules that can be understood without recourse to other 
+parts of that Annex or to Directive 2007/59/EC. Therefore, this amending act should provide for directly 
+applicable rules. 
+(9)  
+For reasons of clarity, the whole point 8 should be replaced, although the amendments do not concern the whole 
+point. 
+(10)  
+For the staff performing safety-critical tasks involving a direct interface between a railway undertaking and an 
+infrastructure manager, the professional qualifications and health and safety conditions at work are defined in 
+Commission Decision 2012/757/EU (2). The requirements of Decision 2012/757/EU are complementary to those 
+set out in Annex VI of Directive 2007/59/EC. 
+(11)  
+In accordance with Article 31 of Directive 2007/59/EC, the bodies represented in the European Social Dialogue 
+Committee Railways were consulted. 
+(12)  
+The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in 
+Article 32(1) of Directive 2007/59/EC, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Point 8 of Annex VI to Directive 2007/59/EC is replaced by the following:  
+‘8. LANGUAGE 
+(1)  Drivers who have to communicate with the infrastructure manager on critical safety issues must have the 
+necessary language skills in at least one of the languages indicated by the infrastructure manager concerned. 
+Their language skills must allow them to communicate actively and effectively in routine, degraded and 
+emergency situations. They must be able to use the messages and communication method specified in the 
+“Operations and traffic management” TSI. 
+(2)  In order to satisfy the requirements provided for in paragraph 1, drivers must be able to understand (both 
+orally and in writing) and to communicate (both orally and in writing) according to level B1 of the 
+Common European Framework of Reference for Languages (CEFR) established by the Council of Europe. 
+8.4.2019 
+L 97/2 
+Official Journal of the European Union 
+EN     
+(2) Commission Decision 2012/757/EU of 14 November 2012 concerning the technical specifications for interoperability relating to the 
+operations and traffic management subsystem of the rail system in the European Union and amending Decision 2007/756/EC (OJ L 345, 
+15.12.2012, p. 1), last amended by Regulation (EU) 2015/995 (OJ L 165, 30.6.2015, p. 1). 
+(3)  In case where the train operations take place in sections between the borders and the stations situated close 
+to the borders and designated for cross border operations, drivers of trains operated by a railway 
+undertaking may be exempted by the infrastructure manager from the requirements of paragraph 2, 
+provided that the following procedure is applied: 
+(a)  the railway undertaking shall request the infrastructure manager for a derogation with regard to the 
+concerned drivers. In order to ensure a fair and equal treatment of the applicants, the infrastructure 
+manager shall apply to each submitted request for derogation the same assessment procedure, which 
+shall be part of the network statement; 
+(b)  the infrastructure manager shall grant a derogation if the railway undertaking demonstrates that it has 
+made sufficient arrangements for ensuring communication between the concerned drivers and the staff 
+of the infrastructure manager in routine, degraded and emergency situations, as provided for in 
+paragraph 1; 
+(c)  railway undertakings and infrastructure managers shall ensure that the concerned staff is aware of those 
+rules and arrangements and receive appropriate training through their safety management systems. 
+(4)  One or several railway undertakings in cooperation with one or several infrastructure managers (“the 
+applicants”) may carry out pilot projects to test alternative means of ensuring the effective communication 
+required by paragraph 1. The following procedure shall apply: 
+(a)  the applicants shall identify the parts of the network and nature of the services concerned, the initial 
+duration of the pilot project and in particular: 
+i)  specify the scope of the pilot project, 
+ii)  indicate what alternative language competences they propose to apply, 
+iii)  describe which additional tools they propose to use to support communication in routine, degraded 
+and emergency situations, 
+iv)  demonstrate how the alternative language competences and additional tools ensure at least an 
+equivalent level of safety to full compliance with the requirements of paragraph 1, when integrated 
+in their respective Safety Management Systems (*), 
+v)  explain how they shall implement the pilot project in their Safety Management System, including 
+training programs and documentation of the results, and 
+vi)  consult the representatives of the concerned staff in the process of preparing the application. 
+(b)  The applicants shall request the opinion of the concerned national safety authority/authorities that 
+issued their single safety certificate(s) or safety authorisation(s), and of the European Union Agency for 
+Railways, where it is the safety certification body (“the authorising entity or entities”). Each authorising 
+entity shall issue an opinion on whether the alternative means ensure at least an equivalent level of 
+safety to full compliance with the requirements of paragraph 1, within 60 days from the day the last 
+authorising entity concerned has received the request. In case several authorising entities are involved, 
+they are encouraged to work together and ensure coordination. 
+The opinions shall assess in particular whether the following conditions are fulfilled: 
+i)  the proposed alternative language competences and other tools for communication are sufficient to 
+ensure effective communication between the concerned drivers and the staff of the infrastructure 
+manager in routine, degraded and emergency situations. 
+ii)  the safety management systems of the applicants have been adapted to using alternative language 
+competences and other tools for communication. 
+iii)  the applicants have provided evidence that these tools have been tested under operational 
+conditions involving drivers fulfilling the language requirements of paragraph 2. 
+iv)  all concerned staff of the railway undertaking and infrastructure manager have received appropriate 
+training through their safety management systems. 
+In the event of diverging opinions, the provisions of point (5) second subparagraph shall apply. 
+8.4.2019 
+L 97/3 
+Official Journal of the European Union 
+EN     
+(c)  The applicants shall jointly submit to the Commission an application for derogation from paragraph 2, 
+including the opinions of the authorising entity or entities and the detailed description of the pilot 
+project on which the opinions are based. Alternatively, the participants in the project can designate 
+a coordinator among them, who may submit the joint application on behalf of all participants in the 
+project. 
+(5)  The Commission shall, within 60 days after receiving a complete application, grant a derogation from 
+paragraph 2: 
+(a)  where the opinions of the authorising entity or entities are positive; and 
+(b)  where it is demonstrated that equal and non-discriminatory treatment of all applications as well as legal 
+coherence at Union level is ensured. 
+In the event of diverging opinions, or a failure of one or more authorising entities to deliver an opinion 
+within the prescribed time limit, the applicants may request the Commission to find a mutually acceptable 
+solution, in cooperation with the parties involved. If no mutually acceptable solution can be found within 
+90 days after receiving a request for derogation, the pilot project shall be deemed to be refused. The 
+Commission may request the opinion of the European Union Agency for Railways, and shall do so where 
+the opinion of each authorising entity is negative. 
+(6)  The derogation shall be granted for a limited period of time and shall not exceed 36 months. Where the 
+derogation has been granted for a shorter period of time, it may be renewed provided that the total 
+duration of 36 months is not exceeded. 
+(7)  On request by interested railway undertakings and where justified, an infrastructure manager shall offer 
+other railway undertakings using a section of the network on which a pilot project is on-going, the 
+possibility to participate in the pilot project subject to a positive opinion by the authorising entities 
+concerned. Such additional participation shall be notified to the Commission by the infrastructure manager. 
+In case of changes in the scope of the pilot projects, in particular the part of the network in which the 
+project is carried out, the alternative language competences and the additional tools used for communi­
+cation, the procedure described in point (4) shall apply. 
+(8)  The railway undertaking and infrastructure manager shall ensure that the operation of the pilot project is 
+appropriately documented in their safety management systems. Records shall be kept for 24 months after 
+the end of the pilot project, in particular of the staff involved, the training they have received, the services 
+operated and any issues encountered during the pilot project. The concerned train drivers shall have the 
+relevant information included in their complementary certificates. 
+(9)  After the end of each pilot project, the railway undertaking(s) and infrastructure manager(s) involved shall 
+report to the authorising entities concerned. Where the duration of a derogation exceeds one year, the 
+railway undertaking(s) and the infrastructure manager(s) shall report on a yearly basis within their annual 
+safety reports according to Article 9(6) of Directive (EU) 2016/798. The national safety authorities 
+concerned shall report the results of pilot projects in their annual reports according to Article 19 of 
+Directive (EU) 2016/798. Based on a common framework for assessment, the European Union Agency for 
+Railways shall analyse the results of the pilot projects and submit a report to the Commission. 
+(10)  The Commission may suspend the derogation granted if it considers that the conditions are no longer 
+fulfilled or where safety concerns arise. A national safety authority, railway undertaking or infrastructure 
+manager shall immediately inform the Commission in case any safety concerns arise. 
+(11)  The European Union Agency for Railways shall publish on its website a list of pilot projects authorised by 
+the Commission, including a short description of the project and the period for which it is authorised as 
+well as any other relevant information, such as discontinuation or suspension of the projects.  
+(*) According to Article 9 of Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May on 
+railway safety.’ 
+Article 2 
+This Regulation shall enter into force three months following the day of its publication in the Official Journal of the 
+European Union. 
+8.4.2019 
+L 97/4 
+Official Journal of the European Union 
+EN     
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 5 April 2019. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+8.4.2019 
+L 97/5 
+Official Journal of the European Union 
+EN     

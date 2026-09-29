@@ -1,0 +1,970 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/1227 
+of 12 November 2019 
+laying down implementing technical standards with regard to templates for the provision of 
+information in accordance with the STS notification requirements 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying 
+down a general framework for securitisation and creating a specific framework for simple, transparent and standardised 
+securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 
+and (EU) No 648/2012 (1), and in particular Article 27(7) thereof, 
+Whereas: 
+(1) 
+To facilitate effective and harmonised notifications, information regarding securitisations meeting the requirements 
+on simple, transparent and standardised criteria (STS) set out in Articles 19 to 22 and Articles 23 to 26 of 
+Regulation (EU) 2017/2402 should be reported to the European Securities and Markets Authority (ESMA) in a 
+consistent format and in accordance with uniform standards. 
+(2) 
+The provision of information in a harmonised format allows for efficient data collection by ESMA and facilitates 
+consistency checks and assessment of completeness by investors and competent authorities. The format for each of 
+the fields to be reported in a STS notification should therefore be specified and any information submitted to ESMA 
+should be submitted electronically. 
+(3) 
+This Regulation is based on the draft implementing technical standards submitted by ESMA to the Commission in 
+accordance with Article 15 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council (2). 
+(4) 
+ESMA has conducted an open public consultation on the draft implementing technical standards on which this 
+Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Securities and 
+Markets Stakeholder Group established by Article 37 of Regulation (EU) No 1095/2010, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Templates for STS notification 
+1.
+The information referred to in Article 1(1)(a) and Article 1(2)(a) of Commission Delegated Regulation (EU) 
+2020/1226 (3) shall be provided by means of the template set out in Annex I to this Regulation. 
+2.
+The information referred to in Article 1(1)(b) and Article 1(2)(b) of Delegated Regulation (EU) 2020/1226 shall be 
+provided by means of the template set out in Annex II to this Regulation. 
+(1) OJ L 347, 28.12.2017, p. 35. 
+(2) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European 
+Supervisory Authority (European Securities and Markets Authority), amending Decision 716/2009/EC and repealing Commission 
+Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84). 
+(3) Commission Delegated Regulation (EU) 2020/1226 of 12 November 2019 supplementing Regulation (EU) 2017/2402 of the 
+European Parliament and of the Council and laying down regulatory technical standards specifying the information to be provided in 
+accordance with the STS notification requirements (See page 285 of this Official Journal). 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/315   
+3.
+The information referred to in Article 1(1)(c) and Article 1(2)(c) of Delegated Regulation (EU) 2020/1226 shall be 
+provided by means of the template set out in Annex III to this Regulation. 
+4.
+Where the information to be provided pursuant to this Article is not available or required due to the application of 
+the transitional provisions laid down in Article 43 of Regulation (EU) 2017/2402, the notification shall state ‘Not 
+applicable due to the application of transitional provisions’ in the relevant field or fields of the Annexes to this Regulation. 
+5.
+The information referred to in this Article shall be submitted in an electronic and machine-readable form. 
+6.
+The ‘Additional information’ referred to in Article 2 of Delegated Regulation (EU) 2020/1226 shall be included in the 
+field ‘Box to complete’ of Annexes I to III to this Regulation. 
+Article 2 
+Entry into force 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 12 November 2019.  
+For the Commission 
+The President 
+Jean-Claude JUNCKER     
+EN
+Official Journal of the European Union 
+L 289/316                                                                                                                                         
+3.9.2020   
+ANNEX I 
+Field formats to be applied to the STS notification form                                                                
+SYMBOL 
+DATA TYPE 
+DEFINITION 
+{ALPHANUM-n} 
+Up to n alphanumeric charac­
+ters 
+Free text field. Should be entered in ASCII format (no accented 
+characters). 
+{COUNTRYCODE_2} 
+2 alphanumeric characters 
+2 letter country code, as defined by ISO 3166-1 alpha-2 coun­
+try code. Should be entered in ASCII format (no accented 
+characters). 
+{CURRENCYCODE_3} 
+3 alphanumeric characters 
+3 letter currency code, as defined by ISO 4217 currency codes. 
+Should be entered in ASCII format (no accented characters). 
+{DATEFORMAT} 
+ISO 8601 date format 
+Dates shall be formatted by the following format: YYYY-MM- 
+DD 
+{Y/N} 
+1 alphanumeric character 
+‘true’- Y 
+’false’ – N 
+{ISIN} 
+12 alphanumeric characters 
+ISIN code, as defined in ISO 6166 
+{LEI} 
+20 alphanumeric characters 
+Legal entity identifier, as defined in ISO 17442   
+STS notification form for non-ABCP securitisations                                                                
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSS0 
+First contact point  
+{ALPHANUM-1000} 
+STSS1 
+Instrument identification 
+code  
+{ISIN} 
+STSS2 
+LEI of the originator or 
+sponsor or original lender  
+{LEI} 
+STSS3 
+Notification identifier  
+{ALPHANUM-100} 
+STSS4 
+Unique Identifier  
+{ALPHANUM-100} 
+STSS5 
+Prospectus Identifier  
+{ALPHANUM-100} 
+STSS6 
+Securitisation repository  
+{ALPHANUM-1000} 
+STSS7 
+Securitisation Name  
+{ALPHANUM-100} 
+STSS8 
+Country of establishment  
+{COUNTRY­
+CODE_2} 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/317   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSS9 
+Securitisation classification  
+{LIST} 
+STSS10 
+Underlying Exposures Type  
+{LIST} 
+STSS11 
+Issue date  
+{DATEFORMAT} 
+STSS12 
+Notification Date  
+{DATEFORMAT} 
+STSS13 
+Authorised third party  
+{ALPHANUM-100} 
+STSS14 
+Authorised third party 
+(name and country of es­
+tablishment)  
+{ALPHANUM-1000} 
+{COUNTRY­
+CODE_2} 
+STSS15 
+Competent authority which 
+has authorised the third 
+party  
+{ALPHANUM-100} 
+STSS16 
+STS status  
+{ALPHANUM-1000} 
+STSS17 
+Originator (or original len­
+der) not a EU credit institu­
+tion  
+{Y/N} 
+STSS18 
+Confirmation of credit- 
+granting criteria  
+{ALPHANUM-1000} 
+STSS19 
+Declaration that credit- 
+granting criteria are subject 
+to supervision  
+{ALPHANUM-1000} 
+STSS20 
+Underlying exposures ac­
+quired by true sale  
+{ALPHANUM- 
+10000} 
+STSS21 
+No severe clawback  
+{ALPHANUM- 
+10000} 
+STSS22 
+Exemption for clawback 
+provisions in national in­
+solvency laws  
+{ALPHANUM-1000} 
+STSS23 
+Transfer where the seller is 
+not the original lender  
+{ALPHANUM-1000} 
+STSS24 
+Transfer performed by 
+means of an assignment and 
+perfected at a later stage  
+{ALPHANUM- 
+10000} 
+STSS25 
+Representations and war­
+ranties  
+{ALPHANUM- 
+10000} 
+EN
+Official Journal of the European Union 
+L 289/318                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSS26 
+Criteria for active Portfolio 
+Management  
+{ALPHANUM- 
+10000} 
+STSS27 
+Homogeneity of assets  
+{ALPHANUM} 
+STSS28 
+Underlying Exposure Obli­
+gations/no re-securitisation  
+{ALPHANUM-1000} 
+STSS29 
+Soundness of the under­
+writing standard  
+{ALPHANUM} 
+STSS30 
+Originator/Lender Exper­
+tise  
+{ALPHANUM} 
+STSS31 
+Defaulted Assets  
+{ALPHANUM} 
+STSS32 
+At least one payment at the 
+time of transfer  
+{ALPHANUM-1000} 
+STSS33 
+Repayment of the hol­
+ders/sale of assets.  
+{ALPHANUM} 
+STSS34 
+Compliance with the risk 
+retention requirements  
+{LIST} 
+STSS35 
+Mitigation of Interest rates 
+(IR) and currency risks (FX) 
+Risks  
+{ALPHANUM- 
+10000} 
+STSS36 
+Derivatives Purchased/Sold 
+by SSPE  
+{ALPHANUM- 
+10000} 
+STSS37 
+Derivatives using common 
+standards  
+{ALPHANUM- 
+10000} 
+STSS38 
+Referenced interest pay­
+ments based on generally 
+used interest rates  
+{ALPHANUM- 
+10000} 
+STSS39 
+No trapping of cash fol­
+lowing enforcement or ac­
+celeration notice  
+{ALPHANUM- 
+10000} 
+STSS40 
+No amount of cash shall be 
+trapped  
+{ALPHANUM-1000} 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/319   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSS41 
+Principal receipts shall be 
+passed to investors  
+{ALPHANUM-1000} 
+STSS42 
+Repayment shall not be re­
+versed with regard to their 
+seniority  
+{ALPHANUM-1000} 
+STSS43 
+No provisions shall require 
+automatic liquidation of the 
+underlying exposures at 
+market value  
+{ALPHANUM-1000} 
+STSS44 
+Securitisations featuring 
+non-sequential priority of 
+payments  
+{ALPHANUM-1000} 
+STSS45 
+Revolving securitisation 
+with early amortisation 
+events for termination of 
+revolving period based on 
+prescribed triggers  
+{ALPHANUM- 
+10000} 
+STSS46 
+Deterioration in the credit 
+quality of the underlying 
+exposures  
+{ALPHANUM- 
+10000} 
+STSS47 
+Occurrence of an insol­
+vency-related event of the 
+originator or servicer  
+{ALPHANUM- 
+10000} 
+STSS48 
+Value of the underlying ex­
+posures held by the SSPE 
+falls below a pre-deter­
+mined threshold  
+{ALPHANUM- 
+10000} 
+STSS49 
+Failure to generate sufficient 
+new underlying exposures 
+meeting pre-determined 
+credit quality (trigger for 
+termination of the revol­
+ving period)  
+{ALPHANUM- 
+10000} 
+STSS50 
+Information regarding con­
+tractual obligations of the 
+servicer, trustee and other 
+ancillary service providers  
+{ALPHANUM-1000} 
+EN
+Official Journal of the European Union 
+L 289/320                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSS51 
+Servicing Continuity Provi­
+sions  
+{ALPHANUM-1000} 
+STSS52 
+Derivative Counterparties 
+Continuity Provisions  
+{ALPHANUM-1000} 
+STSS53 
+Liquidity providers and ac­
+count bank continuity pro­
+visions  
+{ALPHANUM-1000} 
+STSS54 
+Required expertise from the 
+servicer & policies & ade­
+quate procedures & risk 
+management controls in 
+place  
+{ALPHANUM} 
+STSS55 
+Clear & consistent defini­
+tions (problem loans)  
+{ALPHANUM-1000} 
+STSS56 
+Priorities of payment and 
+triggers events  
+{ALPHANUM-1000} 
+STSS57 
+Timely resolution of con­
+flicts between classes of in­
+vestors and responsibilities 
+of trustees  
+{ALPHANUM-1000} 
+STSS58 
+Historical Default and Loss 
+Performance Data  
+{ALPHANUM-1000} 
+STSS59 
+Sample of the underlying 
+exposures subject to exter­
+nal verifications  
+{ALPHANUM-1000} 
+STSS60 
+Availability of a liability 
+cash flow model to poten­
+tial investors  
+{ALPHANUM-1000} 
+STSS61 
+Environmental performan­
+ce/residential loans or car 
+loans or leases  
+{ALPHANUM- 
+10000} 
+STSS62 
+Originator and sponsor re­
+sponsible for compliance 
+with Article 7 of Regulation 
+(EU) 2017/2402  
+{ALPHANUM-1000}   
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/321   
+ANNEX II 
+Field formats to be applied to the STS notification form                                                                
+SYMBOL 
+DATA TYPE 
+DEFINITION 
+{ALPHANUM-n} 
+Up to n alphanumeric charac­
+ters 
+Free text field. Should be entered in ASCII format (no accented 
+characters). 
+{COUNTRYCODE_2} 
+2 alphanumeric characters 
+2 letter country code, as defined by ISO 3166-1 alpha-2 coun­
+try code. Should be entered in ASCII format (no accented 
+characters). 
+{CURRENCYCODE_3} 
+3 alphanumeric characters 
+3 letter currency code, as defined by ISO 4217 currency codes. 
+Should be entered in ASCII format (no accented characters). 
+{DATEFORMAT} 
+ISO 8601 date format 
+Dates shall be formatted by the following format: YYYY-MM- 
+DD 
+{Y/N} 
+1 alphanumeric character 
+‘true’- Y 
+’false’ – N 
+{ISIN} 
+12 alphanumeric characters 
+ISIN code, as defined in ISO 6166 
+{LEI} 
+20 alphanumeric characters 
+Legal entity identifier, as defined in ISO 17442   
+STS notification form for ABCP securitisations                                                                
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAT0 
+First contact point  
+{ALPHANUM-1000} 
+STSAT1 
+Instrument identification 
+code  
+{ISIN} 
+STSAT2 
+LEI of the originator or 
+sponsor or original lender  
+{LEI} 
+STSAT3 
+Notification identifier  
+{ALPHANUM-100} 
+STSAT4 
+Unique Identifier  
+{ALPHANUM-100} 
+STSAT5 
+Prospectus Identifier  
+{ALPHANUM-100} 
+STSAT6 
+Securitisation repository  
+{ALPHANUM-1000} 
+STSAT7 
+Securitisation Name  
+{ALPHANUM-100} 
+STSAT8 
+Place of establishment  
+{ALPHANUM-1000} 
+STSAT9 
+Securitisation Type  
+{LIST} 
+EN
+Official Journal of the European Union 
+L 289/322                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAT10 
+Underlying Exposures Type  
+{LIST} 
+STSAT11 
+Issue date  
+{DATEFORMAT} 
+STSAT12 
+Notification Date  
+{DATEFORMAT} 
+STSAT13 
+Authorised third party  
+{ALPHANUM-100} 
+STSAT14 
+Authorised third party 
+(name and country of es­
+tablishment)  
+{ALPHANUM-1000} 
+{COUNTRY­
+CODE_2} 
+STSAT15 
+Competent authority which 
+has authorised the third 
+party  
+{ALPHANUM-100} 
+STSAT16 
+STS status  
+{ALPHANUM-1000} 
+STSAT17 
+Originator (or original len­
+der) not a EU credit institu­
+tion  
+{Y/N} 
+STSAT18 
+Confirmation of credit- 
+granting criteria  
+{ALPHANUM-1000} 
+STSAT19 
+Declaration that credit- 
+granting criteria are subject 
+to supervision  
+{ALPHANUM-1000} 
+STSAT20 
+Underlying exposures ac­
+quired by true sale  
+{ALPHANUM- 
+10000} 
+STSAT21 
+No severe clawback  
+{ALPHANUM- 
+10000} 
+STSAT22 
+Exemption for clawback 
+provisions in national in­
+solvency laws  
+{ALPHANUM-1000} 
+STSAT23 
+Transfer where the seller is 
+not the original lender  
+{ALPHANUM-1000} 
+STSAT24 
+Transfer performed by 
+means of an assignment and 
+perfected at a later stage  
+{ALPHANUM- 
+10000} 
+STSAT25 
+Representations and war­
+ranties  
+{ALPHANUM- 
+10000} 
+STSAT26 
+Criteria for active Portfolio 
+Management  
+{ALPHANUM- 
+10000} 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/323   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAT27 
+No re-securitisation  
+{ALPHANUM-1000} 
+STSAT28 
+Transferred underlying ex­
+posures without defaulted 
+exposures  
+{ALPHANUM} 
+STSAT29 
+At least one payment made 
+at the time of transfer  
+{ALPHANUM-1000} 
+STSAT30 
+Repayment of the hol­
+ders/sale of assets.  
+{ALPHANUM} 
+STSAT31 
+Mitigation of Interest rates 
+(IR) and currency risks (FX) 
+Risks  
+{ALPHANUM- 
+10000} 
+STSAT32 
+Derivatives Purchased/Sold 
+by SSPE  
+{ALPHANUM- 
+10000} 
+STSAT33 
+Derivatives in Underlying 
+Exposures  
+{ALPHANUM- 
+10000} 
+STSAT34 
+Derivatives using common 
+standards  
+{ALPHANUM- 
+10000} 
+STSAT35 
+Clear and consistent defini­
+tions relating to the treat­
+ment of problem loans  
+{ALPHANUM-1000} 
+STSAT36 
+Priority of Payments and 
+triggers events  
+{ALPHANUM-1000} 
+STSAT37 
+Historical Default and Loss 
+Performance Data  
+{ALPHANUM-1000} 
+STSAT38 
+Homogeneity of assets  
+{ALPHANUM} 
+STSAT39 
+Underlying Exposure Obli­
+gations  
+{ALPHANUM-1000} 
+STSAT40 
+Underlying Exposure Obli­
+gations  
+{ALPHANUM-1000} 
+STSAT41 
+Referenced interest pay­
+ments based on generally 
+used interest rates  
+{ALPHANUM- 
+10000} 
+EN
+Official Journal of the European Union 
+L 289/324                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAT42 
+No trapping of cash flow 
+following enforcement or 
+acceleration notice  
+{ALPHANUM- 
+10000} 
+STSAT43 
+No trapping of cash/enfor­
+cement or acceleration  
+{ALPHANUM-1000} 
+STSAT44 
+Principal receipts shall be 
+passed to investors  
+{ALPHANUM-1000} 
+STSAT45 
+No provisions shall require 
+automatic liquidation of the 
+underlying exposures at 
+market value  
+{ALPHANUM-1000} 
+STSAT46 
+Soundness of the under­
+writing standards  
+{ALPHANUM} 
+STSAT47 
+Seller Expertise  
+{ALPHANUM} 
+STSAT48 
+Revolving ABCP transac­
+tion/credit quality trigger.  
+{ALPHANUM} 
+STSAT49 
+Securitisation Participant 
+Duties  
+{ALPHANUM-1000} 
+STSAT50 
+Servicing Continuity Provi­
+sions  
+{ALPHANUM-1000} 
+STSAT51 
+Derivative counterparty 
+and account bank continu­
+ity provisions  
+{ALPHANUM-1000} 
+STSAT52 
+Sponsor Robustness  
+{ALPHANUM-1000}   
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/325   
+ANNEX III 
+Field formats to be applied to the STS notification form                                                                
+SYMBOL 
+DATA TYPE 
+DEFINITION 
+{ALPHANUM-n} 
+Up to n alphanumeric charac­
+ters 
+Free text field. Should be entered in ASCII format (no accented 
+characters). 
+{COUNTRYCODE_2} 
+2 alphanumeric characters 
+2 letter country code, as defined by ISO 3166-1 alpha-2 coun­
+try code. Should be entered in ASCII format (no accented 
+characters). 
+{CURRENCYCODE_3} 
+3 alphanumeric characters 
+3 letter currency code, as defined by ISO 4217 currency codes. 
+Should be entered in ASCII format (no accented characters). 
+{DATEFORMAT} 
+ISO 8601 date format 
+Dates shall be formatted by the following format: YYYY-MM- 
+DD 
+{Y/N} 
+1 alphanumeric character 
+‘true’- Y 
+’false’ – N 
+{ISIN} 
+12 alphanumeric characters 
+ISIN code, as defined in ISO 6166 
+{LEI} 
+20 alphanumeric characters 
+Legal entity identifier, as defined in ISO 17442   
+STS notification form for ABCP Programme                                                                
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAP0 
+First contact point  
+{ALPHANUM-1000} 
+STSAP1 
+Instrument identification 
+code  
+{ISIN} 
+STSAP2 
+LEI of the sponsor  
+{LEI} 
+STSAP3 
+Notification identifier  
+{ALPHANUM-100} 
+STSAP4 
+Unique Identifier  
+{ALPHANUM-100} 
+STSAP5 
+Prospectus Identifier  
+{ALPHANUM-100} 
+STSAP6 
+Securitisation repository  
+{ALPHANUM-1000} 
+STSAP7 
+ABCP programme name  
+{ALPHANUM-100} 
+STSAP8 
+Country of establishment  
+{ALPHANUM-1000} 
+STSAP9 
+Instrument classification  
+{LIST} 
+EN
+Official Journal of the European Union 
+L 289/326                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAP10 
+Issue date  
+{DATEFORMAT} 
+STSAP11 
+Notification date  
+{DATEFORMAT} 
+STSAP12 
+Authorised third party  
+{ALPHANUM-100} 
+STSAP13 
+Authorised third party 
+(name and country of es­
+tablishment)  
+{ALPHANUM-1000} 
+{COUNTRY­
+CODE_2} 
+STSAP14 
+Competent authority which 
+has authorised the third 
+party  
+{ALPHANUM-100} 
+STSAP15 
+STS status  
+{ALPHANUM-1000} 
+STSAP16 
+Sponsor to be supervised 
+credit institution  
+{ALPHANUM-1000} 
+STSAP17 
+Sponsor Support as liquid­
+ity provider  
+{ALPHANUM-1000} 
+STSAP18 
+Demonstration to credit 
+institution’s competent 
+authority  
+{ALPHANUM-1000} 
+STSAP19 
+Compliance with sponsor’s 
+due diligence requirements  
+{ALPHANUM-1000} 
+STSAP20 
+Compliance with the risk 
+retention requirements 
+(transaction level/pro­
+gramme level)  
+{LIST} 
+STSAP21 
+Compliance at ABCP pro­
+gramme level with Article 7 
+of Regulation (EU) 
+2017/2402  
+{ALPHANUM-1000} 
+STSAP22 
+Drawn down of liquidity 
+where liquidity facility are 
+not renewed  
+{ALPHANUM- 
+10000} 
+STSAP23 
+Compliance of ABCP 
+transactions within an 
+ABCP programme with Ar­
+ticle 24(1) to (8) and (12) to 
+(20) of Regulation (EU) 
+2017/2402  
+{ALPHANUM-1000} 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/327   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAP24 
+Maximum of 5 % of the ag­
+gregate amount of the un­
+derlying exposures being 
+temporally non-compliant  
+{ALPHANUM} 
+STSAP25 
+Remaining weighted of the 
+average life (WAL) not more 
+than two years  
+{ALPHANUM-1000} 
+STSAP26 
+Fully supported ABCP Pro­
+gramme (Sponsor Support)  
+{ALPHANUM- 
+10000} 
+STSAP27 
+No re-securitisation and no 
+credit enhancement estab­
+lishing a second layer of 
+tranching at the ABCP pro­
+gramme level  
+{ALPHANUM-1000} 
+STSAP28 
+No call options  
+{ALPHANUM-1000} 
+STSAP29 
+Interest rate and currency 
+risks at ABCP programme 
+appropriately mitigated and 
+documented  
+{ALPHANUM} 
+STSAP30 
+Requirements for ABCP 
+programme documenta­
+tion (responsibilities of the 
+trustee to investors)  
+{ALPHANUM-1000} 
+STSAP31 
+Requirements for the ABCP 
+programme documenta­
+tion (contractual obliga­
+tions of the sponsor)  
+{ALPHANUM-1000} 
+STSAP32 
+Requirements for the ABCP 
+programme documenta­
+tion (process & responsi­
+bilities in case of defaulted 
+servicer)  
+{ALPHANUM-1000} 
+STSAP33 
+Requirements for the ABCP 
+programme documenta­
+tion (provisions for repla­
+cement of derivatives 
+counterparties and the ac­
+count bank)  
+{ALPHANUM-1000} 
+EN
+Official Journal of the European Union 
+L 289/328                                                                                                                                         
+3.9.2020   
+FIELD CODE 
+FIELD NAME 
+BOX TO COMPLETE 
+FIELD FORMAT 
+STSAP34 
+Requirements for the ABCP 
+programme documenta­
+tion (procedures to ensure 
+collateralisation of the 
+funding commitment)  
+{ALPHANUM-1000} 
+STSAP35 
+Requirements for the ABCP 
+programme documenta­
+tion (liquidity facility & 
+maturing securities to be 
+repaid where the sponsor 
+does not renew the funding 
+commitment of the liquid­
+ity facility before its expiry)  
+{ALPHANUM-1000} 
+STSAP36 
+Servicer Expertise  
+{ALPHANUM}   
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/329   

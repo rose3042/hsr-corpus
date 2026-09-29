@@ -1,0 +1,121 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/600
+of 7 April 2021
+concerning the classification of certain goods in the Combined Nomenclature
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof,
+Whereas:
+(1)
+In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) 
+No 2658/87 (2), it is necessary to adopt measures concerning the classification of the goods referred to in the 
+Annex to this Regulation.
+(2)
+Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. 
+Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional 
+subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff 
+and other measures relating to trade in goods.
+(3)
+Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be 
+classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+(4)
+It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this 
+Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the 
+holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months.
+(5)
+The Customs Code Committee has not delivered an opinion within the time limit laid down by its Chair,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature 
+under the CN code indicated in column (2) of that table.
+Article 2
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with 
+Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this 
+Regulation.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+(1) OJ L 269, 10.10.2013, p. 1.
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff 
+(OJ L 256, 7.9.1987, p. 1).
+EN
+Official Journal of the European Union 
+L 127/26                                                                                                                                         
+14.4.2021  
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 7 April 2021.
+For the Commission
+Gerassimos THOMAS
+Director-General
+Directorate-General for Taxation and Customs Union
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/27  
+ANNEX
+Description of the goods
+Classification
+(CN-code)
+Reasons
+(1)
+(2)
+(3)
+Rods of tungsten alloy, containing more than 
+94 % by weight of tungsten and 1,5 % by weight 
+of lanthanum, with a length of 150 mm and a 
+diameter of 3 mm. The rods are not obtained 
+only by sintering, they have no coating and are 
+not cored with flux material. They are blunt at 
+their ends (i.e. without pointed tips) and they are 
+individually marked by color. The color marking 
+indicates the alloying element and tungsten 
+content. The rods are packed in batches.
+The rods are designed to be sharpened and used as 
+welding electrodes for TIG (Tungsten Inert Gas) 
+welding. The purpose of the electrode during 
+this welding process is to form the arc between 
+the electrode and the workpiece. The electrode 
+does not melt during the process; i.e. it is non- 
+consumable.
+8101 99 10
+Classification is determined by general rules 1 
+and 6 for the interpretation of the Combined 
+Nomenclature, note 3 and note 5 (a) to Section 
+XV, note 1 (d) to Chapter 74, subheading note 1 to 
+Chapter 81 and by the wording of CN codes 
+8101, 8101 99 and 8101 99 10.
+The rods need to undergo a special tip grinding 
+process in order to obtain the shape of the tip 
+required to become electrodes properly usable 
+for TIG welding. Therefore, upon presentation 
+to customs, the objective characteristics of the 
+article are not those of welding electrodes for 
+welding 
+machines 
+of 
+heading 
+8515. 
+Consequently, classification as parts of machines 
+or apparatus for arc welding of metals of heading 
+8515 is excluded.
+Given its objective characteristics and properties, 
+the article corresponds to the wording of heading 
+8101, which includes tungsten (wolfram) and 
+articles thereof. (See also the first paragraph of 
+the Harmonized System Explanatory Notes 
+(HSEN) to heading 8101, which indicates that 
+tungsten (wolfram) in the form of rolled or 
+drawn bars falls in this heading. That provision 
+is also in line with the first paragraph of the 
+HSEN to heading 8311, according to which 
+electrodes of base metal not coated or cored 
+with flux material are excluded from heading 
+8311 and are to be classified in the appropriate 
+Chapters according to their constituent material.)
+The article is therefore to be classified under CN 
+code 8101 99 10 as bars and rods, other than 
+those obtained simply by sintering, of tungsten.
+EN
+Official Journal of the European Union 
+L 127/28                                                                                                                                         
+14.4.2021  

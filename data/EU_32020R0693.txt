@@ -1,0 +1,106 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/693 
+of 15 May 2020 
+concerning the classification of certain goods in the Combined Nomenclature 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof, 
+Whereas: 
+(1) 
+In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) No 
+2658/87 (2), it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to 
+this Regulation. 
+(2) 
+Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. 
+Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional 
+subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff 
+and other measures relating to trade in goods. 
+(3) 
+Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be 
+classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table. 
+(4) 
+It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this 
+Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the 
+holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months. 
+(5) 
+The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature 
+under the CN code indicated in column (2) of that table. 
+(1) OJ L 269, 10.10.2013, p. 1. 
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff 
+(OJ L 256, 7.9.1987, p. 1). 
+EN
+Official Journal of the European Union 
+26.5.2020                                                                                                                                           
+L 162/1   
+Article 2 
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with 
+Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this 
+Regulation. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 15 May 2020.  
+For the Commission, 
+On behalf of the President, 
+Philip KERMODE 
+Acting Director-General 
+Directorate-General for Taxation and CustomsUnion     
+EN
+Official Journal of the European Union 
+L 162/2                                                                                                                                           
+26.5.2020   
+ANNEX 
+Description of the goods 
+Classification 
+(CN-code) 
+Reasons 
+(1) 
+(2) 
+(3) 
+A ribbon, made of alloy steel (other than stainless 
+steel), with a width of approximately 30 mm and a 
+thickness of approximately 0,02 mm, presented in 
+rolls. The article has a uniform solid cross-section 
+along its whole length in the shape of a rectangle. It 
+is not treated on its surface. 
+The article is made by a continous casting technique 
+called melt spinning. It is designed to be used in the 
+electrical industry, for example, for production of 
+transformer cores, sensor cores, cores for saturable 
+reactors, magnetic amplifiers, beads, and pulse 
+compressors. 
+7228 60 80 
+Classification is determined by general rules 1 and 6 
+for the interpretation of the Combined Nomencla­
+ture, Note 1 (m) to Chapter 72 and by the wording of 
+CN codes 7228, 7228 60 and 7228 60 80. 
+Given its objective characteristics and properties, 
+the article meets the definition of ‘Other bars and 
+rods’ in Note 1 (m) to Chapter 72, as it has a uniform 
+solid cross-section along its whole length in the 
+shape of a rectangle. Therefore, the article is consid­
+ered to be a bar as defined therein. 
+The article is made by melt spinning, which is a 
+different metal forming technique than rolling. 
+Furthermore, the production process is a continu­
+ous casting technique as opposed to a pressure cast­
+ing technique and consequently does not fall within 
+the scope of Note 3 to Chapter 72. Therefore, clas­
+sification under heading 7226 as flat-rolled pro­
+ducts of other alloy steel, of a width of less than 
+600 mm or under heading 7227 as bars and rods, 
+hot rolled is excluded. 
+Consequently, the article is to be classified under CN 
+code 7228 60 80 as other bars and rods of other 
+alloy steel.   
+EN
+Official Journal of the European Union 
+26.5.2020                                                                                                                                           
+L 162/3   

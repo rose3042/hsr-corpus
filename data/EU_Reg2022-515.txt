@@ -1,0 +1,3956 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COUNCIL REGULATION (EU) 2022/515 
+of 31 March 2022
+amending Regulation (EU) 2022/109 fixing for 2022 the fishing opportunities for certain fish stocks 
+and groups of fish stocks applicable in Union waters and for Union fishing vessels in certain non- 
+Union waters 
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(3) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+(1)
+Council Regulation (EU) 2022/109 (1) fixes for 2022 the fishing opportunities for certain fish stocks and groups of 
+fish stocks applicable in Union waters and for Union fishing vessels in certain non-Union waters.
+(2)
+On 21 December 2021, the Union agreed with the United Kingdom on the setting of a large number of total 
+allowable catches (TACs) for 2022 for stocks listed in Annex 35 to the Trade and Cooperation Agreement between 
+the Union and United Kingdom (TCA) (2). The outcome of the consultations was documented in the Written 
+Record, which was endorsed by the Council on 21 December 2021 and signed on the same day by the Head of 
+Delegation of the United Kingdom and by the Commission representative on behalf of the Union, in accordance 
+with Article 498(6) of the TCA and Council Decision (EU) 2021/1875 (3).
+(3)
+The Written Record is a result of consultations conducted by the Union with the United Kingdom in accordance with 
+Article 498(2), Article 498(4), points (a) to (d), and Article 498(6) of the TCA, with the objectives and principles set 
+out in Articles 2, 3, 28 and 33 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council (4), 
+Articles 4 and 5 of Regulations (EU) 2019/472 (5) and 2018/973 (6) of the European Parliament and of the Council, 
+(1) Council Regulation (EU) 2022/109 of 27 January 2022 fixing for 2022 the fishing opportunities for certain fish stocks and groups of 
+fish stocks applicable in Union waters and for Union fishing vessels in certain non-Union waters (OJ L 21, 31.1.2022, p. 1).
+(2) Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and 
+the United Kingdom of Great Britain and Northern Ireland, of the other part (OJ L 149, 30.4.2021, p. 10).
+(3) Council Decision (EU) 2021/1875 of 22 October 2021 concerning the position to be adopted on behalf of the Union in the annual 
+consultations with the United Kingdom to agree on total allowable catches (OJ L 378, 26.10.2021, p. 6).
+(4) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, 
+amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 
+and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+(5) Regulation (EU) 2019/472 of the European Parliament and of the Council of 19 March 2019 establishing a multiannual plan for stocks 
+fished in the Western Waters and adjacent waters, and for fisheries exploiting those stocks, amending Regulations (EU) 2016/1139 and 
+(EU) No 2018/973, and repealing Council Regulations (EC) No 811/2004, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007 
+and (EC) No 1300/2008 (OJ L 83, 25.3.2019, p. 1).
+(6) Regulation (EU) 2018/973 of the European Parliament and of the Council of 4 July 2018 establishing a multiannual plan for demersal 
+stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in 
+the North Sea and repealing Council Regulations (EC) No 676/2007 and (EC) No 1342/2008 (OJ L 179, 16.7.2018, p. 1).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/1  
+and Decision (EU) 2021/1875. The Union position was based during the consultations on the best available 
+scientific advice as provided by the International Council for the Exploration of the Sea (ICES) in accordance with 
+Article 494(3), point (c), of the TCA.
+(4)
+It is therefore necessary to replace the provisional TACs that were established in Regulation (EU) 2022/109 in 
+accordance with the fishing opportunities agreed in the Written Record and to implement other measures 
+functionally linked to the fishing opportunities also agreed in the Written Record.
+(5)
+Such fishing opportunities for 2022 will allow for long-term environmentally sustainable fishing activities, managed 
+with the aim of achieving economic, social and employment benefits and contributing to the availability of food 
+supplies, including the promotion of a level playing field for Union operators where stocks are shared with the 
+United Kingdom.
+(6)
+There are certain stocks for which ICES, while assessing them against maximum sustainable yield (MSY), has issued 
+scientific advice for no catches. If TACs for those stocks were established at the level indicated in such scientific 
+advice, the obligation to land all catches both in the Union and United Kingdom waters, including by-catches from 
+those stocks, in mixed fisheries, would lead to the phenomenon of ‘choke species’. In order to balance the need for 
+the continuation of those mixed fisheries in view of the potentially severe socioeconomic implications of complete 
+interruption of those fisheries with the need to achieve a good biological status for those stocks, and taking into 
+account the difficulty of fishing all stocks in a mixed fishery at MSY at the same time, the Union and the United 
+Kingdom agreed that it is appropriate to establish specific TACs for by-catches for those stocks. Those TACs should 
+be set at a level which decreases mortality for those stocks and provides incentives for improvements in selectivity 
+and avoidance. The levels of the fishing opportunities for those stocks should be established in accordance with the 
+Written Record in order to ensure a level playing field for Union operators while providing for the significant 
+recovery of the biomass of those stocks.
+(7)
+Since the biomass of certain blue ling (BLI/12INT, BLI/24, BLI/03A), cod (COD/5BE6A, COD/7XAD34), herring 
+(HER/7G-K) and whiting (WHG/07A) stocks are below the biomass reference points (Blim), the Union and the United 
+Kingdom agreed in the Written Record that it is necessary that Member States do not apply Article 15(9) of 
+Regulation (EU) No 1380/2013 in respect of those stocks for transfers from 2021 to 2022, so that catches in 2022 
+do not exceed the TAC established for those stocks. The Union and the United Kingdom also agreed that the same 
+applies for one stock of picked dogfish (DGS/15X14), which is a prohibited species under Article 18(1), point (o), of 
+Regulation (EU) 2022/109.
+(8)
+The Union sought with the United Kingdom to find the highest possible level of convergence in the application of 
+the landing obligation, including de minimis and survivability exemptions, to ensure adherence to conservation 
+objectives and a level playing field. The fishing opportunities that were agreed with the United Kingdom for stocks 
+of species to which the landing obligation applies take into account the fact that discarding is in principle no longer 
+allowed. The amounts that, by way of exception, may continue to be discarded during the operation of the landing 
+obligation were therefore deducted from the advice figure for total catches as provided by ICES.
+(9)
+The Union and the United Kingdom agreed to continue the approach developed for the conservation of the northern 
+stock of European seabass (Dicentrarchus labrax), as set out in Article 11 of Regulation (EU) 2021/92 (7). According to 
+that approach, the overall fishing pressure on the stock is to remain below, or equal to, that advised by ICES. 
+Therefore, catch limitation measures should continue to be established for 2022 for that stock in ICES divisions 4b, 
+4c, 7a, and 7d to 7h. In light of the advice provided by ICES, the Union and the United Kingdom agreed to increases 
+in catch limits for fishing activities using hooks and lines, and fixed gillnets. The Union and the United Kingdom also 
+agreed a change from monthly to bi-monthly limits for trawls and seines. The Union and the United Kingdom also 
+agreed to prioritise the improvement of the ICES assessment tool for European seabass to allow for forecast 
+calculations on the basis of MSY models. The Union and the United Kingdom further agreed that it is necessary to 
+maintain the existing catch limitation measures applicable to recreational fishing. Since the provisional catch limits 
+are now being replaced with catch limits for the full year, the relevant catch limitation measures should also cover 
+the period from 1 April to 31 December 2022.
+(7) Council Regulation (EU) 2021/92 of 28 January 2021 fixing for 2021 the fishing opportunities for certain fish stocks and groups of 
+fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters (OJ L 31, 29.1.2021, p. 31).
+EN
+Official Journal of the European Union 
+L 104/2 
+1.4.2022  
+(10)
+Regulation (EU) 2022/109 provides for a rollover of 2022 seasonal closures for sandeel (Ammodytes spp.) fisheries 
+using certain towed gear in ICES divisions 2a and 3a and in ICES subarea 4. Since the provisional TAC, covering the 
+period from 1 January to 31 March 2022, will now be replaced with a definitive TAC for the full year, the applicable 
+closure period should also cover the period from 1 August to 31 December 2022.
+(11)
+In Regulation (EU) 2022/109, the TAC for sandeel in ICES divisions 2a and 3a and in ICES subarea 4 was set at zero 
+pending the publication of the relevant scientific advice, provided by ICES, which became available on 25 February 
+2022. In accordance with the procedure provided for in the TCA, the Union has held bilateral consultations with 
+the United Kingdom on the level of fishing opportunities for sandeel in ICES divisions 2a and 3a and in ICES 
+subarea 4 for 2022. The Union and the United Kingdom have agreed on a total allowable catch of 167 558 tonnes, 
+to be distributed across all seven sandeel management areas. The Union and the United Kingdom have also agreed 
+to monitoring TACs in management areas 1r and 4, and to the continuation of footnotes with by-catch percentages 
+for whiting and mackerel catches. In addition, the Union and the United Kingdom have agreed that the banking of 
+unutilised quota between years should apply at the management area level. Finally, in the case of sandeel in the 
+management area 4 (SAN/234_4), the Union and the United Kingdom further agreed that no more than 800 tonnes 
+of unutilised quota allocated for 2021 can be fished in 2022.
+(12)
+Regulation (EU) 2022/109 provides for fishing opportunities for 2022 for North Sea herring (Clupea harengus). 
+Those fishing opportunities should be adjusted to bring them into line with the historic allocation key for Sweden 
+as set out in Article 121(1) of the Act concerning the conditions of accession of the Kingdom of Sweden to the 
+European Union (8), as modified by Council Decision 95/1/EC, Euratom, ECSC (9).
+(13)
+Regulation (EU) 2022/109 sets a provisional TAC for anchovy (Engraulis encrasicolus) in ICES subarea 8 applying from 
+1 January 2022 to 30 June 2022, pending the availability of scientific advice. ICES released the scientific advice for 
+that stock for 2022 on 17 December 2021. The TAC for that stock for 2022 should therefore be amended in line 
+with that advice.
+(14)
+Regulation (EU) 2022/109 established for the first quarter of 2022 a provisional Union quota of 4 500 tonnes for 
+Union fleets fishing for cod (Gadus morhua) in Spitzbergen (Svalbard) waters and international waters of ICES 
+subarea 1 and division 2b. As the discussions with Norway on equal and non-discriminatory access to Svalbard 
+waters for Union fleets fishing for cod in that area are ongoing, it is appropriate that the Union extend the period of 
+application of that Union quota of 4 500 tonnes until 30 April 2022.
+(15)
+The Union quota for Mediterranean albacore (Thunnus alalunga) was provisionally determined on 10 February 2022
+by the International Commission for the Conservation of Atlantic Tunas (ICCAT) Working Group dedicated to 
+establishing the allocation key at ICCAT level, as per paragraph 3 of the ICCAT Recommendation 21-06, and will 
+be subject to endorsement by ICCAT at its annual meeting in 2022. The Union quota for Mediterranean albacore 
+and its internal allocation should be implemented in Union law. Moreover, the Union notified ICCAT of its choices 
+of closure periods and reference year for the capacity limitation to be applied with respect to the Union’s 
+Mediterranean albacore fishery. Those choices should be implemented in Union law.
+(16)
+Fishing effort limits for Union vessels fishing for bluefin tuna (Thunnus thynnus) in the ICCAT Convention Area and 
+maximum input and capacity for farms of bluefin tuna are based on information provided in the annual fishing 
+plan, the annual capacity management plan and the annual farming management plan for bluefin tuna. Member 
+States transmit those plans to the Commission, in accordance with Article 6(1) of Regulation (EU) 2016/1627 of 
+the European Parliament and of the Council (10). The fishing effort and maximum input and farming capacity are 
+then reported by the Commission to the ICCAT Secretariat through the Union fishing and capacity management 
+plan for discussion and approval by ICCAT. ICCAT endorsed the Union fishing and capacity management plan on 
+3 March 2022. The fishing effort and maximum input and farming capacity contained in that plan should be 
+implemented in Union law.
+(8) Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the 
+Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded (OJ C 241, 29.8.1994, p. 9).
+(9) Decision 95/1/EC, Euratom, ECSC of the Council of the European Union of 1 January 1995 adjusting the instruments concerning the 
+accession of new Member States to the European Union (OJ L 1, 1.1.1995, p. 1).
+(10) Regulation (EU) 2016/1627 of the European Parliament and of the Council of 14 September 2016 on a multiannual recovery plan for 
+bluefin tuna in the eastern Atlantic and the Mediterranean, and repealing Council Regulation (EC) No 302/2009 (OJ L 252, 
+16.9.2016, p. 1).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/3  
+(17)
+The quotas for individual Member States for certain stocks were established on the basis of the total Union quota for 
+2022 as determined by ICCAT before any carry-overs of unused quotas. The Union quota for fishing opportunities 
+for those stocks were adjusted during the ICCAT annual meeting in November 2021 in accordance with several 
+ICCAT recommendations under which the Union is allowed, upon request, to carry over a set percentage of its 
+unused quota of fishing opportunities from 2020 to 2022. The quotas for individual Member States for those 
+stocks should take into account the carry-overs of unused Union quotas allowed by ICCAT before the start of the 
+fishing seasons for these stocks. Therefore, the quotas for northern albacore (Thunnus alalunga) (ALB/AN05N), for 
+southern albacore (ALB/AS05N), for bigeye tuna (Thunnus obesus) in the Atlantic Ocean (BET/ATLANT), for 
+swordfish (Xiphias gladius) in the Atlantic Ocean, north of 5° N (SWO/AN05N) and for swordfish in the Atlantic 
+Ocean, south of 5° N (SWO/AS05N) should be amended to reflect such adjustment, taking into account the 
+principle of relative stability. Furthermore, certain measures functionally linked to the fishing opportunities should 
+be maintained in order to respect the Union’s international commitments.
+(18)
+The numbers in point 6 of Annex VI to Regulation (EU) 2022/109 should be amended in order to reflect agreements 
+concluded between certain Member States to temporarily transfer between themselves, exclusively for year 2022, 
+certain amounts of bluefin tuna farming capacity and input. Those changes have been notified to ICCAT in the 
+Union farming plan and do not affect the total farming capacity and input capacity of the Union in the ICCAT 
+Convention Area.
+(19)
+At its 10th annual meeting in 2022, the South Pacific Regional Fisheries Management Organisation (SPRFMO) 
+adopted catch limits for jack mackerel (Trachurus murphyi) and maintained exploratory fisheries for toothfishes 
+(Dissostichus spp.). Those measures should be implemented in Union law.
+(20)
+At its 2021 annual meeting, the Indian Ocean Tuna Commission (IOTC) revised the previously adopted conservation 
+and management measures. Regulation (EU) 2022/109 already implemented those measures in Union law, except 
+for the revised catch limits for yellowfin tuna (Thunnus albacares). The IOTC Secretariat confirmed the revised catch 
+limits for yellowfin tuna on 17 December 2021 after the end of the period of objection. The revised catch limits are 
+no longer limited to purse seiners, and now include all gears involved in the yellowfin tuna fishery. Those revised 
+catch limits should be implemented in Union law. Since an agreement among the involved Member States has not 
+yet been found on the most appropriate way to share the revised catch limits, only an initial portion of the Union 
+quota should be attributed and the remaining portion should be attributed via a subsequent amendment of 
+Regulation (EU) 2022/109 once an agreement among the Member States has been reached.
+(21)
+In order to protect certain species from being fished, the Union and the United Kingdom agreed to maintain the 
+existing lists of prohibited species.
+(22)
+Regulation (EU) 2022/109 should therefore be amended accordingly.
+(23)
+The catch limits provided for in Regulation (EU) 2022/109 apply from 1 January 2022. The provisions introduced 
+by this Regulation concerning catch limits should therefore also apply from that date. Such retroactive application 
+does not affect the principles of legal certainty and protection of legitimate expectations, as the fishing 
+opportunities concerned are increased or have not yet been exhausted. Given the urgency to avoid interruptions of 
+fishing activities, this Regulation should enter into force on the date of its publication in the Official Journal of the 
+European Union,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Regulation (EU) 2022/109 is amended as follows:
+(1)
+Article 7 is deleted;
+(2)
+Article 11 is replaced by the following:
+EN
+Official Journal of the European Union 
+L 104/4 
+1.4.2022  
+‘Article 11
+Measures on European seabass fisheries in ICES divisions 4b and 4c and ICES subarea 7
+1.
+It shall be prohibited for Union fishing vessels, as well as for any commercial fisheries from shore, to fish for 
+European seabass (Dicentrarchus labrax) in ICES divisions 4b and 4c and in ICES subarea 7 or to retain on board, 
+tranship, relocate or land European seabass caught in that area.
+2.
+The prohibition set out in paragraph 1 shall not apply to by-catches of seabass in shore-based commercial 
+netting activities. This exemption applies to historic numbers of beach nets set at pre-2017 levels. Shore-based 
+commercial netting activities shall not target seabass and only unavoidable by-catches of seabass may be landed.
+3.
+By way of derogation from paragraph 1, in January 2022 and from 1 April to 31 December 2022, Union 
+fishing vessels in ICES divisions 4b, 4c, 7d, 7e, 7f and 7h may fish for, retain on board, tranship, relocate or land 
+European seabass caught in that area with the following gear and within the following limits:
+(a) using demersal trawls (11), for unavoidable by-catches not exceeding 760 kilogrammes per two calendar months 
+(January and April; May and June; July and August; September and October; November and December) and 5 % 
+of the weight of the total catches of marine organisms on board caught by the vessel concerned per fishing trip;
+(b) using seines (12), for unavoidable by-catches not exceeding 760 kilogrammes per two calendar months (January 
+and April; May and June; July and August; September and October; November and December) and 5 % of the 
+weight of the total catches of marine organisms on board caught by the vessel concerned per fishing trip;
+(c) using hooks and lines (13), not exceeding 5,95 tonnes per vessel;
+(d) using fixed gillnets (14), for unavoidable by-catches not exceeding 1,5 tonnes per vessel.
+The derogations set out in the first subparagraph, point (c), shall apply to Union fishing vessels that have recorded 
+catches of European seabass using hooks and lines over the period from 1 July 2015 to 30 September 2016.
+The derogations set out in the first subparagraph, point (d), shall apply to Union fishing vessels that have recorded 
+catches of European seabass using fixed gillnets over the period from 1 July 2015 to 30 September 2016.
+In the case of a replacement of a Union fishing vessel, Member States may allow the derogations to apply to another 
+Union fishing vessel provided that the number of Union fishing vessels subject to each of the derogations and their 
+overall fishing capacity do not increase.
+4.
+The catch limits set out in paragraph 3 shall not be transferable between vessels and, where a bi-monthly limit 
+applies, from one calendar two-month period to another.
+For Union fishing vessels using more than one gear in two calendar months, the lowest catch limit set out in 
+paragraph 3 for either gear shall apply.
+Member States shall report to the Commission all catches of European seabass per type of gear no later than 15 days 
+after the end of each month.
+5.
+In recreational fisheries, including from shore, in ICES divisions 4b, 4c, 6a and 7a to 7k:
+(a) from 1 January to 28 February 2022 and from 1 to 31 December 2022:
+(i)
+only catch-and-release fishing with a rod or a handline for European seabass shall be allowed;
+(ii) it shall be prohibited to retain, relocate, tranship or land European seabass caught in that area;
+(11) All types of demersal trawls (OTB, OTT, PTB, TBB, TBN, TBS and TB).
+(12) All types of seines (SSC, SDN, SPR, SV, SB and SX).
+(13) All long lines or pole and line or rod and line fisheries (LHP, LHM, LLD, LL, LTL, LX and LLS).
+(14) All fixed gillnets and traps (GTR, GNS, GNC, FYK, FPN and FIX).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/5  
+(b) from 1 March to 30 November 2022:
+(i)
+not more than two specimens of European seabass may be caught and retained per fisher per day;
+(ii)
+the minimum size of European seabass retained shall be 42 cm;
+(iii) fixed nets shall not be used to catch or retain European seabass.
+6.
+Paragraph 5 shall be without prejudice to more stringent national measures on recreational fisheries.’;
+(3)
+Article 15 is replaced by the following:
+‘Article 15
+Closed fishing seasons for sandeels
+Commercial fishing for sandeels (Ammodytes spp.) with demersal trawl, seine or similar towed gears with a mesh size 
+of less than 16 mm shall be prohibited in ICES divisions 2a and 3a and in ICES subarea 4 from 1 January to 
+31 March 2022 and from 1 August to 31 December 2022.’;
+(4)
+in Article 31, paragraph 4 is replaced by the following:
+‘4.
+The maximum number of supply vessels shall be three supply vessels in support of not less than ten purse-seine 
+vessels, all flying the flag of a Member State. This provision shall not apply to Member States using only one supply 
+vessel.’;
+(5)
+Annex IA is amended in accordance with Annex I to this Regulation;
+(6)
+Annex IB is amended in accordance with Annex II to this Regulation;
+(7)
+Annex IC is amended in accordance with Annex III to this Regulation;
+(8)
+Annex ID is amended in accordance with Annex IV to this Regulation;
+(9)
+Annex IH is replaced by the text appearing in Annex V to this Regulation;
+(10) Annex IJ is replaced by the text appearing in Annex VI to this Regulation;
+(11) Annex II is amended in accordance with Annex VII to this Regulation;
+(12) Annex VI is amended in accordance with Annex VIII to this Regulation.
+Article 2
+This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.
+It shall apply from 1 January 2022.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 31 March 2022.
+For the Council
+The President
+J.-Y. LE DRIAN
+EN
+Official Journal of the European Union 
+L 104/6 
+1.4.2022  
+ANNEX I 
+Annex IA to Regulation (EU) 2022/109 is amended as follows:
+(1) in Part A, concerning autonomous Union stocks, the first table is replaced by the following:
+‘Species:
+Anchovy
+Engraulis encrasicolus
+Zone:
+8
+(ANE/08.)
+Spain
+29 700
+Analytical TAC’
+France
+3 300
+Union
+33 000
+TAC
+33 000
+(2) In Part B, concerning shared stocks, the tables for the stocks listed below are replaced by the following:
+‘Species:
+Sandeel and associated by-catches
+Ammodytes spp.
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a; Union 
+waters of 3a(1)
+Denmark
+83 123
+(2)(3)
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Germany
+127
+(2)(3)
+Sweden
+3 053
+(2)(3)
+Union
+86 303
+(2)
+United Kingdom
+2 541
+(2)
+TAC
+88 844
+(2)
+(1)
+Excluding waters within six nautical miles of the United Kingdom’s baselines at Shetland, Fair Isle and Foula.
+(2)
+In management areas 1r and 4, the TAC may only be fished as monitoring TAC with an associated sampling 
+protocol for the fishery.
+(3)
+Up to 2 % of the quota may consist of by-catches of whiting and mackerel (OT1/*2A3A4X). By-catches of whiting 
+and mackerel counted against the quota pursuant to this provision and by-catches of species counted against the 
+quota pursuant to Article 15(8) of Regulation (EU) No 1380/2013 shall, together, not exceed 9 % of the quota.
+Special condition: within the limits of these quotas, no more than the quantities given below may be taken in the 
+following sandeel management areas, as defined in Annex III:
+Zone: United Kingdom and Union waters of sandeel management areas
+1r
+2r
+3r
+4
+5r
+6
+7r
+(SAN/ 
+234_1R)(1)
+(SAN/ 
+234_2R)(1)
+(SAN/ 
+234_3R)(1)
+(SAN/ 
+234_4)(1)(2)
+(SAN/ 
+234_5R)(1)
+(SAN/ 
+234_6)(1)
+(SAN/ 
+234_7R)(1)
+Denmark
+4 678
+67 232
+6 404
+4 678
+0
+131
+0
+Germany
+7
+103
+10
+7
+0
+0
+0
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/7  
+Sweden
+172
+2 469
+235
+172
+0
+5
+0
+Union
+4 857
+69 804
+6 649
+4 857
+0
+136
+0
+United 
+Kingdom
+143
+2 055
+196
+143
+0
+4
+0
+Total
+5 000
+71 859
+6 845
+5 000
+0
+140
+0
+(1)
+Up to 10 % of this quota can be banked and used in the following year only within this management area.
+(2)
+In addition to this quota, up to a maximum of 800 t of unutilised quota allocated for 2021 can be fished in 2022. 
+The 800 t are distributed as follows: 685 t for Denmark, 23 t for Germany and 92 t for Sweden.
+Species:
+Greater silver smelt
+Argentina silus
+Zone:
+United Kingdom and international 
+waters of 1 and 2
+(ARU/1/2.)
+Germany
+16
+Precautionary TAC
+France
+5
+Netherlands
+13
+Union
+34
+United Kingdom
+25
+TAC
+59
+Species:
+Greater silver smelt
+Argentina silus
+Zone:
+United Kingdom and Union waters of 4; 
+Union waters of 3a
+(ARU/3A4-C)
+Denmark
+717
+Precautionary TAC
+Germany
+7
+France
+5
+Ireland
+5
+Netherlands
+34
+Sweden
+28
+Union
+796
+United Kingdom
+13
+TAC
+809
+EN
+Official Journal of the European Union 
+L 104/8 
+1.4.2022  
+Species:
+Greater silver smelt
+Argentina silus
+Zone:
+6 and 7; United Kingdom and 
+international waters of 5
+(ARU/567.)
+Germany
+886
+Precautionary TAC
+France
+19
+Ireland
+821
+Netherlands
+9 250
+Union
+10 976
+United Kingdom
+650
+TAC
+11 626
+Species:
+Tusk
+Brosme brosme
+Zone:
+United Kingdom and international 
+waters of 1, 2 and 14
+(USK/1214EI)
+Germany
+6
+(1)
+Precautionary TAC
+Article 8(2) of this Regulation applies
+France
+6
+(1)
+Others
+4
+(1)(2)
+Union
+16
+(1)
+United Kingdom
+6
+(1)
+TAC
+22
+(1)
+Exclusively for by-catches. No directed fisheries are permitted under this quota.
+(2)
+Catches to be counted against this shared quota shall be reported separately (USK/1214EI_AMS).
+Species:
+Tusk
+Brosme brosme
+Zone:
+United Kingdom and Union waters of 4
+(USK/04-C.)
+Denmark
+62
+(1)
+Precautionary TAC
+Article 8(2) of this Regulation applies
+Germany
+19
+(1)
+France
+43
+(1)
+Sweden
+6
+(1)
+Others
+6
+(2)
+Union
+136
+(1)
+United Kingdom
+92
+(1)
+TAC
+228
+(1)
+Special condition: of which up to 25 % may be fished in United Kingdom, Union and international waters of 6a 
+north of 58° 30’ N (USK/*6AN58).
+(2)
+Exclusively for by-catches. No directed fisheries are permitted under this quota. Catches to be counted against this 
+shared quota shall be reported separately (USK/04-C_AMS).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/9  
+Species:
+Tusk
+Brosme brosme
+Zone:
+6 and 7; United Kingdom and 
+international waters of 5
+(USK/567EI.)
+Germany
+59
+(1)
+Precautionary TAC
+Article 8(2) of this Regulation applies
+Spain
+208
+(1)
+France
+2 465
+(1)
+Ireland
+238
+(1)
+Others
+59
+(2)
+Union
+3 029
+(1)
+Norway
+0
+(3)(4)(5)
+United Kingdom
+1 265
+(1)
+TAC
+4 294
+(1)
+Special condition: of which up to 10 % may be fished in United Kingdom and Union waters of 4 
+(USK/*04-C.).
+(2)
+Exclusively for by-catches. Catches to be counted against this shared quota shall be reported 
+separately (USK/567EI_AMS).
+(3)
+Special condition: of which an incidental catch of other species of 25 % per vessel, at any moment, 
+is authorised in 6 and 7 and in United Kingdom and international waters of 5. However, this 
+percentage may be exceeded in the first 24 hours following the beginning of the fishing on a 
+specific ground. The total incidental catch of other species in 6 and 7 and in United Kingdom and 
+international waters of 5 shall not exceed the following amount in tonnes (OTH/*5B67-): 0. 
+By-catch of cod under this provision in area 6a may not be more than 5 %.
+(4)
+Including ling. The following quotas for Norway shall only be fished with longlines in 6 and 7 and 
+in United Kingdom and international waters of 5:
+Ling (LIN/*5B67-)
+0
+Tusk (USK/*5B67-)
+0
+(5)
+The tusk and ling quotas for Norway are interchangeable up to the following amount, in tonnes:
+0
+Species:
+Boarfishes
+Caproidae
+Zone:
+6, 7 and 8
+(BOR/678-)
+Denmark
+5 592
+Precautionary TAC
+Ireland
+15 749
+Union
+21 341
+United Kingdom
+1 450
+TAC
+22 791
+EN
+Official Journal of the European Union 
+L 104/10 
+1.4.2022  
+Species:
+Herring(1)
+Clupea harengus
+Zone:
+Union, United Kingdom and Norwegian 
+waters of 4 north of 53° 30' N
+(HER/4AB.)
+Denmark
+62 975
+Analytical TAC
+Article 8(2) of this Regulation applies
+Germany
+41 147
+France
+20 500
+Netherlands
+51 946
+Sweden
+4 093
+Union
+180 661
+Faroe Islands
+0
+Norway
+124 012
+(2)
+United Kingdom
+75 916
+TAC
+427 628
+(1)
+Catches of herring taken in fisheries using nets with mesh sizes equal to or larger than 32 mm.
+(2)
+Catches taken within this quota are to be deducted from Norway’s share of the TAC. Within the limit of this quota, 
+no more than the following quantity may be taken in United Kingdom and Union waters of 4a and 4b 
+(HER/*4AB-C): 2 700.
+Special condition: within the limits of these quotas, no more than the quantity given below may be taken by the Union 
+in Norwegian waters south of 62° N:
+Norwegian waters south of 62o N (HER/*4N-S62)
+Union
+2 700
+Species:
+Herring(1)
+Clupea harengus
+Zone:
+4c and 7d(2)
+(HER/4CXB7D)
+Belgium
+8 735
+(3)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+909
+(3)
+Germany
+594
+(3)
+France
+11 324
+(3)
+Netherlands
+20 058
+(3)
+Union
+41 620
+(3)
+United Kingdom
+5 419
+(3)
+TAC
+427 628
+(1)
+Exclusively for catches of herring taken in fisheries using nets with mesh sizes equal to or larger than 32 mm.
+(2)
+Except Blackwater stock, i.e. the herring stock in the maritime region of the Thames estuary within a zone 
+delimited by a rhumb line running due south from Landguard Point (51° 56' N, 1° 19,1' E) to latitude 51° 33' N 
+and hence due west to a point on the coast of the United Kingdom.
+(3)
+Special condition: up to 50 % of this quota may be taken in 4b (HER/*04B.).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/11  
+Species:
+Herring
+Clupea harengus
+Zone:
+6b and 6aN; United Kingdom and 
+international waters of 5b(1)
+(HER/5B6ANB)
+Germany
+347
+(2)
+Precautionary TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+66
+(2)
+Ireland
+470
+(2)
+Netherlands
+347
+(2)
+Union
+1 230
+(2)
+United Kingdom
+2 250
+(2)
+TAC
+3 480
+(1)
+Reference is to the herring stock in the part of ICES zone 6a which lies east of 7° W and north of 55° N, or west 
+of 7° W and north of 56° N, excluding the Clyde.
+(2)
+It shall be prohibited to target any herring in the part of the ICES zones subject to this TAC that lies between 56° N 
+and 57° 30' N, with the exception of a six nautical mile belt measured from the baseline of the United Kingdom’s 
+territorial sea.
+Species:
+Herring
+Clupea harengus
+Zone:
+6aS(1), 7b, 7c
+(HER/6AS7BC)
+Ireland
+1 236
+Precautionary TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Netherlands
+124
+Union
+1 360
+TAC
+1 360
+(1)
+Reference is to the herring stock in 6a south of 56o 00' N and west of 07o 00' W.
+Species:
+Herring
+Clupea harengus
+Zone:
+7a(1)
+(HER/07A/MM)
+Ireland
+719
+Analytical TAC
+Article 8(2) of this Regulation applies
+Union
+719
+United Kingdom
+7 736
+TAC
+8 455
+(1)
+This zone is reduced by the area bounded:
+— to the north by latitude 52o 30' N,
+— to the south by latitude 52o 00' N,
+— to the west by the coast of Ireland,
+— to the east by the coast of the United Kingdom.
+EN
+Official Journal of the European Union 
+L 104/12 
+1.4.2022  
+Species:
+Herring
+Clupea harengus
+Zone:
+7e and 7f
+(HER/7EF.)
+France
+465
+Precautionary TAC
+Union
+465
+United Kingdom
+465
+TAC
+930
+Species:
+Herring
+Clupea harengus
+Zone:
+7a south of 52°30’N; 7g(1), 7h(1), 7j(1) 
+and 7k(1)
+(HER/7G-K.)
+Germany
+10
+(2)
+Analytical TAC
+France
+54
+(2)
+Ireland
+750
+(2)
+Netherlands
+54
+(2)
+Union
+868
+(2)
+United Kingdom
+1
+(3)
+TAC
+869
+(2)
+(1)
+This zone is increased by the area bounded:
+— to the north by latitude 52o 30' N,
+— to the south by latitude 52o 00' N,
+— to the west by the coast of Ireland,
+— to the east by the coast of the United Kingdom.
+(2)
+This quota may only be allocated to vessels participating in the sentinel fishery to allow fisheries-based data 
+collection for this stock as assessed by ICES. The Member States concerned shall communicate the name(s) of the 
+vessel(s) to the Commission before allowing any catches.
+(3)
+This quota may only be allocated to vessels participating in the sentinel fishery to allow fisheries-based data 
+collection for this stock as assessed by ICES. United Kingdom fisheries administrations shall communicate the 
+name(s) of the vessel(s) to the Marine Management Organisation before allowing any catches.
+Species:
+Cod
+Gadus morhua
+Zone:
+6b; United Kingdom and international 
+waters of 5b west of 12o 00' W and of 12 
+and 14
+(COD/5W6-14)
+Belgium
+0
+(1)
+Precautionary TAC
+Germany
+1
+(1)
+France
+8
+(1)
+Ireland
+14
+(1)
+Union
+23
+(1)
+United Kingdom
+51
+(1)
+TAC
+74
+(1)
+(1)
+Exclusively for by-catches of cod in fisheries for other species. No directed fisheries for cod are permitted under this 
+TAC.
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/13  
+Species:
+Cod
+Gadus morhua
+Zone
+6a; United Kingdom and international 
+waters of 5b east of 12o 00' W
+(COD/5BE6A)
+Belgium
+2
+(1)
+Analytical TAC
+Article 9 of this Regulation applies
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Germany
+11
+(1)
+France
+117
+(1)
+Ireland
+219
+(1)
+Union
+349
+(1)
+United Kingdom
+930
+(1)
+TAC
+1 279
+(1)
+(1)
+Exclusively for by-catches of cod in fisheries for other species. No directed fisheries for cod are permitted under this 
+quota.
+Species:
+Cod
+Gadus morhua
+Zone:
+7a
+(COD/07A.)
+Belgium
+3
+(1)
+Precautionary TAC
+France
+7
+(1)
+Ireland
+104
+(1)
+Netherlands
+1
+(1)
+Union
+115
+(1)
+United Kingdom
+91
+(1)
+TAC
+206
+(1)
+(1)
+Exclusively for by-catches of cod in fisheries for other species. No directed fisheries are permitted under this quota.
+Species:
+Cod
+Gadus morhua
+Zone:
+7b, 7c, 7e-k, 8, 9 and 10; Union waters 
+of CECAF 34.1.1
+(COD/7XAD34)
+Belgium
+14
+(1)
+Analytical TAC
+Article 9 of this Regulation applies
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+231
+(1)
+Ireland
+338
+(1)
+Netherlands
+0
+(1)
+Union
+583
+(1)
+United Kingdom
+61
+(1)
+TAC
+644
+(1)
+(1)
+Exclusively for by-catches of cod in fisheries for other species. No directed fisheries for cod are permitted under this 
+quota.
+EN
+Official Journal of the European Union 
+L 104/14 
+1.4.2022  
+Species:
+Megrims
+Lepidorhombus spp.
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(LEZ/2AC4-C)
+Belgium
+8
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+7
+(1)
+Germany
+7
+(1)
+France
+45
+(1)
+Netherlands
+36
+(1)
+Union
+103
+(1)
+United Kingdom
+2 660
+(1)
+TAC
+2 763
+(1)
+Special condition: of which up to 20 % may be fished in United Kingdom, Union and international waters of 6a 
+north of 58° 30’ N (LEZ/*6AN58).
+Species:
+Megrims
+Lepidorhombus spp.
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(LEZ/56-14)
+Spain
+550
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+2 146
+(1)
+Ireland
+627
+(1)
+Union
+3 323
+(1)
+United Kingdom
+2 258
+(1)
+TAC
+5 581
+(1)
+Special condition: of which up to 25 % may be fished in United Kingdom and Union waters of 2a and 4 
+(LEZ/*2AC4C).
+Species:
+Megrims
+Lepidorhombus spp.
+Zone:
+7
+(LEZ/07.)
+Belgium
+461
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Spain
+5 124
+(2)
+France
+6 219
+(2)
+Ireland
+2 827
+(2)
+Union
+14 631
+United Kingdom
+3 660
+(2)
+TAC
+18 916
+(1)
+10 % of this quota may be used in United Kingdom, Union and international waters of 8a, 8b, 8d and 8e 
+(LEZ/*8ABDE) for by-catches in directed fisheries for sole.
+(2)
+35 % of this quota may be fished in United Kingdom, Union and international waters of 8a, 8b, 8d and 8e 
+(LEZ/*8ABDE).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/15  
+Species:
+Megrims
+Lepidorhombus spp.
+Zone:
+8a, 8b, 8d and 8e
+(LEZ/8ABDE.)
+Spain
+1 035
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+835
+Union
+1 870
+TAC
+1 870
+Species:
+Anglerfishes
+Lophiidae
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(ANF/2AC4-C)
+Belgium
+221
+(1)(2)
+Precautionary TAC
+Denmark
+488
+(1)(2)
+Germany
+238
+(1)(2)
+France
+45
+(1)(2)
+Netherlands
+167
+(1)(2)
+Sweden
+6
+(1)(2)
+Union
+1 165
+(1)(2)
+United Kingdom
+7 849
+(1)(2)
+TAC
+9 014
+(1)
+Special condition: of which up to 30 % may be fished in United Kingdom, Union and international waters of 6a 
+north of 58° 30’ N (ANF/*6AN58).
+(2)
+Special condition: of which up to 10 % may be fished in United Kingdom waters of 6a south of 58° 30’ N; United 
+Kingdom and international waters of 5b; international waters of 12 and 14 (ANF/*56-14).
+Species:
+Anglerfishes
+Lophiidae
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(ANF/56-14)
+Belgium
+158
+(1)
+Precautionary TAC
+Germany
+180
+(1)
+Spain
+169
+(1)
+France
+1 944
+(1)
+Ireland
+439
+(1)
+Netherlands
+152
+(1)
+Union
+3 042
+(1)
+United Kingdom
+2 060
+(1)
+TAC
+5 102
+(1)
+Special condition: of which up to 20 % may be fished in United Kingdom and Union waters of 2a and 4 
+(ANF/*2AC4C).
+EN
+Official Journal of the European Union 
+L 104/16 
+1.4.2022  
+Species:
+Anglerfishes
+Lophiidae
+Zone:
+7
+(ANF/07.)
+Belgium
+3 629
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Germany
+405
+(1)
+Spain
+1 442
+(1)
+France
+23 291
+(1)
+Ireland
+2 977
+(1)
+Netherlands
+470
+(1)
+Union
+32 214
+(1)
+United Kingdom
+8 959
+(1)
+TAC
+41 173
+(1)
+Special condition: of which up to 10 % may be fished in United Kingdom, Union and international waters of 8a, 8b, 
+8d and 8e (ANF/*8ABDE).
+Species:
+Anglerfishes
+Lophiidae
+Zone:
+8a, 8b, 8d and 8e
+(ANF/8ABDE.)
+Spain
+1 681
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+9 351
+Union
+11 032
+TAC
+11 032
+Species:
+Haddock
+Melanogrammus aeglefinus
+Zone:
+United Kingdom, Union and 
+international waters of 6b; international 
+waters of 12 and 14
+(HAD/6B1214)
+Belgium
+12
+Analytical TAC
+Article 8(2) of this Regulation applies
+Germany
+12
+France
+542
+Ireland
+385
+Union
+951
+United Kingdom
+4 874
+TAC
+5 825
+Species:
+Haddock
+Melanogrammus aeglefinus
+Zone:
+7b-k, 8, 9 and 10; Union waters of 
+CECAF 34.1.1
+(HAD/7X7A34)
+Belgium
+146
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+8 762
+Ireland
+2 920
+Union
+11 828
+United Kingdom
+2 550
+TAC
+15 000
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/17  
+Species:
+Haddock
+Melanogrammus aeglefinus
+Zone:
+7a
+(HAD/07A.)
+Belgium
+43
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+196
+Ireland
+1 171
+Union
+1 410
+United Kingdom
+1 628
+TAC
+3 038
+Species:
+Whiting
+Merlangius merlangus
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(WHG/56-14)
+Germany
+5
+(1)
+Analytical TAC
+Article 9 of this Regulation applies
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+94
+(1)
+Ireland
+561
+(1)
+Union
+660
+(1)
+United Kingdom
+1 140
+(1)
+TAC
+1 800
+(1)
+(1)
+Exclusively for by-catches of whiting in fisheries for other species. No directed fisheries for whiting are permitted 
+under this quota.
+Species:
+Whiting
+Merlangius merlangus
+Zone:
+7a
+(WHG/07A.)
+Belgium
+2
+(1)
+Analytical TAC
+Article 9 of this Regulation applies
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+22
+(1)
+Ireland
+274
+(1)
+Netherlands
+1
+(1)
+Union
+299
+(1)
+United Kingdom
+422
+(1)
+TAC
+721
+(1)
+(1)
+Exclusively for by-catches of whiting in fisheries for other species. No directed fisheries for whiting are permitted 
+under this quota.
+EN
+Official Journal of the European Union 
+L 104/18 
+1.4.2022  
+Species:
+Whiting
+Merlangius merlangus
+Zone:
+7b, 7c, 7d, 7e, 7f, 7g, 7h, 7j and 7k
+(WHG/7X7A-C)
+Belgium
+79
+Analytical TAC
+France
+4 960
+Ireland
+3 972
+Netherlands
+41
+Union
+9 052
+United Kingdom
+1 188
+TAC
+10 696
+Species:
+Hake
+Merluccius merluccius
+Zone:
+3a
+(HKE/03A.)
+Denmark
+2 192
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Sweden
+187
+(1)
+Union
+2 379
+TAC
+2 379
+(1)
+Transfers of this quota may be effected to United Kingdom and Union waters of 2a and 4. However, such transfers 
+shall be notified in advance to the Commission and to the United Kingdom.
+Species:
+Hake
+Merluccius merluccius
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(HKE/2AC4-C)
+Belgium
+27
+(1)(2)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+1 110
+(1)(2)
+Germany
+127
+(1)(2)
+France
+245
+(1)(2)
+Netherlands
+64
+(1)(2)
+Union
+1 573
+(1)(2)
+United Kingdom
+1 181
+(1)(2)
+TAC
+2 754
+(1)
+Not more than 10 % of this quota may be used for by-catch in 3a (HKE/*03A.).
+(2)
+Special condition: of which up to 6 % may be fished in United Kingdom, Union and international waters of 6a 
+north of 58° 30’ N (HKE/*6AN58).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/19  
+Species:
+Hake
+Merluccius merluccius
+Zone:
+6 and 7; United Kingdom and 
+international waters of 5b; international 
+waters of 12 and 14
+(HKE/571214)
+Belgium
+397
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Spain
+12 735
+(1)
+France
+19 666
+(1)
+Ireland
+2 383
+(1)
+Netherlands
+256
+(1)
+Union
+35 437
+(1)
+United Kingdom
+8 831
+(1)
+TAC
+44 268
+(1)
+Transfers of this quota may be effected to United Kingdom, Union and international waters of 2a and 4. However, 
+such transfers shall be notified retrospectively annually to the Union or the United Kingdom respectively. Member 
+States shall notify such transfers in advance to the Commission.
+Special condition: within the limits of these quotas, no more than the quantities given below may be taken in the 
+following zones:
+8a, 8b, 8d and 8e (HKE/*8ABDE)
+Belgium
+53
+Spain
+2 105
+France
+2 105
+Ireland
+263
+Netherlands
+26
+Union
+4 552
+United Kingdom
+1 184
+Species:
+Hake
+Merluccius merluccius
+Zone:
+8a, 8b, 8d and 8e
+(HKE/8ABDE.)
+Belgium
+13
+(1)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Spain
+9 085
+France
+20 401
+Netherlands
+26
+(1)
+Union
+29 525
+TAC
+29 525
+(1)
+Transfers of this quota may be effected to United Kingdom and Union waters of 2a and 4. However, such transfers 
+shall be notified in advance to the Commission and to the United Kingdom.
+Special condition: within the limits of these quotas, no more than the quantities given below may be taken in the 
+following zones:
+6 and 7; United Kingdom and international waters of 5b; 
+international waters of 12 and 14 (HKE/*57-14)
+EN
+Official Journal of the European Union 
+L 104/20 
+1.4.2022  
+Belgium
+3
+Spain
+2 631
+France
+4 737
+Netherlands
+8
+Union
+7 379
+Species:
+Lemon sole and witch flounder
+Microstomus kitt and
+Glyptocephalus cynoglossus
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(L/W/2AC4-C)
+Belgium
+212
+Precautionary TAC
+Denmark
+582
+Germany
+75
+France
+160
+Netherlands
+485
+Sweden
+7
+Union
+1 521
+United Kingdom
+2 766
+TAC
+4 287
+Species:
+Blue ling
+Molva dypterygia
+Zone:
+6 and 7; United Kingdom and 
+international waters of 5
+(BLI/5B67-)
+Germany
+109
+Analytical TAC
+Article 8(2) of this Regulation applies
+Estonia
+16
+Spain
+342
+France
+7 795
+Ireland
+30
+Lithuania
+7
+Poland
+3
+Others
+30
+(1)
+Union
+8 332
+Norway
+0
+(2)
+Faroe Islands
+0
+(3)
+United Kingdom
+2 527
+TAC
+10 859
+(1)
+Exclusively for by-catches. Catches to be counted against this shared quota shall be reported separately 
+(BLI/5B67_AMS).
+(2)
+To be fished in Union waters of 4, 6 and 7 (BLI/*24X7C).
+(3)
+By-catches of roundnose grenadier and black scabbardfish are to be counted against this quota. To be fished in 
+Union waters of 6a north of 56° 30′ N and 6b. This provision shall not apply for catches subject to the landing 
+obligation.
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/21  
+Species:
+Blue ling
+Molva dypterygia
+Zone:
+International waters of 12
+(BLI/12INT-)
+Estonia
+0
+(1)
+Precautionary TAC
+Spain
+73
+(1)
+France
+2
+(1)
+Lithuania
+1
+(1)
+Others
+0
+(1)(2)
+Union
+76
+(1)
+United Kingdom
+1
+(1)
+TAC
+77
+(1)
+(1)
+Exclusively for by-catches. No directed fisheries are permitted under this quota.
+(2)
+Catches to be counted against this shared quota shall be reported separately (BLI/12INT_AMS).
+Species:
+Blue ling
+Molva dypterygia
+Zone:
+United Kingdom and international 
+waters of 2; United Kingdom and Union 
+waters of 4
+(BLI/24-)
+Denmark
+2
+Precautionary TAC
+Germany
+2
+Ireland
+2
+France
+12
+Others
+2
+(1)
+Union
+20
+United Kingdom
+7
+TAC
+27
+(1)
+Exclusively for by-catches. Catches to be counted against this shared quota shall be reported separately 
+(BLI/24_AMS).
+Species:
+Blue ling
+Molva dypterygia
+Zone:
+Union waters of 3a
+(BLI/03A-)
+Denmark
+1,5
+Precautionary TAC
+Germany
+1
+Sweden
+1,5
+Union
+4
+TAC
+4
+EN
+Official Journal of the European Union 
+L 104/22 
+1.4.2022  
+Species:
+Ling
+Molva molva
+Zone:
+United Kingdom and international 
+waters of 1 and 2
+(LIN/1/2.)
+Denmark
+9
+Precautionary TAC
+Germany
+9
+France
+9
+Others
+3
+(1)
+Union
+30
+United Kingdom
+8
+TAC
+38
+(1)
+Exclusively for by-catches. No directed fisheries are permitted under this quota. Catches to be counted against this 
+shared quota shall be reported separately (LIN/1/2_AMS).
+Species:
+Ling
+Molva molva
+Zone:
+Union waters of 3a
+(LIN/03A-C.)
+Belgium
+11
+Precautionary TAC
+Denmark
+79
+Germany
+11
+Sweden
+32
+Union
+133
+United Kingdom
+11
+TAC
+144
+Species:
+Ling
+Molva molva
+Zone:
+United Kingdom and Union waters of 4
+(LIN/04-C.)
+Belgium
+18
+(1)(2)
+Precautionary TAC
+Denmark
+277
+(1)(2)
+Germany
+171
+(1)(2)
+France
+154
+(1)
+Netherlands
+6
+(1)
+Sweden
+12
+(1)(2)
+Union
+638
+(1)
+United Kingdom
+2 473
+(1)(2)
+TAC
+3 127
+(1)
+Special condition: of which up to 20 % may be fished in United Kingdom, Union and international waters of 6a 
+north of 58° 30’ N (LIN/*6AN58).
+(2)
+Special condition: of which up to 25 % but no more than 75 tonnes may be fished in Union waters of 3a 
+(LIN/*03A-C).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/23  
+Species:
+Ling
+Molva molva
+Zone:
+United Kingdom and international 
+waters of 5
+(LIN/05EI.)
+Belgium
+8
+Precautionary TAC
+Denmark
+6
+Germany
+6
+France
+6
+Union
+26
+United Kingdom
+6
+TAC
+32
+Species:
+Ling
+Molva molva
+Zone:
+6, 7, 8, 9 and 10; international waters of 
+12 and 14
+(LIN/6X14.)
+Belgium
+54
+(1)
+Precautionary TAC
+Denmark
+10
+(1)
+Germany
+196
+(1)
+Ireland
+1 059
+(1)
+Spain
+3 965
+(1)
+France
+4 226
+(1)
+Portugal
+10
+(1)
+Union
+9 520
+(1)
+Norway
+0
+(2)(3)(4)
+Faroe Islands
+0
+(5)(6)
+United Kingdom
+5 532
+(1)
+TAC
+15 052
+(1)
+Special condition: of which up to 40 % may be fished in United Kingdom and Union waters of 4 
+(LIN/*04-C.).
+(2)
+Special condition: of which an incidental catch of other species of 25 % per vessel, at any moment, 
+is authorised in 5b, 6 and 7. However, this percentage may be exceeded in the first 24 hours 
+following the beginning of the fishing on a specific ground. The total incidental catch of other 
+species in 5b, 6 and 7 shall not exceed the following amount in tonnes (OTH/*6X14.): 0. By-catch 
+of cod under this provision in area 6a may not be more than 5 %.
+(3)
+Including tusk. The quotas for Norway shall only be fished with longlines in 5b, 6 and 7, and they 
+amount to:
+Ling (LIN/*5B67-)
+0
+Tusk (USK/*5B67-)
+0
+(4)
+The ling and tusk quotas for Norway are interchangeable up to the following amount, in tonnes: 0:
+(5)
+Including tusk. To be fished in 6a north of 56°30' N and 6b (LIN/*6BAN.).
+(6)
+Special condition: of which an incidental catch of other species of 20 % per vessel, at any moment, 
+is authorised in 6a and 6b. However, this percentage may be exceeded in the first 24 hours 
+following the beginning of the fishing on a specific ground. The total incidental catch of other 
+species in 6a and 6b shall not exceed the following amount in tonnes (OTH/*6AB.): 0
+EN
+Official Journal of the European Union 
+L 104/24 
+1.4.2022  
+Species:
+Norway lobster
+Nephrops norvegicus
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(NEP/2AC4-C)
+Belgium
+1 269
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+1 269
+Germany
+19
+France
+37
+Netherlands
+653
+Union
+3 247
+United Kingdom
+21 021
+TAC
+24 268
+Species:
+Norway lobster
+Nephrops norvegicus
+Zone:
+6; United Kingdom and international 
+waters of 5b
+(NEP/5BC6.)
+Spain
+24
+Analytical TAC
+France
+96
+Ireland
+160
+Union
+280
+United Kingdom
+11 582
+TAC
+11 862
+Species:
+Norway lobster
+Nephrops norvegicus
+Zone:
+7
+(NEP/07.)
+Spain
+924
+(1)
+Analytical TAC
+France
+3 746
+(1)
+Ireland
+5 682
+(1)
+Union
+10 352
+(1)
+United Kingdom
+6 686
+(1)
+TAC
+17 038
+(1)
+(1)
+Special condition: within the limits of these quotas, no more than the quantities given below may be 
+taken in the following zone:
+Functional unit 16 of ICES subarea 7  
+(NEP/*07U16)
+Spain
+846
+France
+530
+Ireland
+1 016
+Union
+2 392
+United Kingdom
+412
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/25  
+Species:
+Northern prawn
+Pandalus borealis
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(PRA/2AC4-C)
+Denmark
+735
+(1)
+Precautionary TAC
+Netherlands
+7
+(1)
+Sweden
+30
+(1)
+Union
+772
+(1)
+United Kingdom
+218
+(1)
+TAC
+990
+(1)
+(1)
+Exclusively for by-catches. No directed fisheries for Northern prawn are permitted under this quota.
+Species:
+Plaice
+Pleuronectes platessa
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(PLE/56-14)
+France
+10
+Precautionary TAC
+Ireland
+248
+Union
+258
+United Kingdom
+400
+TAC
+658
+Species:
+Plaice
+Pleuronectes platessa
+Zone:
+7a
+(PLE/07A.)
+Belgium
+60
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+26
+Ireland
+1 031
+Netherlands
+19
+Union
+1 136
+United Kingdom
+1 404
+TAC
+2 747
+Species:
+Plaice
+Pleuronectes platessa
+Zone:
+7d and 7e
+(PLE/7DE.)
+Belgium
+1 310
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+4 366
+Union
+5 676
+United Kingdom
+2 717
+TAC
+9 138
+EN
+Official Journal of the European Union 
+L 104/26 
+1.4.2022  
+Species:
+Plaice
+Pleuronectes platessa
+Zone:
+7f and 7g
+(PLE/7FG.)
+Belgium
+333
+Precautionary TAC
+Article 8(2) of this Regulation applies
+France
+600
+Ireland
+237
+Union
+1 170
+United Kingdom
+441
+TAC
+1 735
+Species:
+Plaice
+Pleuronectes platessa
+Zone:
+7h, 7j and 7k
+(PLE/7HJK.)
+Belgium
+7
+(1)
+Precautionary TAC
+Article 9 of this Regulation applies
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+14
+(1)
+Ireland
+47
+(1)
+Netherlands
+27
+(1)
+Union
+95
+(1)
+United Kingdom
+19
+(1)
+TAC
+114
+(1)
+(1)
+Exclusively for by-catches. No directed fisheries for plaice are permitted under this TAC.
+Species:
+Pollack
+Pollachius pollachius
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(POL/56-14)
+Spain
+2
+Precautionary TAC
+France
+75
+Ireland
+22
+Union
+99
+United Kingdom
+57
+TAC
+156
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/27  
+Species:
+Pollack
+Pollachius pollachius
+Zone:
+7
+(POL/07.)
+Belgium
+233
+(1)
+Precautionary TAC
+Spain
+14
+(1)
+France
+5 372
+(1)
+Ireland
+572
+(1)
+Union
+6 191
+(1)
+United Kingdom
+1 821
+(1)
+TAC
+8 012
+(1)
+Special condition: of which up to 2 % may be fished in United Kingdom, Union and international waters of 8a, 8b, 
+8d and 8e (POL/*8ABDE).
+Species:
+Saithe
+Pollachius virens
+Zone:
+7, 8, 9 and 10; Union waters of CECAF 
+34.1.1
+(POK/7/3411)
+Belgium
+3
+Precautionary TAC
+France
+750
+Ireland
+1 404
+Union
+2 157
+United Kingdom
+384
+TAC
+2 541
+Species:
+Turbot and brill
+Scophthalmus maximus and
+Scophthalmus rhombus
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(T/B/2AC4-C)
+Belgium
+375
+Precautionary TAC
+Article 8(2) of this Regulation applies
+Denmark
+802
+Germany
+205
+France
+97
+Netherlands
+2 842
+Sweden
+6
+Union
+4 327
+United Kingdom
+1 022
+TAC
+5 487
+EN
+Official Journal of the European Union 
+L 104/28 
+1.4.2022  
+Species:
+Skates and rays
+Rajiformes
+Zone:
+Union and United Kingdom waters of 4; 
+United Kingdom waters of 2a
+(SRX/2AC4-C)
+Belgium
+271
+(1)(2)(3)(4)
+Precautionary TAC
+Denmark
+11
+(1)(2)(3)
+Germany
+13
+(1)(2)(3)
+France
+43
+(1)(2)(3)(4)
+Netherlands
+232
+(1)(2)(3)(4)
+Union
+570
+(1)(3)
+United Kingdom
+1 194
+(1)(2)(3)(4)
+TAC
+1 764
+(3)
+(1)
+Catches of blonde ray (Raja brachyura) in United Kingdom and Union waters of 4 (RJH/04-C.), cuckoo ray (Leucoraja 
+naevus) (RJN/2AC4-C), thornback ray (Raja clavata) (RJC/2AC4-C) and spotted ray (Raja montagui) (RJM/2AC4-C) 
+shall be reported separately.
+(2)
+By-catch quota. These species shall not comprise more than 25 % by live weight of the catch retained on board per 
+fishing trip. This condition applies only to vessels over 15 metres’ length overall. This provision shall not apply for 
+catches subject to the landing obligation as set out in Article 15(1) of Regulation (EU) No 1380/2013, which was 
+retained by the United Kingdom.
+(3)
+Shall not apply to blonde ray (Raja brachyura) in United Kingdom waters of 2a and small-eyed ray (Raja microocellata) 
+in United Kingdom and Union waters of 2a and 4. When accidentally caught, these species shall not be harmed. 
+Specimens shall be promptly released. Fishers shall be encouraged to develop and use techniques and equipment 
+to facilitate the rapid and safe release of the species.
+(4)
+Special condition: of which up to 10 % may be fished in 7d (SRX/*07D2.), without prejudice to the prohibitions set 
+out in Articles 18 and 56 of this Regulation and in the relevant provisions of the United Kingdom law for the areas 
+specified therein. Catches of blonde ray (Raja brachyura) (RJH/*07D2.), cuckoo ray (Leucoraja naevus) (RJN/*07D2.), 
+thornback ray (Raja clavata) (RJC/*07D2.) and spotted ray (Raja montagui) (RJM/*07D2.) shall be reported 
+separately. This special condition shall not apply to small-eyed ray (Raja microocellata) and undulate ray (Raja 
+undulata).
+Species:
+Skates and rays
+Rajiformes
+Zone:
+Union waters of 3a
+(SRX/03A-C.)
+Denmark
+37
+(1)
+Precautionary TAC
+Sweden
+11
+(1)
+Union
+48
+(1)
+TAC
+48
+(1)
+Catches of cuckoo ray (Leucoraja naevus) (RJN/03A-C.), blonde ray (Raja brachyura) (RJH/03A-C.) and spotted ray 
+(Raja montagui) (RJM/03A-C.) shall be reported separately.
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/29  
+Species:
+Skates and rays
+Rajiformes
+Zone:
+United Kingdom and Union waters of 6a, 
+6b, 7a-c and 7e-k
+(SRX/67AKXD)
+Belgium
+814
+(1)(2)(3)(4)
+Precautionary TAC
+Estonia
+5
+(1)(2)(3)(4)
+France
+3 656
+(1)(2)(3)(4)
+Germany
+11
+(1)(2)(3)(4)
+Ireland
+1 177
+(1)(2)(3)(4)
+Lithuania
+19
+(1)(2)(3)(4)
+Netherlands
+3
+(1)(2)(3)(4)
+Portugal
+20
+(1)(2)(3)(4)
+Spain
+984
+(1)(2)(3)(4)
+Union
+6 689
+(1)(2)(3)(4)
+United Kingdom
+2 793
+(1)(2)(3)(4)
+TAC
+9 482
+(3)(4)
+(1)
+Catches of cuckoo ray (Leucoraja naevus) (RJN/67AKXD), thornback ray (Raja clavata) (RJC/67AKXD), 
+blonde ray (Raja brachyura) (RJH/67AKXD), spotted ray (Raja montagui) (RJM/67AKXD), sandy ray 
+(Leucoraja circularis) (RJI/67AKXD) and shagreen ray (Leucoraja fullonica) (RJF/67AKXD) shall be 
+reported separately
+(2)
+Special condition: of which up to 5 % may be fished in 7d (SRX/*07D.), without prejudice to the 
+prohibitions set out in Articles 18 and 56 of this Regulation for the areas specified therein. 
+Catches of cuckoo ray (Leucoraja naevus) (RJN/*07D.), thornback ray (Raja clavata) (RJC/*07D.), 
+blonde ray (Raja brachyura) (RJH/*07D.), spotted ray (Raja montagui) (RJM/*07D.), sandy ray 
+(Leucoraja circularis) (RJI/*07D.) and shagreen ray (Leucoraja fullonica) (RJF/*07D.) shall be reported 
+separately. This special condition shall not apply to small-eyed ray (Raja microocellata) and undulate 
+ray (Raja undulata).
+(3)
+Shall not apply to small-eyed ray (Raja microocellata), except in 7f and 7g. When accidentally caught, 
+this species shall not be harmed. Specimens shall be promptly released. Fishers shall be encouraged 
+to develop and use techniques and equipment to facilitate the rapid and safe release of the species. 
+Within the limits of these quotas, no more than the quantities of small-eyed ray in areas 7f and 7g 
+(RJE/7FG.) provided below may be taken:
+Species:
+Small-eyed ray
+Raja microocellata
+Zone:
+7f and 7g
+(RJE/7FG.)
+Belgium
+8
+Precautionary TAC
+Estonia
+0
+France
+36
+Germany
+0
+Ireland
+12
+Lithuania
+0
+Netherlands
+0
+Portugal
+0
+Spain
+10
+Union
+66
+United Kingdom
+57
+TAC
+123
+Special condition: of which up to 5 % may be fished in 7d and reported under the following code: 
+(RJE/*07D.). This special condition is without prejudice to the prohibitions set out in Articles 18 
+and 56 of this Regulation and in the relevant provisions of the United Kingdom law for the areas 
+specified therein.
+(4)
+Shall not apply to undulate ray (Raja undulata).
+EN
+Official Journal of the European Union 
+L 104/30 
+1.4.2022  
+Species:
+Skates and rays
+Rajiformes
+Zone:
+7d
+(SRX/07D.)
+Belgium
+134
+(1)(2)(3)(4)
+Precautionary TAC
+France
+1 123
+(1)(2)(3)(4)
+Netherlands
+7
+(1)(2)(3)(4)
+Union
+1 264
+(1)(2)(3)(4)
+United Kingdom
+233
+(1)(2)(3)(4)
+TAC
+1 497
+(4)
+(1)
+Catches of cuckoo ray (Leucoraja naevus) (RJN/07D.), thornback ray (Raja clavata) (RJC/07D.), blonde ray (Raja 
+brachyura) (RJH/07D.), spotted ray (Raja montagui) (RJM/07D.) and small-eyed ray (Raja microocellata) (RJE/07D.) 
+shall be reported separately.
+(2)
+Special condition: of which up to 5 % may be fished in United Kingdom and Union waters of 6a, 6b, 7a-c and 7e-k 
+(SRX/*67AKD). Catches of cuckoo ray (Leucoraja naevus) (RJN/*67AKD), thornback ray (Raja clavata) (RJC/*67AKD), 
+blonde ray (Raja brachyura) (RJH/*67AKD) and spotted ray (Raja montagui) (RJM/*67AKD) shall be reported 
+separately. This special condition shall not apply to small-eyed ray (Raja microocellata) and to undulate ray (Raja 
+undulata).
+(3)
+Special condition: of which up to 10 % may be fished in United Kingdom and Union waters of 2a and 4 
+(SRX/*2AC4C). Catches of blonde ray (Raja brachyura) in United Kingdom and Union waters of 4 (RJH/*04-C.), 
+cuckoo ray (Leucoraja naevus) (RJN/*2AC4C), thornback ray (Raja clavata) (RJC/*2AC4C) and spotted ray (Raja 
+montagui) (RJM/*2AC4C) shall be reported separately. This special condition shall not apply to small-eyed ray 
+(Raja microocellata).
+(4)
+Shall not apply to undulate ray (Raja undulata).
+Species:
+Undulate ray
+Raja undulata
+Zone:
+7d and 7e
+(RJU/7DE.)
+Belgium
+19
+(1)
+Precautionary TAC
+Estonia
+0
+(1)
+France
+94
+(1)
+Germany
+0
+(1)
+Ireland
+25
+(1)
+Lithuania
+0
+(1)
+Netherlands
+0
+(1)
+Portugal
+0
+(1)
+Spain
+21
+(1)
+Union
+159
+(1)
+United Kingdom
+75
+(1)
+TAC
+234
+(1)
+(1)
+This species shall not be targeted in the areas covered by this TAC. The specimens may only be landed whole or 
+gutted. For Union vessels, this is without prejudice to the prohibitions set out in Articles 18 and 56 of this 
+Regulation for the areas specified therein. For United Kingdom vessels, this is without prejudice to the 
+prohibitions set out in relevant provisions of the United Kingdom law for the areas specified therein.
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/31  
+Species:
+Skates and rays
+Rajiformes
+Zone:
+Union waters of 8 and 9
+(SRX/89-C.)
+Belgium
+10
+(1)(2)
+Precautionary TAC
+France
+1 949
+(1)(2)
+Portugal
+1 580
+(1)(2)
+Spain
+1 590
+(1)(2)
+Union
+5 129
+(1)(2)
+United Kingdom
+11
+(1)(2)
+TAC
+5 140
+(2)
+(1)
+Catches of cuckoo ray (Leucoraja naevus) (RJN/89-C.), blonde ray (Raja brachyura) (RJH/89-C.) and 
+thornback ray (Raja clavata) (RJC/89-C.) shall be reported separately.
+(2)
+Shall not apply to undulate ray (Raja undulata). This species shall not be targeted in the areas covered 
+by this TAC. In cases where it is not subject to the landing obligation, by-catch of undulate ray in 
+subareas 8 and 9 may only be landed whole or gutted. The catches shall remain under the quotas 
+shown in the table below. These provisions are without prejudice to the prohibitions set out in 
+Articles 18 and 56 of this Regulation for the areas specified therein. By-catches of undulate ray 
+shall be reported separately under the codes indicated in the tables below. Within the limits of the 
+abovementioned quotas, no more than the quantities of undulate ray given below may be taken:
+Species:
+Undulate ray
+Raja undulata
+Zone:
+Union waters of 8
+(RJU/8-C.)
+Belgium
+0
+Precautionary TAC
+France
+13
+Portugal
+10
+Spain
+10
+Union
+33
+United Kingdom
+0
+TAC
+66
+Species:
+Undulate ray
+Raja undulata
+Zone:
+Union waters of 9
+(RJU/9-C.)
+Belgium
+0
+Precautionary TAC
+France
+20
+Portugal
+15
+Spain
+15
+Union
+50
+United Kingdom
+0
+TAC
+100
+EN
+Official Journal of the European Union 
+L 104/32 
+1.4.2022  
+Species:
+Greenland halibut
+Reinhardtius hippoglossoides
+Zone:
+6; United Kingdom and Union waters of 
+4; United Kingdom waters of 2a; United 
+Kingdom and international waters of 5b
+(GHL/2A-C46)
+Denmark
+29
+Analytical TAC
+Germany
+51
+Estonia
+29
+Spain
+29
+France
+478
+Ireland
+29
+Lithuania
+29
+Poland
+29
+Union
+703
+Norway
+0
+United Kingdom
+1 868
+TAC
+2 571
+Species:
+Mackerel
+Scomber scombrus
+Zone:
+3a; United Kingdom and Union waters of 
+2a, 3b, 3c, 3d and 4
+(MAC/2A34.)
+Belgium
+510
+(1)(2)
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+17 468
+(1)(2)
+Germany
+531
+(1)(2)
+France
+1 605
+(1)(2)
+Netherlands
+1 615
+(1)(2)
+Sweden
+4 833
+(1)(2)(3)
+Union
+26 562
+(1)(2)
+Norway
+Not relevant
+(4)
+United Kingdom
+Not relevant
+(1)(2)
+TAC
+Not relevant
+(1)
+Special condition: up to 60 % may be fished in United Kingdom and international waters of 2a, 5b, 
+6, 7, 8d, 8e, 12 and 14 (MAC/*2AX14).
+(2)
+Within the limits of these quotas, no more than the quantities given below may also be taken in the 
+two following zones:
+Norwegian waters of 2a (MAC/*02AN-)
+Faroese waters (MAC/*FRO1)
+Belgium
+0
+0
+Denmark
+0
+0
+Germany
+0
+0
+France
+0
+0
+Netherlands
+0
+0
+Sweden
+0
+0
+Union
+0
+0
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/33  
+(3)
+Special condition: including the following tonnage to be taken in Norwegian waters of 2a and 4a 
+(MAC/*2A4AN):
+283
+When fishing under this special condition, by-catches of cod, haddock, pollack, whiting and saithe 
+are to be counted against the quotas for those species.
+(4)
+To be deducted from Norway’s share of the TAC (access quota). This amount includes the following 
+Norwegian share in the North Sea TAC :
+0
+This quota may be fished in 4a only (MAC/*04A.), except for the following amount, in tonnes, 
+which may be fished in 3a (MAC/*03A.):
+0
+Special condition: within the limits of these quotas, no more than the quantities given below may be taken in the 
+following zones:
+3a
+United Kingdom 
+and Union waters 
+of 3a, 4b and 4c
+4b
+4c
+United Kingdom 
+and international 
+waters of 2a, 5b, 6, 
+7, 8d, 8e, 12 
+and 14
+(MAC/*03A.)
+(MAC/*3A4BC)
+(MAC/*04B.)
+(MAC/*04C.)
+(MAC/*2AX14)
+Belgium
+0
+0
+0
+0
+306
+Denmark
+0
+4 130
+0
+0
+10 480
+Germany
+0
+0
+0
+0
+319
+France
+0
+490
+0
+0
+963
+Netherlands
+0
+490
+0
+0
+969
+Sweden
+0
+0
+390
+10
+2 900
+Union
+0
+5 110
+390
+10
+15 937
+United Kingdom
+0
+Not relevant
+0
+0
+Not relevant
+Norway
+0
+0
+0
+0
+0
+Species:
+Common sole
+Solea solea
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(SOL/24-C.)
+Belgium
+1 120
+Analytical TAC
+Article 8(2) of this Regulation applies
+Denmark
+512
+Germany
+896
+France
+224
+Netherlands
+10 107
+Union
+12 859
+Norway
+10
+(1)
+United Kingdom
+2 022
+TAC
+15 330
+(1)
+May be fished only in Union waters of 4 (SOL/*04-C.).
+EN
+Official Journal of the European Union 
+L 104/34 
+1.4.2022  
+Species:
+Common sole
+Solea solea
+Zone:
+6; United Kingdom and international 
+waters of 5b; international waters of 12 
+and 14
+(SOL/56-14)
+Ireland
+46
+Precautionary TAC
+Union
+46
+United Kingdom
+11
+TAC
+57
+Species:
+Common sole
+Solea solea
+Zone:
+7a
+(SOL/07A.)
+Belgium
+364
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+France
+5
+Ireland
+105
+Netherlands
+116
+Union
+590
+United Kingdom
+181
+TAC
+787
+Species:
+Common sole
+Solea solea
+Zone:
+7d
+(SOL/07D.)
+Belgium
+624
+Precautionary TAC
+Article 8(2) of this Regulation applies
+France
+1 249
+Union
+1 873
+United Kingdom
+471
+TAC
+2 380
+Species:
+Common sole
+Solea solea
+Zone:
+7e
+(SOL/07E.)
+Belgium
+59
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+631
+Union
+690
+United Kingdom
+1 111
+TAC
+1 810
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/35  
+Species:
+Common sole
+Solea solea
+Zone:
+7f and 7g
+(SOL/7FG.)
+Belgium
+781
+Analytical TAC
+Article 8(2) of this Regulation applies
+France
+78
+Ireland
+39
+Union
+898
+United Kingdom
+415
+TAC
+1 337
+Species:
+Common sole
+Solea solea
+Zone:
+7h, 7j and 7k
+(SOL/7HJK.)
+Belgium
+18
+Precautionary TAC
+Article 8(2) of this Regulation applies
+France
+36
+Ireland
+95
+Netherlands
+28
+Union
+177
+United Kingdom
+36
+TAC
+213
+Species:
+Sprat and associated by-catches
+Sprattus sprattus
+Zone:
+3a
+(SPR/03A.)
+Denmark
+0
+(1)(2)
+Analytical TAC
+Germany
+0
+(1)(2)
+Sweden
+0
+(1)(2)
+Union
+0
+(1)(2)
+TAC
+0
+(2)
+(1)
+Up to 5 % of the quota may consist of by-catches of whiting and haddock (OTH/*03A.). By-catches of whiting and 
+haddock counted against the quota pursuant to this provision and by-catches of species counted against the quota 
+pursuant to Article 15(8) of Regulation (EU) No 1380/2013 shall, together, not exceed 9 % of the quota.
+(2)
+This quota may only be fished from 1 July 2022 to 30 June 2023. Transfers of this quota may be effected to United 
+Kingdom and Union waters of 2a and 4. However, such transfers shall be notified in advance to the Commission 
+and to the United Kingdom.
+EN
+Official Journal of the European Union 
+L 104/36 
+1.4.2022  
+Species:
+Sprat and associated by-catches
+Sprattus sprattus
+Zone:
+United Kingdom and Union waters of 4; 
+United Kingdom waters of 2a
+(SPR/2AC4-C)
+Belgium
+0
+(1)(2)
+Analytical TAC
+Denmark
+0
+(1)(2)
+Germany
+0
+(1)(2)
+France
+0
+(1)(2)
+Netherlands
+0
+(1)(2)
+Sweden
+0
+(1)(2)(3)
+Union
+0
+(1)(2)
+Norway
+0
+(1)
+Faroe Islands
+0
+(1)(4)
+United Kingdom
+0
+(1)
+TAC
+0
+(1)
+(1)
+The quota may only be fished from 1 July 2022 to 30 June 2023.
+(2)
+Up to 2 % of the quota may consist of by-catches of whiting (OTH/*2AC4C). By-catches of whiting counted against 
+the quota pursuant to this provision and by-catches of species counted against the quota pursuant to Article 15(8) 
+of Regulation (EU) No 1380/2013 shall, together, not exceed 9 % of the quota.
+(3)
+Including sandeels.
+(4)
+May contain up to 4 % of by-catch of herring.
+Species:
+Sprat
+Sprattus sprattus
+Zone:
+7d and 7e
+(SPR/7DE.)
+Belgium
+1
+(1)
+Precautionary TAC
+Denmark
+96
+(1)
+Germany
+1
+(1)
+France
+21
+(1)
+Netherlands
+21
+(1)
+Union
+140
+United Kingdom
+410
+TAC
+550
+(1)
+The quota may only be fished from 1 January 2022 to 30 June 2022.
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/37  
+Species:
+Picked dogfish
+Squalus acanthias
+Zone:
+6, 7 and 8; United Kingdom and 
+international waters of 5; international 
+waters of 1, 12 and 14
+(DGS/15X14)
+Belgium
+18
+(1)
+Precautionary TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Germany
+4
+(1)
+Spain
+9
+(1)
+France
+75
+(1)
+Ireland
+47
+(1)
+Netherlands
+0
+(1)
+Portugal
+0
+(1)
+Union
+153
+(1)
+United Kingdom
+117
+(1)
+TAC
+270
+(1)
+(1)
+Picked dogfish shall not be targeted in the areas covered by this by-catch allowance. Vessels participating in 
+by-catch management schemes may however land not more than 2 tonnes per month per vessel of picked 
+dogfish that is dead at the moment when the fishing gear is hauled on board under this quota. The Union and the 
+United Kingdom shall each independently determine how to allocate its quota to the vessels participating in its 
+by-catch management schemes. The Union and the United Kingdom shall each ensure that the total annual 
+landing of picked dogfish on the basis of the by-catch allowance does not exceed the above amounts. The Union 
+and the United Kingdom should exchange the list of participating vessels before allowing any landings.
+Species:
+Horse mackerel and associated by-catches
+Trachurus spp.
+Zone:
+United Kingdom and Union waters of 
+4b, 4c and 7d
+(JAX/4BC7D)
+Belgium
+7
+(1)
+Precautionary TAC
+Denmark
+3 216
+(1)
+Germany
+284
+(1)(2)
+Spain
+60
+(1)
+France
+267
+(1)(2)
+Ireland
+202
+(1)
+Netherlands
+1 936
+(1)(2)
+Portugal
+7
+(1)
+Sweden
+75
+(1)
+Union
+6 055
+Norway
+0
+(3)
+United Kingdom
+2 816
+(1)(2)
+TAC
+8 969
+(1)
+Up to 5 % of the quota may consist of by-catches of boarfishes, haddock, whiting and mackerel (OTH/*4BC7D). 
+By-catches of boarfishes, haddock, whiting and mackerel counted against the quota pursuant to this provision 
+and by-catches of species counted against the quota pursuant to Article 15(8) of Regulation (EU) No 1380/2013 
+shall, together, not exceed 9 % of the quota.
+EN
+Official Journal of the European Union 
+L 104/38 
+1.4.2022  
+(2)
+Special condition: up to 5 % of this quota fished in division 7d may be accounted for as fished under the quota 
+concerning the following zone: United Kingdom waters of 4a; 6, 7a-c, e-k; 8ab, d-e; United Kingdom waters of 2a; 
+United Kingdom and international waters of 5b; international waters of 12 and 14 (JAX/*7D-EU).
+(3)
+May not be fished in Union waters of 7d.
+Species:
+Horse mackerel and associated by-catches
+Trachurus spp.
+Zone:
+United Kingdom waters of 2a and 4a; 6, 
+7a-c, e-k; 8a-b, d-e; United Kingdom and 
+international waters of 5b; international 
+waters of 12 and 14
+(JAX/2A-14)
+Denmark
+6 056
+(1)(3)
+Analytical TAC
+Germany
+4 725
+(1)(2)(3)
+Spain
+6 445
+(3)(5)
+France
+2 432
+(1)(2)(3)(5)
+Ireland
+15 737
+(1)(3)
+Netherlands
+18 958
+(1)(2)(3)
+Portugal
+621
+(3)(5)
+Sweden
+675
+(1)(3)
+Union
+55 649
+(3)
+Faroe Islands
+0
+(4)
+United Kingdom
+5 767
+(1)(2)(3)
+TAC
+61 416
+(1)
+Special condition: up to 5 % of this quota fished in United Kingdom waters of 2a or 4a before 30 June may be 
+accounted for as fished under the quota concerning the zone of United Kingdom and Union waters of 4b, 4c 
+and 7d (JAX/*2A4AC).
+(2)
+Special condition: up to 5 % of this quota may be fished in 7d (JAX/*07D.). Under this special condition, and in 
+accordance with footnote (3), by-catches of boarfishes and whiting shall be reported separately under the 
+following code: (OTH/*07D.).
+(3)
+Up to 5 % of the quota may consist of by-catches of boarfishes, haddock, whiting and mackerel (OTH/*2A-14). 
+By-catches of boarfishes, haddock, whiting and mackerel counted against the quota pursuant to this provision 
+and by-catches of species counted against the quota pursuant to Article 15(8) of Regulation (EU) No 1380/2013 
+shall, together, not exceed 9 % of the quota.
+(4)
+Limited to 4a, 6a (north of 56° 30’ N only), 7e, 7f, 7h.
+(5)
+Special condition: up to 80 % of this quota may be fished in 8c (JAX/*08C2). Under this special condition, and in 
+accordance with footnote (3), by-catches of boarfishes and whiting shall be reported separately under the following 
+code: (OTH/*08C2).
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/39  
+Species:
+Horse mackerel
+Trachurus spp.
+Zone:
+8c
+(JAX/08C.)
+Spain
+8 710
+(1)
+Analytical TAC
+France
+151
+Portugal
+861
+(1)
+Union
+9 722
+TAC
+9 722
+(1)
+Special condition: up to10 % of this quota may be fished in 9 (JAX/*09.).
+Species:
+Norway pout and associated by-catches
+Trisopterus esmarkii
+Zone:
+3a; United Kingdom and Union 
+waters of 4; United Kingdom waters 
+of 2a
+(NOP/2A3A4.)
+Year
+2022
+2023
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall 
+not apply
+Article 4 of Regulation (EC) No 847/96 shall 
+not apply
+Denmark
+49 478
+(1)(3)
+0
+(1)(6)
+Germany
+9
+(1)(2)(3)
+0
+(1)(2)(6)
+Netherlands
+36
+(1)(2)(3)
+0
+(1)(2)(6)
+Union
+49 524
+(1)(3)
+0
+(1)(6)
+United Kingdom
+10 204
+(2)(3)
+0
+(2)(6)
+Norway
+0
+(4)
+0
+(4)
+Faroe Islands
+0
+(5)
+0
+(5)
+TAC
+59 728
+Not 
+relevant
+(1)
+Up to 5 % of the quota may consist of by-catches of haddock and whiting (OT2/*2A3A4). By-catches of haddock 
+and whiting counted against the quota pursuant to this provision and by-catches of species counted against the 
+quota pursuant to Article 15(8) of Regulation (EU) No 1380/2013 shall, together, not exceed 9 % of the quota.
+(2)
+Quota may be fished in United Kingdom and Union waters of 2a, 3a and 4 only.
+(3)
+May only be fished from 1 November 2021 to 31 October 2022.
+(4)
+A sorting grid shall be used.
+(5)
+A sorting grid shall be used. This amount includes a maximum of 15 % of unavoidable by-catches (NOP/*2A3A4), 
+to be counted against this quota.
+(6)
+May only be fished from 1 November 2022 to 31 October 2023.’
+EN
+Official Journal of the European Union 
+L 104/40 
+1.4.2022  
+ANNEX II 
+In Annex IB to Regulation (EU) 2022/109, the fourth table, establishing catch limits for cod (Gadus morhua) in 1 and 2b, is 
+replaced by the following:
+‘Species:
+Cod
+Gadus morhua
+Zone:
+1 and 2b
+(COD/1/2B.)
+Germany
+923
+(1)(2)
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Spain
+2 220
+(1)(2)
+France
+407
+(1)(2)
+Poland
+419
+(1)(2)
+Portugal
+463
+(1)(2)
+Other Member States
+68
+(1)(2)(3)
+Union
+4 500
+(1)(2)
+TAC
+Not relevant
+(1)
+Shall apply provisionally from 1 January to 30 April 2022. The allocation of the share of the cod stock available to the 
+Union in the zone Spitzbergen and Bear Island and the associated by-catches of haddock are entirely without prejudice 
+to the rights and obligations deriving from the 1920 Treaty of Paris.
+(2)
+By-catches of haddock may represent up to 14 % per haul. The by-catch quantities of haddock are in addition to the 
+quota for cod.
+(3)
+Except Germany, Spain, France, Poland and Portugal. Catches to be counted against this shared quota shall be reported 
+separately (COD/1/2B_AMS).’
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/41  
+ANNEX III 
+In Annex IC to Regulation (EU) 2022/109, the last table, establishing catch limits for white hake (Urophycis tenuis) in NAFO 
+3NO, is replaced by the following:
+‘Species:
+White hake
+Urophycis tenuis
+Zone:
+NAFO 3NO
+(HKW/N3NO.)
+Spain
+255
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Portugal
+333
+Union
+588
+(1)
+TAC
+1 000
+(1)
+Where, in accordance with Annex IA to the NAFO Conservation and Enforcement 
+Measures, a positive vote by the NAFO Contracting Parties confirms the TAC to be 2 000
+tonnes, the corresponding Union and Member State quotas shall be as below:
+Spain
+509
+Portugal
+667
+Union
+1 176’
+EN
+Official Journal of the European Union 
+L 104/42 
+1.4.2022  
+ANNEX IV 
+Annex ID to Regulation (EU) 2022/109 is amended as follows:
+(1) the seventh, eighth and ninth tables, establishing catch limits for northern albacore (Thunnus alalunga) (ALB/AN05N) 
+and for southern albacore (ALB/AS05N) in the Atlantic Ocean, as well as for Mediterranean albacore (Thunnus 
+alalunga) in the Mediterranean Sea (ALB/MED), are replaced by the following:
+‘Species:
+Northern albacore
+Thunnus alalunga
+Zone:
+Atlantic Ocean, north of 5° N
+(ALB/AN05N)
+Ireland
+3 316,79
+Analytical TAC
+Spain
+18 694,64
+France
+5 879,76
+Portugal
+2 050,38
+Union
+29 941,57
+(1)
+TAC
+37 801
+(1)
+The number of Union fishing vessels fishing for northern albacore as a target species, in accordance with Article 12 
+of Regulation (EC) No 520/2007, shall be 1 241.
+Species:
+Southern albacore
+Thunnus alalunga
+Zone:
+Atlantic Ocean, south of 5° N
+(ALB/AS05N)
+Spain
+905,86
+Analytical TAC
+France
+297,70
+Portugal
+633,94
+Union
+1 837,50
+TAC
+24 000
+Species:
+Mediterranean albacore
+Thunnus alalunga
+Zone:
+Mediterranean Sea
+(ALB/MED)
+Greece
+400
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not 
+apply
+Article 4 of Regulation (EC) No 847/96 shall not 
+apply
+Spain
+103,26
+France
+15
+Croatia
+7
+Italy
+1 171,29
+Cyprus
+431,94
+Malta
+41,19
+Union
+2 169,68
+TAC
+2 500
+(1)(2)
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/43  
+(1)
+In order to protect juvenile swordfish, a closure period shall also apply to longline vessels targeting Mediterranean 
+albacore from 1 October to 30 November. In addition, Mediterranean albacore, either as a targeted species or as 
+by-catch, shall not be caught, retained on board, transhipped or landed during the following periods:
+— Greece, Croatia, Italy and Cyprus: 1 October to 30 November and 1 to 31 March,
+— Spain, France and Malta: 1 January to 31 March.
+(2)
+Each Member State shall limit the number of their fishing vessels authorised to fish for Mediterranean albacore to 
+the number of vessels authorised to fish this species in 2017. Member States may apply a tolerance of 10 % to this 
+capacity limit.’
+(2) the table establishing catch limits for bigeye tuna (Thunnus obesus) in the Atlantic Ocean (BET/ATLANT) is replaced by 
+the following:
+‘Species:
+Bigeye tuna
+Thunnus obesus
+Zone:
+Atlantic Ocean
+(BET/ATLANT)
+Spain
+8 181,90
+(1)
+Analytical TAC
+France
+3 475,31
+(1)
+Portugal
+3 106,23
+(1)
+Union
+14 763,44
+(1)
+TAC
+62 000
+(1)
+(1)
+Catches of bigeye tuna by purse seiners (BET/*ATLPS) and longliners with an overall length of 20 metres and above 
+(BET/ *ATLLL) shall be reported separately. As of June 2022, when catches reach 80 % of the quota, Member States 
+are required to transmit the catches for these vessels on a weekly basis.’
+(3) in the twelfth table, establishing catch limits for bluefin tuna (Thunnus thynnus) in the Atlantic Ocean, east of 45° W, and 
+Mediterranean (BFT/AE45WM), footnote 5 is replaced by the following:
+‘(5)
+Special condition: within this TAC, the following catch limits and allocations between Member States shall 
+apply to catches of bluefin tuna between 8 kg/75 cm and 30 kg/115 cm by the vessels referred to in point 3 
+of Annex VI (BFT/*643):
+Italy
+94,91
+Union
+94,91’
+(4) the thirteenth and fourteenth tables, establishing catch limits for swordfish (Xiphias gladius) in the Atlantic Ocean, north 
+of 5° N (SWO/AN05N), and for swordfish in the Atlantic Ocean, south of 5° N (SWO/AS05N), are replaced by the 
+following:
+‘Species:
+Swordfish
+Xiphias gladius
+Zone:
+Atlantic Ocean, north of 5° N
+(SWO/AN05N)
+Spain
+6 392,46
+(2)
+Analytical TAC
+Portugal
+1 161,84
+(2)
+Other 
+Member States
+130,72
+(1)(2)
+Union
+7 685,03
+TAC
+13 200
+EN
+Official Journal of the European Union 
+L 104/44 
+1.4.2022  
+(1)
+Exclusively for by-catches. Catches to be counted against this shared quota shall be reported separately (SWO/ 
+AN05N_AMS).
+(2)
+Special condition: up to 2,39 % of this quantity may be fished in the Atlantic Ocean, south of 5o N (SWO/*AS05N). 
+Catches to be counted against the special condition of the shared quota shall be reported separately (SWO/ 
+*AS05N_AMS).
+Species:
+Swordfish
+Xiphias gladius
+Zone:
+Atlantic Ocean, south of 5° N
+(SWO/AS05N)
+Spain
+4 770,75
+(1)
+Analytical TAC
+Portugal
+314,25
+(1)
+Union
+5 085,01
+TAC
+14 000
+(1)
+Special condition: up to 3,51 % of this quantity may be fished in the Atlantic Ocean, north of 5o N (SWO/*AN05N).’
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/45  
+ANNEX V 
+‘ANNEX IH
+SPRFMO CONVENTION AREA 
+Species:
+Toothfishes
+Dissostichus spp.
+Zone:
+SPRFMO Convention 
+Area
+(TOT/SPR-RB)
+TAC
+75
+(1)
+Precautionary TAC
+(1)
+This annual TAC is for exploratory fisheries only. Fishing shall take place only within the 
+following research block:
+— NW
+50° 30’ S, 136° E
+— NE
+50° 30’ S, 140° 30’ E
+— E-Indent
+52° 45’ S, 140° 30’ E
+— E-corner
+52° 45’ S, 145° 30’ E
+— SE
+54° 50’ S, 145° 30’ E
+— SW
+54° 50’ S, 136° E
+Species:
+Jack mackerel
+Trachurus murphyi
+Zone:
+SPRFMO Convention Area
+(CJM/SPRFMO)
+Germany
+13 826,71
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not apply
+Article 4 of Regulation (EC) No 847/96 shall not apply
+Netherlands
+14 986,73
+Lithuania
+9 620,98
+Poland
+16 542,58
+Union
+54 977,00
+TAC
+Not relevant’
+EN
+Official Journal of the European Union 
+L 104/46 
+1.4.2022  
+ANNEX VI 
+‘ANNEX IJ
+IOTC AREA OF COMPETENCE 
+Catches of yellowfin tuna (Thunnus albaceres) by Union vessels fishing with purse seiners shall not exceed the catch limits set 
+out in this Annex.
+Species:
+Yellowfin tuna
+Thunnus albacares
+Zone:
+IOTC Area of Competence
+(YFT/IOTC)
+France
+13 868
+(1)
+Analytical TAC
+Article 3 of Regulation (EC) No 847/96 shall not apply
+Article 4 of Regulation (EC) No 847/96 shall not apply
+Italy
+1 183
+(1)
+Spain
+21 472
+(1)
+Portugal
+50
+(1)(2)
+Union
+36 573
+(1)
+TAC
+Not relevant
+(1)
+Quotas shall apply provisionally from 1 January 2022 to 30 June 2022. The provisional quotas shall be without 
+prejudice to the setting of definitive quotas for 2022 in accordance with the Union quota for 2022 of 73 146 tonnes, 
+established by the IOTC, and the definitive allocation of that Union quota among Member States.
+(2)
+Exclusively for by-catches. No directed fisheries are permitted under this quota.’
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/47  
+ANNEX VII 
+In Chapter III, point 5 of Annex II to Regulation (EU) 2022/109, Table I is replaced by the following table:
+‘Table I
+Maximum number of days a vessel may be present within the area by category of regulated gear during the 
+current management period 
+Regulated gear
+Maximum number of days
+Beam trawls of mesh size ≥ 80 mm
+Belgium
+176
+France
+188
+Static nets with mesh size ≤ 220 mm
+Belgium
+176
+France
+191’
+EN
+Official Journal of the European Union 
+L 104/48 
+1.4.2022  
+ANNEX VIII 
+Annex VI to Regulation (EU) 2022/109 is amended as follows:
+(1) point 4 is replaced by the following:
+‘4. Maximum number of fishing vessels of each Member State that may be authorised to fish for, retain on board, 
+tranship, transport, or land bluefin tuna in the eastern Atlantic and Mediterranean
+Table A
+Number of fishing vessels (1)
+Greece (2)
+Spain
+France
+Croatia
+Italy
+Cyprus (3)
+Malta (4)
+Portugal
+Purse seiners (5)
+0
+6
+22
+18
+21
+1
+1
+0
+Longliners
+0
+43
+23
+0
+40
+27 (6)
+63
+0
+Baitboat
+0
+66
+8
+0
+0
+0
+0
+76 (7)
+Handline
+0
+1
+47 (8)
+12
+0
+0
+0
+0
+Trawler
+0
+0
+57
+0
+0
+0
+0
+0
+Small-scale
+45
+660
+140
+0
+0
+0
+120
+0
+Other 
+artisanal (9)
+74
+0
+0
+0
+0
+0
+0
+0’
+(1) The numbers in this Table may be further increased, provided that the international obligations of the Union are complied 
+with.
+(2) One medium-size purse seiner has been replaced by no more than 10 longline vessels or one small purse seiner and three other 
+artisanal vessels.
+(3) One medium-size purse seiner may be replaced by no more than 10 longline vessels or one small purse seiner and no more 
+than three longline vessels.
+(4) One medium-size purse seiner may be replaced by no more than 10 longline vessels.
+(5) The individual numbers of purse seiners in this Table are the result of transfers between Member States and do not constitute 
+historical rights for the future.
+(6) Polyvalent vessels, using multi-gear equipment.
+(7) Baitboats of the outermost regions of Azores and Madeira.
+(8) Line vessels operating in the Atlantic.
+(9) Polyvalent vessels, using multi-gear equipment (longline, handline, trolling line).
+(2) point 6 is replaced by the following:
+‘6. Maximum bluefin tuna farming capacity and fattening capacity for each Member State and maximum input of wild 
+caught bluefin tuna that each Member State may allocate to its farms in the Eastern Atlantic and Mediterranean
+Table A
+Maximum bluefin tuna farming capacity and fattening capacity
+Number of farms
+Capacity (in tonnes)
+Greece
+2
+2 100
+Spain
+10
+11 852
+Croatia
+4
+7 880
+Italy
+13
+8 370
+Cyprus
+3
+3 000
+Malta
+6
+15 703
+Portugal
+2
+500
+EN
+Official Journal of the European Union 
+1.4.2022 
+L 104/49  
+Table B
+Maximum input of wild caught bluefin tuna (in tonnes)
+Greece
+785
+Spain
+6 850
+Croatia
+2 947
+Italy
+945
+Cyprus
+2 195
+Malta
+11 054
+Portugal
+350’
+EN
+Official Journal of the European Union 
+L 104/50 
+1.4.2022  

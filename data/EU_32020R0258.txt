@@ -1,0 +1,884 @@
+COMMISSION DELEGATED REGULATION (EU) 2020/258 
+of 16 December 2019 
+supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by 
+specifying the number and the titles of the variables for the income and living conditions domain 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2019/1700 of the European Parliament and of the Council of 10 October 2019 
+establishing a common framework for European statistics relating to persons and households, based on data at individual 
+level collected from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the 
+European Parliament and of the Council, and repealing Regulation (EC) No 1177/2003 of the European Parliament and of 
+the Council and Council Regulation (EC) No 577/98 (1), and in particular Article 6(1) thereof, 
+Whereas: 
+(1) 
+In order to cover the needs identified in the relevant detailed topics, the Commission should specify the number and 
+the titles of the variables for the dataset in the income and living conditions domain (EU-SILC). 
+(2) 
+The EU-SILC survey is a key instrument for providing information required by the European Semester and the 
+European Pillar of Social Rights, in particular for income distribution, poverty and social exclusion, as well as 
+various related living conditions and poverty EU policies, such as on child poverty, access to health care and other 
+services, housing, over indebtedness and quality of life. It is also the main source of data for microsimulation 
+purposes and flash estimates of income distribution and poverty rates. 
+(3) 
+The number of variables to be collected does not exceed by more than 5 % the number of variables collected for the 
+income and living conditions domain at the time when Regulation (EU) 2019/1700 entered into force. 
+(4) 
+The Commission has carried out appropriate consultations of national experts as part of the preparation of this 
+delegated act, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The number and the titles of the variables for the data set in the income and living conditions domain are set out in the 
+Annex. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+(1) OJ L 261I, 14.10.2019, p. 1. 
+EN
+Official Journal of the European Union 
+L 54/16                                                                                                                                           
+26.2.2020   
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 December 2019.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/17   
+
+ANNEX 
+Number and titles of the variables for the income and living conditions domain                                                              
+Detailed topic 
+Variable 
+identifier 
+Variable name 
+Data collection information 
+DB010 
+Year of the survey 
+24 technical variables (annual) 
+DB020 
+Country of residence 
+3 derived variable (annual) 
+DB040 
+Region of residence  
+DB050 
+Stratum  
+DB060 
+Primary sampling unit (PSU)  
+DB062 
+Secondary sampling unit (SSU)  
+DB070 
+Order of selection of PSU  
+DB075 
+Rotational group  
+DB076 
+Interview wave  
+DB110 
+Household status  
+DB120 
+Contact at address  
+DB130 
+Household questionnaire result  
+DB135 
+Household interview acceptance  
+RB010 
+Year of the survey  
+RB020 
+Country of residence  
+HB010 
+Year of the survey  
+HB020 
+Country of residence  
+HB040 
+Day of the household interview  
+HB050 
+Month of the household interview  
+HB060 
+Year of the household interview  
+HB100 
+Number of minutes to complete the household question­
+naire  
+PB010 
+Year of the survey  
+PB020 
+Country of residence  
+PB090 
+Day of the personal interview  
+PB100 
+Month of the personal interview  
+PB110 
+Year of the personal interview  
+PB120 
+Number of minutes to complete the personal question­
+naire 
+Identification 
+DB030 
+Household ID 
+9 technical variables (annual) 
+RB030 
+Personal ID  
+RB032 
+Sequential number of the person in the household  
+RB040 
+Current household identification (ID)  
+RB100 
+Sample person or co-resident 
+EN
+Official Journal of the European Union 
+L 54/18                                                                                                                                           
+26.2.2020   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+HB030 
+Household ID  
+HB070 
+Personal ID of the person responding to the household 
+questionnaire  
+PB030 
+Personal ID  
+PB265 
+Personal ID of the person who filled in the individual 
+questionnaire 
+Weights 
+DB080 
+Household design weight 
+16 technical variables (annual) 
+DB090 
+Household cross-sectional weight  
+DB095 
+Household longitudinal weight  
+RB050 
+Personal cross-sectional weight  
+RB060 
+Personal base weight  
+RB062 
+Longitudinal weight (two-year duration)  
+RB063 
+Longitudinal weight (three-year duration)  
+RB064 
+Longitudinal weight (four-year duration)  
+RB065 
+Longitudinal weight (five-year duration)  
+RB066 
+Longitudinal weight (six-year duration)  
+RL070 
+Children’s cross-sectional weight for childcare  
+PB040 
+Personal cross-sectional weight (all household members 
+aged 16 and over)  
+PB050 
+Personal base weight (all household members aged 16 and 
+over)  
+PB060 
+Personal cross-sectional weight for selected respondent  
+PB070 
+Personal design weight for selected respondent  
+PB080 
+Personal base weight for selected respondent 
+Interview characteristics 
+RB250 
+Data status 
+4 technical variables (annual) 
+HB130 
+Interviewing mode used (household)  
+PB260 
+Nature of participation in the survey  
+PB270 
+Interviewing mode used (person) 
+Localisation 
+1 technical variable (annual) 
+DB100 
+Degree of urbanisation 
+Demography 
+RB080 
+Year of birth 
+9 collected variables (annual) 
+RB081 
+Age in completed years 
+9 derived variables (annual) 
+RB082 
+Age in completed years at the time of the interview  
+RB083 
+Passing of birthday at the time of the interview  
+RB090 
+Sex 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/19   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+RB110 
+Membership status  
+RB120 
+Location where the person moved  
+RB220 
+Father ID  
+RB230 
+Mother ID  
+RB240 
+Spouse/partner ID  
+RB245 
+Respondent status  
+PB140 
+Year of birth  
+PB150 
+Sex  
+PB160 
+Father ID  
+PB170 
+Mother ID  
+PB180 
+Spouse/partner ID  
+PB190 
+Marital status  
+PB200 
+Consensual union 
+Citizenship and migrant background 
+RB280 
+Country of birth 
+4 collected variables (annual) 
+RB290 
+Country of main citizenship  
+PB230 
+Country of birth of the father  
+PB240 
+Country of birth of the mother 
+Household composition 
+RB200 
+Residential status 
+2 collected variables (annual) 
+RG_Z# 
+Household grid 
+Household composition — additional specific 
+details 
+HB110 
+Household type 
+3 derived variables (annual) 
+HB120 
+Household size  
+PB205 
+Partners living in the same household 
+Duration of stay in the country 
+1 collected variable (annual) 
+RB285 
+Duration of stay in the country of residence in completed 
+years 
+Disability and Minimum European Health Mod­
+ule 
+PH010 
+Self-perceived general health 
+3 collected variables (annual) 
+PH020 
+Long standing health problems  
+PH030 
+Limitation in activities because of health problems 
+Children health 
+RCH010 
+General health (child) 
+2 collected variables (every 3 years) 
+RCH020 
+Limitation in activities because of health problems (child) 
+Access to healthcare 
+PH040 
+Unmet need for medical examination or treatment 
+4 collected variables (annual) 
+PH050 
+Main reason for unmet need for medical examination or 
+treatment  
+PH060 
+Unmet need for dental examination or treatment 
+EN
+Official Journal of the European Union 
+L 54/20                                                                                                                                           
+26.2.2020   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+PH070 
+Main reason for unmet need for dental examination or 
+treatment 
+Access to health care (children) 
+HCH010 
+Unmet need for medical examination or treatment (chil­
+dren) 
+4 collected variables (every 3 years) 
+HCH020 
+Main reason for unmet need for medical examination or 
+treatment (children)  
+HCH030 
+Unmet need for dental examination or treatment (chil­
+dren)  
+HCH040 
+Main reason for unmet need for dental examination or 
+treatment (children) 
+Main activity status (self-defined) 
+RB211 
+Main activity status (self-defined) 
+4 collected variables (annual) 
+PL032 
+Self-defined current economic status  
+PL040A 
+Status in employment  
+PL040B 
+Status in employment (last job) 
+Elementary job characteristics 
+PL051A 
+Occupation in main job 
+5 collected variables (annual) 
+PL051B 
+Occupation (last job)  
+PL111A 
+Economic activity of the local unit for the main job  
+PL111B 
+Economic activity of the local unit (last job)  
+PL145 
+Full or part-time main job (self-defined) 
+Duration of contract 
+1 collected variable (annual) 
+PL141 
+Permanency of main job 
+Detailed labour market situation 
+PL073 
+Number of months spent in full-time work as employee 
+1 collected variable (annual) 
+PL074 
+Number of months spent in part-time work as employee 
+11 derived variables (annual) 
+PL075 
+Number of months spent in full-time work as self-em­
+ployed (including family worker)  
+PL076 
+Number of months spent in part-time work as self-em­
+ployed (including family worker)  
+PL080 
+Number of months spent in unemployment  
+PL085 
+Number of months spent in retirement  
+PL086 
+Number of months unable to work due to long-standing 
+health problems  
+PL087 
+Number of months spent studying  
+PL088 
+Number of months spent in compulsory military service  
+PL089 
+Number of months spent fulfilling domestic tasks  
+PL090 
+Number of months spent in other activity  
+PL271 
+Duration of the most recent unemployment spell 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/21   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name 
+Supervisory responsibilities 
+1 collected variable (annual) 
+PL150 
+Supervisory responsibility in the main job 
+Previous work experience 
+PL016 
+Existence of previous employment experience 
+2 collected variables (annual) 
+PL200 
+Number of years spent in paid work (as employee or self- 
+employed) 
+Calendar of activities 
+PL211A 
+Main activity in January 
+12 collected variables (annual) 
+PL211B 
+Main activity in February  
+PL211C 
+Main activity in March  
+PL211D 
+Main activity in April  
+PL211E 
+Main activity in May  
+PL211F 
+Main activity in June  
+PL211G 
+Main activity in July  
+PL211H 
+Main activity in August  
+PL211I 
+Main activity in September  
+PL211J 
+Main activity in October  
+PL211K 
+Main activity in November  
+PL211L 
+Main activity in December 
+Working hours 
+PL060 
+Number of hours usually worked per week in the main job 
+2 collected variables (annual) 
+PL100 
+Total number of hours usually worked per week in the 
+second, third, … jobs 
+Educational attainment level 
+1 collected variable (annual) 
+PE041 
+Educational attainment level 
+Participation in formal education activities (cur­
+rent) 
+RL010 
+Education at pre-school 
+4 collected variables (annual) 
+RL020 
+Education at compulsory school  
+PE010 
+Participation in formal education and training (student or 
+apprentice)  
+PE021 
+Level of current/most recent formal education or training 
+activity 
+Quality of life 
+PW010 
+Overall life satisfaction 
+2 collected variables (annual) 
+PW191 
+Trust in others 
+Material deprivation 
+HD080 
+Replacing worn-out furniture 
+14 collected variables (annual) 
+HH050 
+Ability to keep home adequately warm  
+HS040 
+Capacity to afford paying for one week annual holiday 
+away from home  
+HS050 
+Capacity to afford a meal with meat, chicken, fish (or ve­
+getarian equivalent) every second day 
+EN
+Official Journal of the European Union 
+L 54/22                                                                                                                                           
+26.2.2020   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+HS060 
+Capacity to face unexpected financial expenses  
+HS090 
+Do you have a computer  
+HS110 
+Do you have a car  
+HS120 
+Ability to make ends meet  
+PD020 
+Replace worn-out clothes by some new (not second-hand) 
+ones  
+PD030 
+Two pairs of properly fitting shoes (including a pair of all- 
+weather shoes)  
+PD050 
+Get-together with friends/family (relatives) for a 
+drink/meal at least once a month  
+PD060 
+Regularly participate in a leisure activity  
+PD070 
+Spend a small amount of money each week on yourself  
+PD080 
+Internet connection for personal use at home 
+Children-specific deprivation 
+HD100 
+Some new (not second-hand) clothes 
+13 collected variables (every 3 years) 
+HD110 
+Two pairs of properly fitting shoes (including a pair of all- 
+weather shoes)  
+HD120 
+Fruits and vegetables once a day  
+HD140 
+One meal with meat, chicken or fish (or vegetarian 
+equivalent) at least once a day  
+HD150 
+Books at home suitable for their age  
+HD160 
+Outdoor leisure equipment  
+HD170 
+Indoor games  
+HD180 
+Regular leisure activity  
+HD190 
+Celebrations on special occasions  
+HD200 
+Invite friends round to play or eat from time to time  
+HD210 
+Participate in school trips and school events that cost 
+money  
+HD220 
+Suitable place to study or do homework  
+HD240 
+Go on holiday away from home at least one week per year 
+Main housing characteristics 
+HH010 
+Dwelling type 
+3 collected variables (annual) 
+HH021 
+Tenure status of the household  
+HH030 
+Number of rooms available to the household 
+Housing cost including reduced utility costs 
+HH060 
+Current rent related to the occupied dwelling 
+4 collected variables (annual) 
+HH070 
+Total housing cost  
+HH071 
+Mortgage principal repayment  
+HS022 
+Reduced utility cost 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/23   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name 
+Childcare 
+RL030 
+Childcare at centre-based services outside school hours 
+(before/after) 
+4 collected variables (annual) 
+RL040 
+Childcare at day-care centre  
+RL050 
+Childcare by a professional child-minder at child’s home 
+or at child-minder’s home  
+RL060 
+Childcare by grandparents, household members other 
+than parents, other relatives, friends or neighbours 
+Income from work 
+PY010G/P­
+Y010N 
+Employee cash or near cash income 
+5 collected variables (annual) 
+PY020G/P­
+Y020N 
+Non-cash employee income  
+PY021G/P­
+Y021N 
+Company car  
+PY030G 
+Employer’s social insurance contribution  
+PY050G/P­
+Y050N 
+Cash profits or losses from self-employment 
+Income from social transfers 
+HY050­
+G/HY050N 
+Family/Children-related allowances 
+8 collected variables (annual) 
+HY060­
+G/HY060N 
+Social exclusion allowances/benefits not classified else­
+where 
+32 variables known to the countries (annual) 
+HY070­
+G/HY070N 
+Housing allowances  
+PY090G/P­
+Y090N 
+Unemployment benefits  
+PY110G/P­
+Y110N 
+Survivor’ benefits  
+PY120G/P­
+Y120N 
+Sickness benefits  
+PY130G/P­
+Y130N 
+Disability benefits  
+PY140G/P­
+Y140N 
+Education-related allowances  
+HY051G 
+Family/Children-related allowances (Contributory and 
+means-tested)  
+HY052G 
+Family/Children-related allowances (Contributory and 
+non means-tested)  
+HY053G 
+Family/Children-related allowances (Non-contributory 
+and means-tested)  
+HY054G 
+Family/Children-related allowances (Non-contributory 
+and non means-tested)  
+HY061G 
+Social exclusion allowances/benefits not classified else­
+where (Contributory and means-tested)  
+HY062G 
+Social exclusion allowances/benefits not classified else­
+where (Contributory and non means-tested) 
+EN
+Official Journal of the European Union 
+L 54/24                                                                                                                                           
+26.2.2020   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+HY063G 
+Social exclusion allowances/benefits not classified else­
+where (Non-contributory and means-tested)  
+HY064G 
+Social exclusion allowances/benefits not classified else­
+where (Non-contributory and non means-tested)  
+HY071G 
+Housing allowances (Contributory and means-tested)  
+HY072G 
+Housing allowances (Contributory and non means-tested)  
+HY073G 
+Housing allowances (Non-contributory and means-tested)  
+HY074G 
+Housing allowances (Non-contributory and non means- 
+tested)  
+PY091G 
+Unemployment benefits (Contributory and means-tested)  
+PY092G 
+Unemployment benefits (Contributory and non means- 
+tested)  
+PY093G 
+Unemployment benefits (Non-contributory and means- 
+tested)  
+PY094G 
+Unemployment benefits (Non-contributory and non 
+means-tested)  
+PY111G 
+Survivor’ benefits (Contributory and means-tested)  
+PY112G 
+Survivor’ benefits (Contributory and non means-tested)  
+PY113G 
+Survivor’ benefits (Non-contributory and means-tested)  
+PY114G 
+Survivor’ benefits (Non-contributory and non means- 
+tested)  
+PY121G 
+Sickness benefits (Contributory and means-tested)  
+PY122G 
+Sickness benefits (Contributory and non means-tested)  
+PY123G 
+Sickness benefits (Non-contributory and means-tested)  
+PY124G 
+Sickness benefits (Non-contributory and non means- 
+tested)  
+PY131G 
+Disability benefits (Contributory and means-tested)  
+PY132G 
+Disability benefits (Contributory and non means-tested)  
+PY133G 
+Disability benefits (Non-contributory and means-tested)  
+PY134G 
+Disability benefits (Non-contributory and non means- 
+tested) 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/25   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+PY141G 
+Education-related allowances (Contributory and means- 
+tested)  
+PY142G 
+Education-related allowances (Contributory and non 
+means-tested)  
+PY143G 
+Education-related allowances (Non-contributory and 
+means-tested)  
+PY144G 
+Education-related allowances (Non-contributory and non 
+means-tested) 
+Income from pensions 
+PY080G/P­
+Y080N 
+Pension from individual private plans 
+2 collected variables (annual) 
+PY100G/P­
+Y100N 
+Old-age benefits 
+4 variables known to the countries (annual) 
+PY101G 
+Old-age benefits (Contributory and means-tested)  
+PY102G 
+Old-age benefits (Contributory and non means-tested)  
+PY103G 
+Old-age benefits (Non-contributory and means-tested)  
+PY104G 
+Old-age benefits (Non-contributory and non means- 
+tested) 
+Other incomes, including income from property 
+and capital and inter-household transfers 
+HY040­
+G/HY040N 
+Income from rental of property or land 
+7 collected variables (annual) 
+HY080­
+G/HY080N 
+Regular inter-household cash transfer received  
+HY081­
+G/HY081N 
+Alimonies received (compulsory + voluntary)  
+HY090­
+G/HY090N 
+Interest, dividends, profit from capital investments in un­
+incorporated business  
+HY100­
+G/HY100N 
+Interest repayments on mortgage  
+HY110­
+G/HY110N 
+Income received by people aged under 16  
+HY170­
+G/HY170N 
+Value of goods produced for own consumption 
+Taxes and contributions actually paid after re­
+ductions 
+HY120­
+G/HY120N 
+Regular taxes on wealth 
+7 collected variables (annual) 
+HY121­
+G/HY121N 
+Taxes paid on ownership of household main dwelling  
+HY130­
+G/HY130N 
+Regular inter-household cash transfer paid  
+HY131­
+G/HY131N 
+Alimonies paid (compulsory + voluntary)  
+HY140­
+G/HY140N 
+Tax on income and social contributions  
+HY145N 
+Repayments/receipts for tax adjustment 
+EN
+Official Journal of the European Union 
+L 54/26                                                                                                                                           
+26.2.2020   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+PY035G/P­
+Y035N 
+Contributions to individual private pension plans 
+Total annual income at the level of persons and 
+households 
+HI010 
+Change in the household income compared to the pre­
+vious year 
+4 collected variables (annual) 
+HI020 
+Reason for increase in income 
+4 derived variables (annual) 
+HI030 
+Reason for decrease in income  
+HI040 
+Expectation of the household income in the next 12 
+months  
+HY010 
+Total household gross income  
+HY020 
+Total disposable household income  
+HY022 
+Total disposable household income before social transfers 
+other than old-age and survivor’s benefits  
+HY023 
+Total disposable household income before social transfers 
+including old-age and survivor’s benefits 
+Arrears 
+HS011 
+Arrears on mortgage or rental payments 
+4 collected variables (annual) 
+HS021 
+Arrears on utility bills  
+HS031 
+Arrears on hire purchase instalments or other loan pay­
+ments  
+HS150 
+Financial burden of the repayment of debts from hire 
+purchases or loans 
+Ad-hoc subject module 2021   
+Living arrangements and conditions of children 
+in separated and blended families 
+HK010 
+Number of children who are household members and 
+whose other parent lives outside the household 
+12 collected variables 
+HK020 
+Number of children who are not household members and 
+whose parent lives inside the household 
+1 derived variable 
+PK010 
+Household member has children who are not household 
+members 
+RK010 
+Parent ID and sequential number of the child who is not 
+household member 
+RK020 
+Age of the child who is not household member 
+PK020 
+Main reason for not spending more time with children 
+who are household members 
+PK030 
+Main reason for not spending more time with children 
+who are not household members  
+RK030 
+Usual time the parent needs to get to the child who is not 
+household member  
+RK040 
+Frequency of contact during the last 12 months (via 
+phone, social media etc.) with the child who is not 
+household member  
+RK050 
+Child having a bedroom in which to sleep (including 
+bedroom shared with siblings) 
+EN
+Official Journal of the European Union 
+26.2.2020                                                                                                                                           
+L 54/27   
+
+Detailed topic 
+Variable 
+identifier 
+Variable name  
+RK060 
+Frequency of actively spending time with the child (meals, 
+play, homework, walking, talking, etc.)  
+RK070 
+Number of nights per month the child spends in the 
+household (average)  
+RK080 
+Legal child custody situation   
+EN
+Official Journal of the European Union 
+L 54/28                                                                                                                                           
+26.2.2020

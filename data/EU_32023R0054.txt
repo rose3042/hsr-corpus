@@ -1,0 +1,207 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/54 
+of 4 January 2023
+correcting Implementing Regulation (EU) 2022/652 concerning the authorisation of bitter orange 
+extract as a feed additive for certain animal species 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on 
+additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+Whereas:
+(1)
+The use of the bitter orange extract as a feed additive was authorised for certain animal species by Commission 
+Implementing Regulation (EU) 2022/652 (2).
+(2)
+Bitter orange extract is known to contain 10 to 20 % neohesperidin, as detailed in the column ‘Composition, 
+chemical formula, description, analytical method’ in the Annex to Implementing Regulation (EU) 2022/652.
+(3)
+An incorrect presumption of a relationship between neohesperidin, identified with CAS number 13241-33-3, and 
+neohesperidin dihydrochalcone, identified with CAS number 20702-77-6, which has a similar name, but is a 
+distinct substance, resulted in point 3 of the column ‘Other provisions’ in the Annex to Implementing Regulation 
+(EU) 2022/652, which mistakenly provides for the exclusion of the use of bitter orange extract in combination with 
+neohesperidin dihydrochalcone.
+(4)
+Theopinion of the European Food Safety Authority of 23 June 2021 on the safety of bitter orange extract (3) does not 
+mention any risk as regards the use of bitter orange extract in combination with neohesperidin dihydrochalcone.
+(5)
+It is therefore necessary to correct the Annex to Implementing Regulation (EU) 2022/652 by deleting point 3 of the 
+column ‘Other provisions’ in that Annex. For the sake of clarity, it is appropriate to replace the whole Annex to that 
+Implementing Regulation.
+(6)
+In the interest of preventing disruptions to the placing of the feed additive in the market due to the error in 
+Implementing Regulation (EU) 2022/652, this Regulation should enter into force as a matter of urgency.
+(7)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+(1) OJ L 268, 18.10.2003, p. 29.
+(2) Commission Implementing Regulation (EU) 2022/652 of 20 April 2022 concerning the authorisation of bitter orange extract as a feed 
+additive for certain animal species (OJ L 119, 21.4.2022, p. 74).
+(3) EFSA Journal 2021;19(7):6709.
+EN
+Official Journal of the European Union 
+L 3/12 
+5.1.2023  
+
+HAS ADOPTED THIS REGULATION:
+Article 1
+The Annex to Implementing Regulation (EU) 2022/652 is replaced by the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 4 January 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+5.1.2023 
+L 3/13  
+
+ANNEX 
+‘ANNEX
+Identifica­
+tion 
+number of 
+the additive
+Name 
+of the 
+holder 
+of 
+author­
+isation
+Additive
+Composition, chemical formula, 
+description, analytical method.
+Species or category of 
+animal
+Maxi­
+mum 
+age
+Mini­
+mum 
+content
+Maxi­
+mum 
+content
+Other provisions
+End of 
+period of 
+authorisa­
+tion
+mg active  
+substance/kg of 
+complete feed with 
+a moisture content 
+of 12 %
+Category: Sensory additives. Functional group: Flavouring compounds
+2b136-ex
+-
+Bitter 
+orange 
+extract
+Additive composition
+Bitter orange extract from the fruit of 
+Citrus x aurantium L.
+Solid form
+Characterisation of the active substance
+Bitter orange extract from the fruit of 
+Citrus x aurantium L. as defined by the 
+Council of Europe (1).
+Flavonoids: 45-55 % of which
+— Naringin: 20-30 %
+— Neohesperidin: 10-20 %
+5- methoxypsoralen (also known as 
+bergapten): ≤ 0,03 %
+(-)-Synephrine: ≤ 1 %
+CoE number: 136
+Analytical method (2)
+For the quantification of naringin 
+(phytochemical marker) in the feed 
+additive:
+— High performance liquid chro­
+matography (HPLC) with spec­
+trophotometric (UV) detection
+Chickens for 
+fattening
+Laying hens
+Turkeys for fattening
+Piglets
+Pigs for fattening
+Sows
+Dairy cows
+Calves
+Cattle for fattening
+Sheep/goats
+Horses
+Rabbits
+Salmonids
+Ornamental fish
+Dogs
+Cats
+-
+-
+1. The additive shall be incorporated into 
+the feed in the form of a premixture.
+2. In the directions for use of the additive 
+and premixtures, the storage conditions 
+and stability to heat treatment shall be 
+indicated.
+3. On the label of the additive the follow­
+ing shall be indicated:
+‘Recommended maximum content of 
+the active substance per kg of complete 
+feedingstuff with a moisture content of 
+12 %:
+— Chickens for fattening: 102 mg.
+— Laying hens: 151 mg.
+— Turkeys for fattening: 136 mg.
+— Piglets: 182 mg.
+— Pigs for fattening: 217 mg.
+— Sows: 268 mg.
+— Dairy cows: 259 mg.
+— Calves (milk replacer), cattle for fat­
+tening, sheep/goats, horses, salmo­
+nids, dogs and ornamental fish: 
+400 mg.
+— Cats: 80 mg.
+— Rabbits: 161 mg.’.
+11 May 
+2032
+EN
+Official Journal of the European Union 
+L 3/14 
+5.1.2023  
+
+4. The functional group, the identification 
+number, the name and the added 
+amount of the active substance shall 
+be indicated on the label of the premix­
+ture where the use level on the label of 
+the premixture would result in exceed­
+ing the level referred to in point 3.
+5. The mixture of bitter orange extract 
+from the fruit of Citrus x aurantium L 
+with other authorised additives ob­
+tained from Citrus aurantium L. shall 
+not be allowed in feedingstuffs.
+6. For users of the additive and premix­
+tures, feed business operators shall es­
+tablish operational procedures and or­
+ganisational 
+measures 
+to 
+address 
+potential risks by inhalation, dermal 
+contact or eyes contact. Where those 
+risks cannot be eliminated or reduced 
+to a minimum by such procedures and 
+measures, the additive and premixtures 
+shall be used with personal protective 
+equipment, including skin, eye and 
+breathing protection.
+(1) Natural sources of flavourings – Report No 2 (2007)
+(2) Details of the analytical methods are available at the following address of the Reference Laboratory: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports’
+EN
+Official Journal of the European Union 
+5.1.2023 
+L 3/15

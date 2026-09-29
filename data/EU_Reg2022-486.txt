@@ -1,0 +1,118 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION DELEGATED REGULATION (EU) 2022/486 
+of 21 January 2022
+amending Annexes I and III to Delegated Regulation (EU) No 906/2014 supplementing Regulation 
+(EU) No 1306/2013 of the European Parliament and of the Council as regards the calculation 
+methods of public intervention expenditure 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on 
+the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) 
+No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (1), and in 
+particular Article 20(2) and (3) thereof,
+Whereas:
+(1)
+Commission Delegated Regulation (EU) No 906/2014 (2) lays down detailed rules applicable to public intervention 
+expenditure under the European Agricultural Guarantee Fund (EAGF). The provisions of that Regulation need to be 
+adapted in order to take into account that public intervention is used only occasionally.
+(2)
+Part I of Annex I to Delegated Regulation (EU) No 906/2014 defines the applicable interest rates for the financing of 
+public intervention expenditure under the EAGF.
+(3)
+In order to determine those interest rates, the Member States are to notify to the Commission the average interest rate 
+they actually bore during a reference period. If a Member State did not bear any interest costs, because it did not have 
+agricultural products in public storage, the Commission is to fix the reference interest rate based on average reference 
+interest rates. For Member States that use the euro, the reference rate is the euro Interbank Offered Rate (EURIBOR). 
+For Member States whose currency is not the euro, the reference rate is the Interbank Offered Rate (IBOR).
+(4)
+Given the decreasing number of transactions underlying the EURIBOR, the euro short-term rate (€STR) should be 
+provided as a fall-back rate for cases where the EURIBOR is not available. For Member States whose currency is not 
+the euro, the possibility to use the fall-back rate replacing the national IBOR should also be provided.
+(5)
+Currently, pursuant to the rules set out in Part I of Annex I to Delegated Regulation (EU) No 906/2014, the 
+Commission is to adopt, for every accounting year, an implementing regulation fixing the interest rate, even if there 
+is no change to the interest rate and even if there are no products in public storage. For reasons of simplification and 
+resource efficiency, it is appropriate to provide that the Commission implementing regulation fixing the interest rate 
+remains in force until its repeal. The Commission should thus update the interest rate only if a public storage 
+intervention takes place or an intervention buying-in is expected to take place.
+(1) OJ L 347, 20.12.2013, p. 549.
+(2) Commission Delegated Regulation (EU) No 906/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the 
+European Parliament and of the Council with regard to public intervention expenditure (OJ L 255, 28.8.2014, p. 1).
+EN
+Official Journal of the European Union 
+28.3.2022 
+L 100/1  
+(6)
+Part I, point 4, of Annex III to Delegated Regulation (EU) No 906/2014 lays down the rules for establishing the 
+applicable standard amounts for the Union when fewer than four Member States place a given product in public 
+storage. However, it may occur that more than four Member States place a given product in public storage but fewer 
+than four Member States notify their recorded costs. To avoid legal uncertainty in establishing the applicable 
+standard amounts, a provision should be added for cases where fewer than four Member States notify their recorded 
+costs.
+(7)
+Part II, point 3, of Annex III to Delegated Regulation (EU) No 906/2014 provides that the Commission may roll over 
+the standard amounts fixed previously for a product where there was no public storage, or there will be no public 
+storage, for the current accounting year. For reasons of simplification and resource efficiency, the applicable 
+standard amounts should not be fixed routinely every year. Instead, the Commission implementing decision fixing 
+those standard amounts should remain applicable until it is repealed.
+(8)
+Annexes I and III to Delegated Regulation (EU) No 906/2014 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes I and III to Delegated Regulation (EU) No 906/2014 are amended as follows:
+(1) Annex I, Part I is amended as follows:
+(a) point 1 is replaced by the following:
+‘1. For the purposes of calculating the financing costs to be borne by the EAGF for the funds mobilised by the 
+Member State for buying in products, the Commission shall fix a uniform interest rate in accordance with 
+Article 20(4) of Regulation (EU) No 1306/2013 throughout the Union. The uniform interest rate shall 
+correspond to the average of the 3-month and 12-month forward EURIBOR rates, recorded during a 6-month 
+reference period which is to be determined by the Commission, with a weighting of one-third and two-thirds 
+respectively. If the EURIBOR is not available, the average €STR, recorded during that 6-month reference 
+period, shall be used.’;
+(b) point 2 is amended as follows:
+(i)
+the first subparagraph is replaced by the following:
+‘In order to determine the applicable interest rates, the Member States shall notify the Commission, at its 
+request, of the average interest rate they actually bore during the reference period referred to in point 1 no 
+later than by the deadline referred to in that request. The notification shall be made using the form made 
+available to the Member States by the Commission.’;
+(ii) in the third subparagraph, points (a) and (b) are replaced by the following:
+‘(a) For Member States whose currency is the euro, the EURIBOR 3 months or, if the EURIBOR is not available, 
+the €STR;
+(b) For Member States whose currency is not the euro, the IBOR 3 months applicable in each of those 
+Member States or, if the IBOR is not available in the Member State concerned, the rate replacing the IBOR.’;
+(c) in point 3, the second subparagraph is replaced by the following:
+‘The interest rates fixed by the Commission implementing regulation adopted on the basis of Article 20(4) of 
+Regulation (EU) No 1306/2013 shall be rounded to 1 decimal.’;
+(d) the following point 4 is added:
+‘4. The Commission implementing regulation fixing the interest rate as referred to in point 3, second 
+subparagraph, shall continue to apply until it is repealed by a new Commission implementing regulation 
+fixing a new interest rate.’;
+EN
+Official Journal of the European Union 
+L 100/2 
+28.3.2022  
+(2) Annex III is amended as follows:
+(a) in Part I, point 4 is replaced by the following:
+‘4. If fewer than four Member States place a given product in public storage or notify costs for a physical operation 
+relating to a product referred to in Annex II, the standard amounts for that product shall be established on the 
+basis of the costs recorded in the Member States concerned. However, the final standard amount for that 
+product cannot differ from the previously established amount by more than 2 %.’;
+(b) in Part II, point 3 is replaced by the following:
+‘3. If there is no public storage in the accounting year concerned, the Commission implementing decision fixing 
+the standard amounts shall continue to apply until it is repealed by a new Commission implementing decision 
+fixing new standard amounts.’.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 21 January 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+28.3.2022 
+L 100/3  

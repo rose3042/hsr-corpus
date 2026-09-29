@@ -1,0 +1,536 @@
+COMMISSION IMPLEMENTING REGULATION (EU) No 456/2012 
+of 30 May 2012 
+amending Regulation (EC) No 1266/2007 on implementing rules for Council Directive 2000/75/EC 
+as regards the control, monitoring, surveillance and restrictions on movements of certain animals of 
+susceptible species in relation to bluetongue 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European 
+Union, 
+Having regard to Council Directive 2000/75/EC of 20 November 
+2000 laying down specific provisions for the control and eradi­
+cation of bluetongue ( 1 ), and in particular Article 9(1)(c), 
+Articles 11 and 12 and the third paragraph of Article 19 
+thereof, 
+Whereas: 
+(1) 
+Commission Regulation (EC) No 1266/2007 ( 2 ) lays 
+down rules for the control, monitoring, surveillance 
+and restrictions on movements of animals, in relation 
+to bluetongue, in and from the restricted zones. It also 
+establishes the conditions for exemptions from the exit 
+ban applicable to movements of susceptible animals, 
+their semen, ova and embryos provided for in Directive 
+2000/75/EC, including rules on the use of vaccines 
+against bluetongue. 
+(2) 
+Under the current rules laid down in Directive 
+2000/75/EC, the use of vaccines against bluetongue is 
+not permitted outside protection zones. Directive 
+2012/5/EU of the European Parliament and of the 
+Council of 14 March 2012 amending Council Directive 
+2000/75/EC as regards vaccination against bluetongue ( 3 ) 
+makes the rules on vaccination laid down in Directive 
+2000/75/EC more flexible in order to allow vaccination 
+with inactivated vaccines against bluetongue also outside 
+the areas subject to animal movement restrictions. As a 
+consequence, Regulation (EC) No 1266/2007 should be 
+amended. Furthermore, amendments are necessary to 
+simplify the process of monitoring and surveillance and 
+to adapt the procedures established by Regulation (EC) 
+No 1266/2007 to recent scientific opinions. 
+(3) 
+For the purpose of gathering and analysing epidemi­
+ological information on bluetongue, Regulation (EC) No 
+1266/2007 provides that Member States are to transmit 
+to the BlueTongue NETwork application (BT-Net system) 
+information on bluetongue gathered in the course of the 
+implementation of the bluetongue monitoring and 
+surveillance programmes. 
+(4) 
+However, experience shows that there is sufficient 
+information available in the framework of other 
+existing 
+Union 
+disease 
+notification 
+and 
+reporting 
+obligations. The obligation to exchange information 
+through the BT-Net system is therefore no longer 
+necessary. 
+(5) 
+Regulation (EC) No 1266/2007, as amended by 
+Commission Regulation (EC) No 123/2009 ( 4 ) introduced 
+the possibility for Member States to demarcate, under 
+certain conditions, ‘lower risk areas’ to facilitate 
+preventive vaccination in parts of their territory 
+without virus circulation. As a consequence of the 
+entry into force of Directive 2012/5/EU, whereby vacci­
+nation against bluetongue may be performed also outside 
+restricted zones the provisions for the demarcation of 
+‘lower risk areas’ are no longer necessary. 
+(6) 
+In accordance with Article 6(2) of Regulation (EC) No 
+1266/2007, a Member State may decide to remove an 
+epidemiological geographical relevant area from a 
+restricted zone, and thereby claim freedom from disease 
+in that area after two years of absence of virus circulation 
+as proven by monitoring. 
+(7) 
+However, those parts of a restricted zone where for at 
+least one year, including a full vector activity season, 
+monitoring and surveillance show that no virus circu­
+lation of a specific bluetongue serotype or serotypes 
+has taken place, are at risk of reintroduction of the 
+disease by introduction of infectious animals from 
+other parts of the same restricted zone where the blue­
+tongue virus is still circulating. For these situations, in 
+order to provide for a safe transition towards freedom 
+from 
+disease 
+under 
+favourable 
+epidemiological 
+conditions, Member States should be allowed to 
+demarcate a ‘provisionally free area’ subject to the 
+condition that monitoring and surveillance to ascertain 
+the absence of virus circulation is carried out. 
+(8) 
+According to the Scientific Opinion of the Panel on 
+Animal Health and Welfare of the EFSA on the ‘Risk 
+of Bluetongue Transmission in Animal Transit’, adopted 
+on 11 September 2008 ( 5 ), there is a theoretical possi­
+bility that infectious midges co-travel with the animals. 
+That risk might be controlled by cleaning the vehicle and 
+treating it with insecticides or repellents before loading 
+the animals or when moving animals through areas 
+known to be at low risk or at a period of time when
+EN 
+31.5.2012 
+Official Journal of the European Union 
+L 141/7 
+( 1 ) OJ L 327, 22.12.2000, p. 74. 
+( 2 ) OJ L 283, 27.10.2007, p. 37. 
+( 3 ) OJ L 81, 21.3.2012, p. 1. 
+( 4 ) OJ L 40, 11.2.2009, p. 3. 
+( 5 ) EFSA Journal 2008; 795, 18-65.
+the risk is known to be low. In order to limit undesired 
+effects to the environment of those substances and to 
+avoid possible problems as regards waiting periods and 
+possible residues in the animals, the treatment of animals 
+with authorised insecticides or repellents should no 
+longer be required as this treatment provides for 
+limited additional safety. 
+(9) 
+Regulation (EC) No 1266/2007, as amended by Imple­
+menting Regulation (EU) No 648/2011 ( 1 ), allows, for a 
+transitional period, Member States of destination, in 
+which the introduction of non-immune animals under 
+certain circumstances could pose a risk for animal 
+health, to require that the movement of such animals 
+is subject to certain additional conditions. As rules on 
+criteria for vector protected establishments are laid down 
+in this Regulation, that transitional provision is no longer 
+necessary. 
+(10) 
+Due to the different levels of virus circulation, environ­
+mental conditions and different vaccination strategies in 
+the Member States, the epidemiological situations as 
+regards bluetongue may differ considerably in different 
+areas of the Union. Experience has shown that different 
+surveillance strategies may be successfully implemented 
+to 
+achieve the 
+desired objectives. Therefore, the 
+minimum harmonised requirements for monitoring and 
+surveillance as laid down in Annex I to Regulation (EC) 
+No 1266/2007 should be simplified to allow for more 
+flexibility for the Member States to design their national 
+monitoring and surveillance programmes, taking into 
+account the Scientific Opinion of the EFSA Panel on 
+Animal Health and Welfare on bluetongue monitoring 
+and surveillance ( 2 ). 
+(11) 
+Based on the abovementioned Scientific Opinion, the 
+minimum sample size to detect a prevalence of 5 % 
+with 95 % confidence in the susceptible species popu­
+lation should be sufficient for surveillance for the 
+purpose of demonstrating the absence of virus circulation 
+in an epidemiological relevant geographical area during a 
+period of two years. 
+(12) 
+Keeping bluetongue susceptible animals in a vector proof 
+establishment for a specified period of time is an 
+important 
+requirement 
+for 
+certain 
+conditions 
+for 
+exemptions from the exit ban as set out in Annex III 
+to Regulation (EC) No 1266/2007. Experience shows that 
+it is difficult for Member States to establish proper 
+criteria for the implementation of a vector proof estab­
+lishment for regular movements for trade in animals of 
+susceptible species such as cattle, sheep and goats. 
+(13) 
+In order to improve the effectiveness of vector proof 
+establishments and to assist the Member States in their 
+implementation of that control measure, a number of 
+criteria should be established. Those criteria should be 
+based on experiences of the Member States and the 
+Terrestrial Animal Health Code of the World Organi­
+sation for Animal Health (OIE). To align the terminology 
+with the OIE, the term ‘vector proof establishment’, 
+currently used in Regulation (EC) No 1266/2007, 
+should be replaced by ‘vector protected establishment’. 
+(14) 
+In response to new scientific information which indicates 
+the possibility of transplacental transmission of the blue­
+tongue virus, in particular for bluetongue virus serotype 
+8, precautionary measures to prevent the possible spread 
+of bluetongue by pregnant animals or certain newborn 
+animals were introduced in 
+Regulation (EC) 
+No 
+1266/2007, as amended by Regulation (EC) No 
+384/2008 ( 3 ). 
+(15) 
+According to the Scientific Opinion of the Panel on 
+Animal Health and Welfare of the EFSA on bluetongue 
+serotype 8 ( 4 ), there is scientific evidence for transpla­
+cental transmission of bluetongue virus serotype 8 
+which was introduced in the Union in 2006. However, 
+transplacental transmission of other serotypes of the 
+bluetongue virus in affected areas where no modified 
+live vaccines have been used has not been shown. In 
+the light of the conclusions of that opinion, the 
+precautionary measure as regards the movement of 
+pregnant animals should only apply for zones which 
+are restricted for bluetongue virus serotype 8. 
+(16) 
+Regulation (EC) No 1266/2007 should therefore be 
+amended accordingly. 
+(17) 
+The measures provided for in this Regulation are in 
+accordance 
+with 
+the 
+opinion 
+of 
+the 
+Standing 
+Committee on the Food Chain and Animal Health, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Regulation (EC) No 1266/2007 is amended as follows: 
+(1) Article 4 is replaced by the following: 
+‘Article 4 
+Bluetongue monitoring and surveillance programmes 
+Member States shall implement bluetongue monitoring and 
+surveillance programmes in accordance with the minimum 
+requirements set out in Annex I.’; 
+(2) Article 5 is deleted; 
+(3) in Article 6, paragraph 2 is replaced by the following: 
+‘2. 
+Before taking any decision to remove an epidemi­
+ologically relevant geographical area from a restricted 
+zone, Member States shall provide the Commission with 
+substantiated information demonstrating the absence of 
+bluetongue virus circulation in that area during a period 
+of two years, including two full vector activity seasons,
+EN 
+L 141/8 
+Official Journal of the European Union 
+31.5.2012 
+( 1 ) OJ L 176, 5.7.2011, p. 18. 
+( 2 ) EFSA Journal 2011; 9(6): 2192. 
+( 3 ) OJ L 116, 30.4.2008, p. 3. 
+( 4 ) EFSA Journal 2011; 9(5): 2189.
+following the implementation of the bluetongue monitoring 
+and surveillance programme in accordance with point 3 of 
+Annex I.’; 
+(4) in Article 7, paragraph 2a is replaced by the following: 
+‘2a. 
+Member States may demarcate an epidemiological 
+relevant geographical area in a restricted zone as a “pro­
+visionally free area” provided that for a period of one year, 
+including 
+one 
+full 
+vector 
+season, 
+monitoring 
+and 
+surveillance in accordance with point 3 of Annex I has 
+demonstrated the absence of bluetongue virus circulation 
+in that part of the restricted zone for that specific blue­
+tongue serotype or combination of serotypes. 
+A Member State which intends to demarcate a restricted 
+zone or part of a restricted zone as a “provisionally free 
+area” shall notify its intention to the Commission. That 
+notification shall be accompanied by the information 
+referred to in point 3 of Annex I. 
+The Commission shall inform the Member States in the 
+framework of the Standing Committee on the Food Chain 
+and Animal Health of the list of “provisionally free areas”. 
+Movements of animals within the same restricted zone from 
+an area where the same bluetongue virus serotype or 
+serotypes are circulating to a part of the same restricted 
+zone demarcated as a “provisionally free area” may only 
+be permitted if: 
+(a) the animals comply with the conditions set out in 
+Annex III; or 
+(b) the animals comply with any other appropriate animal 
+health guarantees based on a positive outcome of a risk 
+assessment of measures against the spread of the blue­
+tongue virus and protection against attacks by vectors, 
+required by the competent authority of the place of 
+origin and approved by the competent authority of 
+the place of destination, prior to the movement of 
+such animals; or 
+(c) the animals are destined for immediate slaughter.’; 
+(5) in Article 8(5), the third subparagraph is replaced by the 
+following: 
+‘Information on the designated slaughterhouses shall be 
+made available to the other Member States and to the 
+public.’; 
+(6) Article 9 is replaced by the following: 
+‘Article 9 
+Further conditions for the transit of animals 
+1. 
+The transit of animals shall be allowed by the 
+competent authority provided that: 
+(a) after adequate cleansing and disinfection at the place of 
+loading, the means in which the animals are transported 
+are treated with authorised insecticides and/or repellents. 
+This treatment must in any case take place prior to 
+leaving or entering the restricted zone; 
+(b) when a rest period of more than one day is foreseen at 
+a control post during the movement through a 
+restricted zone, the animals are protected against 
+attacks by vectors in a vector protected establishment 
+in accordance with the criteria set out in Annex II. 
+2. 
+Paragraph 1 shall not apply if the transit takes place: 
+(a) exclusively from or through epidemiologically relevant 
+geographical areas of the restricted zone during the 
+bluetongue seasonally vector-free period defined in 
+accordance with Annex V; or 
+(b) from or through parts of the restricted zone demarcated 
+as a “provisionally free area” in accordance with 
+Article 7(2a). 
+3. 
+For the animals referred to in paragraph 1 of this 
+Article, the following additional wording shall be added to 
+the corresponding health certificates laid down in Directives 
+64/432/EEC, 91/68/EEC and 92/65/EEC, or referred to in 
+Decision 93/444/EEC: “Insecticide/repellent treatment with 
+… (insert name of the product) on … (insert date) in 
+conformity with Article 9 of Regulation (EC) 
+No 
+1266/2007.” ’; 
+(7) Article 9a is deleted; 
+(8) Annexes I, II, III and V are amended in accordance with the 
+Annex to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the fifth day following 
+that of its publication in the Official Journal of the European 
+Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 30 May 2012. 
+For the Commission 
+The President 
+José Manuel BARROSO
+EN 
+31.5.2012 
+Official Journal of the European Union 
+L 141/9
+ANNEX 
+Annexes I, II, III and V to Regulation (EC) No 1266/2007 are amended as follows: 
+(1) Annex I is replaced by the following: 
+‘ANNEX I 
+Minimum requirements for bluetongue monitoring and surveillance programmes (referred to in Article 4) 
+1. General requirements 
+Bluetongue monitoring and surveillance programmes shall be aimed at; 
+(a) detecting any possible incursions of the bluetongue virus and; 
+(b) where appropriate, demonstrating the absence of certain serotypes of that virus in a Member State or 
+epidemiologically relevant geographical area; or 
+(c) determining the seasonally vector free period (entomological surveillance). 
+The geographical unit of reference for the purposes of bluetongue monitoring and surveillance shall be defined by 
+a grid of around 45 x 45 km (approximately 2 000 km 2 ) unless specific environmental conditions justify a 
+different size. 
+If appropriate, Member States may also use the “region” as defined in Article 2.2(p) of Directive 64/432/EEC or the 
+regions as defined in Annex X to Commission Decision 2005/176/EC of 1 March 2005 laying down the codified 
+form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC ( 1 ) as the 
+geographical unit of reference for monitoring and surveillance purposes. 
+2. Bluetongue monitoring and surveillance programmes aimed at detecting any possible incursions of the bluetongue virus 
+Bluetongue monitoring and surveillance programmes aimed at detecting any possible incursions of the bluetongue 
+virus shall consist of at least passive clinical surveillance and active laboratory-based surveillance. 
+2.1. Passive clinical surveillance shall consist of a formal and properly documented ongoing system aimed at 
+detecting and investigating any suspicions, including an early warning system for reporting suspicions. 
+Owners or holders and veterinarians must promptly report any suspicion to the competent authority. 
+2.2. Active laboratory-based surveillance shall consist of an annual programme of at least one, or a combination 
+of, serological/virological monitoring with sentinel animals, serological/virological surveys, or targeted moni­
+toring and surveillance based on a risk assessment. 
+— Sampling may take place at pre-defined intervals throughout the year but shall at least be carried out once 
+a year performed in the period of the year when infection or seroconversion is most likely to be detected. 
+— The bluetongue monitoring and surveillance programmes must be designed in such a way that the 
+samples are taken from susceptible animals (that is animals which have not been vaccinated and which 
+have been exposed to the competent vector), which are representative for the structure of the susceptible 
+species population in the epidemiologically relevant geographical area. 
+— The sample size must be calculated to detect the appropriate design prevalence based on the known risk 
+of the target population with 95 % confidence in the susceptible species population of that epidemi­
+ologically relevant geographical area. In the absence of scientific information on the expected prevalence 
+for the target population the sample size must be calculated to detect a prevalence of 20 %.
+EN 
+L 141/10 
+Official Journal of the European Union 
+31.5.2012
+— Whenever the samples do not originate from individual animals, the sample size must be adjusted 
+according to the sensitivity of the diagnostic procedures applied. 
+— Laboratory-based surveillance shall be designed in such a way that positive screening tests are followed by 
+the specific serotype serological/virological tests targeted to the bluetongue serotype or serotypes expected 
+to be present in the epidemiologically relevant geographical area necessary to ascertain the specific 
+serotype circulating. 
+3. Bluetongue monitoring and surveillance programmes aimed at demonstrating the absence of certain serotypes of the bluetongue 
+virus in a Member State or epidemiologically relevant geographical area 
+Bluetongue monitoring and surveillance programmes aimed at the demonstration of the absence of bluetongue 
+virus circulation must comply with the conditions set out in points 2.1 and 2.2. The sample size used for the 
+active laboratory-based surveillance must be calculated to detect a prevalence of 5 % ( 2 ) with 95 % confidence. In 
+addition: 
+(a) for the purpose of removing an epidemiologically relevant geographical area from a restricted zone as referred 
+to in Article 6(2), Member States must demonstrate the absence of bluetongue virus circulation during a period 
+of at least two years, including two seasons of vector activity; 
+Member States shall submit to the Commission relevant historical epidemiological information on the moni­
+toring and surveillance programme in place and its yearly results during the past three years, including at least: 
+(i) a description of the surveys currently being carried out and the type of diagnostic test performed (ELISA, 
+serum neutralisation, PCR, virus isolation); 
+(ii) the sampled species and the number of samples taken per susceptible animal species; if pools of sera are 
+used, an estimation of the numbers of animals corresponding to the pools tested must be reported; 
+(iii) the geographical coverage of the samples; 
+(iv) the frequency and timing of sampling; 
+(v) the number of positive results specified by animals species and geographical location. 
+(b) for the purpose of demarcating a “provisionally free area” as referred to in Article 7(2a), Member States must 
+demonstrate the absence of bluetongue virus circulation during a period of at least one year, including one 
+season of vector activity. 
+Member States shall submit to the Commission relevant historical epidemiological information on the moni­
+toring and surveillance programme in place and its results during the past two years, including at least the 
+information as laid down in points (a)(i) to (v). 
+4. Bluetongue monitoring and surveillance programmes aimed at determining the seasonally vector free period (entomological 
+surveillance) 
+Entomological surveillance to determine the seasonally vector-free period as referred to in Annex V, shall meet the 
+following requirements: 
+(a) it must consist of at least an active annual programme of vector catching by means of permanently sited 
+aspiration traps intended to determine the population dynamics of the vector; 
+(b) aspiration traps equipped with ultraviolet light must be used in accordance with pre-established protocols; the 
+traps must be operated throughout the night and operate at a rate of at least: 
+— one night per week during the month before the expected beginning and during the month before the 
+expected end of the seasonally vector-free period, 
+— one night per month during the seasonally vector-free period. 
+On the basis of the evidence obtained in the three first years of the operation of the aspiration traps, the 
+frequency of operation of those traps may be adjusted;
+EN 
+31.5.2012 
+Official Journal of the European Union 
+L 141/11
+(c) at least one aspiration trap must be placed in each epidemiologically relevant area all over the bluetongue 
+seasonally free zone. A proportion of the midges collected in the aspiration traps must be sent to a specialised 
+laboratory capable of counting and identifying the suspected vector species. 
+___________ 
+( 1 ) OJ L 59, 5.3.2005, p. 40. 
+( 2 ) For a transitional period until 31 August 2012, the sample size of the survey may be calculated to detect a 
+prevalence of 20 %.’; 
+(2) Annex II is replaced by the following: 
+‘ANNEX II 
+Criteria for the “vector protected establishment” (referred to in points 2, 3and 4 of Section A of Annex III, 
+point (b) of Section B and point 2(b) of Section C in that Annex) 
+1. A vector protected establishment shall at least comply with the following: 
+(a) it must have appropriate physical barriers at entry and exit points; 
+(b) openings of the vector protected establishment must be vector screened with mesh of appropriate gauge which 
+must be impregnated regularly with an approved insecticide according to the manufacturers’ instructions; 
+(c) vector surveillance and control must be carried out within and around the vector protected establishment; 
+(d) measures must be taken to limit or eliminate breeding sites for vectors in the vicinity of the vector protected 
+establishment; 
+(e) standard operating procedures must be in place, including descriptions of back-up and alarm systems, for 
+operation of the vector protected establishment and transport of animals to the place of loading. 
+2. The competent authority shall approve an establishment as vector protected, if the criteria in point 1 are met. It 
+shall verify at the appropriate frequency, but at least three times during the required protection period (at the 
+beginning, during and at the end of the period) the effectiveness of the measures carried out by means of a vector 
+trap inside the vector protected establishment.’; 
+(3) Annex III is amended as follows: 
+(a) Section A is amended as follows: 
+(i) in point 2, the first subparagraph is replaced by the following: 
+‘The animals have been kept, until dispatch, protected against attacks by vectors in a vector protected 
+establishment in accordance with the criteria set out in Annex II for a period of at least 60 days prior to 
+the date of dispatch.’; 
+(ii) in point 3, the first subparagraph is replaced by the following: 
+‘The animals have been kept, until dispatch, in a bluetongue seasonally free zone during the seasonally vector- 
+free period, defined in accordance with Annex V, or have been protected against attacks by vectors in a vector 
+protected establishment in accordance with the criteria set out in Annex II for a period of at least 28 days 
+and were subjected during that period to a serological test according to the OIE Terrestrial Manual to detect 
+antibodies to the bluetongue virus group, with negative results, carried out on samples collected from that 
+animal at least 28 days following the date of the commencement of the period of protection against attacks 
+by vectors or the seasonally vector-free period.’; 
+(iii) in point 4, the first subparagraph is replaced by the following: 
+‘The animals have been kept, until dispatch, in a bluetongue seasonally free zone during the seasonally vector- 
+free period, defined in accordance with Annex V, or have been protected against attacks by vectors in a vector 
+protected establishment in accordance with the criteria set out in Annex II for a period of at least 14 days 
+and were subjected during that period to an agent identification test according to the OIE Terrestrial Manual, 
+with negative results, carried out on samples collected from that animal at least 14 days following the date of 
+commencement of the period of protection against attacks by vectors or the seasonally vector-free period.’;
+EN 
+L 141/12 
+Official Journal of the European Union 
+31.5.2012
+(iv) point 5 is replaced by the following: 
+‘5. The animals have been vaccinated against the serotype(s) present or likely to be present in an epidemi­
+ologically relevant geographical area of origin, the animals are still within the immunity period of time 
+guaranteed in the specifications of the vaccine and the animals meet at least one of the following 
+requirements: 
+(a) they have been vaccinated more than 60 days before the date of movement; 
+(b) they have been vaccinated with an inactivated vaccine before at least the number of days necessary for 
+the onset of the immunity protection set in the specifications of the vaccine and were subjected to an 
+agent identification test according to the OIE Terrestrial Manual, with negative results, carried out at 
+least 14 days after the onset of the immunity protection set in the specifications of the vaccine; 
+(c) they were previously vaccinated and they have been revaccinated with an inactivated vaccine within 
+the immunity period of time guaranteed in the specifications of the vaccine; 
+(d) they were kept during the seasonally vector-free period, defined in accordance with Annex V, in a 
+bluetongue seasonally free zone, since birth or for a period of at least 60 days before the date of 
+vaccination and have been vaccinated with an inactivated vaccine before at least the number of days 
+necessary for the onset of the immunity protection set in the specifications of the vaccine. 
+Where animals referred to in this point are intended for intra-Union trade, the following additional 
+wording shall be added to the corresponding health certificates laid down in Directives 64/432/EEC, 
+91/68/EEC and 92/65/EEC: 
+“Animal(s) vaccinated against bluetongue serotype/s … (insert serotype/s) with … (insert name of the vaccine) 
+with a inactivated/modified live vaccine (indicate, as appropriate) in conformity with Annex III.A(5) to 
+Regulation (EC) No 1266/2007.” ’; 
+(v) in point 6, the introductory phrase is replaced by the following: 
+‘6. The animals were always kept in an epidemiologically relevant geographical area of origin where not 
+more than one serotype was or is present or likely to be present and:’; 
+(vi) point 7 is amended as follows: 
+— the introductory phrase is replaced by the following: 
+‘7. The animals were subjected with positive results to two adequate serological tests according to the 
+OIE Terrestrial Manual able to detect specific antibodies against all the bluetongue virus serotypes 
+present or likely to be present, in the epidemiologically relevant geographical area of origin, and:’; 
+— the third subparagraph is replaced by the following: 
+‘For pregnant animals being moved from a restricted zone for bluetongue virus serotype 8, at least one of 
+the conditions set out in points 5, 6 and 7 must have been complied with before insemination or mating, 
+or the condition set out in point 3 must be complied with. In case a serological test, as set out in point 3, 
+is carried out, that test shall be carried out not earlier than seven days before the date of movement.’; 
+(b) in Section B, point (b) is replaced by the following: 
+‘(b) they have been protected against attacks by vectors in a vector protected establishment in accordance with 
+the criteria set out in Annex II for a period of at least 60 days before commencement of, and during, 
+collection of the semen;’; 
+(c) in Section C, in point 2, (b) is replaced by the following: 
+‘(b) they have been protected against attacks by vectors in a vector protected establishment in accordance with 
+the criteria set out in Annex II for at least 60 days before commencement of, and during, collection of the 
+embryos/ova;’; 
+(4) in Annex V, the title is replaced by the following: 
+‘ANNEX V 
+Criteria for the definition of the seasonally vector-free period (referred to in Article 9(2))’
+EN 
+31.5.2012 
+Official Journal of the European Union 
+L 141/13

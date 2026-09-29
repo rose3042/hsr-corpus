@@ -1,0 +1,948 @@
+REGULATIONS 
+COMMISSION IMPLEMENTING REGULATION (EU) 2017/731 
+of 25 April 2017 
+amending model veterinary certificates BOV-X, BOV-Y, BOV and OVI set out in Annexes I and II 
+to Regulation (EU) No 206/2010, the model certificates GEL, COL, RCG and TCG set out in 
+Annex II to Implementing Regulation (EU) 2016/759 and the model certificate for composite 
+products set out in Annex I to Regulation (EU) No 28/2012 in relation to the rules for the 
+prevention, control and eradication of certain transmissible spongiform encephalopathies 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Council Directive 2002/99/EC of 16 December 2002 laying down the animal health rules governing 
+the production, processing, distribution and introduction of products of animal origin for human consumption (1), and 
+in particular Article 9(2)(b) and 9(4)(b) thereof, 
+Having regard to Council Directive 2004/68/EC of 26 April 2004 laying down animal health rules for the importation 
+into and transit through the Community of certain live ungulate animals, amending Directives 90/426/EEC and 
+92/65/EEC and repealing Directive 72/462/EEC (2), and in particular Article 13(1)(e) thereof, 
+Having regard to Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying 
+down specific rules for the organisation of official controls on products of animal origin intended for human 
+consumption (3), and in particular the second paragraph of Article 16 thereof, 
+Whereas: 
+(1)  
+Commission Regulation (EU) No 206/2010 (4) lays down, inter alia, the veterinary certification requirements for 
+the introduction into the Union of certain consignments of live animals including domestic bovine animals and 
+consignments of fresh meat intended for human consumption, including fresh meat of domestic bovine, ovine 
+and caprine animals. 
+(2)  
+Part 2 of Annex I to Regulation (EU) No 206/2010 sets out a model of veterinary certificate for domestic bovine 
+animals (including Bubalus and Bison species and their cross-breeds) intended for breeding and/or production after 
+importation (BOV-X) and a model of veterinary certificate for domestic bovine animals (including Bubalus and 
+Bison species and their cross-breeds) intended for immediate slaughter after importation (BOV-Y). Part 2 of 
+Annex II to that Regulation sets out a model of veterinary certificate for fresh meat, including minced meat, of 
+domestic bovine animals (including Bubalus and Bison species and their cross-breeds) (BOV) and a model of 
+veterinary certificate for fresh meat, including minced meat, of domestic ovine animals (Ovis aries) and domestic 
+caprine animals (Capra hircus) (OVI). Those models of veterinary certificates include guarantees for bovine 
+spongiform encephalopathy (BSE). 
+(3)  
+Commission Implementing Regulation (EU) 2016/759 (5) lays down, inter alia, the veterinary certification 
+requirements for the introduction into the Union of certain products of animal origin intended for human 
+consumption. 
+26.4.2017 
+L 108/7 
+Official Journal of the European Union 
+EN     
+(1) OJ L 18, 23.1.2003, p. 11. 
+(2) OJ L 139, 30.4.2004, p. 320. 
+(3) OJ L 139, 30.4.2004, p. 206. 
+(4) Commission Regulation (EU) No 206/2010 of 12 March 2010 laying down lists of third countries, territories or parts thereof authorised 
+for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements (OJ L 73, 
+20.3.2010, p. 1). 
+(5) Commission Implementing Regulation (EU) 2016/759 of 28 April 2016 drawing up lists of third countries, parts of third countries and 
+territories from which Member States are to authorise the introduction into the Union of certain products of animal origin intended for 
+human consumption, laying down certificate requirements, amending Regulation (EC) No 2074/2005 and repealing Decision 
+2003/812/EC (OJ L 126, 14.5.2016, p. 13). 
+(4)  
+Annex II to Implementing Regulation (EU) 2016/759 sets out a model certificate for imports of gelatine intended 
+for human consumption (GEL) in Part III thereof, a model certificate for imports of collagen intended for human 
+consumption (COL) in Part IV thereof, a model for imports of the raw materials for the production of gelatine 
+and collagen intended for human consumption (RCG) in Part V thereof, and a model certificate for imports of 
+the treated raw materials for the production of gelatine and collagen intended for human consumption (TCG) in 
+Part VI. Those models of veterinary certificates include guarantees for BSE for products of bovine, ovine and 
+caprine origin. 
+(5)  
+Commission Regulation (EU) No 28/2012 (1) lays down, inter alia, the health certification requirements for 
+imports into or transit through the Union of consignments of certain composite products intended for human 
+consumption. 
+(6)  
+Annex I to Regulation (EU) No 28/2012 sets out the model of health certificate for imports into the European 
+Union of composite products intended for human consumption. That model of health certificate includes 
+guarantees for BSE for products of bovine, ovine and caprine origin. 
+(7)  
+Regulation (EC) No 999/2001 of the European Parliament and of the Council (2) lays down rules for the 
+prevention, control and eradication of transmissible spongiform encephalopathies (TSEs) in bovine, ovine and 
+caprine animals. Chapter B of Annex IX to Regulation (EC) No 999/2001 lays down the conditions for import 
+into the Union of bovine animals as regards BSE and Chapter C of that Annex lays down the conditions for 
+import into the Union of products of animal origin for human consumption from bovine, ovine and caprine 
+animals as regards BSE. 
+(8)  
+Regulation (EC) No 999/2001 was amended by Commission Regulation (EU) 2016/1396 (3). Those amendments 
+provide, inter alia, for clarification of the rules laid down in Chapter B and Chapter C of Annex IX to Regulation 
+(EC) No 999/2001. They also provide for the amendment of the requirement to indicate a blue stripe on the 
+label of the carcasses or wholesale cuts of the carcasses of bovine animals when removal of the vertebral column 
+is not required as set out in Chapter C of Annex IX to that Regulation. This amendment requires that a red stripe 
+should be indicated instead on the label when such removal is required for products of bovine animal origin 
+imported into the Union. 
+(9)  
+In particular Regulation (EC) No 999/2001, as amended by Regulation (EU) 2016/1396, permits the imports of 
+products of animal origin for human consumption of bovine, ovine and caprine animal origin from third 
+countries with a negligible BSE risk as laid down in Section B of Chapter C of Annex IX, also where those 
+products are derived from raw material coming from countries with a controlled or an undetermined BSE risk, 
+provided that specified risk material has been removed from such raw material. 
+(10)  
+The model veterinary certificates BOV-X and BOV-Y set out in Part 2 of Annex I and BOV and OVI set out in 
+Part 2 of Annex II to Regulation (EU) No 206/2010, the model veterinary certificates GEL, COL, RCG and TCG 
+set out in Annex II to Implementing Regulation (EU) 2016/759 and the model health certificate for import into 
+the Union of composite products set out in Annex I to Regulation (EU) No 28/2012 should therefore be 
+amended in order to reflect the requirements relating to imports of bovine animals and of fresh meat of bovine, 
+ovine and caprine animals and of products of animal origin for human consumption of bovine, ovine and 
+caprine animal origin, laid down in Regulation (EC) No 999/2001, as amended by Regulation (EU) 2016/1396. 
+(11)  
+Regulation (EU) No 206/2010, Implementing Regulation (EU) 2016/759 and Regulation (EU) No 28/2012 
+should therefore be amended accordingly. 
+(12)  
+Regulation (EU) 2016/1396 provides that the amendments that it made to Annex IX to Regulation (EC) 
+No 999/2001 are to apply from 1 July 2017. 
+26.4.2017 
+L 108/8 
+Official Journal of the European Union 
+EN     
+(1) Commission Regulation (EU) No 28/2012 of 11 January 2012 laying down requirements for the certification for imports into and 
+transit through the Union of certain composite products and amending Decision 2007/275/EC and Regulation (EC) No 1162/2009 
+(OJ L 12, 14.1.2012, p. 1). 
+(2) Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, 
+control and eradication of certain transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1). 
+(3) Commission Regulation (EU) 2016/1396 of 18 August 2016 amending certain Annexes to Regulation (EC) No 999/2001 of the 
+European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible 
+spongiform encephalopathies (OJ L 225, 19.8.2016, p. 76). 
+(13)  
+In order to avoid any disruption of imports into the Union of consignments of live bovine, ovine and caprine 
+animals, of fresh meat of domestic bovine, ovine and caprine animals, of gelatine, collagen, raw materials for 
+production of gelatine and collagen and treated raw materials for the production of gelatine and collagen 
+intended for human consumption and of certain composite products intended for human consumption, the use 
+of certificates issued in accordance with Regulation (EU) No 206/2010, Implementing Regulation (EU) 2016/759 
+and Regulation (EU) No 28/2012 as applicable prior to the amendments being introduced by this Regulation 
+should continue to be authorised during a transitional period subject to certain conditions. 
+(14)  
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Annexes I and II to Regulation (EU) No 206/2010 are amended in accordance with Annex I to this Regulation. 
+Article 2 
+Annex II to Implementing Regulation (EU) 2016/759 is amended in accordance with Annex II to this Regulation. 
+Article 3 
+Annex I to Regulation (EU) No 28/2012 is amended in accordance with Annex III to this Regulation. 
+Article 4 
+1.
+For a transitional period until 31 December 2017, consignments of live bovine, ovine and caprine animals, 
+accompanied by a model certificate issued in accordance with the model set out in Part 2 of Annex I to Regulation (EU) 
+No 206/2010 and consignments of fresh meat of domestic bovine, ovine and caprine animals, accompanied by a model 
+certificate issued in accordance with the model set out in Part 2 of Annex II to Regulation (EU) No 206/2010, as 
+applicable before the amendments made by this Regulation, shall continue to be authorised for importation into the 
+Union provided that the certificate was issued no later than 30 November 2017. 
+2.
+For a transitional period until 31 December 2017, consignments of gelatine intended for human consumption, 
+collagen intended for human consumption, raw materials for production of gelatine and collagen intended for human 
+consumption and treated raw materials for the production of gelatine and collagen intended for human consumption, 
+accompanied by a model certificate issued in accordance with the model set out respectively in Parts III, IV, V and VI of 
+Annex II to Implementing Regulation (EU) 2016/759, as applicable before the amendments made by this Regulation, 
+shall continue to be authorised for importation into the Union provided that the certificate was issued no later than 
+30 November 2017. 
+3.
+For a transitional period until 31 December 2017, consignments of certain composite products intended for 
+human consumption, accompanied by a model certificate issued in accordance with the model set out in Annex I to 
+Regulation (EU) No 28/2012, as applicable before the amendments made by this Regulation, shall continue to be 
+authorised for importation into the Union provided that the certificate was issued no later than 30 November 2017. 
+Article 5 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+It shall apply from 1 July 2017. 
+26.4.2017 
+L 108/9 
+Official Journal of the European Union 
+EN     
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 25 April 2017. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+26.4.2017 
+L 108/10 
+Official Journal of the European Union 
+EN     
+ANNEX I 
+Annexes I and II to Regulation (EU) No 206/2010 are amended as follows:  
+(1) In Annex I, Part 2 is amended as follows: 
+(a)  The model veterinary certificate BOV-X is amended as follows: 
+(i)  In Part II.1, Public Health Attestation, point II.1.3 is replaced by the following: 
+‘II.1.3.  with regard to bovine spongiform encephalopathy (BSE):  
+(a) the animals are identified by a permanent identification system enabling them to be traced 
+back to the dam and herd of origin, and they have not been exposed to the following 
+animals: 
+(i)  any BSE cases; 
+(ii)  bovine animals which, during their first year of life, were reared with the BSE cases 
+during their first year of life, and which investigation has shown consumed the same 
+potentially contaminated feed during that period; or 
+(iii)  if the results of the investigation referred to in indent (ii) are inconclusive, bovine 
+animals born in the same herd as, and within 12 months of the birth of, the BSE cases;  
+(1) (2) either [(b) if there have been BSE indigenous cases in the country concerned, the animals were born 
+after the date from which the ban on the feeding of ruminants with meat-and-bone meal and 
+greaves derived from ruminants, as defined in the Terrestrial Animal Health Code of the 
+World Organisation for Animal Health, was effectively enforced or after the date of birth of 
+the last BSE indigenous case if born after the date of the feed ban.]  
+(1) (3) or [(b) the animals were born after the date from which the ban on the feeding of ruminants with 
+meat-and-bone meal and greaves derived from ruminants as defined in the Terrestrial Animal 
+Health Code of the World Organisation for Animal Health, was effectively enforced or after 
+the date of birth of the last BSE indigenous case if born after the date of the feed ban.]  
+(1) (4) or [(b) the animals were born at least two years after the date from which the ban on the feeding of 
+ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the 
+Terrestrial Animal Health Code of the World Organisation for Animal Health, was effectively 
+enforced or after the date of birth of the last BSE indigenous case if born after the date of the 
+feed ban.]’ 
+(ii)  In Part II of the Notes, the footnotes (2), (3) and (4) are replaced by the following: 
+‘(2)  Only if the animals were born and continuously reared in a country or region or countries or regions 
+classified in accordance with Decision 2007/453/EC as countries or regions posing a negligible BSE risk. 
+(3)  Only if the country or region of origin is classified in accordance with Decision 2007/453/EC as 
+a country or region posing a controlled BSE risk. 
+(4)  Only if the country or region of origin has been classified in accordance with Decision 2007/453/EC as 
+a country or region posing an undetermined BSE risk.’ 
+(b)  The model veterinary certificate BOV-Y is amended as follows: 
+(i)  In Part II.1, Public Health Attestation, point II.1.3 is replaced by the following: 
+‘II.1.3.  with regard to bovine spongiform encephalopathy (BSE):  
+(a) the animals are identified by a permanent identification system enabling them to be traced 
+back to the dam and herd of origin, and have not been exposed to the following animals: 
+(i)  any BSE cases; 
+26.4.2017 
+L 108/11 
+Official Journal of the European Union 
+EN     
+(ii)  bovine animals which, during their first year of life, were reared with the BSE cases 
+during their first year of life, and which investigation has shown consumed the same 
+potentially contaminated feed during that period; or 
+(iii)  if the results of the investigation referred to in indent (ii) are inconclusive, bovine 
+animals born in the same herd as, and within 12 months of the birth of, the BSE cases;  
+(1) (2) either [(b) if there have been BSE indigenous cases in the country concerned, the animals were born 
+after the date from which the ban on the feeding of ruminants with meat-and-bone meal and 
+greaves derived from ruminants, as defined in the Terrestrial Animal Health Code of the 
+World Organisation for Animal Health, was effectively enforced or after the date of birth of 
+the last BSE indigenous case if born after the date of the feed ban.]  
+(1) (3) or [(b) the animals were born after the date from which the ban on the feeding of ruminants with 
+meat-and-bone meal and greaves derived from ruminants as defined in the Terrestrial Animal 
+Health Code of the World Organisation for Animal Health, was effectively enforced or after 
+the date of birth of the last BSE indigenous case if born after the date of the feed ban.]  
+(1) (4) or [(b) the animals were born at least two years after the date from which the ban on the feeding of 
+ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the 
+Terrestrial Animal Health Code of the World Organisation for Animal Health, was effectively 
+enforced or after the date of birth of the last BSE indigenous case if born after the date of the 
+feed ban.]’ 
+(ii)  In Part II of the Notes, footnotes (2), (3) and (4) are replaced by the following: 
+‘(2)  Only if the animals were born and continuously reared in a country or region or countries or regions 
+classified in accordance with Decision 2007/453/EC as countries or regions posing a negligible BSE risk. 
+(3)  Only if the country or region of origin is classified in accordance with Decision 2007/453/EC as 
+a country or region posing a controlled BSE risk. 
+(4)  Only if the country or region of origin has been classified in accordance with Decision 2007/453/EC as 
+a country or region posing an undetermined BSE risk.’  
+(2) Annex II, Part 2 is amended as follows: 
+(a)  The model veterinary certificate BOV is amended as follows: 
+(i)  In Part II.1, Public Health Attestation, point II.1.9 is replaced by the following:  
+‘(1) either  [II.1.9. with regard to bovine spongiform encephalopathy (BSE):  
+(a) the country or region of dispatch is classified in accordance with Decision 
+2007/453/EC as a country or region posing a negligible BSE risk;  
+(1) either [(b) the animals, from which the meat or minced meat was derived: 
+(i)  were born, continuously reared and slaughtered in a country or region 
+classified in accordance with Decision 2007/453/EC as a country or region 
+posing a negligible BSE risk; 
+(ii)  were slaughtered after stunning by means of gas injected into the cranial 
+cavity or killed by the same method or slaughtered by laceration after 
+stunning of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity;]  
+(1) or [(b) the animals, from which the meat or minced meat was derived, were not 
+slaughtered after stunning by means of gas injected into the cranial cavity or 
+killed by the same method or slaughtered by laceration after stunning of central 
+nervous tissue by means of an elongated rod-shaped instrument introduced into 
+the cranial cavity;]  
+(1) either [(c) the meat or minced meat does not contain and is not derived from specified risk 
+material as defined in point 1 of Annex V to Regulation (EC) No 999/2001 (*);] 
+26.4.2017 
+L 108/12 
+Official Journal of the European Union 
+EN     
+(1) or [(c) (i)  the meat or minced meat is derived from animals which originate from 
+a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a controlled or an undetermined BSE risk; 
+(ii)  the carcasses, half carcasses or half carcasses cut into no more than three 
+wholesale cuts, and quarters contain no specified risk material other than the 
+vertebral column, including dorsal root ganglia; 
+(iii)  the carcasses or wholesale cuts of carcasses of animals aged over 30 months 
+and containing vertebral column are identified by a clearly visible red stripe 
+on the label referred to in Article 13 or 15 of Regulation (EC) 
+No 1760/2000 (3);]  
+(1) either [(d) the meat or minced meat is derived from mechanically separated meat, obtained 
+from bones of bovine animals which were born, continuously reared and 
+slaughtered in a country or region classified in accordance with Decision 
+2007/453/EC as a country or region posing a negligible BSE risk and in which 
+there have been no BSE indigenous cases;]  
+(1) or [(d) the meat or minced meat is not derived from mechanically separated meat, 
+obtained from bones of bovine animals;]  
+(1) [(e) (i)  the animals, from which the meat or minced meat is derived, originate from 
+a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing an undetermined BSE risk; 
+(ii)  the animals, from which the meat or minced meat is derived, have not been 
+fed with meat-and-bone meal or greaves, as defined in the Terrestrial Animal 
+Health Code of the World Organisation for Animal Health; 
+(iii)  the meat or minced meat was produced and handled in a manner which 
+ensures that it did not contain and was not contaminated with nervous and 
+lymphatic tissues exposed during the deboning process.]]  
+(1) or  [II.1.9. with regard to bovine spongiform encephalopathy (BSE):  
+(a) the country or region of dispatch is classified in accordance with Decision 
+2007/453/EC as a country or region posing a controlled BSE risk;  
+(b) the animals from which the bovine meat or minced meat is derived were not 
+been killed after stunning by laceration of central nervous tissue by means of an 
+elongated rod-shaped instrument introduced into the cranial cavity, or by means 
+of gas injected into the cranial cavity;  
+(1) either [(c) the meat or minced meat does not contain and is not derived from specified risk 
+material as defined in point 1 of Annex V to Regulation (EC) No 999/2001, or 
+mechanically separated meat obtained from bones of bovine animals.]  
+(1) or [(c) the carcasses, half carcasses or half carcasses cut into no more than three 
+wholesale cuts, and quarters contain no specified risk material other than the 
+vertebral column, including dorsal root ganglia. The carcasses or wholesale cuts of 
+carcasses of animals aged over 30 months and containing vertebral column are 
+identified by a clearly visible red stripe on the label referred to in Article 13 or 15 
+of Regulation (EC) No 1760/2000 (3).]]  
+(1) or  [II.1.9. with regard to bovine spongiform encephalopathy (BSE):  
+(a) the country or region of dispatch has not been classified in accordance with 
+Decision 2007/453/EC or is classified as a country or region with an 
+undetermined BSE risk; 
+26.4.2017 
+L 108/13 
+Official Journal of the European Union 
+EN     
+(b) the animals from which the meat or minced meat is derived were not fed meat- 
+and-bone meal or greaves derived from ruminants, as defined in the Terrestrial 
+Animal Health Code of the World Organisation for Animal Health;  
+(c) the animals from which the meat or minced meat is derived were not killed, after 
+stunning, by laceration of central nervous tissue by means of an elongated rod- 
+shaped instrument introduced into the cranial cavity, or by means of gas injected 
+into the cranial cavity;  
+(1) either [(d) the meat or minced meat does not contain and is not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V to Regulation (EC) 
+No 999/2001; 
+(ii)  nervous and lymphatic tissues exposed during the deboning process; 
+(iii)  mechanically separated meat obtained from bones of bovine animals.]  
+(1) or [(d) the carcasses, half carcasses or half carcasses cut into no more than three 
+wholesale cuts, and quarters contain no specified risk material other than the 
+vertebral column, including dorsal root ganglia. The carcasses or wholesale cuts 
+of carcasses of animals aged over 30 months and containing vertebral column are 
+identified by a clearly visible red stripe on the label referred to in Article 13 or 15 
+of Regulation (EC) No 1760/2000 (3).]]’ 
+(ii)  In Part II of the Notes, footnote (3) is replaced by the following: 
+‘(3)  The number of bovine carcasses or wholesale cuts of carcasses, from which removal of the vertebral 
+column is required shall be added to the Common Veterinary Entry Document (CVED) referred to in 
+Article 2(1) of Regulation (EC) No 136/2004.’ 
+(iii)  In Part II of the Notes, the following footnote (*) is added: 
+‘(*)  The removal of specified risk material is not required if the meat or minced meat derives from animals 
+born, continuously reared and slaughtered in a third country or region of a third country classified in 
+accordance with Decision 2007/453/EC as posing a negligible BSE risk.’ 
+(b)  The model veterinary certificate OVI is amended as follows: 
+(i)  In Part II.1, Public Health Attestation, point II.1.9 is replaced by the following:  
+‘(1) either  [II.1.9. with regard to bovine spongiform encephalopathy (BSE):  
+(a) the country or region of dispatch is classified in accordance with Decision 
+2007/453/EC as a country or region posing a negligible BSE risk;  
+(1) either [(b) the animals, from which the meat or minced meat is derived, were not slaughtered 
+after stunning, by means of gas injected into the cranial cavity or killed by the 
+same method or slaughtered by laceration after stunning of central nervous tissue 
+by means of an elongated rod-shaped instrument introduced into the cranial 
+cavity;]  
+(1) or [(b) the animals, from which the meat or minced meat is derived: 
+(i)  were born, continuously reared and slaughtered in a country or region 
+classified in accordance with Decision 2007/453/EC as a country or region 
+posing a negligible BSE risk; 
+(ii)  were slaughtered after stunning by means of gas injected into the cranial 
+cavity or killed by the same method or slaughtered by laceration after 
+stunning of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity;] 
+26.4.2017 
+L 108/14 
+Official Journal of the European Union 
+EN     
+(c) the meat or minced meat does not contain and is not derived from specified risk 
+material as defined in point 1 of Annex V to Regulation (EC) No 999/2001 (*);  
+(1) either [(d) the meat or minced meat is not derived from mechanically separated meat, 
+obtained from bones of ovine or caprine animals;]  
+(1) or [(d) the meat or minced meat is derived from mechanically separated meat obtained 
+from bones of ovine or caprine animals which were born, continuously reared and 
+slaughtered in a country or region classified in accordance with Decision 
+2007/453/EC as a country or region posing a negligible BSE risk and in which 
+there have been no BSE indigenous cases;]  
+(1) [(e) (i)  the animals, from which the meat or minced meat is derived, originate from 
+a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing an undetermined BSE risk; 
+(ii)  the animals, from which the meat or minced meat is derived, have not been 
+fed with meat-and-bone meal or greaves, as defined in the Terrestrial Animal 
+Health Code of the World Organisation for Animal Health; 
+(iii)  the meat or minced meat was produced and handled in a manner which 
+ensures that it did not contain and was not contaminated with nervous and 
+lymphatic tissues exposed during the deboning process.]]  
+(1) or  [II.1.9. with regard to bovine spongiform encephalopathy (BSE): 
+(a)  the country or region is classified in accordance with Decision 2007/453/EC 
+as a country or region posing a controlled BSE risk; 
+(b)  the animals from which the meat or minced meat is derived were not killed 
+after stunning by laceration of central nervous tissue by means of an 
+elongated rod-shaped instrument introduced into the cranial cavity, or by 
+means of gas injected into the cranial cavity; 
+(c)  the meat or minced meat does not contain and is not derived from specified 
+risk material as defined in point 1 of Annex V to Regulation (EC) 
+No 999/2001, or mechanically separated meat obtained from bones of ovine 
+or caprine animals.]  
+(1) or  [II.1.9. with regard to bovine spongiform encephalopathy (BSE): 
+(a)  the country or region has not been classified in accordance with Decision 
+2007/453/EC or is classified as a country or region with an undetermined 
+BSE risk; 
+(b)  the animals from which the meat or minced meat is derived were not fed 
+meat-and-bone meal or greaves derived from ruminants, as defined in the 
+Terrestrial Animal Health Code of the World Organisation for Animal Health; 
+(c)  the animals from which the meat or minced meat is derived were not killed 
+after stunning by laceration of central nervous tissue by means of an 
+elongated rod-shaped instrument introduced into the cranial cavity, or by 
+means of gas injected into the cranial cavity; 
+(d)  the meat or minced meat does not contain and is not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V to Regulation 
+(EC) No 999/2001; 
+(ii)  nervous and lymphatic tissues exposed during the deboning process; 
+(iii)  mechanically separated meat obtained from bones of ovine or caprine 
+animals.]’ 
+26.4.2017 
+L 108/15 
+Official Journal of the European Union 
+EN     
+(ii)  In Part II of the Notes, the following footnote (*) is added: 
+‘(*)  The removal of specified risk material is not required if the meat or minced meat derives from animals 
+born, continuously reared and slaughtered in a third country or region of a third country classified in 
+accordance with Decision 2007/453/EC as posing a negligible BSE risk.’  
+26.4.2017 
+L 108/16 
+Official Journal of the European Union 
+EN     
+ANNEX II 
+Annex II to Implementing Regulation (EU) 2016/759 is amended as follows:  
+(1) In Part III, the model certificate for imports of gelatine intended for human consumption, Model GEL, is amended as 
+follows: 
+(a)  Part II.1, Public Health Attestation, is replaced by the following: 
+‘I, the undersigned, declare that I am aware of the relevant provisions of Regulation (EC) No 178/2002 of the 
+European Parliament and of the Council of 28 January 2002 laying down the general principles and 
+requirements of food law, establishing the European Food Safety Authority and laying down procedures in 
+matters of food safety (OJ L 31, 1.2.2002, p. 1), Regulation (EC) No 852/2004 of the European Parliament and 
+of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1) and Regulation (EC) 
+No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene 
+rules for food of animal origin (OJ L 139, 30.4.2004, p. 55) and certify that the gelatine described above was 
+produced in accordance with those requirements, in particular that: 
+—  it comes from (an) establishment(s) implementing a programme based on the Hazard analysis and critical 
+control points (HACCP) principles in accordance with Article 5 of Regulation (EC) No 852/2004, 
+—  it has been produced from raw materials that met the requirements of Chapters I and II of Section XIV of 
+Annex III to Regulation (EC) No 853/2004, 
+—  it has been manufactured in compliance with the conditions set out in Chapter III of Section XIV of Annex 
+III to Regulation (EC) No 853/2004, 
+—  it satisfies the criteria of Chapter IV of Section XIV of Annex III to Regulation (EC) No 853/2004 and of 
+Commission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for foodstuffs 
+(OJ L 338, 22.12.2005, p. 1); 
+and, if of bovine, ovine and caprine animal origin, 
+it has been derived from animals which have passed ante mortem and post mortem inspections, 
+(1) and, except for gelatine derived from hides and skins, 
+(1) either  —  [it comes from a country or a region classified in accordance with Commission Decision 
+2007/453/EC of 29 June 2007 establishing the BSE status of Member States or third countries or 
+regions thereof according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region 
+posing a negligible BSE risk, 
+—  the gelatine does not contain and is not derived from specified risk material as defined in point 1 
+of Annex V to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 
+22 May 2001 laying down rules for the prevention, control and eradication of certain 
+transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1) (2), 
+—  the gelatine does not contain and is not derived from mechanically separated meat obtained from 
+bones of bovine, ovine or caprine animals, except for gelatine derived from animals that were 
+born, continuously reared and slaughtered in a country or region classified in accordance with 
+Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there have 
+been no BSE indigenous cases, 
+—  the animals, from which the gelatine is derived were not slaughtered after stunning by means of 
+gas injected into the cranial cavity or killed by the same method or slaughtered by laceration after 
+stunning of central nervous tissue by means of an elongated rod-shaped instrument introduced 
+into the cranial cavity, except if the animals were born, continuously reared and slaughtered in 
+a country or region classified in accordance with Decision 2007/453/EC as a country or region 
+posing a negligible BSE risk, 
+26.4.2017 
+L 108/17 
+Official Journal of the European Union 
+EN     
+—  (1) [the animals, from which the gelatine is derived, originate from a country or region classified 
+in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE 
+risk, and the animals were not fed with meat-and-bone meal or greaves, as defined in the 
+Terrestrial Animal Health Code of the World Organisation for Animal Health], 
+—  (1) [the animals, from which the gelatine is derived, originate from a country or region classified 
+in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE 
+risk, and the gelatine was produced and handled in a manner which ensures that it did not 
+contain and were not contaminated with nervous and lymphatic tissues exposed during the 
+deboning process.]] 
+or  
+—  [it comes from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a controlled BSE risk, 
+—  the animals, from which the gelatine is derived, were not killed after stunning by laceration of 
+central nervous tissue by means of an elongated rod-shaped instrument introduced into the 
+cranial cavity, or by means of gas injected into the cranial cavity, 
+—  the gelatine does not contain and is not derived from specified risk material as defined in point 1 
+of Annex V to Regulation (EC) No 999/2001, or mechanically separated meat obtained from 
+bones of bovine, ovine or caprine animals.] 
+or  
+—  [it comes from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a negligible BSE risk, 
+—  the gelatine is derived both from animals born, continuously reared and slaughtered in a country 
+or region with negligible BSE risk in accordance with Decision 2007/453/EC, and from animals 
+born in a country or region classified in accordance with Decision 2007/453/EC as a country or 
+region posing a controlled BSE risk, and which were not killed after stunning by laceration of 
+central nervous tissue by means of an elongated rod-shaped instrument introduced into the 
+cranial cavity, or by means of gas injected into the cranial cavity, 
+—  the gelatine does not contain and is not derived from specified risk material as defined in point 1 
+of Annex V to Regulation (EC) No 999/2001, or mechanically separated meat obtained from 
+bones of bovine, ovine or caprine animals.] 
+or  
+—  [it comes from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region with an 
+undetermined BSE risk, 
+—  the animals, from which the gelatine is derived, were not fed meat-and-bone meal or greaves 
+derived from ruminants, as defined in the Terrestrial Animal health Code of the World 
+Organisation for Animal Health, 
+—  the animals, from which the gelatine is derived, were not killed after stunning by laceration of 
+central nervous tissue by means of an elongated rod-shaped instrument introduced into the 
+cranial cavity, or by means of gas injected into the cranial cavity, 
+—  the gelatine is not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001; 
+(ii)  nervous and lymphatic tissues exposed during the deboning process; 
+(iii)  mechanically separated meat obtained from bones of bovine, ovine or caprine animals.]’ 
+26.4.2017 
+L 108/18 
+Official Journal of the European Union 
+EN     
+(b)  In Part II of the Notes, the following footnote (2) is added: 
+‘(2)  The removal of specified risk material is not required if the gelatine derives from animals born, continuously 
+reared and slaughtered in a third country or region of a third country classified in accordance with Decision 
+2007/453/EC as posing a negligible BSE risk.’  
+(2) In Part IV, the model certificate for imports of collagen for human consumption, Model COL, is amended as follows: 
+(a)  Part II.1, Public Health Attestation, is replaced by the following: 
+‘I, the undersigned, declare that I am aware of the relevant provisions of Regulation (EC) No 178/2002 of the 
+European Parliament and of the Council of 28 January 2002 laying down the general principles and 
+requirements of food law, establishing the European Food Safety Authority and laying down procedures in 
+matters of food safety (OJ L 31, 1.2.2002, p. 1), Regulation (EC) No 852/2004 of the European Parliament and 
+of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1) and Regulation (EC) 
+No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene 
+rules for food of animal origin (OJ L 139, 30.4.2004, p. 55) and certify that the collagen described above was 
+produced in accordance with those requirements, in particular that: 
+—  it comes from (an) establishment(s) implementing a programme based on the Hazard analysis and critical 
+control points (HACCP) principles in accordance with Article 5 of Regulation (EC) No 852/2004, 
+—  it has been produced from raw materials that met the requirements of Chapters I and II of Section XV of 
+Annex III to Regulation (EC) No 853/2004, 
+—  it has been manufactured in compliance with the conditions set out in Chapter III of Section XV of Annex III 
+to Regulation (EC) No 853/2004, 
+—  it satisfies the criteria of Chapter IV of Section XV of Annex III to Regulation (EC) No 853/2004 and of 
+Commission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for foodstuffs 
+(OJ L 338, 22.12.2005, p. 1); 
+(1) and, if of bovine, ovine and caprine animal origin, 
+it has been derived from animals which have passed ante mortem and post mortem inspections, 
+(1) and, except for collagen derived from hides and skins, 
+(1) either  —  [it comes from a country or a region classified in accordance with Commission Decision 
+2007/453/EC of 29 June 2007 establishing the BSE status of Member States or third countries or 
+regions thereof according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region 
+posing a negligible BSE risk, 
+—  the collagen does not contain and is not derived from specified risk material as defined in point 1 
+of Annex V to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 
+22 May 2001 laying down rules for the prevention, control and eradication of certain 
+transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1) (2), 
+—  the collagen does not contain and is not derived from mechanically separated meat obtained from 
+bones of bovine, ovine or caprine animals, except for collagen derived from animals that were 
+born, continuously reared and slaughtered in a country or region classified in accordance with 
+Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there have 
+been no BSE indigenous cases, 
+—  the animals from which the collagen was derived have not been slaughtered after stunning by 
+means of gas injected into the cranial cavity or killed by the same method or slaughtered by 
+laceration after stunning of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity, except if the animals were born, continuously reared 
+and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a negligible BSE risk, 
+26.4.2017 
+L 108/19 
+Official Journal of the European Union 
+EN     
+—  (1) [the animals, from which the collagen is derived, originate from a country or region classified 
+in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE 
+risk, and the animals were not fed with meat-and-bone meal or greaves, as defined in the OIE 
+Terrestrial Animal Health Code], 
+—  (1) [the animals, from which the collagen is derived, originate from a country or region classified 
+in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE 
+risk, and the collagen was produced and handled in a manner which ensures that it did not 
+contain and were not contaminated with nervous and lymphatic tissues exposed during the 
+deboning process.]] 
+(1) or  
+—  [it comes from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a controlled BSE risk, 
+—  the animals, from which the collagen is derived, were not killed, after stunning, by laceration of 
+central nervous tissue by means of an elongated rod-shaped instrument introduced into the 
+cranial cavity, or by means of gas injected into the cranial cavity, 
+—  the collagen does not contain and is not derived from specified risk material as defined in point 1 
+of Annex V to Regulation (EC) No 999/2001, or mechanically separated meat obtained from 
+bones of bovine, ovine or caprine animals.] 
+(1) or  
+—  [it comes from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region with an 
+undetermined BSE risk, 
+—  the animals, from which the collagen is derived, were not fed meat-and-bone meal or greaves 
+derived from ruminants, as defined in the Terrestrial Animal health Code of the World 
+Organisation for Animal Health, 
+—  the animals, from which the collagen is derived, were not killed after stunning by laceration of 
+central nervous tissue by means of an elongated rod-shaped instrument introduced into the 
+cranial cavity, or by means of gas injected into the cranial cavity, 
+—  the collagen is not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001, 
+(ii)  nervous and lymphatic tissues exposed during the deboning process, 
+(iii)  mechanically separated meat obtained from bones of bovine, ovine or caprine animals.]’ 
+(b)  In Part II of the Notes, the following footnote (2) is added: 
+‘(2)  The removal of specified risk material is not required if the collagen derives from animals born, 
+continuously reared and slaughtered in a third country or region of a third country classified in accordance 
+with Decision 2007/453/EC as posing a negligible BSE risk.’  
+(3) In Part V, the model certificate for imports of raw material for the production of gelatine/collagen intended for 
+human consumption, Model RCG, is amended as follows: 
+(a)  Part II.1, Public Health Attestation, is replaced by the following: 
+‘I, the undersigned, declare that I am aware of the relevant provisions of Regulation (EC) No 178/2002 of the 
+European Parliament and of the Council of 28 January 2002 laying down the general principles and 
+requirements of food law, establishing the European Food Safety Authority and laying down procedures in 
+matters of food safety (OJ L 31, 1.2.2002, p. 1), Regulation (EC) No 852/2004 of the European Parliament and 
+of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1), Regulation (EC) 
+No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene 
+26.4.2017 
+L 108/20 
+Official Journal of the European Union 
+EN     
+rules for food of animal origin (OJ L 139, 30.4.2004, p. 55) and Regulation (EC) No 854/2004 of the European 
+Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official 
+controls on products of animal origin intended for human consumption (OJ L 139, 30.4.2004, p. 206) and 
+certify that the raw materials described above comply with those requirements, in particular that: 
+—  (1) [bones, hides and skins of domestic and farmed ruminant animals, pigs and poultry and tendons and 
+sinews described above are derived from animals which were slaughtered in a slaughterhouse and the 
+carcasses of which were found fit for human consumption following ante and post mortem inspection,] 
+and/or 
+—  (1) [wild game hides, skins and bones described above are derived from killed animals whose carcasses have 
+been found fit for human consumption following post mortem inspection,] 
+and/or 
+—  (1) [fish skins and bones described above are derived from plants manufacturing fishery products for human 
+consumption authorised for export,] 
+(1) and, if of bovine, ovine and caprine animal origin, 
+—  they have been derived from animals which passed ante mortem and post mortem inspections, 
+(1) and, except for hides and skins of ruminants, 
+(1) either  —  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a negligible BSE risk, 
+—  they do not contain and are not derived from specified risk material as defined in point 1 of 
+Annex V to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 
+22 May 2001 laying down rules for the prevention, control and eradication of certain 
+transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1) (6), 
+—  they do not contain and are not derived from mechanically separated meat obtained from bones 
+of bovine, ovine or caprine animals, except for raw materials derived from animals that were 
+born, continuously reared and slaughtered in a country or region classified in accordance with 
+Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there have 
+been no BSE indigenous cases, 
+—  the animals, from which the raw materials are derived, were not slaughtered after stunning by 
+means of gas injected into the cranial cavity or killed by the same method or slaughtered by 
+laceration after stunning of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity, except if the animals were born, continuously reared 
+and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a negligible BSE risk, 
+—  (1) [the animals, from which the raw materials are derived, originate from a country or region 
+classified in accordance with Decision 2007/453/EC as a country or region posing an 
+undetermined BSE risk, and the animals were not fed with meat-and-bone meal or greaves, as 
+defined in the Terrestrial Animal Health Code of the World Organisation for Animal Health], 
+—  (1) [the animals, from which the raw materials are derived, originate from a country or region 
+classified in accordance with Decision 2007/453/EC as a country or region posing an 
+undetermined BSE risk, and the raw materials were produced and handled in a manner which 
+ensures that they did not contain and were not contaminated with nervous and lymphatic tissues 
+exposed during the deboning process.]] 
+26.4.2017 
+L 108/21 
+Official Journal of the European Union 
+EN     
+(1) or  
+—  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a controlled BSE risk, 
+—  the animals, from which the raw materials of bovine, ovine and caprine animal origin intended for 
+export are derived, were not killed, after stunning, by laceration of central nervous tissue by 
+means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of 
+gas injected into the cranial cavity, 
+—  the raw materials of bovine, ovine and caprine animal origin do not contain and are not derived 
+from specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001, or 
+mechanically separated meat obtained from bones of bovine, ovine or caprine animals;] 
+(1) or  
+—  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region with an 
+undetermined BSE risk, 
+—  the animals, from which the raw materials are derived, were not fed meat-and-bone meal or 
+greaves derived from ruminants, as defined in the Terrestrial Animal Health Code of the World 
+Organisation for Animal Health, 
+—  the animals from which the raw materials of bovine, ovine and caprine animal origin are derived, 
+were not killed, after stunning, by laceration of central nervous tissue by means of an elongated 
+rod-shaped instrument introduced into the cranial cavity, or by means of gas injected into the 
+cranial cavity, 
+—  the raw materials are not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001; 
+(ii)  nervous and lymphatic tissues exposed during the de-boning process; 
+(iii)  mechanically separated meat obtained from bones of bovine, ovine or caprine animals.]’ 
+(b)  In Part II of the Notes, the following footnote (6) is added: 
+‘(6)  The removal of specified risk material is not required if the raw materials derive from animals born, 
+continuously reared and slaughtered in a third country or region of a third country classified in accordance 
+with Decision 2007/453/EC as posing a negligible BSE risk.’  
+(4) In Part VI, the model certificate for imports of treated raw material for the production of gelatine/collagen intended 
+for human consumption, Model TCG, is amended as follows: 
+(a)  Part II.1, Public Health Attestation, is replaced by the following: 
+‘I, the undersigned, certify that the treated raw materials described above comply with the following 
+requirements: 
+—  they have been derived from establishments under the control of and listed by the competent authority, 
+and 
+—  (1) [bones, hides and skins of domestic and farmed ruminant animals, pigs and poultry described above are 
+derived from animals which were slaughtered in a slaughterhouse and the carcasses of which were found fit 
+for human consumption following ante and post mortem inspection,] 
+(1) and/or 
+—  [wild game hides, skins and bones described above are derived from killed animals whose carcasses were 
+found fit for human consumption following post mortem inspection,] 
+26.4.2017 
+L 108/22 
+Official Journal of the European Union 
+EN     
+(1) and/or 
+—  [fish skins and bones described above are derived from plants manufacturing fishery products for human 
+consumption authorised for export,] 
+and 
+(1) either  —  [they are dried bones of species from bovine, ovine, caprine, porcine and equine animals, 
+including farmed and wild animals, poultry including ratites and feathered game for the 
+production of collagen or gelatine, they derived from healthy animals slaughtered in a slaugh­
+terhouse, and they have been treated as follows: 
+(1) either  —  [crushed to pieces of approximately 15 mm and degreased with hot water at a temperature of 
+minimum 70 °C for at least 30 minutes, minimum 80 °C for at least 15 minutes, or minimum 
+90 °C for at least 10 minutes, and then separated and subsequently washed and dried for at least 
+20 minutes in a stream of hot air with an initial temperature of minimum 350 °C, or for 
+15 minutes in a stream of hot air with an initial temperature of more than 700 °C.] 
+(1) or  
+[sun-dried for a minimum of 42 days at an average temperature of at least 20 °C.] 
+(1) or  
+[acid treatment such that the pH is maintained at less than 6 to the core for at least one hour before 
+drying.]] 
+(1) or  
+[they are hides and skins of farmed ruminant animals, pig skins, poultry skins or wild game hides and 
+skins, they derived from healthy animals and they: 
+(1) either  —  [have undergone an alkali treatment which ensures a pH > 12 to the core followed by salting for 
+at least 7 days] 
+(1) or  
+[were dried for at least 42 days at a temperature of at least 20 °C.] 
+(1) or  
+[have undergone an acid treatment that provides at least a pH of less than 5 to the core for 
+a minimum of 1 hour.] 
+(1) or  
+[have undergone an alkali treatment which ensures a pH > 12 to the core for at least 8 hours.]] 
+(1) or  
+[they are bones, hides or skins of farmed ruminant animals, pig skins, poultry skins, fish skins and 
+wild game hides and skins from third countries, parts of third countries and territories referred to in 
+Part IV of Annex I to Commission Implementing Regulation (EU) 2016/759 of 28 April 2016 
+drawing up lists of third countries, parts of third countries and territories from which Member States 
+are to authorise the introduction into the Union of certain products of animal origin intended for 
+human consumption, laying down certificate requirements, amending Regulation (EC) No 2074/2005 
+and repealing Decision 2003/812/EC (OJ L 126, 14.5.2016, p. 13) that have undergone any other 
+treatment than those listed above, and that come from establishments registered or approved in 
+accordance with to Regulation (EC) No 852/2004 or in accordance with Regulation (EC) 
+No 853/2004 
+(1) and, if of bovine, ovine and caprine animal origin, 
+—  they are derived from animals which passed ante mortem and post mortem inspections, 
+(1) and, except for hides and skins of ruminants, 
+(1) either  —  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a negligible BSE risk, 
+—  they do not contain and are not derived from specified risk material as defined in point 1 of 
+Annex V to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 
+22 May 2001 laying down rules for the prevention, control and eradication of certain 
+transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1) (4), 
+26.4.2017 
+L 108/23 
+Official Journal of the European Union 
+EN     
+—  they do not contain and are not derived from mechanically separated meat obtained from bones 
+of bovine, ovine or caprine animals, except for treated raw materials derived from animals that 
+were born, continuously reared and slaughtered in a country or region classified in accordance 
+with Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there 
+have been no BSE indigenous cases, 
+—  the animals, from which the treated raw materials are derived, were not slaughtered after stunning 
+by means of gas injected into the cranial cavity or killed by the same method or slaughtered by 
+laceration after stunning of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity, except if the animals were born, continuously reared 
+and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a negligible BSE risk, 
+—  (1) [the animals, from which the treated raw materials are derived, originate from a country or 
+region classified in accordance with Decision 2007/453/EC as a country or region posing an 
+undetermined BSE risk, and the animals have not been fed with meat-and-bone meal or greaves, 
+as defined in the Terrestrial Animal Health Code of the World Organisation for Animal Health], 
+—  (1) [the animals, from which the treated raw materials are derived, originate from a country or 
+region classified in accordance with Decision 2007/453/EC as a country or region posing an 
+undetermined BSE risk, the products were produced and handled in a manner which ensures that 
+they did not contain and were not contaminated with nervous and lymphatic tissues exposed 
+during the deboning process.]] 
+(1) or  
+—  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region posing 
+a controlled BSE risk, 
+—  the animals, from which the treated raw materials of bovine, ovine and caprine animal origin 
+destined for export are derived, were not killed, after stunning, by laceration of central nervous 
+tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by 
+means of gas injected into the cranial cavity, 
+—  the treated raw materials of bovine, ovine and caprine animal origin do not contain and are not 
+derived from specified risk material as defined in point 1 of Annex V to Regulation (EC) 
+No 999/2001, or mechanically separated meat obtained from bones of bovine, ovine or caprine 
+animals;] 
+(1) or  
+—  [they come from a country or a region classified in accordance with Decision 2007/453/EC of 
+29 June 2007 establishing the BSE status of Member States or third countries or regions thereof 
+according to their BSE risk (OJ L 172, 30.6.2007, p. 84) as a country or region with an 
+undetermined BSE risk, 
+—  the animals from which the treated raw materials were derived have not been fed meat-and-bone 
+meal or greaves derived from ruminants, as defined in the Terrestrial Animal Health Code of the 
+World Organisation for Animal Health, 
+—  the animals, from which the treated raw materials of bovine, ovine and caprine animal origin are 
+derived, were not killed after stunning by laceration of central nervous tissue by means of an 
+elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injected 
+into the cranial cavity, 
+—  the treated raw materials are not derived from: 
+(i)  specified risk material as defined in point 1 of Annex V of Regulation (EC) No 999/2001; 
+(ii)  nervous and lymphatic tissues exposed during the de-boning process; 
+(iii)  mechanically separated meat obtained from bones of bovine, ovine or caprine animals.]]’ 
+26.4.2017 
+L 108/24 
+Official Journal of the European Union 
+EN     
+(b)  In Part II of the Notes, the following footnote (4) is added: 
+‘(4)  The removal of specified risk material is not required if the treated raw materials derive from animals born, 
+continuously reared and slaughtered in a third country or region of a third country classified in accordance 
+with Decision 2007/453/EC as posing a negligible BSE risk.’  
+26.4.2017 
+L 108/25 
+Official Journal of the European Union 
+EN     
+ANNEX III 
+In Annex I to Regulation (EU) No 28/2012, the model health certificate for import into the European Union of 
+composite products intended for human consumption is amended as follows:  
+(1) In Point II.2.A of Part II, Health Information, point (E) is replaced by the following:  
+‘(E) If containing material from bovine, ovine or caprine animals, the fresh meat and/or intestines used in 
+the preparation of the meat products and/or treated intestines shall be subject to the following 
+conditions depending on the BSE risk category of the country of origin:  
+(1) [(E.1) for imports from a country or a region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a negligible BSE risk:  
+1. the animals, from which the products of bovine, ovine and caprine animal origin are derived, have 
+passed ante mortem and post mortem inspection;  
+2. the products of bovine, ovine and caprine animal origin do not contain and are not derived from 
+specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001 of the 
+European Parliament and of the Council (11);  
+3. the products of bovine, ovine and caprine animal origin do not contain and are not derived from 
+mechanically separated meat obtained from the bones of bovine, ovine or caprine animals, except 
+for products of bovine, ovine and caprine animal origin derived from animals that were born, 
+continuously reared and slaughtered in a country or region classified in accordance with Decision 
+2007/453/EC as a country or region posing a negligible BSE risk in which there have been no BSE 
+indigenous cases;  
+4. the animals, from which the products of bovine, ovine and caprine animal origin are derived, were 
+not slaughtered after stunning by means of gas injected into the cranial cavity or killed by the same 
+method or slaughtered by laceration after stunning of central nervous tissue by means of an 
+elongated rod-shaped instrument introduced into the cranial cavity, except if the animals were 
+born, continuously reared and slaughtered in a country or region classified in accordance with 
+Decision 2007/453/EC as a country or region posing a negligible BSE risk;  
+5. if the animals, from which the products of bovine, ovine and caprine animal origin are derived, 
+originate from a country or region classified in accordance with Decision 2007/453/EC as posing 
+an undetermined BSE risk, those animals were not fed with meat-and-bone meal or greaves, as 
+defined in the Terrestrial Animal Health Code of the World Organisation for Animal Health, and 
+the products were produced and handled in a manner which ensures that it did not contain and 
+was not contaminated with nervous and lymphatic tissues exposed during the deboning process.]  
+(1) or [(E2) for imports from a country or a region classified in accordance with Decision 2007/453/EC as 
+a country or region posing a controlled BSE risk;  
+1. the animals, from which the products of bovine, ovine and caprine animal origin are 
+derived, have passed ante mortem and post mortem inspection and were not killed after 
+stunning by laceration of central nervous tissue by means of an elongated rod-shaped 
+instrument introduced into the cranial cavity, or by means of gas injected into the cranial 
+cavity;  
+2. the products of bovine, ovine and caprine animal origin do not contain and are not derived 
+from specified risk material as defined in point 1 of Annex V to Regulation (EC) 
+No 999/2001, or mechanically separated meat obtained from the bones of bovine, ovine or 
+caprine animals.  
+(1) (4) 3. In the case of intestines originally sourced from a country or a region with a negligible BSE 
+risk, imports of treated intestines have been subject to the following conditions:  
+(a) the country or region was classified in accordance with Decision 2007/453/EC as 
+a country or region posing a controlled BSE risk; 
+26.4.2017 
+L 108/26 
+Official Journal of the European Union 
+EN     
+(b) the animals, from which the products of bovine, ovine and caprine animal origin 
+are derived, were born, continuously reared and slaughtered in the country or 
+region with a negligible BSE risk and have passed ante mortem and post mortem 
+inspections;  
+(1) (c) if the intestines are sourced from a country or region where there have been BSE 
+indigenous cases: 
+(i)  the animals were born after the date from which the ban on the feeding of 
+ruminants with meat-and-bone meal and greaves derived from ruminants was 
+enforced; or 
+(ii)  the products of bovine, ovine and caprine animal origin do not contain and are 
+not derived from specified risk material as defined in point 1 of Annex V to 
+Regulation (EC) No 999/2001.]  
+(1) or [(E.3) for imports from a country or a region classified in accordance with Decision 2007/453/EC as 
+a country or region with an undetermined BSE risk:  
+1. the animals, from which the products of bovine, ovine and caprine animal origin are 
+derived, were not fed meat-and-bone meal or greaves derived from ruminants, as defined in 
+the Terrestrial Animal health Code of the World Organisation for Animal Health, and have 
+passed ante mortem and post mortem inspections;  
+2. the animals, from which the products of bovine, ovine and caprine animal origin are 
+derived, were not killed, after stunning, by laceration of central nervous tissue by means of 
+an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas 
+injected into the cranial cavity;  
+3. the products of bovine, ovine and caprine animal origin are not derived from: 
+(a)  specified risk material as defined in point 1 of Annex V to Regulation (EC) 
+No 999/2001; 
+(b)  nervous and lymphatic tissues exposed during the deboning process; 
+(c)  mechanically separated meat obtained from bones of bovine, ovine or caprine animals.  
+(1) (4) 4. In the case of intestines originally sourced from a country or a region with a negligible BSE 
+risk, imports of treated intestines have been subject to the following conditions:  
+(a) the country or region was classified in accordance with Decision 2007/453/EC as 
+a country or region posing a undetermined BSE risk;  
+(b) the animals, from which the products of bovine, ovine and caprine animal origin 
+are derived, were born, continuously reared and slaughtered in the country or 
+region with a negligible BSE risk and have passed ante mortem and post mortem 
+inspections;  
+(1) (c) if the intestines are sourced from a country or region where there have been BSE 
+indigenous cases: 
+(i)  the animals were born after the date from which the ban on the feeding of 
+ruminants with meat-and-bone meal and greaves derived from ruminants was 
+enforced; or 
+(ii)  the products of bovine, ovine and caprine animal origin do not contain and are 
+not derived from specified risk material as defined in point 1 of Annex V to 
+Regulation (EC) No 999/2001.]’ 
+26.4.2017 
+L 108/27 
+Official Journal of the European Union 
+EN     
+(2) In Part II of the Notes, the following footnote (11) is added: 
+‘(11)  The removal of specified risk material is not required if the products of bovine, ovine and caprine animal 
+origin derive from animals born, continuously reared and slaughtered in a third country or region of a third 
+country classified in accordance with Decision 2007/453/EC as posing a negligible BSE risk.’  
+26.4.2017 
+L 108/28 
+Official Journal of the European Union 
+EN     

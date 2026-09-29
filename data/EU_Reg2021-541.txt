@@ -1,0 +1,1899 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/541 
+of 26 March 2021 
+amending Regulation (EU) No 1305/2014 as regard the simplification and improvement of data 
+calculation and exchange and the update of the Change Control Management process 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the 
+interoperability of the rail system within the European Union (1), and in particular Article 5(11) thereof, 
+Whereas: 
+(1) 
+Article 19 of Regulation (EU) 2016/796 of the European Parliament and of the Council (2) requires the European 
+Union Agency for Railways (the ‘Agency’) to address recommendations to the Commission on the technical 
+specifications for interoperability (‘TSIs’) and their revision, in accordance with Article 5 of Directive (EU) 
+2016/797, and to ensure that TSIs are adapted to technical progress, market trends and social requirements. 
+(2) 
+According to Article 13 of Commission Delegated Decision (EU) 2017/1474 (3), Commission Regulation (EU) 
+No 1305/2014 (4) (‘TAF TSI’) has to be revised in order, inter alia, to simplify the procedure for the update of its 
+technical baseline in accordance with the TAF TSI Change Control Management (‘CCM’) process and to develop, 
+revised or simplify the content and structure of messages defined in the TAF-TSI in relation to exchange of 
+information with other systems or operators. 
+(3) 
+To this end, on 9 September 2020, the Agency addressed a recommendation to the Commission in order to 
+introduce in the TAF-TSI new or modified specifications related to methodologies and information flows 
+concerning the Expected Time of Arrival, tracking data for customers and exchange of data with other systems, and 
+to adjust the CCM process. 
+(4) 
+Regulation (EU) No 1305/2014 should be amended accordingly. 
+(5) 
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established in 
+accordance with Article 51(1) of Directive (EU) 2016/797, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The Annex to Regulation (EU) No 1305/2014 is replaced by the text in the Annex to this Regulation. 
+(1) OJ L 138, 26.5.2016, p. 44.
+(2) Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for 
+Railways and repealing Regulation (EC) No 881/2004 (OJ L 138, 26.5.2016, p. 1).
+(3) Commission Delegated Decision (EU) 2017/1474 of 8 June 2017 supplementing Directive (EU) 2016/797 of the European Parliament 
+and of the Council with regard to specific objectives for the drafting, adoption and review of technical specifications for 
+interoperability (OJ L 210, 15.8.2017, p. 5).
+(4) Commission Regulation (EU) No 1305/2014 of 11 December 2014 on the technical specification for interoperability relating to the 
+telematics applications for freight subsystem of the rail system in the European Union and repealing the Regulation (EC) No 62/2006 
+(OJ L 356, 12.12.2014, p. 438).
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/19   
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 26 March 2021.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 108/20                                                                                                                                         
+29.3.2021   
+ANNEX 
+TABLE OF CONTENTS 
+1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23 
+1.1. Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23 
+1.2. Reference Documents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23 
+1.3. Technical scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 
+1.4. Geographical Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 
+2. DEFINITION OF SUBSYSTEM AND SCOPE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 
+2.1. Function within the scope of the TSI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 
+2.2. Functions outside the scope of the TSI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25 
+2.3. Overview of the subsystem description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25 
+2.3.1. Considered Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25 
+3. ESSENTIAL REQUIREMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.1. Compliance with the essential requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.2. Essential requirements aspects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3. Aspects relating to general requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3.1. Safety . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3.2. Reliability and availability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3.3. Health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3.4. Environmental protection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+3.3.5. Technical compatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27 
+3.3.6. Accessibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27 
+4. CHARACTERISATION OF THE SUBSYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27 
+4.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27 
+4.2. Functional and technical specifications of the subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27 
+4.2.1. 
+Consignment Note data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28 
+4.2.2. 
+Path Request and path allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28 
+4.2.3. 
+Train Preparation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30 
+4.2.4. 
+Train Running Information and Train Running Forecast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .31 
+4.2.5. 
+Service Disruption Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32 
+4.2.6. 
+Shipment ETI/ETA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32 
+4.2.7. 
+Wagon Movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34 
+4.2.8. 
+Data Exchange for Quality Improvement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35 
+4.2.9. 
+The Main Reference Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35 
+4.2.10. Various Reference Files and Databases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36 
+4.2.11. Networking & Communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/21   
+4.3. Functional and technical specifications of the interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .39 
+4.3.1. Interfaces with the TSI Infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .39 
+4.3.2. Interfaces with the TSI Control/Command and Signalling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .39 
+4.3.3. Interfaces with the rolling stock subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40 
+4.3.4. Interfaces with the TSI operation and traffic management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40 
+4.3.5. Interfaces with the Telematics Applications for Passenger Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40 
+4.4. Operating rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40 
+4.4.1. Data quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41 
+4.4.2. Operating the central repository . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42 
+4.5. Maintenance rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42 
+4.6. Professional qualifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42 
+4.7. Health and safety conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42 
+5. INTEROPERABILITY CONSTITUENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+5.1. Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+5.2. List of Constituents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+5.3. Constituents’ Performances and Specifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6. ASSESSMENT OF CONFORMITY AND/OR SUITABILITY FOR USE OF THE CONSTITUENTS AND VERIFICATION OF 
+THE SUBSYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6.1. Interoperability Constituents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6.1.1. Assessment Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6.1.2. Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6.2. Subsystem Telematics Applications for Freight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+6.2.1. Assessment of compliance of IT tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43 
+7. IMPLEMENTATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .44 
+7.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .44 
+7.2. Change Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45 
+7.2.1. Change Management Process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45 
+7.2.2. Specific Change Management Process for documents listed in Appendix I to this Regulation . . . . . . . . . . . . .45 
+Appendix I – List of technical documents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47 
+Appendix II – Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .48 
+Appendix III – Tasks to be undertaken by the TAF/TAP National Contact Point (NCP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .56 
+EN
+Official Journal of the European Union 
+L 108/22                                                                                                                                         
+29.3.2021   
+1. 
+INTRODUCTION 
+1.1. 
+Abbreviations   
+Table 1 
+Abbreviations 
+Abbreviation 
+Definition 
+CI 
+Common Interface 
+EC 
+European Commission 
+ERA 
+European Union Agency for Railways (also referred to as Agency) 
+IM 
+Infrastructure Manager 
+ISO 
+International Organisation for Standardisation 
+LCL 
+Less than Container Loads 
+LRU 
+Lead Railway Undertaking 
+RISC 
+Rail Interoperability and Safety Committee 
+RU 
+Railway Undertaking 
+TAF 
+Telematics Applications for Freight 
+TAP 
+Telematics Applications for Passengers 
+TCP/IP 
+Transmission Control Protocol/Internet Protocol 
+TSI 
+Technical Specification for Interoperability 
+WK 
+Wagon Keepers   
+1.2. 
+Reference Documents   
+Table 2 
+Reference documents 
+Ref. No 
+Document Reference 
+Title 
+Last Issue 
+(1) 
+Directive (EU)  
+2016/797 
+Directive (EU) 2016/797 of the European Parliament and of 
+the Council of 11 May 2016 on the interoperability of the rail 
+system within the European Union (OJ L 138, 26.5.2016, 
+p. 44). 
+27.5.2020 
+(2) 
+TAP TSI Regulation 
+(EU) No 454/2011 
+Commission Regulation (EU) No 454/2011 of 5 May 2011 on 
+the technical specification for interoperability relating to the 
+subsystem ‘telematics applications for passenger services’ of 
+the trans- European rail system (OJ L 123, 12.5.2011, p. 11). 
+27.5.2019 
+(3) 
+Directive  
+2012/34/EU 
+Directive 2012/34/EU of the European Parliament and of the 
+Council of 21 November 2012 establishing a single European 
+railway area (OJ L 343, 14.12.2012, p. 32). 
+14.11.2017 
+(4) 
+ERA-TD-105 
+TAF TSI – ANNEX D.2: APPENDIX F – TAF TSI DATA AND 
+MESSAGE MODEL.  
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/23   
+(5) 
+TAF TSI Regulation  
+No 62/2006 
+Commission Regulation (EC) No 62/2006 of 23 December 
+2005 on the technical specification for interoperability 
+relating to the telematics applications for freight subsystem of 
+the trans-European conventional rail system (OJ L 13, 
+18.1.2006, p. 1). 
+18.1.2006 
+(6) 
+C(2010)2576 final 
+Commission Decision of 29 April 2010 concerning a mandate 
+to the European Railway Agency to develop and review 
+Technical Specifications for Interoperability with a view to 
+extending their scope to the whole rail system in the European 
+Union. 
+29.4.2010 
+(7) 
+Directive (EU)  
+2016/798 
+Directive (EU) 2016/798 of the European Parliament and of 
+the Council of 11 May 2016 on railway safety (OJ L 138, 
+26.5.2016, p. 102). 
+26.5.2016 
+(8) 
+Commission 
+Delegated Decision 
+(EU) 2017/1474 
+Commission Delegated Decision (EU) 2017/1474 of 8 June 
+2017 supplementing Directive (EU) 2016/797 of the 
+European Parliament and of the Council with regard to specific 
+objectives for the drafting, adoption and review of technical 
+specifications for interoperability (OJ L 210, 15.8.2017, p. 5). 
+15.8.2017   
+1.3. 
+Technical scope 
+This Technical Specification for Interoperability (hereinafter referred to as the TAF TSI) concerns the element 
+‘applications for freight services’ of the subsystem ‘telematics applications’ included in the functional area of the 
+list in Annex II to Directive (EU) 2016/797 and described in section 2.6(b) of that Annex. 
+The purpose of this TAF TSI is to ensure the efficient interchange of information by setting the technical 
+framework, to achieve a transport process that is as economically viable as possible. It covers the applications 
+for freight services and the management of connections with other modes of transport, which means that it 
+concentrates on the transport services of an RU in addition to the pure operation of trains. Safety aspects are 
+only considered as far as the existence of data elements; values will have no impact on the safe operation of a 
+train and compliance with TAF TSI requirements cannot be regarded as compliance with safety requirements. 
+TAF TSI also has an impact on the conditions of use of rail transport by users. In this respect the term users 
+means not only infrastructure managers or railway undertakings but also all other service providers such as 
+wagon companies, intermodal operators and even customers. 
+1.4. 
+Geographical Scope 
+The TSI shall apply to the Union’s network as defined in Annex I, Section 1 of Directive (EU) 2016/797. 
+2. 
+DEFINITION OF SUBSYSTEM AND SCOPE 
+2.1. 
+Function within the scope of the TSI 
+The subsystem Telematics Applications for Freight is defined in Annex II of the Directive (EU) 2016/797, Section 
+2.6(b). 
+It includes in particular: 
+— applications for freight services, including information systems (real-time monitoring of freight and trains), 
+— marshalling and allocation systems, whereby under allocation systems is understood train composition, 
+EN
+Official Journal of the European Union 
+L 108/24                                                                                                                                         
+29.3.2021   
+— reservation systems, whereby here is understood the train path reservation, 
+— management of connections with other modes of transport and production of electronic accompanying 
+documents. 
+2.2. 
+Functions outside the scope of the TSI 
+Payment and invoicing systems for customers are not within the scope of this TSI, nor are such systems for 
+payment and invoicing between various service providers such as railway undertakings or infrastructure 
+managers. The system design behind the data exchange in accordance with Chapter 4.2 (Functional and 
+technical specifications of the subsystem), however, provides the information needed as a basis for payment 
+resulting from the transport services. 
+The long term planning of the timetables is outside the scope of this Telematics Applications TSI. Nevertheless, 
+at some points there will be reference to the outcome of the long term planning in so far as there is a 
+relationship with the efficient interchange of information required for the operation of trains. 
+2.3. 
+Overview of the subsystem description 
+2.3.1. 
+Considered Processes 
+When taking into account the needs of a Customer, one of the services is to organise and manage the transport 
+line in accordance with the contract between the Lead Railway Undertaking (LRU) and the Customer. 
+The LRU is the single point of contact for the Customer. If more than one Railway Undertaking is involved in the 
+transport chain, the LRU is also responsible for the coordination with the other RUs. This service can also be 
+undertaken by a forwarder or by any other entity. 
+This TSI for the railway freight transport industry is limited in accordance with Directive (EU) 2016/797 to IMs 
+and RUs/LRUs data exchange. This TSI enables the LRU to provide information to the Customer in particular: 
+— Path information. 
+— Train Running Information on agreed reporting points, including at least departure, interchange/handover 
+and arrival points of the contracted transport. 
+— Estimated Time of Arrival (ETA) to the final destination including yards and intermodal terminals. 
+— Service Disruption. When the Lead RU learns about a service disruption, it shall deliver to the Customer in 
+due time. 
+For the delivery of this information, the respective TAF compliant messages are defined in Chapter 4. 
+The RUs/LRUs must in general have, at minimum, the capability of: 
+— DEFINING: services in terms of price and transit times, wagon supply (where applicable), wagon/Intermodal 
+unit information (location, status and the wagon/Intermodal unit related estimated time of arrival ‘ETA’), 
+where shipments can be loaded on empty wagons, containers etc., 
+— DELIVERING: the service that has been defined in a reliable, seamless manner through the use of common 
+business processes and linked systems. There must be a capability for RUs, IMs and other service providers 
+and stakeholders such as customs to exchange information electronically, 
+— MEASURING: the quality of the service delivered compared to what was defined. i.e. billing accuracy against 
+price quoted, actual transit times against commitments, wagon supplied against order, ETAs against actual 
+arrival times, 
+— OPERATING: in a productive manner in terms of utilisation: train, infrastructure and fleet capacity through 
+the use of business processes, systems and data exchange required to support wagon/Intermodal unit and 
+train scheduling. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/25   
+The handling of empty wagons takes on particular relevance when considering interoperable wagons. In 
+principle, there is no difference in the handling of loaded or empty wagons. The transport of empty wagons is 
+also based on consignment orders, whereby the fleet manager for these empty wagons must be considered as a 
+customer. 
+3. 
+ESSENTIAL REQUIREMENTS 
+3.1. 
+Compliance with the essential requirements 
+In accordance with the Directive (EU) 2016/797, the Union Rail System, subsystems and their interoperability 
+constituents must meet the essential requirements set out in general terms in Annex III of that Directive. 
+In the scope of the present TSI, the fulfilment of relevant essential requirements listed in Chapter 3 will be 
+ensured for the subsystem by the compliance with the specifications described in Chapter 4 (Characterisation of 
+the subsystem). 
+3.2. 
+Essential requirements aspects 
+The essential requirements concern: 
+— Safety, 
+— Reliability and Availability, 
+— Health, 
+— Environmental protection, 
+— Technical compatibility. 
+— Accessibility. 
+According to Directive (EU) 2016/797, the essential requirements may be generally applicable to the whole 
+Trans-European Rail System or be specific to each subsystem and its constituents. 
+3.3. 
+Aspects relating to general requirements 
+The relevance of the general requirements to the Telematics Applications Subsystem for Freight is determined as 
+follows: 
+3.3.1. 
+Safety 
+The essential requirements 1.1.1, 1.1.2, 1.1.3, 1.1.4 and 1.1.5 of Annex III to Directive (EU) 2016/797 are not 
+relevant to the Telematics Applications subsystem. 
+3.3.2. 
+Reliability and availability 
+‘The monitoring and maintenance of fixed or movable components that are involved in train movements must 
+be organised, carried out and quantified in such a manner as to maintain their operation under the intended 
+conditions.’ 
+This essential requirement is met by the following Chapters: 
+— Chapter 4.2.9: The Main Reference Data, 
+— Chapter 4.2.10: Various Reference Files and databases, 
+— Chapter 4.2.11: Networking & Communication. 
+3.3.3. 
+Health 
+The essential requirements 1.3.1 and 1.3.2 of Annex III to Directive (EU) 2016/797 are not relevant to the 
+Telematics Applications subsystem. 
+3.3.4. 
+Environmental protection 
+The essential requirements 1.4.1, 1.4.2, 1.4.3, 1.4.4 and 1.4.5 of Annex III to Directive (EU) 2016/797 are not 
+relevant to the Telematics Applications subsystem. 
+EN
+Official Journal of the European Union 
+L 108/26                                                                                                                                         
+29.3.2021   
+3.3.5. 
+Technical compatibility 
+The essential requirement 1.5 of Annex III to Directive (EU) 2016/797 is not relevant to the Telematics 
+Applications subsystem. 
+3.3.6. 
+Accessibility 
+The essential requirement 1.6 of Annex III to Directive 2016/797 is not relevant to the Telematics Applications 
+subsystem. 
+4. 
+CHARACTERISATION OF THE SUBSYSTEM 
+4.1. 
+Introduction 
+The rail system, to which Directive (EU) 2016/797 applies and of which the Telematics Applications Subsystem 
+is a part, is an integrated system whose consistency must be verified. This consistency must be checked in 
+particular with regard to the specifications of the subsystem, its interfaces vis-à-vis the system in which it is 
+integrated, as well as the operating and maintenance rules. 
+Taking into account all the applicable essential requirements, the Telematics Application Subsystem for Freight is 
+characterised by: 
+4.2. 
+Functional and technical specifications of the subsystem 
+In light of the essential requirements in Chapter 3, the functional and technical specifications of the subsystem 
+cover the following parameters: 
+— Consignment Note data, 
+— Path Request and Path Allocation, 
+— Train Preparation, 
+— Train Running Information and Train Running Forecast, 
+— Service Disruption Information, 
+— Wagon/Intermodal unit ETI/ETA, 
+— Wagon Movement, 
+— Data Exchange for Quality Improvement, 
+— The Main Reference Data, 
+— Various Reference Files and Databases, 
+— Networking & Communication. 
+In addition to the provisions from the Chapter 4 and its sub-chapters every stakeholder may exchange the 
+messages according to Chapters 4.2.2.3 (only during operation or preparation of train operation), 4.2.4.2, 
+4.2.4.3, 4.2.5.2, 4.2.6.3 and 4.2.6.4 with other stakeholders involved in the same freight service, under the 
+condition that the stakeholders are identifiable. These exchanges of messages may be charged by the sender. 
+The LRU is responsible for the information to the Customers according to the contractual agreement. 
+The detailed data specifications are defined in the complete Data Catalogue. The mandatory formats of the 
+messages and the data of this Catalogue are defined in the document ‘TAF TSI – Annex D.2: Appendix F – TAF 
+TSI Data and Message Model’ listed in Appendix I. In addition, other existing standards may be used for the 
+same purpose if there is a specific agreement between the parties involved to allow the use of these standards in 
+particular for combined/intermodal transport or on the territories of EU Member States having a border with 
+third countries. 
+General remarks on the message structure 
+The messages are structured into two data sets: 
+— Control data: defined through the mandatory message header of the messages of the catalogue. 
+— Information data: defined by the mandatory/optional content of each message and mandatory/optional data 
+set in the catalogue. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/27   
+If a message or a data element is defined as optional in this Regulation, the involved parties decide on using it. 
+The application of these messages and data elements must be part of a contractual agreement. If in the data 
+catalogue optional elements are mandatory under certain conditions this has to be specified in the data 
+catalogue. 
+4.2.1. 
+Consignment Note data 
+4.2.1.1. 
+Customer Consignment Note 
+The Customer shall send the Consignment Note to the Lead RU. It must show all the information needed to carry 
+a consignment from the consignor to the consignee according to ‘Uniform Rules Concerning the Contract of 
+International Carriage of Goods by Rail (CIM)’ and ‘Uniform Rules concerning Contracts of Use of Vehicles in 
+International Rail Traffic (CUV)’. The LRU must supplement additional information. A subset of the 
+consignment note data including the additional ones, are described in Appendix I, TAF TSI – ANNEX D.2: 
+APPENDIX A (WAGON/ILU TRIP PLANNING) and Appendix I, TAF TSI – Annex D.2: Appendix F – TAF TSI 
+Data and Message Model (4))) listed in the table in Appendix I of this Regulation. 
+In the case of Open Access the Lead RU contracting with the customer has all the information after the 
+supplement of the data available. No message exchange is needed with other RUs. These data are also the basis 
+for a path request on short notice, if this is required for the execution of the consignment note. 
+The following messages are for the case of non-Open Access. The content of these messages may also be the 
+basis for the path requests on short notice, if required for the execution of the consignment note. 
+4.2.1.2. 
+Consignment orders 
+The consignment order is primarily a subset of the Consignment Note information. It must be forwarded to the 
+RUs involved in the transport chain by the LRUs. The content of the Consignment order must show the relevant 
+information which is needed for an RU to effect transportation during its responsibility until handover to next 
+RU. 
+The mandatory data structure of the consignment order and detailed formats of this message are listed in the 
+‘Consignment Order Message’ in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message 
+Model’ listed in Appendix I 
+The main contents of these consignment orders are: 
+— Consignor and consignee information, 
+— Routing information, 
+— Consignment identification, 
+— Wagon information, 
+— Place and time information. 
+4.2.2. 
+Path Request and path allocation 
+4.2.2.1. 
+Preliminary remarks 
+The Path defines the requested, accepted and actual data to be stored concerning the path and the characteristics 
+of the train for each segment of that path. The following description presents the information, which must be 
+available to the infrastructure manager and/or the allocation body (AB).. This information must be updated 
+whenever a change occurs. The information of the annual path therefore needs to allow the retrieval of the data 
+for short-term amendments. In particular, the Customer, in case he is impacted, must be informed by LRU. 
+Path Request on short notice 
+Due to exceptions during the train running or due to transport demands on a short time basis, a railway 
+undertaking or an Applicant must have the possibility to get an ad hoc path on the network. 
+EN
+Official Journal of the European Union 
+L 108/28                                                                                                                                         
+29.3.2021   
+The RU/Applicant acting in the role of the Responsible Applicant must provide the infrastructure manager with 
+all necessary data concerning when and where the train is required to run together with the physical 
+characteristics in so far as they interact with the infrastructure. These requirements are valid for all Short Notice 
+Path Requests and related messages. No minimum timeframe is specified for it at European level. The network 
+statement may specify minimum timeframes. 
+Path Request on short notice does not include Traffic Management issues. The time limit between Short Term 
+paths and Traffic Management path changes is subject to Local Agreements and may be indicated in the network 
+statement.. 
+Requirements considering the responsibilities of a RU/Applicant/IM during the path request and allocation 
+processes are not part of this regulation. Relevant information is given within the Commission Implementing 
+Regulation (EU) 2019/773 (1) (OPE TSI). 
+4.2.2.2. 
+Path Request message 
+The RU/Applicant assuming the role of Responsible Applicant shall send the ‘Path Request message’ to the 
+infrastructure manager (IM)/Allocation Body (AB) to request a path. 
+The definition of the mandatory structure of the ‘Path Request message’ and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.2.3. 
+Path Details message 
+The IM/AB acting as Planning IM shall send the ‘Path Details message’ to the requesting RU/Applicant in response 
+to its Path Request. 
+The definition of the mandatory structure of Path Details message and the elements to be followed are described 
+in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.2.4. 
+Path Confirmed message 
+The requesting RU/Applicant assuming the role of Responsible Applicant shall send the ‘Path Confirmed 
+message’ to confirm the Path proposed by the IM/AB. 
+The definition of the mandatory structure of Path Confirmed message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.2.5. 
+Path Details Refused message 
+The requesting RU/Applicant assuming the role of Responsible Applicant shall send the ‘Path Details Refused 
+message’ to the relevant IM/AB to reject its proposed Path Details. 
+The definition of the mandatory structure of Path Details Refused message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.2.6. 
+Path Cancelled message 
+The RU/Applicant assuming the role of Responsible Applicant (in planning phase) or assuming the role of 
+Responsible RU (in operation) shall send the ‘Path Cancelled message’ to the relevant IM/AB to cancel all or part 
+of a Path that has been confirmed. 
+The definition of the mandatory structure of Path Cancelled message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+(1) Commission Implementing Regulation (EU) 2019/773 of 16 May 2019 on the technical specification for interoperability relating to 
+the operation and traffic management subsystem of the rail system within the European Union and repealing Decision 2012/757/EU 
+(OJ L 139 I, 27.5.2019, p. 5).
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/29   
+4.2.2.7. 
+Path Not Available message 
+The IM/AB assuming the role Planning IM (in planning phase) or in the role Responsible IM (in operation) shall 
+send the ‘Path Not Available message’ to the contracted RU/Applicant in the event that the Path confirmed by the 
+RU/Applicant is no longer available. 
+The IM must inform the RU as soon as it has the knowledge that a train path is not available. The ‘Path Not 
+Available message’ can be send at any time between the moment the train path is contracted and the departure 
+of the train. A cause of this message may be e.g. an interruption on the path. 
+‘Path Not Available message’ means that the path or a part of the path cannot be used and no longer exists. 
+If an alternative path is available, together with this message or as soon as that path is known, the IM must send 
+without any further request from the RU an alternative proposal. This is done with the ‘Path Details message’ 
+related to this ‘Path Not Available message’. If an alternative proposal is not possible, the IM must inform the RU 
+immediately. 
+The definition of the mandatory structure of Path Not Available message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.2.8. 
+Receipt Confirmation message 
+The recipient of each message shall send the ‘Receipt Confirmation message’ to the originator of the related 
+message in order to acknowledge that its legacy system has received the message. 
+The definition of the mandatory structure of Receipt Confirmation message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.3. 
+Train Preparation 
+4.2.3.1. 
+General Remarks 
+This basic parameter describes the messages, which must be exchanged during the train preparation phase until 
+the start of the train. 
+Train preparation includes compatibility check between the train and the route. This check is done by the RU on 
+basis of information provided by concerned IMs on infrastructure description and infrastructure restrictions. 
+In case the train is taken over as a whole by the next RU, the Responsible RU shall send the Train Composition to 
+the next Responsible RU. According to contractual agreements this message must also be sent from the 
+Responsible RU to the IM(s). This applies as well, if the path has been booked by another Responsible Applicant, 
+who has mandated the Responsible RU with the train run. Furthermore, the Responsible RU remains the partner 
+for the message exchange with the IM, if it subcontracts the run of the train to another RU. 
+If the train composition is changed at a location, this message must be exchanged once more with information 
+updated by the Responsible RU. 
+4.2.3.2. 
+Train Composition message 
+The Responsible RU shall send the ‘Train Composition message’ defining the composition of the train to the next 
+Responsible RU involved in the freight service and to the Lead RU. According to network statement, the ‘Train 
+Composition message’ is also to be sent from the Responsible RU to the IM(s). 
+The definition of the mandatory structure of Train Composition message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+Minimum elements to be delivered for the message exchange between RU and IM for the purpose Train 
+Composition are defined in Chapter 4.2.2.7.2 of Implementing Regulation (EU) 2019/773 (OPE TSI). 
+EN
+Official Journal of the European Union 
+L 108/30                                                                                                                                         
+29.3.2021   
+4.2.3.3. 
+Train Ready message 
+The Responsible RU shall send a ‘train ready’ message to the infrastructure manager every time a train is ready to 
+start after train preparation, unless under national rules the infrastructure manager accepts the timetable as a 
+‘train ready’ message. 
+In the case of combined transport, the Terminal Operator shall send a ‘train ready’ message to the RU every time 
+a wagon set is ready to start. The RU providing traction to the IM entry point shall send the ‘train ready’ message 
+to the RU operating the train service on the IM network. 
+The definition of the mandatory structure of Train Ready message and the elements to be followed are described 
+in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.4. 
+Train Running Information and Train Running Forecast 
+4.2.4.1. 
+General Remarks 
+This basic parameter lays down the train running information and train running forecast. It must prescribe how 
+the dialogue between infrastructure manager and railway undertaking are to be maintained in order to exchange 
+train running information and train running forecasts. 
+This basic parameter lays down how the infrastructure manager must, at the appropriate time, send train 
+running information to the railway undertaking and the subsequent neighbouring infrastructure manager 
+involved in the operation of the train. 
+The train running information serves to provide details of the current status of the train at contractually agreed 
+reporting points. 
+The train running forecast is used to provide information about the estimated time at contractually agreed 
+forecast points. This message shall be sent from the infrastructure manager to the railway undertaking and the 
+neighbouring infrastructure manager involved in the run. 
+Contractual agreements shall specify Reporting Points for the train’s movement. 
+This information exchange between RUs and IMs always takes place between the IM in charge and the 
+Responsible RU, who has responsibility for the run of the train. This applies as well, if the path has been booked 
+by another Responsible Applicant, who has mandated the Responsible RU with the train run. Furthermore, the 
+Responsible RU remains the partner for the message exchange with the IM, if it subcontracts the run of the train 
+to another RU. 
+Under contractual agreement, the LRU will provide Customer the Train Running Forecast and Train Running 
+Information. The reporting points will be agreed by both parties within the contract. 
+4.2.4.2. 
+Train Running Forecast message 
+This message must be issued by the IM to the RU, who is running the train, for handover points, interchange 
+points and for the train destination as described in Chapter 4.2.4.1. 
+In the case of combined transport under contractual agreement, the LRU/Responsible RU shall ensure the ‘Train 
+Running Forecast’ message is provided to the Terminal Operator. 
+In addition, the message must be issued by the IM to the RU for other reporting points according the RU/IM 
+contracts. 
+A train running forecast can also be sent before the train starts running. For additional delays occurring between 
+two Reporting Points, a threshold has to be contractually defined between the railway undertaking and the 
+infrastructure manager to which an initial or a new forecast has to be sent. If the extend of delay is not known, 
+the infrastructure manager has to send a ‘service disruption message’ (see Chapter 4.2.5: Service disruption 
+information). 
+The train running forecast message must give the forecast time for agreed forecast point. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/31   
+The Infrastructure Manager shall send this message to the next neighbouring infrastructure manager involved in 
+the train run. 
+The definition of the mandatory structure of Train Running Forecast message and the elements to be followed 
+are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.4.3. 
+Train Running Information message and Train Delay Cause Message. 
+The ‘Train Running Information message’ must be issued by the IM to the Responsible RU upon: 
+— Departure from departure point, arrival at destination, 
+— Arrival and departure at handover points, interchange points and at agreed reporting points based on 
+contract (e.g. handling points). 
+As soon as a cause of delay is known (first assumption), and in case of update on the cause of delay, it should be 
+provided by the IM to the Responsible RU by the separate Train Delay Cause Message. 
+The definition of the mandatory structure of Train Running Information message and Train Delay Cause Message 
+and the elements to be followed are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI 
+Data and Message Model’ listed in Appendix I. 
+4.2.5. 
+Service Disruption Information 
+4.2.5.1. 
+General Remarks 
+This basic parameter lays down how service disruption information is handled between the railway undertaking 
+and the infrastructure manager. 
+When the RU learns about a service disruption during the train running operation for which it is responsible, it 
+must immediately inform the IM concerned (this may be done orally by the RU). If train running is interrupted, 
+the infrastructure manager shall send ‘a ‘Train Running interruption" message to the contracted RU and the next 
+neighbouring IM involved in the train run. 
+If the length of the delay is known, the infrastructure manager must send a train running forecast message 
+instead 
+4.2.5.2. 
+Train Running Interruption message 
+If the train is interrupted, the IM issues this message to the next neighbouring IM involved in the train run and to 
+the Responsible RU. 
+In the case of combined transport under contractual agreement, the LRU/RU shall ensure the ‘Train Running 
+Interruption’ message is provided to the Terminal Operator. 
+The definition of the mandatory structure of Train Running Interruption message and the elements to be 
+followed are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ 
+listed in Appendix I. 
+4.2.6. 
+Shipment ETI/ETA 
+4.2.6.1. 
+Preliminary remarks 
+Chapter 4.2.2 (Path Request) has mainly described the communication between the RU and the IM. The 
+individual monitoring of wagons or Intermodal units is not covered by this information exchange. This is done 
+on the RU/LRU level based on the train related messages and is described in the following Chapters 4.2.6 
+(Shipment ETI/ETA) to 4.2.7 (Wagon Movement). 
+The wagon or Intermodal unit related information exchange and updating are essentially supported by storage of 
+‘trip plans’ and ‘wagon movements’ (Chapter 4.2.10.2: Other Databases). 
+EN
+Official Journal of the European Union 
+L 108/32                                                                                                                                         
+29.3.2021   
+For a customer the most important information is always the estimated time of arrival (ETA) for its shipment and 
+for the train (TETA – Train Estimated Times of Arrivals). The wagon related ETA as well as the ETI is also the 
+basic information in the communication between LRU and RU. This information is the main instrument for the 
+LRU to monitor the physical transport of a shipment and to check it against the commitment to the customer. 
+The forecasted times in the train related messages are all related to an arrival of a train at a certain point, which 
+may be a handover point, interchange point, the train destination or another reporting point. These are all Train 
+Estimated Times of Arrivals (TETA). 
+Under contractual agreement, the LRU will provide Customer the estimated time of arrival (ETA) and estimated 
+time of interchange (ETI) at shipment level and TETA at train level. The level of detail will be agreed by both 
+parties within the contract. 
+For combined transport, the data messages containing the identifiers of the loading units (e.g. containers, swap- 
+bodies, semi-trailers) will use either a BIC- or an ILU-Code according to ISO 6346 and EN 13044 respectively. 
+4.2.6.2. 
+ETI/ETA calculation 
+The ETI/ETA calculation is based on the information from the infrastructure manager in charge, which sends, 
+within the Train Running Forecast message, the Train Estimated Time of Arrival for defined reporting points (in 
+any case for handover, interchange, or arrival points including Intermodal terminals) on the agreed train path e.g. 
+for the handover point from one IM to the next IM (in this case TETA is equal to ETH). 
+For the interchange points or for other defined reporting points on the agreed train path, the RU must calculate 
+for the next RU in the transport shipment chain, the estimated time of interchange (ETI) for the wagons and/or 
+Intermodal units. 
+Remark on combined transport: For the Intermodal units on a wagon, the wagon ETIs are also ETIs for the 
+Intermodal units. Regarding the ETAs for Intermodal units it should be noticed, that the RU is not in the 
+position to calculate such an ETA or TETA beyond the public IM network. Therefore, the RU can only deliver 
+ETIs related to the RU operating in the terminal that will provide an ETA or TETA to the Arrival Terminal 
+Operator. Based on this ETA and TETA, the Terminal Operator will provide an ETP to the Combined Transport 
+Operator, who will provide the final customer (such as freight forwarders, logistics service providers…) with the 
+same ETP. 
+The Lead RU is responsible for the comparison of the ETA and TETA with the commitment to the customer. 
+Deviations of the ETA and TETA against the commitment to the customer must be handled in accordance with 
+the contract and may lead to an alert management process by the LRU. For the transmission of information on 
+the result of this process is foreseen the Alert message. 
+As a basis for the Alert management process, the LRU must have the possibility for a train or a wagon related 
+enquiry on deviations. This enquiry of an LRU and the response from an RU is also specified below. 
+4.2.6.3. 
+Wagon ETI/ETA message 
+The purpose of this message is to send ETI or updated ETI from one Responsible RU to the next in the transport 
+chain. 
+All Responsible RUs in the transport chain of the wagons send the ETI/ETA or updated ETI/ETA to the LRU. 
+Under contractual agreement based on the collected ETIs, the Lead RU shall calculate and provide an accurate 
+ETA or TETA to its Customer and to the Terminal Operator 
+The definition of the mandatory structure of Wagon ETI/ETA message and the elements to be followed are 
+described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/33   
+4.2.6.4. 
+Alert message 
+Following the comparison between ETA and commitment to the customer, the LRU may send an Alert message 
+to the RUs involved. The definition of the mandatory structure of Alert message and the elements to be followed 
+are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+Remark: In case of Open Access the calculation of ETI and ETA is an RU internal process. In this case the RU is the 
+lead RU itself. 
+4.2.7. 
+Wagon Movement 
+4.2.7.1. 
+Preliminary Remarks 
+For the reporting of the movement of a wagon, data included in these messages must be stored and electronically 
+accessible. They must be also exchanged within message on contractual base to authorised parties. 
+— Wagon Release notice 
+— Wagon Departure notice 
+— Wagon Yard arrival 
+— Wagon Yard departure 
+— Wagon Exceptions message 
+— Wagon Arrival notice 
+— Wagon Delivery notice 
+Under contractual agreement, the LRU must provide to the Customer the wagon movement information using 
+the messages described below. 
+4.2.7.2. 
+Wagon Release Notice message 
+The Lead RU is not necessarily the first RU in the transport chain. In this case the LRU must tell the RU in charge 
+that the wagon is ready for pull at the customer sidings (Place of departure according to the LRU commitment) at 
+the given release time (date and time of departure). 
+These events may be stored in the Wagon and Intermodal Unit Operational Database. The definition of the 
+mandatory structure of Wagon Release Notice message and the elements to be followed are described in the 
+document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.7.3. 
+Wagon Departure Notice message 
+The RU must inform the LRU of the actual Date and Time that the wagon has been pulled from the place of 
+departure. 
+These events may be stored in the Wagon and Intermodal Unit Operational Database. With this message 
+exchange the responsibility for the wagon changes from customer to the RU. The definition of the mandatory 
+structure of Wagon Departure Notice message and the elements to be followed are described in the document 
+‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.7.4. 
+Wagon Yard Arrival message 
+The RU must inform the LRU, that the wagon has arrived at its yard. This message can be based on a ‘Train 
+running information’ message from Chapter 4.2.4 (Train Running Forecast). This event may be stored in the 
+Wagon and Intermodal Unit Operational Database. The definition of the mandatory structure of Wagon Yard 
+Arrival message and the elements to be followed are described in the document ‘TAF TSI – Annex D.2: 
+Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+EN
+Official Journal of the European Union 
+L 108/34                                                                                                                                         
+29.3.2021   
+4.2.7.5. 
+Wagon Yard Departure message 
+The RU must inform the LRU, that the wagon has left its yard. This message can be based on a ‘Train running 
+information’ message from Chapter 4.2.4 (Train Running Forecast). This event may be stored in the Wagon and 
+Intermodal Unit Operational Database. The definition of the mandatory structure of Wagon Yard Departure 
+message and the elements to be followed are described in the document ‘TAF TSI – Annex D.2: Appendix F – 
+TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.7.6. 
+Wagon Exception message 
+The RU must inform the LRU if something unexpected occurs to the wagon, which might have an impact for the 
+ETI/ETA, or requires any additional action. This message requires in most of the cases also a new ETI/ETA 
+calculation. If the LRU decides to have a new ETI/ETA, it sends a message back to the RU, which has sent this 
+message together with the indication ‘ETI/ETA requested’ (message: Wagon Exception message New ETI/ETA 
+Request). The new ETI/ETA calculation must follow the procedure of Chapter 4.2.6 (Shipment ETI/ETA). 
+This information may be stored in the Wagon and Intermodal Unit Operational Database. The definition of the 
+mandatory structure of Wagon Exception message and the elements to be followed are described in the 
+document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in Appendix I. 
+4.2.7.7. 
+Wagon Arrival Notice message 
+The last RU in a wagon or Intermodal unit transport chain must inform the LRU that the wagon has arrived at its 
+yard (RU location). The definition of the mandatory structure of Wagon Arrival Notice message and the elements 
+to be followed are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message 
+Model’ listed in Appendix I. 
+4.2.7.8. 
+Wagon Delivery notice message 
+The last RU in a wagon transport chain must inform the LRU that the wagon has been placed at the consignee’s 
+sidings. 
+Remark: In the case of Open Access the described wagon movement is a RU (LRU) internal process. Nevertheless 
+all calculations and data storage must be executed by it as the LRU having a contract with and a commitment to 
+the customer. 
+The sequence diagram for these messages based on example 1 for the ETI calculation for the wagons 1 and 2 (see 
+Chapter 4.2.6.2: ETI/ETA calculation) is integrated in the diagram for interchange reporting in the document 
+‘TAF TSI – Annex A.5:Figures and Sequence Diagrams of the TAF TSI messages’ Chapter 6, listed in Appendix I. 
+4.2.8. 
+Data Exchange for Quality Improvement 
+To be competitive the European Railway Industry must deliver higher service quality to its customers (see also 
+Annex III, Article 2.7.1 to the Directive (EU) 2016/797). A measurement process is an essential post trip 
+process to support quality improvements. In addition to measuring the service quality delivered to the 
+customer, LRUs, RUs and IMs must measure the quality of the service components that in total make up the 
+product delivered to the customer. The process involves the IMs and the RUs (especially if they are Lead RUs) 
+selecting an individual quality parameter, a route or location and a measurement period in which actual results 
+are to be measured against predetermined criteria and which normally have been set out in a contract. The 
+results of the measurement process must clearly show the achievement level against the target, which has been 
+agreed upon between the contracting parties. 
+4.2.9. 
+The Main Reference Data 
+4.2.9.1. 
+Preface 
+In order to support the train preparation and wagon operation the wagon keeper shall make available rolling 
+stock data in the Rolling Stock Reference Database. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/35   
+4.2.9.2. 
+The Rolling Stock Reference Databases 
+The keeper of rolling stock is responsible for the storage of rolling stock data within a Rolling Stock Reference 
+Database. 
+The Information that must be included in the individual Rolling Stock Reference Databases is described in detail 
+in Appendix I, Appendix C. 
+The Rolling Stock Reference Databases must allow easy access to the rolling stock reference data to minimise the 
+volume of data transmitted for each operation. Contents of the Databases must be accessible, based on structured 
+access rights depending on privilege to all Service Providers (especially IMs and RUs). 
+The entries in the Rolling Stock Reference Database can be grouped as follows: 
+— Administrative data, related to certification and registration items. Additionally, according to Commission 
+Regulation (EU) No 445/2011 (2), article 5, the Wagon Keepers shall store the ECM certification 
+identification number 
+— Design data, which shall include all constitutive (physical) elements of the rolling stock, especially 
+information required by RUs for train planning and operation. 
+The keeper is obliged to ensure that these data are available and the processes behind have been conducted. 
+The definition of the mandatory structure of Rolling Stock Reference Database and the elements to be followed 
+are described in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model’ listed in 
+Appendix I. 
+4.2.10. 
+Various Reference Files and Databases 
+4.2.10.1. Reference Files 
+For the operation of freight trains on the European network, the following reference files must be available and 
+accessible to all service providers (IMs, RUs, logistic providers and fleet managers). The data must represent the 
+actual status at all times. Where a reference file is in common use with the TAP TSI, the development and 
+changes must be in line with TAP TSI, in order to achieve optimum synergies. 
+The European Union Agency for Railways will centrally store and maintain unique codes for the following 
+reference data: 
+— Reference File of the Coding for all IMs, RUs, Service provider companies; 
+— Reference File of the Coding of Locations (Primary and subsidiary), 
+The Agency will save a copy of the Reference File for the Primary Locations Codes and Company Codes. On 
+individual request and without prejudice to intellectual property rights, this data shall be available for public 
+consultation. 
+Other code lists are defined in the document ‘TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message 
+Model’ listed in Appendix I. 
+4.2.10.2. Wagon and Intermodal unit Operational Database (optional) 
+To allow for the tracking of train and wagon movements, the Wagon and Intermodal Unit Operational Database, 
+updated at each relevant event in real time, may be installed. Authorised entities such as keepers and fleet 
+managers may have access to the data relevant to fulfil their functions, according to bilateral agreements. 
+The communication between the Lead RU and RUs in the cooperation mode is based on wagon and/or 
+Intermodal unit numbers. Therefore, an RU, which communicates with the IMs at train level, must break down 
+this information into wagon and Intermodal unit related one. This wagon and Intermodal unit related 
+information may be stored in the Wagon and Intermodal Unit Operational Database. The information on train 
+movement leads to new entries/updates in the Wagon and Intermodal Unit Operational Database for customer 
+information. The movement part for a wagon or Intermodal unit in the database is set up at the latest when 
+receiving the release time for the wagons or Intermodal unit from the customer. This release time is the first 
+(2) Commission Regulation (EU) No 445/2011 of 10 May 2011 on a system of certification of entities in charge of maintenance for freight 
+wagons and amending Regulation (EC) No 653/2007 (OJ L 122, 11.5.2011, p. 22).
+EN
+Official Journal of the European Union 
+L 108/36                                                                                                                                         
+29.3.2021   
+movement entry for a wagon into the Wagon and Intermodal Unit Operational Database related to an actual 
+transport journey. The messages for the wagon movement are defined in the Chapter 4.2.7 (Wagon Movement). 
+This database is accessible via the Common Interface (4.2.11.1: General Architecture and 4.2.11.6: Common 
+Interface). 
+The Wagon and Intermodal Unit Operational Database is for the tracking of wagons and therefore for the 
+communication between the RUs involved and the Lead RU. This database shows the movement of a wagon and 
+of an Intermodal unit from departure through to final delivery at customer sidings with ETIs and actual times at 
+different locations until the final delivery time ETA. The database also shows the different status of the rolling 
+stock such as: 
+— Status: loading of the rolling stock  
+This status is required for the information exchange between the RU and the IMs and to other railway 
+undertakings involved in the transport journey 
+— Status: loaded wagon on journey  
+This status is required for the information exchange between the IM and the RU, with other infrastructure 
+managers and with other railway undertakings involved in the transport journey. 
+— Status: empty wagon on journey  
+This status is required for the information exchange between the IM and the RU, with other infrastructure 
+managers and railway undertakings involved in the transport journey. 
+— Status: unloading of rolling stock  
+This status is required for the information exchange between the RU at destination and the Lead RU for the 
+transport. 
+— Status: empty wagon under fleet management control  
+This status is required to get the information about availability of a vehicle of defined characteristics. 
+4.2.10.3. Additional Requirements on the Databases 
+Every system (Data Base) must be clearly defined and its data consistency shall be supported by rules on data 
+accessibility and data availability. 
+4.2.11. 
+Networking & Communication 
+4.2.11.1. General Architecture 
+The aim of the IT architecture is to exchange information in secure trusted environment among all rail actors in 
+the Single European Railway Area (SERA). 
+Over time this subsystem will see, the growth and interaction of a large and complex Telematics rail 
+interoperability community with hundreds of participating players (RUs, IMs, etc.), which will compete and/or 
+cooperate in serving the market’s needs. 
+The Network & Communication infrastructure supporting such rail interoperability community will be based on 
+a common Information Exchange Architecture, known and adopted by all those participating in it. 
+The proposed Information Exchange Architecture: 
+— is designed to reconcile heterogeneous information models by semantically transforming the data that are 
+exchanged between the systems and by reconciling the differences in business process and application-level 
+protocol, 
+— has a minimum impact on the existing IT architectures implemented by each actor, 
+— safeguards IT investments made already. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/37   
+The Information Exchange Architecture is based on continuous IT industry mainstream standards, which ensure 
+the relevant level of cybersecurity according to the identified risks. The interaction between all players must 
+guarantee the overall integrity and consistency of the rail interoperability by providing a set of centralised 
+services. 
+Architectural concept implementation, e.g. peer-to-peer communication, is based on technical standards for the 
+Common Interface described in the technical document ERA-TD-104 ‘Annex D.2: Appendix E – Common 
+Interface’ listed in Appendix I. 
+A pictorial representation on the general architecture is given in the document ‘TAF TSI – Annex A.5 Figures and 
+Sequence Diagrams of the TAF TSI messages’, Chapter 1.5, listed in Appendix I. 
+4.2.11.2. Network and Security 
+Network in this case means the method and philosophy of communication and does not mean the physical 
+network. 
+The network shall ensure the necessary level for cybersecurity. 
+Rail interoperability is based on a common Information Exchange Architecture, known and adopted by all 
+participants, thus encouraging and lowering barriers for new entrants, especially customers. 
+The security concept may be implemented on different layers of communication stack between two peers. 
+To achieve a high level of security, all messages must be self-contained, which means that the information in the 
+message is secured and the receiver can verify the authenticity of the message. This may be solved by using an 
+encryption and signing scheme similar to email encryption. 
+4.2.11.3. Encryption 
+Either asymmetric or symmetric encryption can be used for data transmission and storage, depending on the 
+business requirements. For this purpose, a Public Key Infrastructure (PKI) is to be implemented. 
+The encryption is based on technical standards for the Common Interface described in the technical document 
+ERA-TD-104 ‘Annex D.2: Appendix E – Common Interface’ listed in Appendix I. 
+4.2.11.4. Central Repository 
+The Central Repository must be able to handle: 
+— metadata – structured data describing the content of messages, 
+— Public Key Infrastructure (PKI), 
+— Certification Authority (CA), 
+The management of the central repository should be under the responsibility of a non-commercial co-European 
+organisation. Where the Central Repository is in use in conjunction with the TAP TSI, development and changes 
+shall be performed as closely as possible to the implemented TAP TSI in order to achieve optimum synergies. 
+4.2.11.5. Common Interface 
+Compliance to the TSI, with respect to data exchange, means the exchange of mandatory TAF data catalogue 
+elements (XSD) according to the provisions of TAF TSI Chapter 4.2. 
+This can use the Common Interface specifications including the use of XSD without any specific agreement 
+between the involved parties. The CI specifications should be regularly adapted to take new communication 
+technologies into account. 
+And combination of any communication technologies is possible if there is a specific agreement between the 
+involved parties as long it is aligned with the CI specifications. 
+EN
+Official Journal of the European Union 
+L 108/38                                                                                                                                         
+29.3.2021   
+A Common Interface has to be able to handle: 
+— message formatting of outgoing messages according to the metadata, 
+— signing and encryption of outgoing messages, 
+— addressing of the outgoing messages, 
+— authenticity verification of the incoming messages, 
+— decryption of incoming messages, 
+— conformity checks of incoming messages according to metadata, 
+— handling the single common access to various databases. 
+Each instance of a Common Interface will have access to all the data required according the TSI within each 
+Wagon keeper, LRU, RU, IM, etc., whether the relevant Databases are central or individual (see also document 
+‘TAF TSI – Annex A.5: Figures and Sequence Diagrams of the TAF TSI messages’, Chapter 1.6, listed in 
+Appendix I). 
+Where a Common Interface is in common use with the TAP TSI, the development and changes shall be 
+performed as closely as possible to the implemented TAP TSI, in order to achieve optimum synergies. Based on 
+the results of authenticity verification of incoming messages, a minimum level of message acknowledgement 
+can be implemented: 
+(i) positive send ACK; 
+(ii) negative send NACK. 
+A Common Interface uses the information in the central repository in order to manage the above tasks. 
+If an actor implements a local ‘mirror’ of the Central Repository, that actor must then – by its own means – 
+ensure that the local ‘mirror’ is an accurate and up to date copy of the Central Repository. 
+4.2.11.6. Protocols 
+Only protocols belonging to the internet Protocol Suite (commonly known as TCP/IP, UDP/IP etc.) may be used 
+for developments. 
+4.3. 
+Functional and technical specifications of the interfaces 
+In light of the essential requirements in Chapter 3, the functional and technical specifications of the interfaces are 
+as follows: 
+4.3.1. 
+Interfaces with the TSI Infrastructure 
+The infrastructure subsystem includes traffic management, tracking, and navigation systems: technical 
+installations for data processing and telecommunications intended for long-distance passenger services and 
+freight services on the network in order to guarantee the safe and harmonious operation of the network and 
+efficient traffic management. 
+The subsystem Telematics Applications for Freight uses the data required for operational purposes as given by 
+the path contract, possibly completed by infrastructure restriction data, as provided by the IM. Thus, no direct 
+interface exists between this TSI and the TSI for infrastructure. 
+4.3.2. 
+Interfaces with the TSI Control/Command and Signalling 
+The only connection to control command and signalling is via the 
+— Path contract, where within the line segment description the relevant information about usable command 
+control and signalling equipment is given, and 
+— various Rolling Sock Reference Databases, where the command control and signalling equipment of the 
+rolling stock must be stored. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/39   
+4.3.3. 
+Interfaces with the rolling stock subsystem 
+The subsystem Telematics Applications for freight identifies the technical and operational data, which must be 
+available for the rolling stock. 
+The rolling stock TSI specifies the characteristics of a wagon. If the characteristics changes for a wagon, this must 
+be updated in the Rolling Stock Reference Databases within the normal maintenance process for the database. 
+Thus, no direct interface exists between this TSI and the TSI for rolling stock. 
+4.3.4. 
+Interfaces with the TSI operation and traffic management 
+The subsystem Operation and Traffic Management specifies the procedures and related equipment enabling a 
+coherent operation of the different structural subsystems, both during normal and degraded operation, 
+including in particular train driving, traffic planning and management. 
+The subsystem Telematics Applications for Freight mainly specifies applications for freight services including 
+real-time monitoring of freight and trains and the management of connections with other modes of transport. 
+In order to ensure consistency between both TSIs, the following procedure applies. 
+When the specifications of the TSI Operation and Traffic Management related to the requirements of this TSI will 
+be written and/or will become subject to amendments, then the body in charge of this TSI must be consulted. 
+In the case that the specifications of this TSI related to operational requirements specified in the TSI Operation 
+and Traffic Management should be subject to any amendment, the body in charge of the TSI Operation and 
+Traffic Management must be consulted. 
+4.3.5. 
+Interfaces with the Telematics Applications for Passenger Services                                                                
+Interface 
+Reference Telematics Applications for 
+Freight TSI 
+Reference Telematics Applications for 
+passengers TSI 
+Train ready 
+4.2.3.3 Train ready message 
+4.2.14.1 Train ready message for all trains 
+Train running forecast 
+4.2.4.2 Train 
+running 
+forecast 
+message 
+4.2.15.2 ‘Train running forecast’ message 
+for all trains 
+Train running information 
+4.2.4.3 Train running information 
+4.2.15.1 ‘Train 
+running 
+information’ 
+message for all trains 
+Train running interrupted to 
+RU 
+4.2.5.2 Train running inter rupted 
+4.2.16.2 ‘Train 
+running 
+interrupted’ 
+message for all trains 
+Handling of short term 
+timetable data 
+4.2.2 Path Request 
+4.2.17 Handling of short term time-table 
+data for trains 
+Common Interface 
+4.2.11.6 Common Interface 
+4.2.21.7 Common interface for RU/IM 
+communication 
+Central Repository 
+4.2.11.5 Central Repository 
+4.2.21.6 Central repository 
+Reference Files 
+4.2.10.1 Reference files 
+4.2.19.1 Reference files   
+4.4. 
+Operating rules 
+In light of the essential requirements in Chapter 3, the operating rules specific to the subsystem concerned by 
+this TSI are as follows: 
+EN
+Official Journal of the European Union 
+L 108/40                                                                                                                                         
+29.3.2021   
+4.4.1. 
+Data quality 
+For data quality assurance purposes, the originator of any TSI message will be responsible for the correctness of 
+the data content of the message at the time when the message is sent. Where the source data for data quality 
+assurance purposes is available from the databases provided as part of the TSI, the data contained within those 
+databases must be used for data quality assurance. 
+Where the source data for data quality assurance purposes is not provided from the databases provided as part of 
+this TSI, the originator of the message must make the data quality assurance check from their own resources. 
+Data quality assurance will include comparison with data from databases provided as part of this TSI as 
+described above plus, where applicable, logic checks to assure the timeliness and continuity of data and 
+messages. 
+Data are of high quality if they are fit for their intended uses, which means they 
+— are Error free: accessible, accurate, timely, complete, consistent with other sources, etc., and 
+— possess desired features: relevant, comprehensive, proper level of detail, easy-to-read, easy-to-interpret, etc. 
+The data quality is mainly characterised by: 
+— Accuracy, 
+— Completeness, 
+— Consistency, 
+— Timeliness. 
+Accuracy: 
+The information (data) required needs to be captured as economically as possible. This is only feasible if the 
+primary data is only recorded, if possible, on one single occasion for the whole transport. Therefore, the 
+primary data should be introduced into the system as close as possible to its source, so that it can be fully 
+integrated into any later processing operation. 
+Completeness: 
+Before sending out messages, the completeness and syntax must be checked using the metadata. This also avoids 
+unnecessary information traffic on the network. 
+All incoming messages must also be checked for completeness using the metadata. 
+Consistency: 
+Business rules must be implemented in order to guarantee consistency. Double entry should be avoided and the 
+owner of the data should be clearly identified. 
+The type of implementation of these business rules depends on the complexity of the rule. For simple rules, 
+database constraints and triggers are sufficient. In case of more complex rules, which require data from various 
+tables, validation procedures must be implemented which check the consistency of the data version before 
+interface data are generated and the new data version becomes operational. It must be guaranteed that 
+transferred data are validated against the defined business rules. 
+Timeliness: 
+The provision of information right in time is an important point. As far as the triggering for data storage or for 
+message sending is event driven directly from the IT system the timeliness is not a problem if the system is 
+designed in well manner according the needs of the business processes. But in most of the cases, the initiation of 
+sending a message is done by an operator or at least is based on additional input from an operator. To fulfil the 
+timeliness requirements the updating of the data must be done as soon as possible also to guarantee, that the 
+messages will have the actual data content when sending out automatically by the system. 
+The response time for enquiries must be addressed for the various applications and user types within the detailed 
+IT specifications. All data updates and exchanges shall be carried out as soon as possible. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/41   
+Data quality Metrics: 
+The detailed IT specifications shall define appropriate percentages for: 
+— the completeness of data (percent of data fields having values entered into them) and the consistency of data 
+(percent of matching values across tables/files/records), 
+— the timeliness of data (percent of data available within a specified threshold time frame), 
+— the required accuracy (percent of stored values that are correct when compared to the actual value). 
+4.4.2. 
+Operating the central repository 
+The functions of the central repository are defined in Chapter 4.2.11.5 (Central Repository). For the purpose of 
+data quality assurance, the entity operating the central repository shall be responsible for the updating and the 
+quality of the metadata and also for the administration of the access control. Regarding the quality of the 
+metadata in terms of completeness, consistency, timeliness and accuracy shall enable appropriate functioning 
+for the purposes of this TSI. 
+4.5. 
+Maintenance rules 
+In light of the essential requirements in Chapter 3, the maintenance rules specific to the subsystem concerned by 
+this TSI are as follows: 
+The quality of the transport service must be guaranteed even if the data processing equipment were to break 
+down in full or in part. It is therefore, advisable to install duplex systems or computers with a particularly high 
+degree of reliability, and for which the uninterrupted operation during maintenance is ensured. 
+The maintenance aspects regarding the various databases are mentioned in Chapter 4.2.10.3 (Additional 
+Requirements on the Databases). 
+4.6. 
+Professional qualifications 
+The professional qualifications of staff required for the operation and maintenance of the subsystem and for 
+implementing the TSI are as follows: 
+The implementation of this TSI does not require a complete new system in hardware and software with new 
+staff. The realisation of the requirements of the TSI leads only to changes, upgrades or functional enlargements 
+of the operation as it is already done by the existing staff. Therefore, there are no additional requirements to the 
+existing national and European rules on professional qualifications. 
+If necessary, an add-on training of staff should not just consist of showing them how to operate equipment. The 
+member of staff must know and understand his specific role to be played in the overall transportation process. 
+Staff must in particular be aware of the requirement to maintain a high working performance level, since this is 
+a decisive factor for the reliability of the information to be processed at a subsequent stage. 
+The professional qualifications needed for the composition and operation of trains are defined in the TSI 
+Operation and Traffic Management. 
+4.7. 
+Health and safety conditions 
+The health and safety conditions of staff required for the operation and maintenance of the subsystem concerned 
+(or the technical scope as defined in paragraph 1.1) and for the implementation of the TSI are as follows: 
+There are no additional requirements to existing national and European rules on health and safety. 
+EN
+Official Journal of the European Union 
+L 108/42                                                                                                                                         
+29.3.2021   
+5. 
+INTEROPERABILITY CONSTITUENTS 
+5.1. 
+Definition 
+According to Article 2(7) of Directive (EU) 2016/797: 
+Interoperability constituents are ‘any elementary component, group of components, subassembly or complete 
+assembly of equipment incorporated or intended to be incorporated into a subsystem, upon which the 
+interoperability of the rail system depends directly or indirectly. The concept of a “constituent” covers both 
+tangible objects and intangible objects such as software’. 
+5.2. 
+List of Constituents 
+The interoperability constituents are covered by the relevant provisions of Directive (EU) 2016/797. 
+There are no interoperability constituents determined as far as the subsystem Telematics Applications for Freight 
+is concerned. 
+For the fulfilment of the requirements of this TSI only standard IT equipment is needed, without any specific 
+aspects for interoperability in the railway environment. This is valid for hardware components and for the 
+standard software used like operating system and databases. The application software is individual on each 
+user’s side and can be adapted and improved according the individual actual functionality and needs. The 
+proposed ‘application integration architecture’ assumes that applications might not have the same internal 
+information model. Application integration is defined as the process of making independently designed 
+application systems work together. 
+5.3. 
+Constituents’ Performances and Specifications 
+See Chapter 5.2, not relevant for the TSI ‘Telematics Applications for Freight’. 
+6. 
+ASSESSMENT OF CONFORMITY AND/OR SUITABILITY FOR USE OF THE CONSTITUENTS AND VERIFICATION 
+OF THE SUBSYSTEM 
+6.1. 
+Interoperability Constituents 
+6.1.1. 
+Assessment Procedures 
+Not relevant for the TSI Telematics Applications for Freight. 
+6.1.2. 
+Module 
+Not relevant for the TSI Telematics Applications for Freight. 
+6.2. 
+Subsystem Telematics Applications for Freight 
+According to Annex II of the Directive (EU) 2016/797, the subsystems are broken down into structural and 
+functional areas. 
+The conformity assessment is obligatory for TSIs in the structural area. The Subsystem Telematics Application 
+for Freight belongs to the functional area and this TSI does not determine any modules for conformity 
+assessment. 
+6.2.1. 
+Assessment of compliance of IT tools 
+Projects in charge of IT tools deployed by the European rail sector may request the Agency to assess the 
+compliance of those against the TSI requirements. 
+Request for assessment shall be accompanied by: 
+— Use Case document including: 
+— TAF TSI function covered 
+— Reference to TAF TSI chapter 
+— List and documentation of messages (including their sequence) to be tested 
+— Description of IT System, which uses TAF messages 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/43   
+— Description of communication interface of IT System (CI, other etc.) 
+— Information if request is for milestone of an EU funded project 
+— Version of the TAF TSI technical documents relevant to the scope of the assessment of the compliance 
+— XML file(s) of the IT System and their corresponding XSD file(s) 
+The Agency performs TAF TSI compliance test and issues an Agency compliance assessment report to the 
+applicant within 3 months after confirming completeness. Compliance report covers following aspects: 
+— If the Message(s) carries all mandatory elements from TAF TSI, 
+— If the Message(s) complies with the TAF TSI technical documents, 
+— If the Messages sequence is compliant with TAF TSI. 
+Other than XML messages can also be delivered for test to determine whether they carry mandatory elements 
+from the TAF TSI. In such case instead of XSD file(s) of the IT System it shall be delivered a message structure 
+description with description of the data elements/fields, mentioning when applicable the applied standard(s) and 
+their version. 
+7. 
+IMPLEMENTATION 
+7.1. 
+Introduction 
+This TSI concerns the subsystem telematics applications for freight. This subsystem is functional according to 
+Annex II to Directive (EU) 2016/797. The application of this TSI therefore does not rely on the notion of new, 
+renewed or upgraded subsystem, as is customary in the case of TSIs related to structural subsystems, except 
+where it is specified in the TSI. 
+(a) Project governance 
+The development and deployment is put under the governance of the Steering Committee. 
+The Steering Committee shall provide for the strategic management structure to efficiently manage and 
+coordinate the work for implementing the TAF-TSI. This shall involve setting the policy, the strategic 
+direction and prioritisation. 
+The Steering Committee, co-chaired by the Commission and a person nominated by the rail sector 
+representative bodies, shall be composed of: 
+— the representative bodies from the railway sector acting on a European level as defined in Article 5(3) of 
+Regulation (EU) 2016/796 (‘the rail sector representative bodies’); 
+— the Agency; 
+— the Commission and 
+— other organisations proposed to the Steering Committee to be included as observers where there are 
+sound technical and organisational reasons for doing. 
+(b) Development of the system 
+All actors concerned shall deploy the system following their individual master plan. For actors who have not 
+submitted an individual master plan, their communicated individual plan is binding. 
+(c) Deployment and operation monitoring process 
+The monitoring of the deployment and operation harmonized throughout Europe is managed by the TAF 
+Implementation Cooperation Group (ICG). 
+The ICG, established and managed by the Agency, is composed of: 
+— the Agency; 
+— the National Contact Points (see Appendix III); 
+— the Representatives Bodies and 
+— other organisations designated by the Agency and having relevant technical and organisational 
+experience. 
+EN
+Official Journal of the European Union 
+L 108/44                                                                                                                                         
+29.3.2021   
+The ICG is made responsible for: 
+— assessing the progress of implementation and operation, analysing the deviations from the Master Plan 
+and proposing improvement actions; 
+— assisting the NCPs to follow-up the TAF TSI implementation and operation at national level; 
+— approving the reports about the TAF TSI implementation and operation; 
+— reporting via the Agency to the European Commission. 
+7.2. 
+Change Management 
+7.2.1. 
+Change Management Process 
+Change management procedures shall be designed to ensure that the costs and benefits of change are properly 
+analysed and that changes are implemented in a controlled way. These procedures shall be defined, put in place, 
+supported and managed by the Agency and shall include: 
+— the identification of the technical constraints underpinning the change, 
+— a statement of who takes responsibility for the change implementation procedures, 
+— the procedure for validating the changes to be implemented, 
+— the policy for change management, release, migration and roll-out, 
+— the definition of the responsibilities for the management of the detailed specifications and for both its quality 
+assurance and configuration management. 
+The Change Control Board (CCB) shall be composed of the Agency, rail sector representative bodies and Member 
+States. Such an affiliation of the parties shall ensure a perspective on the changes that are to be made and an 
+overall assessment of their implications. The CCB ultimately shall be brought under the aegis of the Agency. 
+7.2.2. 
+Specific Change Management Process for documents listed in Appendix I to this Regulation 
+The change control management for the documents listed in Appendix I to this Regulation shall be established 
+by the Agency in accordance with the following criteria: 
+(1) 
+The change requests affecting the documents are submitted either via the Member States or via the 
+representative bodies from the railway sector acting on a European level as defined in Article 38(4) of 
+Regulation (EU) 2016/796, or via the TAF TSI Steering Committee. 
+(2) 
+The Agency shall gather and store the change requests. 
+(3) 
+The Agency shall present the change requests to the dedicated ERA working party, which will evaluate them 
+and prepare a proposal accompanied by an economic evaluation, where appropriate. 
+(4) 
+Afterwards the Agency shall present each change request and the associated proposal to the change control 
+board that will or will not validate or postpone the change request. 
+(5) 
+If the change request is not validated, the Agency shall send back to the requester either the reason for the 
+rejection or a request for additional information about the draft change request. 
+(6) 
+If the change request is validated, the technical document shall be amended. 
+(7) 
+If no consensus about the validation of a change request can be reached, the Agency shall submit to the 
+Commission a recommendation to update the documents listed in Appendix I together with the draft new 
+version of the document, the change requests and their economic evaluation and shall make these 
+documents available on their web site. 
+(8) 
+The new version of the technical document with the validated change requests shall be made available at 
+the site of the Agency. The Agency will keep the Member States informed via the Committee established in 
+accordance with Article 51(1) of Directive (EU) 2016/797. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/45   
+(9) 
+If a change request would require a change of the legal text of the TAF TSI, the Agency shall send a request 
+to the European commission to request a revision of the TAF TSI and/or request the technical opinion from 
+the Agency. 
+(10) Where change control management affects elements which are in common use within the TAP TSI, the 
+changes shall be made so as to remain as close as possible to the implemented TAP TSI in order to achieve 
+optimum synergies.   
+EN
+Official Journal of the European Union 
+L 108/46                                                                                                                                         
+29.3.2021   
+Appendix I 
+List of technical documents 
+The version in force of these technical documents is published on the website of the Agency.                                                              
+No 
+Reference 
+Title 
+1 
+ERA-TD-100 
+TAF TSI – ANNEX A.5:FIGURES AND SEQUENCE DIAGRAMS OF THE TAF TSI 
+MESSAGES 
+2 
+ERA-TD-101 
+TAF TSI – Annex D.2: Appendix A (Wagon/ILU Trip Planning) 
+3 
+ERA-TD-102 
+TAF TSI – Annex D.2: Appendix B – Wagon and Intermodal Unit Operating Database 
+(WIMO) 
+4 
+ERA-TD-103 
+TAF TSI – Annex D.2: Appendix C – Reference Files 
+5 
+ERA-TD-104 
+TAF TSI – Annex D.2: Appendix E – Common Interface 
+6 
+ERA-TD-105 
+TAF TSI – Annex D.2: Appendix F – TAF TSI Data and Message Model   
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/47   
+Appendix II 
+Glossary 
+Term 
+Description 
+AB 
+See Allocation body 
+Allocation body 
+Body responsible for path allocation, which is independent in its legal form, 
+organisation and decision-making from any railway undertaking (Directive 
+2012/34/EU of the European Parliament and of the Council (1)). 
+Applicant 
+means a railway undertaking or an international grouping of railway undertakings 
+or other persons or legal entities, such as competent authorities under Regulation 
+(EC) No 1370/2007 of the European Parliament and of the Council (2) and shippers, 
+freight forwarders and combined transport operators, with a public-service or 
+commercial interest in procuring infrastructure capacity (Directive 2012/34/EU). 
+The applicant can take the roles and the assigned tasks and responsibilities of Lead 
+RU (Lead railway undertaking) and/or Responsible Applicant and/or Responsible 
+RU depending on specific network statement. 
+Block train 
+A specific form of a direct train with only as much wagons as needed, running 
+between two transhipment points without intermediate marshalling. 
+Booking 
+The process of making a reservation for space on a means of transport for the 
+movement of goods. 
+CA 
+Certification Authority 
+CN-code 
+8-digit Code list for products used by customers. 
+Combined road-rail transport 
+or Combined Transport 
+Intermodal transport where the major part of the European journey is by rail and 
+any initial and/or final legs carried out by road are as short as possible. 
+Consignee 
+Party by whom the goods are to be received. 
+Synonym: Goods receiver 
+Consignment 
+Freight sent under a single contract of carriage. In combined transport, this term 
+may be used for statistical purposes, to measure loading units or road vehicles. 
+Consignment note 
+A document, which evidence a contract for the transportation by a carrier of one 
+consignment from a named place of acceptance to a named place of delivery. It 
+contains details of the consignment to be carried. 
+Consignor 
+Party which, by contract with a Service Integrator, consigns or sends goods with the 
+carrier, or has them conveyed by him. 
+Synonyms: Shipper, Goods sender. 
+Cooperation mode 
+Mode of train operation where various RU cooperate under the leadership of one 
+RU (LRU). Each involved RU contracts the needed path for the transport journey 
+on its own. 
+CT 
+Combined Transport 
+Customer 
+Is the entity which has issued the consignment note to the Lead RU. 
+Departure date/time, actual 
+Date (and time) of departure of means of transport. 
+Direct train 
+A train with related wagons which runs between two transhipment points (initial 
+source – final destination) without intermediate marshalling. 
+EN
+Official Journal of the European Union 
+L 108/48                                                                                                                                         
+29.3.2021   
+Term 
+Description 
+Duty holder 
+Any individual or legal entity responsible for the risk, which he imports onto the 
+network, i.e. the RU. 
+Encryption 
+Encoding of messages 
+Decryption: converting encrypted data back into original form 
+ETA 
+Estimated Time of Arrival (at destination). The estimated time of arrival (ETA) is the 
+time when the train is expected to arrive at a certain place. Estimates can be based on 
+production plans (predictions) and/or stochastic computation. 
+ETH 
+Estimated Time of Handover of a train from one IM to another. 
+ETI 
+Estimated Time of Interchange of wagons from one RU to another. 
+ETP 
+Estimated Time of Pick-Up (at arrival intermodal terminal) 
+Forecast Time 
+Best estimate of arrival, departure or passing time of a train. 
+Gateway 
+Station within the journey of a train with Intermodal units, where the load changes 
+the wagons. 
+Gross weight of load 
+Booked/actual total weight (mass) of goods, including packing but excluding the 
+carrier’s equipment. 
+Handling point 
+Station where the RU may change the train composition, but where it remains 
+responsible for the wagons, no change of responsibility. 
+Handover point 
+Location of train’s journey or between two paths where the responsibility for 
+planning and/or allocation and/or operation changes from one IM to another. The 
+involved IM assumes the role Planning IM. 
+Haulage 
+Transport by road 
+Hirer 
+Any individual or other legal entity designated as such by the keeper/owner of a 
+wagon. 
+HS code 
+6-digit Code list for products used by customers, identically to the first 6 digits of 
+the CN Code. 
+IM 
+Infrastructure Manager means some body or firm responsible in particular for 
+establishing, managing and maintaining railway infrastructure, including traffic 
+management and control-command and signalling; the functions of the 
+infrastructure manager on a network or part of a network may be allocated to 
+different bodies or firms. Where the infrastructure manager, in its legal form, 
+organisation or decision-making functions, is not independent of any railway 
+undertaking, the functions referred to in Sections 2 and 3 of Chapter IV shall be 
+performed respectively by a charging body and by an allocation body that are 
+independent in their legal form, organisation and decision-making from any 
+railway undertaking. (Directive 2012/34/EU). 
+An IM can assume the roles Responsible IM and/or Planning IM 
+Infrastructure manager (IM) 
+See IM 
+IM Entry Point 
+Section where the CT train leaves the intermodal terminal area and enters the first 
+public IM network 
+IM Exit Point 
+Section where the CT train leaves the last public IM network and enters the arrival 
+terminal 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/49   
+Term 
+Description 
+Interchange 
+The Transfer of control from one railway undertaking to another for practical 
+operational and safety reasons. Examples are: 
+— Mixed services, 
+— Services with shared haulage responsibility, 
+— The transfer of information between different railway administrations, 
+— The transfer of information between wagon owners/keepers and train 
+operators. 
+Interchange point 
+Location of train’s journey or of a path where the transfer of responsibility for the 
+whole train from one Responsible RU to another Responsible RU takes place. 
+Intermediate point 
+Location which defines a point of a train’s journey or path between its start (origin) 
+or end (destination) point. 
+Intermodal Service Integrator 
+Any body or undertaking, which has the contract with customers for the transport 
+of Intermodal units. He is preparing waybills, managing capacity on block trains etc. 
+Intermodal terminal 
+Location which provides the space, equipment and operational environment under 
+which the loading units (freight containers, swap bodies, semi-trailers or trailers) 
+transfer takes place. 
+Intermodal transport 
+The movement of goods in one and the same loading unit or vehicle, which uses 
+successively several modes of transport without handling of the goods themselves 
+in changing modes. 
+Intermodal Loading Unit 
+Containers, swap bodies and semi-trailers suitable for combined transport 
+Journey 
+A ‘journey’ denotes the spatial forwarding of a train or of a loaded or empty wagon 
+from the forwarding station to the destination station. 
+Journey section 
+Is the part of the journey which takes place on an infrastructure sector of an 
+infrastructure manager or 
+Part of the journey from the entry handover point to the exit handover point of the 
+infrastructure of an infrastructure manager. 
+Keeper 
+The person, who being the owner or having the right to dispose of it, exploits a 
+vehicle economically in a permanent manner as a means of transport and is 
+registered as such in the Rolling Stock Register. 
+Lead Railway Undertaking 
+Applicant/RU, which is responsible to organise and manage the transport line 
+according to the customer’s commitment. It is the single point of contact for the 
+customer. If more than one Railway Undertaking is involved in the transport 
+chain, the LRU is responsible for the coordination of the various Railway 
+Undertakings on the harmonization of train’s journey including the various path 
+requests. 
+LRU 
+See Lead Railway Undertaking 
+MAY 
+This word, or the adjective ‘OPTIONAL’, means that an item is truly optional. One 
+vendor may choose to include the item because a particular marketplace requires it 
+or because the vendor feels that it enhances the product while another vendor may 
+omit the same item. 
+EN
+Official Journal of the European Union 
+L 108/50                                                                                                                                         
+29.3.2021   
+Term 
+Description 
+An implementation, which does not include a particular option, MUST be prepared 
+to interoperate with another implementation, which does include the option, 
+though perhaps with reduced functionality. In the same vein an implementation, 
+which does include a particular option, MUST be prepared to interoperate with 
+another implementation, which does not include the option (except, of course, for 
+the feature the option provides). 
+Metadata 
+Simply put, is data about data. It describes data, software services, and other 
+components contained in the enterprise information systems. Examples of the 
+types of metadata include standard data definitions, location and routing 
+information, and synchronisation management for distributing shared data. 
+MUST 
+This word, or the terms ‘REQUIRED’ or ‘SHALL’, mean that the definition is an 
+absolute requirement of the specification. 
+MUST NOT 
+This phrase, or the phrase ‘SHALL NOT’, means that the definition is an absolute 
+prohibition of the specification. 
+One Stop Shop (OSS) 
+An international partnership between rail Infrastructure Managers providing a 
+single point of contact for rail customers for the purposes of: 
+— Ordering specified train paths in international freight traffic, 
+— Monitoring the entire train movement, 
+— Generally also invoicing track access charges on behalf of IMs. 
+Open Access mode 
+Mode of train operation where only one RU is involved, which runs the train on 
+various infrastructures. This RU contracts the needed paths with all involved IMs. 
+OSS 
+One Stop Shop 
+Path 
+Path means the infrastructure capacity needed to run a train between two places 
+over a given time-period (Route defined in time and space). 
+Path assembly 
+Joining up of individual train paths to extend path in terms of time and space. 
+Peer-to-Peer 
+The term ‘peer-to-peer’ refers to a class of systems and applications that employ 
+distributed resources to perform a critical function in a decentralised manner. The 
+resources encompass computing power, data (storage and content), network 
+bandwidth, and presence (computers, human, and other resources). The critical 
+function can be distributed computing, data/content sharing, communication and 
+collaboration, or platform services. Decentralisation may apply to algorithms, data, 
+and metadata, or to all of them. This does not preclude retaining centralisation in 
+some parts of the systems and applications if it meets their requirements. 
+PKI 
+Public key infrastructure 
+Place of delivery 
+Place where the delivery happens (departure rail station to be given). A place where 
+responsibility for the wagon is changed. 
+Place of departure 
+Place from which a means of transport is scheduled to depart or has departed. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/51   
+Term 
+Description 
+Place of destination 
+Place at which the means of transport is due to arrive or has arrived. 
+Synonym: Place of arrival 
+Planning IM 
+The Planning IM (PIM) is the Infrastructure Manager who is responsible for 
+elaboration and allocation of a path. The responsibility area of PIM is defined by 
+handover points e.g. used as first/last journey location in Path Information of Path 
+Request Message or of an offered/booked path. 
+In most cases, the RIM will be the same entity as the Planning IM. However, for some 
+locations and/or some trains, path elaboration and also traffic monitoring in 
+operations may also be delegated to another IM. 
+PIM 
+See Planning IM 
+Pre-departure Period 
+Is the delta time before the scheduled time of departure. The pre-departure period 
+starts at scheduled time of departure minus delta time and ends at the scheduled 
+time of departure. 
+Primary data 
+Basic data as reference data input for messages or as the basis for functionality and 
+calculation of derived data. 
+Put into Service 
+A procedure dependent on the technical approval of a wagon and a contract for use 
+with a RU, which allows commercial operation of the wagon. 
+Railway Undertaking (RU) 
+Railway undertaking (Directive (EU) 2016/798): means railway undertaking as 
+defined in point (1) of Article 3 of Directive 2012/34/EU, and any other public or 
+private undertaking, the activity of which is to provide transport of goods and/or 
+passengers by rail on the basis that the undertaking must ensure traction; this also 
+includes undertakings which provide traction only. 
+A RU can assume the roles Lead RU and/or Responsible Applicant and/or 
+Responsible RU 
+Responsible Applicant (RA) 
+The RA is the applicant/customer and contractor as well as the single point of 
+contact for respective IM (infrastructures manager) in the whole planning process 
+phase. The main task of the role RA is to request the booking of capacity to an IM. 
+The RA does not need to be a Railway Undertaking, it can also be another entity, 
+which is able and permitted to book capacity. 
+Responsible IM 
+The Responsible IM (RIM) is the Infrastructure Manager who is the owner of the 
+respective network and responsible for all operational handling of trains and paths 
+on its network. 
+Responsible RU (RRU) 
+The RRU is responsible for the run of the train in operation phase, for the whole 
+journey or a section of the journey. If more than one RRU is involved in operating 
+the train, the responsibility is transferred from one RRU to the next RRU at the 
+interchange point. 
+The RRU is the contact entity for the IM in operation phase for all message 
+exchange. 
+Based on an agreement with Responsible Applicant, RRU can also task a 
+subcontractor with running the train, the RRU will nevertheless remain the point 
+of contact for the IM in operation phase. 
+Release date/time 
+Date/time when the goods are expected to be released or were released by the 
+customer. 
+EN
+Official Journal of the European Union 
+L 108/52                                                                                                                                         
+29.3.2021   
+Term 
+Description 
+Release time for wagons 
+Date and time when the wagons are ready to be pulled from the named place on the 
+customer siding. 
+Reliability, Availability, 
+Maintainability, Safety (RAMS) 
+Reliability – The ability to start and continue to operate under designated operating 
+conditions for a designated period expressed mathematically; 
+Availability – The time in operation compared to the time out of service expressed 
+mathematically; 
+Maintainability – The ability of a system to be put back into service after a failure 
+expressed mathematically; 
+Safety – The probability of a hazardous event being initiated by the system expressed 
+mathematically. 
+Reporting point 
+Location on the train journey, where the responsible IM has to issue a ‘train running 
+forecast message’ with TETA to the path contracted RU. 
+Repository 
+A repository is similar to a database and data dictionary; however, it usually 
+encompasses a comprehensive information management system environment. It 
+must include not only descriptions of data structures (i.e. entities and elements), 
+but also metadata of interest to the enterprise, data screens, reports, programs, and 
+systems. Typically, it includes and internal set of software tools, a DBMS, a 
+metamodel, populated metadata, and loading and retrieval software for accessing 
+repository data. 
+RIV 
+Regulations governing the reciprocal use of wagons in international traffic. 
+Regulations governing the reciprocal use of loading tackle, container and pallets in 
+international traffic. 
+Route 
+The geographical way to be taken from a starting point to a point of destination. 
+Route section 
+A part of a route 
+RU 
+See Railway Undertaking 
+Scheduled time of departure 
+Date and Time of departure for which the path is requested. 
+Scheduled Timetable 
+Chronologically defined occupation of rail infrastructure for a train movement on 
+open line or in stations. Changes to the timetables will be supplied by the IM s at 
+least 2 days before the commencement of the day when the train departs from its 
+origin. This timetable applies to a specific day. Known in some countries as the 
+Operational Timetable. 
+Service Disruption 
+Means the unplanned stop of a train during operation, without any information 
+regarding the continuation of the journey 
+Service Provider 
+Responsible carrier for this specific transport stage. Party who receives and handles 
+the booking. 
+Shipment 
+Wagons or intermodal loading units transported under the terms of a single 
+consignment, irrespective of the quantity or number of containers, packages, or 
+pieces. Also called consignment. 
+Short notice path request 
+Individual request for a path according to Directive 2012/34/EU, due to additional 
+transport demands or operational needs. 
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/53   
+Term 
+Description 
+SHOULD 
+This word, or the adjective ‘RECOMMENDED’, mean that there may exist valid 
+reasons in particular circumstances to ignore a particular item, but the full 
+implications must be understood and carefully weighed before choosing a different 
+course. 
+SHOULD NOT 
+This phrase, or the phrase ‘NOT RECOMMENDED’ mean that there may exist valid 
+reasons in particular circumstances when the particular behaviour is acceptable or 
+even useful, but the full implications should be understood and the case carefully 
+weighed before implementing any behaviour described with this label. 
+Stakeholders 
+Any person or organisation with a reasonable interest in train service delivery e.g.: 
+Railway Undertaking (RU), 
+Shipment monitoring provider, 
+Locomotive provider, 
+Wagon provider, 
+Driver/Train crew provider, 
+Hump yard provider, 
+Switch move provider, 
+Service integrator, 
+Slot provider (IM), 
+Train controller (IM), 
+Traffic manager, 
+Fleet manager 
+Ferry boat provider, 
+Wagon, locomotive inspector, 
+Wagon, locomotive repair provider, 
+Shipment manager, 
+Switching & humping provider, 
+Logistic provider, 
+Consignee, 
+Consignor, 
+For Intermodal in addition: 
+Container Provider, 
+Intermodal terminal operator, 
+Drayage provider/Haulage company, 
+Steam ship, 
+Barge lines. 
+Terminal Operator 
+Means an organisational entity, which has been made responsible for the 
+management of a marshalling yard, multimodal or intermodal terminal, port 
+terminal 
+TETA 
+See Train Estimated Time of Arrival 
+Tracing 
+Activity at request of finding and reconstructing the transport history of a given 
+consignment, vehicle, equipment, package or cargo. 
+EN
+Official Journal of the European Union 
+L 108/54                                                                                                                                         
+29.3.2021   
+Term 
+Description 
+Tracking 
+Activity of systematically monitoring and recording the present location and status 
+of a given consignment, vehicle, equipment, package or cargo. 
+Train 
+Definition of OPE TSI: A train is defined as (a) traction unit(s) with or without 
+coupled railway vehicles with train data available operating between two or more 
+defined points. 
+Train 
+Time of Estimated Arrival 
+Estimated Time of Arrival of a train at a specific point, e.g. handover point, 
+interchange point, destination of the train. 
+Train path 
+See ‘path’ 
+Transhipment 
+The operation of moving intermodal loading units from one means of transport to 
+another. 
+Trip plan 
+For wagon or Intermodal unit shows the planned reference trip of the wagon/ 
+Intermodal unity. 
+Unit capacity used 
+Code to indicate to which extent the equipment is loaded or empty. (e.g. full, empty, 
+LCL). 
+Unit Load 
+A number of individual packages bonded, palletised or strapped together to form a 
+single unit for more efficient handling by mechanical equipment. 
+Unit train 
+A freight train dispatched with only one consignment note and only one type of 
+goods and composed of uniform wagons running from a consignor to a consignee 
+without intermediate marshalling. 
+Wagon load 
+A unit load whereas the unit is a wagon. 
+Consignment order 
+A subset of the consignment note which shows the relevant information for a RU, 
+needed to carry on the transportation during its responsibility until handover to a 
+next RU. 
+Instruction for the transportation of a wagon consignment. 
+Waybill 
+The document made out by the carrier or on behalf of the carrier evidencing the 
+contract for the transport of cargo. 
+(1) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway 
+area (OJ L 343, 14.12.2012, p. 32).
+(2) Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport 
+services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70 (OJ L 315, 3.12.2007, p. 1).
+EN
+Official Journal of the European Union 
+29.3.2021                                                                                                                                         
+L 108/55   
+Appendix III 
+Tasks to be undertaken by the TAF/TAP National Contact Point (NCP) 
+(1) Act as point of contact between the Agency, and railway players (Infrastructure Managers, Railway Undertakings, 
+Wagon Keepers, Station Managers, Ticket Vendors, Intermodal Operators, Rail Freight Customers and relevant 
+associations) in the Member State in order to ensure that the railway players are engaged with TAF and TAP and are 
+aware of general developments and decisions of the Steering Committee. 
+(2) Communicate the TAF TSI implementation and operation concerns and views of the railway players in the Member 
+State to the TAF/TAP Steering Committee after analysis by the Implementation Cooperation Group. 
+(3) Liaise with the Member State Railway Interoperability and Safety Committee (RISC) member ensuring that the RISC 
+member is briefed on national issues relating to TAF/TAP prior to each RISC meeting and ensuring that RISC decisions 
+relating to TAF/TAP are communicated appropriately to affected railway players. 
+(4) The Member State ensures that all licensed Railway Undertakings and other railway players (Infrastructure Managers, 
+Railway Undertakings, Wagon Keepers, Station Managers, Intermodal Operators, Rail Freight Customers and relevant 
+associations) are contacted and provided with NCP details and advised to make contact with the NCP if contact is not 
+already established. 
+(5) To the extent that railway players in the Member State are known, make them aware of their obligations under the TAF 
+and TAP regulations and that they must comply with them (regarding TAF TSI implementation and operation). 
+(6) Liaise with the Member State to ensure that an entity is appointed to be responsible for populating the Central 
+Reference Files Database with primary location codes. The identity of the appointed entity shall be reported to DG 
+MOVE for appropriate distribution. 
+(7) Facilitate information sharing between the Member States’ railway players (Infrastructure Managers, Railway 
+Undertakings, Wagon Keepers, Station Managers, Ticket Vendors, Intermodal Operators, Rail Freight Customers and 
+relevant associations) in the Member State.   
+EN
+Official Journal of the European Union 
+L 108/56                                                                                                                                         
+29.3.2021   

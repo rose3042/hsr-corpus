@@ -1,0 +1,720 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/526 
+of 15 April 2020 
+re-imposing a definitive countervailing duty on imports of tubes and pipes of ductile cast iron (also 
+known as spheroidal graphite cast iron) originating in India as regards Jindal Saw Limited following 
+the judgment of the General Court in T-300/16 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection 
+against subsidised imports from countries not members of the European Union (1), and in particular Articles 15 and 24(1) 
+thereof, 
+Whereas: 
+1. PROCEDURE 
+(1) 
+On 17 March 2016 the Commission adopted Implementing Regulation (EU) 2016/387 (2) imposing a definitive 
+countervailing duty on imports of tubes and pipes of ductile cast iron (also known as spheroidal graphite cast iron) 
+originating in India (‘the regulation at issue’). 
+1.1. The Judgement of the General Court of the European Union 
+(2) 
+Jindal Saw Limited (‘Jindal’) and its related importer, Jindal Saw Italia SpA (together ‘the applicants’), challenged the 
+anti-subsidy regulation at issue before the General Court. On 10 April 2019 the General Court issued its judgment 
+in case T-300/16 (3) regarding the Regulation at issue (‘the judgment’). 
+(3) 
+The General Court found that the calculation of the amount of benefit for Jindal resulting from the provision of iron 
+ore for less than adequate remuneration was in breach of Article 6(d) of the basic anti-subsidy Regulation in force at 
+the time of the original investigation (4) (the basic anti-subsidy Regulation). In particular, the General Court held that 
+the transport costs actually incurred by Jindal from the mine to its plant in India were higher than those that the 
+Commission took into account in the calculation of the average purchase price for iron ore in India. In the General 
+Court’s view, such difference in transportation costs means that the price at which Jindal sources iron ore on the 
+Indian market was, in fact, higher than the average purchase price used by the Commission to determine the level of 
+(1) OJ L 176, 30.6.2016, p. 55. 
+(2) Commission Implementing Regulation (EU) 2016/387 of 17 March 2016 imposing a definitive countervailing duty on imports of 
+tubes and pipes of ductile cast iron (also known as spheroidal graphite cast iron), originating in India (OJ L 73, 18.3.2016, p. 1). 
+(3) Judgment of the General Court (First Chamber, Extended Composition), of 10 April 2019, Jindal Saw Ltd and Jindal Saw Italia SpA v 
+European Commission, T-300/16, ECLI:EU:T:2019:235. 
+(4) Council Regulation (EC) No 597/2009 of 11 June 2009 on protection against subsidised imports from countries not members of the 
+European Union (OJ L 188, 18.7.2009, p. 93) (replaced by Regulation (EU) 2016/1037). 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                           
+L 118/1   
+
+remuneration, which had an inevitable impact on the benefit that could be granted to that exporting producer (5). 
+Accordingly, the General Court found that the Commission infringed Article 3(2) and Article 6(d) of the basic anti- 
+subsidy Regulation (by wrongly selecting at random certain items in the delivery costs of Jindal for the calculation 
+of the standard average transport costs) and the third subparagraph of Article 15(1) of the basic anti-subsidy 
+regulation (by fixing the countervailing duty at a level higher than the countervailable subsidies). 
+(4) 
+The General Court also found that the Commission had committed an error in respect of its undercutting 
+calculations as far as the applicants were concerned. In this case, on the one hand, in respect of the Union industry 
+the Commission took into account either the prices at an ex-works level (6) of the production entities when they 
+sold directly to independent buyers, or the prices at an ex-works level of the selling entities. On the other hand, in 
+respect of Jindal’s sales in the Union market, the Commission used as a starting price to arrive at a comparable 
+landed price in the EU the export price as constructed in the context of the determination of the dumping margin 
+(thus, taking out SG&A costs plus profits of Jindal’s related selling entities in the EU). According to the General 
+Court, the marketing of products carried out not directly by the producer, but through related selling entities, 
+implies the existence of costs and a profit margin specific to those entities, so that the prices charged by them to 
+independent buyers are generally higher than the prices charged by producers in their direct sales to such buyers 
+and thus cannot be assimilated to those latter prices (7). As a result, the General Court considered that by carrying 
+out, for the price comparison made in the context of the undercutting calculation, the assimilation between the 
+prices charged by the selling entities to independent buyers and the prices charged by producers in their direct sales 
+to such buyers, only as regards the like product of the Union industry, the Commission took into account for that 
+product a price which was inflated and therefore unfavourable to Jindal Saw, which performed the majority of its 
+sales in the Union by way of selling entities (8). For the General Court, this was an error in calculating the price 
+undercutting of the product concerned, as the undercutting calculation was not made by comparing prices at the 
+same level of trade. Therefore, the General Court found an error in that the Commission deducted the selling 
+expenses and profits of Jindal’s related selling entities in the Union from the sales to the first independent buyer, 
+while the selling expenses and profits of the Union industry’s related selling entities were not deducted from the 
+Union industry sales prices to the first independent customer. The General Court considered that the two prices 
+were not compared symmetrically at the same level of trade. 
+(5) 
+As a result, the General Court found that the Commission had also infringed Article 8(1) of the basic anti-subsidy 
+Regulation. Since the undercutting, as calculated in the regulation at issue, was the basis for the conclusion that 
+imports of the product concerned were at the root of the injury to the Union industry, the General Court found that 
+the existence of a causal link between the subsidised imports and the injury to the Union industry, as a necessary 
+condition for the imposition of an anti-subsidy duty in accordance with Article 8(5) of the basic anti-subsidy 
+Regulation, could have been tainted as well (9). 
+(6) 
+Moreover, the General Court found that it could not be excluded that, if the price undercutting had been calculated 
+correctly, the injury margin of the Union industry would have been established at a level below that of the subsidy 
+rate. In that case, in accordance with the third subparagraph of Article 15(1) of the basic anti-subsidy Regulation, 
+the amount of the countervailing duty should be reduced to a rate, which would be sufficient to remove that 
+injury (10). 
+(7) 
+In light of the above considerations, the General Court annulled the Regulation at issue insofar as Jindal Saw Limited 
+was concerned. 
+(5) Ibid. para. 225. 
+(6) Ex-works level means that transport costs have been deducted where warranted. 
+(7) Case T-300/16, para. 248. 
+(8) Ibid, para. 249. 
+(9) Ibid. para. 253. 
+(10) Ibid. para. 258. 
+EN
+Official Journal of the European Union 
+L 118/2                                                                                                                                           
+16.4.2020   
+
+1.2. Implementation of the General Court’s Judgment 
+(8) 
+According to Article 266 of the Treaty on the Functioning of the European Union (‘TFEU’), the Union institutions are 
+obliged to take the necessary steps to comply with the Court’s judgments. In case of an annulment of an act adopted 
+by the Union institutions in the context of an administrative procedure, such as the anti-subsidy investigation in this 
+case, compliance with the General Court’s judgment consists in the replacement of the annulled act by a new act, in 
+which the illegality identified by the General Court is eliminated (11). 
+(9) 
+According to the case-law of the Court of Justice, the procedure for replacing an annulled act may be resumed at the 
+very point at which the illegality occurred (12). That implies, in particular, that in a situation where an act concluding 
+an administrative procedure is annulled, that annulment does not necessarily affect the preparatory acts, such as the 
+initiation of the anti-subsidy procedure. For instance, where a regulation imposing definitive countervailing duties is 
+annulled, the proceeding remains open because it is only the act concluding the proceeding that has disappeared 
+from the Union legal order (13), except in cases where the illegality occurred at the stage of initiation. The 
+resumption of the administrative procedure with the re-imposition of countervailing duties on imports that were 
+made during the period of application of the annulled regulation cannot be considered as contrary to the rule of 
+non-retroactivity (14). 
+(10) 
+In the present case, the General Court annulled the regulation at issue as regards Jindal Saw Limited on the grounds 
+that the Commission had, with respect to the provision of iron ore, wrongly calculated the subsidy amount 
+benefitting Jindal and that it had made an error when determining the existence of significant undercutting. The 
+latter error, potentially, could have tainted the causation analysis, as well as the injury margin. 
+(11) 
+Findings in the anti-subsidy regulation at issue, which were not contested, or which were contested but rejected by 
+the General Court or not examined by the General Court, and therefore did not lead to the annulment of the 
+Regulation at issue, remain fully valid (15). 
+(12) 
+Following the Court’s judgments in case T-300/16 of 10 April 2019, the Commission decided by means of a Notice 
+(‘the re-opening Notice’) to partially re-open the anti-subsidy investigation concerning imports of tubes and pipes of 
+ductile cast iron (also known as spheroidal graphite cast iron) that lead to the adoption of the regulation at issue and 
+to resume the investigation at the point at which the irregularity occurred. The re-opening was limited in scope to 
+the implementation of the judgment of the General Court with regard to Jindal Saw Limited. 
+(13) 
+Subsequently, on 22 July 2019, the Commission decided to make imports of certain tubes and pipes of ductile cast 
+iron (also known as spheroidal graphite cast iron) originating in India and produced by Jindal Saw Limited subject 
+to registration and requested national customs authorities to await the publication of the relevant Commission 
+Implementing Regulation re-imposing the duties before deciding on the claim for repayment and remission of 
+countervailing duties insofar as imports concerning Jindal Saw Limited were concerned (16) (‘the registration 
+Regulation’). 
+(14) 
+The Commission informed interested parties of the re-opening and invited them to comment. 
+(11) Joined cases 97,193, 99 and 215/86 Asteris AE and others and Hellenic Republic v Commission [1988] ECR 2181, 
+paragraphs 27 and 28. 
+(12) Case C-415/96 Spain v Commission, ECR I-6993, paragraph 31; Case C-458/98 P Industrie des Poudres Spheriques v Council [2000] 
+ECR I-8147, paragraphs 80 to 85; Case T-301/01 Alitalia v Commission [2008] ECR II-1753, paragraphs 99 and 142; Joined cases T- 
+267/08 and T-279/08 Region Nord-Pas de Calais v Commission [2011] ECLI:EU:T:2011:209, paragraph 83. 
+(13) Case C-415/96 Spain v Commission, ECR I-6993, paragraph 31; Case C-458/98 P Industries des Poudres Spheriques v Council 
+[2000] ECR I-8147, paragraphs 80 to 85. 
+(14) Case C-256/16 Deichmann SE v Hauptzollamt Duisburg [2018], ECLI:EU:C:2018:187, paragraph 79; and C-612/16, C & J Clark 
+International Ltd v Commissioners for Her Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 58. 
+(15) Case T-650/17 Jinan Meide Casting Co. Ltd, ECLI:EU:T:2019:644, paras. 333 – 342. 
+(16) Commission Implementing Regulation (EU) 2019/1250 of 22 July 2019 making certain imports of tubes and pipes of ductile cast 
+iron (also known as spheroidal graphite cast iron) originating in India subject to registration following the re-opening of the 
+investigation in order to implement the judgments of 10 April 2019 in cases T-300/16 and T-301/16, with regard to Implementing 
+Regulations (EU) 2016/387 and (EU) No 2016/388 imposing a definitive countervailing duty and definitive anti-dumping duty on 
+imports of tubes and pipes of ductile cast iron (also known as spheroidal graphite cast iron) originating in India (OJ L 195, 
+23.7.2019, P. 13). 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                           
+L 118/3   
+
+2. COMMENTS FROM INTERESTED PARTIES 
+(15) 
+The Commission received comments from the Union industry and two exporting producers. 
+(16) 
+With regard to the subsidy calculation the complainant (SG PAM) recalled that the General Court only found that the 
+Commission had overestimated the benefit granted to Jindal in respect of the purchase of iron ore for less than 
+adequate remuneration due to an improper assessment of the transportation costs while the General Court 
+otherwise upheld the reasoning of the Commission and rejected all other challenges. Therefore, the implementation 
+of the judgment only required the Commission to re-assess the transportation costs for its re-calculation of the 
+benefit at stake. 
+(17) 
+Jindal claimed that the Commission could not instruct the national customs authorities not to repay and/or remit 
+anti-dumping duties that had been collected pursuant to the regulation at issue. It claimed that the situation in the 
+present case is different from the one in the Deichmann judgment (17). Jindal also claimed that the duties cannot be 
+re-imposed retroactively. According to Jindal, the regulation at issue was annulled in its entirety, which means that it 
+had been removed from the legal order of the Union with retroactive effect, whereas in the Deichmann judgment 
+there were no factors ‘capable of affecting the validity of the definitive regulation’. In addition, Jindal claimed that 
+the illegality found with respect to the price undercutting analysis has the result of ‘invalidating the Commission’s 
+entire analysis of causation’. This, in Jindal’s view, means that the duties in its entirety should neither have been 
+imposed, nor re-imposed, since the entire injury and causation analysis was flawed. Following disclosure, Jindal 
+repeated these claims without providing further arguments. 
+(18) 
+The Commission recalled that it is settled case-law that, when the Court declares that a regulation imposing duties is 
+invalid, such duties are to be considered as never having been lawfully owed within the meaning of Article 236 of the 
+Customs Code and, in principle, are required to be repaid by the national customs authorities under the conditions 
+set out to that effect (18). However, the Court has also held that the exact scope of a declaration of invalidity by the 
+Court in a judgment and, consequently, of the obligations that flow from it must be determined in each specific 
+case by taking into account not only the operative part of that judgment, but also the grounds that constitute its 
+essential basis (19). 
+(19) 
+In the case at hand, the General Court found an error when calculating the amount of benefit as regard the provision 
+of iron ore for less than adequate remuneration. This error only affected one of the subsidies countervailed in the 
+original investigation (amounting to 3,91 % out of 8,7 % of total ad valorem subsidisation). Thus, the error could not 
+bring the level of the duties below the de minimis thresholds. 
+(20) 
+Moreover, the General Court put into question the method of calculating undercutting with respect to Jindal and its 
+impact on causality as well as its possible impact on Jindal’s injury margin in paragraphs 255-259 of the judgment. 
+However, those elements did not call into question the validity of all other findings made in the regulation at issue 
+and which can support the validity of the Commission’s ultimate injury findings, as further elaborated in recital 
+(30). In any case, even if the findings of the re-opened investigation were that no countervailing duties should be re- 
+imposed, customs authorities would have the possibility to repay the entire amount of duties, which have been 
+collected since the regulation at issue was adopted. 
+(21) 
+Furthermore, the Court of Justice has consistently held that Article 10(1) of the basic anti-dumping Regulation (20) 
+does not preclude acts from re-imposing anti-dumping duties on imports that were made during the period of 
+application of the regulations declared to be invalid (21). The Commission considers that those findings apply 
+equally to countervailing duties since also Article 16 of the basic anti-subsidy regulation currently in force (22) does 
+not preclude acts from re-imposing countervailing duties on imports that were made during the period of 
+application of the regulations declared to be invalid. Consequently, as explained in recital (15) of the registration 
+(17) Case C-256/16 Deichmann SE v Hauptzollamt Duisburg [2018], ECLI:EU:C:2018:187 
+(18) See, to that effect, Case C-256/16 Deichmann SE v Hauptzollamt Duisburg, and the judgments quoted in paragraph 62 thereof, 
+namely, C-351/04 Ikea Wholesale, of 27 September 2007, EU:C:2007:547, paragraphs 66 to 69, and, C-365/15, Wortmann, of 
+18 January 2017 EU:C:2017:19, paragraph 34. 
+(19) C-256/16 Deichmann SE v Hauptzollamt Duisburg, para 63 and the case-law cited therein. 
+(20) Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports 
+from countries not members of the European Union (OJ L 176, 30.6.2016, p. 21). 
+(21) C-256/16 Deichmann, EU:C:2018:187, paragraphs 77 and 78; and C-612/16, C & J Clark International Ltd v Commissioners for Her 
+Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 57. 
+(22) Regulation (EU) 2016/1037. 
+EN
+Official Journal of the European Union 
+L 118/4                                                                                                                                           
+16.4.2020   
+
+Regulation, the resumption of the administrative procedure and the eventual re-imposition of duties cannot be 
+considered as contrary to the rule of non-retroactivity (23). In fact, the re-opening Notice already informed interested 
+parties, including importers, that any future liability, if warranted, would emanate from the findings of the re- 
+examination. Accordingly, Jindal’s claim that the duties cannot be re-imposed pursuant to the re-opening of the 
+original investigation was rejected. 
+(22) 
+Jindal also claimed that in order to comply with the General Court’s judgment the Commission must use Jindal’s 
+actual prices to its first independent customers. It emphasised that the Commission must not construct the prices of 
+the Union industry’s sales subsidiaries. It claimed that this would be contrary to paragraph 251 of the judgment in 
+which the Court ruled: ‘…that prices used in the undercutting calculation should be prices negotiated with independent 
+buyers, namely prices, which could have been taken into account by them in order to decide whether they purchased the Union 
+industry’s product or the product of the exporting producers in question, and not the prices at an intermediate stage’. In this 
+respect, the Commission considered that in Kazchrome (24), i.e. the source quoted by the General Court in Jindal, the 
+General Court did not go as far as making the categorical conclusion now drawn by Jindal (namely, that in all cases 
+when conducting undercutting calculations what matters is the actual prices charged by the exporting producer’s 
+related selling entities in the EU). In fact, the General Court in Kazchrome was cautious when stating that ‘the 
+conclusion resulting from the foregoing examination concerns only the present case’ (25). The Commission is of the 
+view that the CIF landed prices at the ports of customs clearance may be used in the context of examining price 
+effects of subsidised imports through specific undercutting calculations. It is at that level that imports normally 
+compete with the Union industry’s prices, because it is at that level that traders make their choice whether to source 
+the product form the Union Industry or the exporting producers. Trying to estimate what those CIF landed prices are 
+in the context where the exporting producer sells through related entities in the Union for the purpose of the 
+undercutting calculations is no different from a situation where the Commission directly uses for the comparison 
+the CIF landed prices of exporting producers when selling directly into the Union. Thus, the reference to ‘negotiated 
+prices’ both in Kazchrome and then later on in Jindal should be understood in their proper context. 
+(23) 
+Jindal also claimed that the Commission should correct other flaws and calculation errors, which emerged after the 
+regulation at issue was adopted. As explained in the re-opening Notice, findings reached in the regulation at issue 
+which were not contested, or which were contested but rejected by the judgment of the General Court or not 
+examined by it, and therefore did not lead to the annulment of the regulation at issue, remain fully valid (26). 
+Therefore, the Commission is not required to look into allegations on issues beyond what the General Court found 
+illegal. 
+(24) 
+The other exporting producer, Electrosteel Castings Ltd. (‘ECL’), claimed that in case the Commission determines that 
+the imports from Jindal were not the cause of injury to the Union industry, it should reassess whether the measures 
+should be maintained against imports from ECL. It also claimed that in case the Commission corrects the margins of 
+Jindal, ECL’s margins should also be corrected. Upon disclosure ECL, supported by the Government of India, 
+reiterated these claims and argued that the recalculation of its margins is a necessary consequence of the re-opening 
+of this procedure. The Commission should therefore carry out this exercise ex officio. 
+(25) 
+Regarding the first of ECL’s claims, the Commission observed that, as noted in recital (30), the Commission did not 
+need to recalculate ECL’s undercutting margin in this case. In any event, even after the undercutting re-calculation 
+for Jindal, following the approach described in Section 4.2 below, the Commission determined that there was still a 
+causal link between the subsidised imports and the Union industry’s injury as set out in Section 4.4. This claim did 
+therefore become moot. The Commission also rejected the second claim as any re-calculation of ECL margins falls 
+outside of the scope of the present procedure. Even assuming that ECL’s claim that its undercutting margin was in 
+the range of the margin established for Jindal following the approach described in Section 4.2, the Commission 
+(23) Case C-256/16 Deichmann SE v Hauptzollamt Duisburg, para. 79; and Case C-612/16, C & J Clark International Ltd v Commissioners 
+for Her Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 58. 
+(24) Judgment of 30 November 2011, Transnational Company ‘Kazchrome’ and ENRC Marketing v Council and Commission, T-107/08, ECLI:EU: 
+T:2011:704. 
+(25) Judgment of 30 November 2011, Transnational Company ‘Kazchrome’ and ENRC Marketing v Council and Commission, T-107/08, ECLI:EU: 
+T:2011:704, para. 68. 
+(26) Case T-650/17 Jinan Meide Casting Co. Ltd, ECLI:EU:T:2019:644, paras. 333 – 342. 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                           
+L 118/5   
+
+noted that there would be still undercutting, albeit lower, for all Indian imports. Such a level of undercutting, in view 
+of the specific market circumstances of the product concerned, would be significant to find that the subject Indian 
+imports were a genuine and substantial cause for the injury found. The Commission further addressed this issue in 
+Section 4.4. 
+(26) 
+The Union industry claimed that in its injury analysis the Commission should take into account the depressing price 
+effect of the imports on the Union industry. Conversely, upon disclosure ECL claimed that such analysis goes beyond 
+the scope of this re-opened procedure and should not be carried out. The Commission found that price depression 
+analysis is an integral part of the causation analysis, which the General Court explicitly found could be tainted by 
+the error at issue. Therefore, the Commission further analysed the price depression as set out in Section 4.5 below. 
+3. SUBSIDY CALCULATION 
+(27) 
+The General Court found in respect of the provision of iron ore for less than adequate remuneration that the 
+Commission had wrongly calculated the amount of benefit for Jindal. More particularly, it found that the 
+Commission had wrongly adjusted Jindal’s purchase price of iron ore with an average transport costs to establish a 
+purchase price at ex-mine level. Instead, the Commission should have adjusted the purchase price with the 
+transport costs actually incurred by Jindal. 
+(28) 
+The Commission re-calculated the benefit accruing from the provision of iron ore to Jindal for less than adequate 
+remuneration by adjusting its purchase price of iron ore with the transport related costs actually incurred. As a 
+consequence, the re-calculated subsidy amount for iron ore was revised downwards from 3,91 % to 1,23 %. 
+(29) 
+The judgment of the General Court in case T-300/16 did not affect any other findings in the regulation at issue that 
+are relevant for the determination of the subsidy amounts granted to Jindal, which therefore remain valid. 
+Accordingly, the re-calculated amount of countervailable subsidies, expressed as a percentage, is established at 6,0 % 
+(as opposed to 8,7 %). 
+4. RE-EXAMINATION OF UNDERCUTTING/PRICE DEPRESSION BY THE SUBJECT IMPORTS AND THE INJURY 
+MARGIN AS REGARDS JINDAL SAW LIMITED 
+4.1. The impact of Jindal’s sales on the injury determination 
+(30) 
+The Commission recalled that the imports by Jindal accounted for around 20 % of total imports from India during 
+the investigation period. All other imports are not affected by the General Court’s ruling. In other words, even 
+taking out Jindal’s imports from the assessment of price effects, the findings of significant undercutting (27) with 
+respect to a very significant part of the subject imports would remain unaffected. In this respect, the Commission 
+recalled that both the consideration of price effects as well as a determination that the subject imports caused injury 
+to the domestic industry are made with respect to the imports from the country or countries concerned as a whole 
+(as opposed to on the basis of each exporting producer). (28) Therefore, the Commission considered that revising 
+Jindal’s undercutting calculations did not taint the conclusion that, overall, there was significant undercutting by 
+Indian imports. Thus, the error found by the General Court did not have a material impact on the overall findings 
+of undercutting made in the original investigation. In this sense, all the injury findings made in the original 
+regulation are hereby incorporated and confirmed. 
+(27) See recitals (301) and (340) of Implementing Regulation (EU) 2016/387 imposing a definitive countervailing duty on imports of tubes 
+and pipes of ductile cast iron (also known as spheroidal graphite cast iron) originating in India (‘the Regulation at issue’). 
+(28) See, in this sense, judgment of the General Court (Second Chamber) of 8 May 2019, in Case T-749/16, Stemcor London, ECLI:EU: 
+T:2019:310, para. 84 (‘[T]he Court has held that the injury caused to an established Union industry by dumped imports must be 
+assessed as a whole, and it is not necessary (or, indeed, possible) to define separately the share in such injury attributable to each of 
+the companies responsible’). 
+EN
+Official Journal of the European Union 
+L 118/6                                                                                                                                           
+16.4.2020   
+
+4.2. Determination of undercutting with respect to Jindal 
+(31) 
+Even if, as found in recital (30), the Commission considered that the impact of the error found by the General Court 
+would not taint the Commission’s undercutting and injury findings, the Commission examined in more detail 
+whether there would still be undercutting with respect to Jindal also considering the specific market conditions in 
+this case. 
+(32) 
+The General Court stated that the obligation to carry out an objective examination of the impact of subject imports, 
+as required by Article 8(1) of the basic anti-subsidy Regulation, requires a fair comparison to be made between the 
+price of the product concerned and the price of the like product of the Union industry when sold in the territory of 
+the Union. In order to ensure the fairness of such comparison, the prices must be compared at the same level of trade 
+(see para. 239 of case T-300/16). 
+(33) 
+In the case at hand, there are a number of significant specific market characteristics relating to the product 
+concerned, which are described below. 
+4.2.1. The product and the companies concerned 
+(34) 
+The product concerned is tubes and pipes of ductile cast iron (also known as spheroidal graphite cast iron) (‘ductile 
+pipes’), with the exclusion of tubes and pipes of ductile cast iron without internal and external coating (‘bare pipes’), 
+originating in India, currently falling under CN codes ex 7303 00 10 and ex 7303 00 90 (TARIC codes 
+7303 00 10 10 and 7303 00 90 10). 
+(35) 
+The Commission recalled that two (out of three) groups of companies making the product concerned cooperated as 
+the Union Industry (representing around 96 % of total production). The first group of Union producers, SG PAM 
+Group (‘SG PAM’), was selling to independent customers in the Union via its three production companies located in 
+France, Germany and Spain as well as via many sales subsidiaries located in different Member States (29). The second 
+group of Union producers, Duktus Rohrsysteme GmbH, was selling from its German production company and via 
+one sales subsidiary (30). Jindal, on the other hand, sold the product concerned in the Union via three sales 
+subsidiaries located in Italy, Spain and the UK (31). 
+4.2.2. Specificities of the ductile iron pipes market in the Union 
+4.2.2.1. Sales channels/types of customers 
+(36) 
+The main use of ductile pipes is transport of water and sewage. Hence, water supply and water treatment companies, 
+ultimately, account for most of the demand for the product concerned. These companies use ductile pipes in large 
+infrastructure projects, and their purchases are subject, directly or indirectly, to public procurement through public 
+tenders. As set out in the complaint (32), ductile pipes are sold either directly to contractors or water companies (i.e. 
+sales to users) or indirectly via merchants (i.e. sales to distributors). Even if a large proportion of ductile pipes is first 
+sold to construction companies, these companies participate in the tenders of water supply and treatment 
+companies, so the tender price pressure is almost always present in the end. Thus, most of the sales of ductile pipes 
+in the Union market are linked directly or indirectly to tenders in the various Member States. 
+(37) 
+SG PAM sold around 75 % of its output to users and the remaining 25 % to unrelated distributors. Ductus had a 
+different sales structure as it was selling mainly to unrelated distributors (almost 90 % of sales). However, given that 
+Duktus’ sales accounted for only a small proportion of the Union industry’s sales, the Commission confirmed that 
+no less than 65 % of Union industry’s sales went directly to users. 
+(38) 
+Jindal had a similar type of customers’ sales structure to the Union industry: it sold more than 70 % to users and 
+around 30 % to unrelated distributors. 
+(29) To streamline the investigation the Commission sampled the six largest of SG PAM’s sales subsidiaries. 
+(30) Duktus also sold via a sales subsidiary in Czech Republic, but given the small size of it, its data was not verified. 
+(31) All three Jindal’s subsidiaries were verified. Jindal also had less than 3 % of the Union sales directly from India to the remote islands of 
+Reunion and Mayotte, which are considered the EU customs territory. 
+(32) Consolidated version of the complaint lodged on 10 November 2014, for inspection by interested parties, p. 6. 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                           
+L 118/7   
+
+(39) 
+Therefore, the Commission concluded that Jindal and the Union industry sold the product concerned to similar 
+types of customers in similar proportions. 
+4.2.2.2. Direct sales from the producers versus sales via sales subsidiaries 
+(40) 
+SG PAM had a territorial sales structure in which its entities focused on the local markets where they were present. 
+This applied to both SG PAM’s producers and its sales subsidiaries. For instance, SG PAM France was the only SG 
+PAM’s entity selling directly to final users in France. Even if a certain product type was manufactured by SG PAM 
+Germany or Spain, such a product type was first re-sold internally to SG PAM France and only then sold to the final 
+user by SG PAM France. Likewise, SG PAM Belgium was the only selling entity in Belgium [and Luxembourg]; SG 
+PAM UK in the UK [and Ireland]; SG PAM Italy only in Italy etc. In other words, the three producing entities were 
+not selling directly to users in the markets where other producing entity or a sales subsidiary were present. This 
+structure reflects the fact that the market is driven by tenders organised by municipalities/public utilities companies 
+in the Member States and, accordingly, the appropriate sales representation is needed in each market. 
+(41) 
+Duktus also had a localised sales structure as it sold more than 50 % of its output in its home market, Germany. 
+Duktus had only one sales subsidiary Duktus Czech Republic (‘Duktus CZ’), which was selling only in the Czech 
+Republic and Slovakia. The sales of Duktus CZ were relatively small (around 10 % of all Duktus sales). Jindal had 
+only minimal sales (less than 1 %) in these two markets. 
+(42) 
+The Commission carried out a detailed price analysis for SG PAM to determine the price patterns of direct sales from 
+the factory and indirect sales through its sales subsidiaries. SG PAM is by far the largest Union producer and 
+accounting for 80 % of the cooperating Union producers sales in the Union and 90 % of production (33). The 
+Commission compared the sales prices of the 10 most sold product types (34) for three SG PAM’s production 
+companies and its two largest sales subsidiaries selling similar volumes. The comparison rendered considerable 
+variances of prices within a single product type. In particular, sales subsidiaries often had lower prices than sales by 
+producers but the contrary was also true. This could be explained because, as explained before, the market of the 
+product concerned appears to be affected by the use of tenders. Depending on the geographical market, the price of 
+the product type at issue could vary. With regard to geographical markets, the Commission observed that in 
+principle only one sales channel was used on the respective geographical market as described in recital (40). Hence, 
+no comparison of price patters between sales from production companies versus sales via sales domestic sales 
+entities could be carried out on the same geographical market for representative volumes. 
+(43) 
+Therefore, the Commission concluded that selling directly by the producer or selling via the producer’s selling 
+entities had no discernible impact on the price level of such sales to the customer. In particular, selling via a related 
+entity was not found to lead to higher prices than sales made directly by the producer because of the tender price 
+pressure and different price level depending on the geographical location. Even if the Union industry had final sales 
+from its producing companies in its domestic markets, these sales were to the same type customers as the sales of 
+its sales subsidiaries in the other Member States. Accordingly, based on this detailed analysis of the prices charged 
+by the Union industry on the Union market, the Commission found it appropriate to treat direct sales and indirect 
+sales through sales subsidiaries as being carried out at the same level of trade. 
+4.2.3. Overall conclusion and Jindal’s undercutting margin 
+(44) 
+In light of the foregoing, the Commission found that ductile pipes sector has several specificities, which enable it to 
+consider that the Union industry’s and Jindal’s sales were carried out at the same level of trade: 
+— Both the Union industry and Jindal had a similar share of direct sales to users and indirect sales via 
+merchants/distributors (around 70 %/30 % respectively); 
+— As a general rule, the direct sales to unrelated customers from the Union producers did not follow a different 
+price pattern from the sales which were made via their sales subsidiaries; 
+(33) The higher ratio of production is explained by the fact that SG PAM was exporting more than Duktus. 
+(34) These 10 product types accounted for more than 30 % of all SG PAM Sales. Because the product types were highly scattered – the 
+most sold product type constituted only 6 % of all sales, while the 10th largest only 2,7 %, the Commission considered the top 10 
+representative. 
+EN
+Official Journal of the European Union 
+L 118/8                                                                                                                                           
+16.4.2020   
+
+— The market is tender-driven and as a result there is almost always a significant price pressure. The additional 
+costs entailed by the existence of related selling entities for both exporting producers and the Union industry 
+could not necessarily be passed on to the final independent buyers, as demonstrated by the fact that there were 
+no discernible price patterns for direct and indirect sales. 
+(45) 
+Given the General Court’s findings in case T-300/16 and in particular the statements at para. 248 of the judgment as 
+set out in recital (4) above, the Commission could not find evidence that the additional costs and profit margins of 
+the selling entities of the Union producers generally resulted in higher prices to independent buyers for the reasons 
+explained in recitals 42 and 43. The market particularities in certain instances show that it is not always the case 
+that costs generated by intermediate selling entities and profits can automatically be reflected in the price, like in the 
+present case, as the General Court also implicitly recognised by adding the word ‘generally’. 
+(46) 
+Nevertheless, in order to comply with the judgment and in particular the statements made by the General Court in 
+paragraph 248 of the judgment, the Commission examined whether there would be undercutting even when 
+comparing the prices to the first independent customer at the level of the selling entities, be it the production 
+companies directly or the sales subsidiary. This was done without prejudice to the findings made above. 
+(47) 
+The Commission hence used the final sales prices to the first independent customer in the Union of both sides 
+(Union industry and Jindal) adjusted for allowances. Where appropriate the Commission adjusted that final price to 
+the first independent customer for transport, insurance, handling, loading costs, packing, credit, warranty expenses 
+and commissions between the company making the sales and the unrelated customer. This resulted in an 
+undercutting margin of 3,1 %. 
+(48) 
+Accordingly, the re-examination of the specific situation concerning Jindal showed that Jindal’s sales prices undercut 
+the Union industry’s sales prices although at a lower level than established in the original investigation. As explained 
+below, such undercutting can be considered as significant in a market situation where price sensitivity is important. 
+4.3. Price depression 
+(49) 
+In any event, even if Jindal’s revised undercutting margin were to be deemed marginal or inappropriate, the 
+Commission considered that the subject imports would still exercise negative price effects on Union sales. 
+(50) 
+Subsidised imports can have a significant impact on the market especially when the products are homogenous and 
+when price sensitivity is important. Ductile pipes are products with high price sensitivity and for this type of 
+products even a small price difference can have a major impact on the market. 
+(51) 
+Ductile pipes are a product defined by technical standards. Therefore, for the same type of product, there is relatively 
+little difference in quality, which makes prices an overwhelmingly important factor in purchase decisions. In 
+addition, the main sales channel are direct and indirect tenders, where the lowest bidder logic is extremely strong. 
+That logic applies to direct participations in tenders by the manufacturers and their sales subsidiaries, but also for 
+indirect participation when they provide products to other companies who are participating in the tenders. These 
+companies usually are construction companies responding to the tenders of contracting authorities (city councils, 
+water supply companies etc.). These tenders include both the supply and the installation of the pipes. As tenders are 
+usually open to all bidders, all companies were under pressure to reduce their prices to align themselves with the 
+lowest bidder in order to win a contract. 
+(52) 
+In these specific circumstances, the prices of the product concerned were depressed by the fast increasing Indian 
+subsidised imports as set out in recital (57) below, and the price undercutting alone did not fully reflect the negative 
+impact of the subsidised imports on the Union industry’s price. As explained in the regulation at issue, (35) whilst the 
+Indian sales and market share increased materially during the investigation period, the volume of sales of the Unioni 
+(35) See recitals (336) and (338) of Implementing Regulation (EU) 2016/387 imposing a definitive countervailing duty on imports of tubes 
+and pipes of ductile cast iron (also known as spheroidal graphite cast iron) originating in India. 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                           
+L 118/9   
+
+industry fell much more than the consumption and the Union Industry lost sales by 11 % and its market share fell by 
+4 %. A continued pressure exerted by low-priced subsidised imports (36) did not allow the Union industry to adapt its 
+sales prices. 
+(53) 
+Consequently, the Commission concluded that, even if the existence of undercutting were to be contested, there 
+would be price depression exercised by the subject imports in this case. 
+4.4. Causation 
+(54) 
+The Commission further examined whether there would still be a causal link between the subsidised imports and the 
+injury in view of the revised undercutting margin for Jindal and/or the alternative price depression findings. In this 
+respect, the Commission recalled that Jindal’s imports accounted for around 20 % of the subsidised imports. The 
+Commission also found that the re-calculated lower undercutting margin for Jindal’s sales did not alter the fact that 
+also all other imports from India were undercutting the Union industry’s sales prices as set out in recital 25, as 
+those imports were not subject to the General Court’s findings. Jindal’s revised undercutting margin, together with 
+the significant undercutting margin found for most of the Indian imports in the original investigation confirm the 
+original finding made by the Commission about the existence of material injury as well as the causation in this case. 
+(55) 
+The Commission then made an overall analysis of the causal link between the injury found and all subsidised 
+imports from India, also bearing in mind the alternative price depression findings. 
+(56) 
+The Commission found that the profitability of the sales of the Union industry to independent customers was very 
+low. The competitive pressure from subsidised imports made the Union industry unable to increase sufficiently its 
+prices in order to improve its financial situation. The low profitability shows that the subsidised imports depressed 
+the Union industry prices and prevented it from increasing them in order to achieve sustainable levels of 
+profitability. 
+(57) 
+Moreover, as set out in the regulation at issue (recitals 288 and 289) the volume of subsidised imports increased 
+significantly in spite of a shrinking market. The subsidised imports increased by more than 10 % during the period 
+considered. In this respect, Article 8(5) of the basic anti-subsidy Regulation provides that the volume of the 
+subsidised imports alone may be responsible for the material injury to the Union industry. 
+(58) 
+Therefore, the Commission concluded that despite the lower level of re-established undercutting margin for Jindal all 
+imports were undercutting the Union Industry’s sales. There is hence still a causal link between all subsidised imports 
+from India and the injury suffered to the Union industry. Moreover, even if the undercutting findings with respect to 
+the subject imports could be put into question, the Commission concluded that the Indian imports caused 
+significant price depression and thus the original injury/causation findings are hereby confirmed. 
+4.5. Injury margin 
+(59) 
+The General Court found at para. 258 of the judgment in case T-300/16 that if the Commission had calculated the 
+price undercutting correctly, it could not be excluded that the injury margin of the Union industry could have been 
+established at a level below that of the subsidy rate. 
+(60) 
+First, the Commission notes that the rules on the determination of the injury margin that had been applicable when 
+the investigation leading to the measures was concluded, have been changed by Regulation (EU) 2016/1037. The 
+new rules only require in exceptional circumstances to calculate an injury margin. 
+(61) 
+Second, the Commission recalled that the analysis of undercutting and the determination of the injury margin 
+pursue different objectives. The undercutting analysis aims at determining whether the subject imports have an 
+impact on the prices of the Union industry. Findings on undercutting are one of the elements that the Commission 
+considers in the injury and causal link analysis. By contrast, the purpose of establishing an injury margin is to 
+examine whether a duty lower than the subsidy amount found would be sufficient to remove the injury. Unlike in 
+the context of determining injury and the detailed obligations in Article 8 of the basic anti-subsidy Regulation, the 
+legislator has not set a comprehensive set of rules on how the Commission should estimate such a duty level, At the 
+time, Article 15(1) simply stipulated: ‘The amount of the countervailing duty shall not exceed the amount of 
+(36) The fact that Indian imports were made at prices lower than the Union sales could be seen in the tables in recitals (291) (Indian import 
+prices) and (317) (average unit price in the Union) of the regulation at issue. 
+EN
+Official Journal of the European Union 
+L 118/10                                                                                                                                         
+16.4.2020   
+
+countervailable subsidies established, but it should be less than the total amount of countervailable subsidies if such 
+lesser duty would be adequate to remove the injury to the Union industry.’ In the case in question the Commission 
+was calculating a price sufficient to cover the cost of production of the Union industry increased by a reasonable 
+amount of profit (so called ‘non-injurious price’). This price was compared to the import price. This difference in 
+price was expressed as a percentage of the CIF price of the imported product so that such percentage or margin 
+could then be compared to the amount of subsidisation found (also expressed on the basis of CIF prices). Indeed, 
+whether based on the injury margin or on the amount of subsidisation, the duty will always be applied to the CIF 
+price of the imported products when such products are cleared through customs in the Union. 
+(62) 
+Moreover, the methodology and figures used in the context of undercutting are different to the ones in the 
+underselling calculations. An undercutting margin is calculated per product type (‘PCN’) as a difference between the 
+actual import prices of the exporting producer and the actual Union producers’ prices expressed as a percentage of 
+the Union Industry’s price. The overall weighted undercutting margin is then calculated as a difference between the 
+actual import prices of the exporting producer and the actual Union producers’ prices expressed as a percentage of 
+the ‘theoretical turnover’ of the exporting producer, i.e. the amount the exporting producer would have made, had 
+it sold the imported quantities at the same price as the Union producers. In contrast, the injury margin is calculated 
+(also on a PCN basis) as a difference between the non-injurious price of the Union industry and the actual import 
+price, expressed as a percentage of the actual exporting producer’s CIF value (thus, actual as opposed to theoretical 
+turnover). 
+(63) 
+Thus, an error in determining the existence and amount of undercutting for a given exporting producer does not 
+necessarily has an automatic impact on the determination of the injury margin for such an exporting producer. 
+(64) 
+In any event, in light of para. 258 of the General Court’s judgment the Commission reviewed Jindal’s injury margin. 
+(65) 
+In normal circumstances, the non-injurious price of the Union industry is based on the cost of production per 
+product type, including SGA, plus a reasonable profit and established at ex-works level. However, in this particular 
+case the Commission did not have sufficiently detailed and verified information concerning the costs of production 
+on a PCN basis, which is necessary for calculating the injury margin as described above. The Commission had, on 
+the other hand, in its possession information also including the selling costs and profits of the Union producers’ 
+selling entities. Given the particular circumstances in this case, especially the numerous variances in product types 
+and specific technical standards/specifications stemming from tender specifications, the non-injurious price was 
+exceptionally based on the final sales price per product type, adjusted for allowances as described above in recital 
+47, from which the actual profit was deducted and a reasonable profit was then added. Given these special 
+circumstances, in order to comply with the judgment, it was exceptionally considered appropriate to compare that 
+price with the final sales price of Jindal symmetrically, i.e. at the level of its related importers, also adjusted only for 
+allowances as described in recital (47) above, but including SG&A and profit if any. 
+(66) 
+The re-calculated injury margin was thus established at 9,0 %. 
+(67) 
+Following disclosure SG PAM took issue with the injury margin established at this level. First, SG PAM claimed that the 
+Commission over-implemented the Court’s findings by recalculating the injury margin as, in their view, the Court did not 
+find any error in the calculation of the injury margin. Second, SG PAM claimed that the proposed injury margin would 
+not remove the injury to the Union Industry given that the re-established level of duty would be comparable to that of 
+ECL. Based on the market intelligence SG PAM claimed that such a level of duties affected neither ECL’s volumes nor 
+prices, which made SG PAM unable to reach a non-injurious level of prices and improve its profitability. The 
+Commission should either not apply the lesser duty rule or use a different calculation methodology. 
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                         
+L 118/11   
+
+(68) 
+Regarding the first claim, the Commission recalled as set out in recital 6 that the General Court explicitly instructed the 
+Commission to examine if recalculating the undercutting margin would also have an effect on the final duty level because 
+of a potential change in the injury margin. 
+(69) 
+Second, the Commission reiterated the legal framework for setting the appropriate level for countervailing measures. 
+Under Article 15(1) third subparagraph, the ‘amount of the countervailing duty shall not exceed the amount of 
+countervailable subsidies established, but it should be less than the total amount of countervailable subsides if such lesser 
+duty would be adequate to remove the injury to the Union industry’. Accordingly, there is no general rule to set the duty at 
+a level, which removes injury for the Union. Rather, this question only comes into play where the injury margin is lower 
+than the amount of subsidisation. 
+(70) 
+This is not the case here. As the injury margin of 9 % was higher than the amount of subsidisation of 6 %, the basic 
+Regulation directs the Commission to enact the latter as the duty rate. 
+(71) 
+Third, there was no legal requirement to calculate the injury margin differently. The current re-investigation is limited to 
+correcting the errors identified by the Court. While this entails a correction of the appropriate level for establishing the 
+injury margin, it does not mean that the other steps in the originally applied methodology can be overhauled. 
+(72) 
+For these reasons, the Commission rejected these claims. 
+5. DEFINITIVE COUNTERVAILING MEASURES 
+(73) 
+On the basis of the conclusions reached by the Commission on subsidisation, injury and causation in this re-opened 
+anti-subsidy investigation, a definitive countervailing duty shall be re-imposed on imports of pipes and tubes of 
+ductile cast iron (also known as spheroidal graphite cast iron) originating in India and manufactured by Jindal Saw 
+Limited. 
+(74) 
+Given that the re-established injury margin (9,0 %) is higher than the re-calculated subsidy amount (6,0 %), in 
+accordance with the applicable rules in the original investigation, the countervailing duty rate should be set at the 
+level of the amount of subsidisation. Accordingly, the re-imposed countervailing duty rates for Jindal Saw Limited 
+are as follows.                                                                
+Company 
+Amount of subsidisation 
+Injury margin 
+Countervailing duty rate 
+Jindal Saw Limited 
+6,0 % 
+9,0 % 
+6,0 %   
+(75) 
+The revised level of countervailing duty applies without any temporal interruption since the entry into force of the 
+regulation at issue (namely, as of 19 March 2016 onwards). Customs authorities are instructed to collect the 
+appropriate amounts on imports concerning Jindal Saw Limited and refund any excess amount collected so far in 
+accordance with the applicable customs legislation. 
+(76) 
+In view of Article 109 of Regulation (EU, Euratom) No 2018/1046 (37), when an amount is to be reimbursed 
+following a judgment of the Court of Justice of the European Union, the interest to be paid should be the rate 
+applied by the European Central Bank to its principal refinancing operations, as published in the C series of the 
+Official Journal of the European Union on the first calendar day of each month. 
+(77) 
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established by 
+Article 15(1) of Regulation (EU) No 2016/1036. 
+(37) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the 
+general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, 
+(EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing 
+Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1). 
+EN
+Official Journal of the European Union 
+L 118/12                                                                                                                                         
+16.4.2020   
+
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+1.
+A definitive countervailing duty is hereby imposed on imports of tubes and pipes of ductile cast iron (also known as 
+spheroidal graphite cast iron), with the exclusion of tubes and pipes of ductile cast iron without internal and external 
+coating (‘bare pipes’), currently falling under CN codes ex 7303 00 10 and ex 7303 00 90 (TARIC codes 7303 00 10 10, 
+7303 00 90 10), originating in India and manufactured by Jindal Saw Limited, as of 19 March 2016. 
+2.
+The rate of the definitive countervailing duty applicable to the net, free-at-Union-frontier price before duty, of the 
+product described in paragraph 1 and manufactured by Jindal Saw Limited, shall be 6,0 % (TARIC additional code C054). 
+Article 2 
+Any definitive countervailing duty paid by Jindal Saw Limited pursuant to Implementing Regulation (EU) 2016/387 in 
+excess of the definitive countervailing duty established in Article 1 shall be repaid or remitted. 
+The repayment or remission shall be requested from national customs authorities in accordance with the applicable 
+customs legislation. Any reimbursements that took place following the General Court’s ruling in case T-300/16 Jindal Saw 
+shall be recovered by the authorities which made the reimbursements up to the amount set out in Article 1(2). 
+Article 3 
+The definitive countervailing duty imposed by Article 1 shall also be collected on imports registered in accordance with 
+Article 1 of Commission implementing Regulation (EU) 2019/1250 making certain imports of tubes and pipes of ductile 
+cast iron (also known as spheroidal graphite cast iron) originating in India subject to registration following the re-opening 
+of the investigation in order to implement the judgments of 10 April 2019 in cases T-300/16 and T-301/16, with regard 
+to Implementing Regulations (EU) 2016/387 and (EU) No 2016/388 imposing a definitive countervailing and a definitive 
+anti-dumping duty on imports of tubes and pipes of ductile cast iron (also known as spheroidal graphite cast iron) 
+originating in India. 
+Article 4 
+Customs authorities are directed to discontinue the registration of imports, established in accordance with Article 1(1) of 
+Implementing Regulation (EU) 2019/1250, which is hereby repealed. 
+Article 5 
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 15 April 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+16.4.2020                                                                                                                                         
+L 118/13

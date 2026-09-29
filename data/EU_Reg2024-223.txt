@@ -1,0 +1,456 @@
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+1/9
+COUNCIL REGULATION (EU) 2024/223 
+of 22 December 2023
+amending Regulation (EU) 2022/2577 laying down a framework to accelerate the deployment of 
+renewable energy 
+THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 122(1) thereof,
+Having regard to the proposal from the European Commission,
+Whereas:
+(1)
+Council Regulation (EU) 2022/2577 (1) introduces urgent and targeted measures to accelerate the pace of 
+deployment of renewable energy sources. The deployment of renewable energy in the Union can significantly 
+contribute to mitigating the effects of the energy crisis, by strengthening the Union’s security of supply, reducing 
+volatility in the market and energy prices. As lengthy and complex permit-granting procedures formed a key 
+obstacle hampering the speed and scale of investments in renewables and related infrastructure, Regulation 
+(EU) 2022/2577 aimed at introducing additional urgent and targeted measures to achieve the immediate 
+acceleration of some of the permit-granting procedures applicable to specific renewable energy technologies and 
+types of projects which have the most potential for quick deployment in order to mitigate the effects of the energy 
+crisis. Regulation (EU) 2022/2577 will apply until 30 June 2024.
+(2)
+Directive (EU) 2023/2413 of the European Parliament and of the Council (2) which amends Directive 
+(EU) 2018/2001 of the European Parliament and of the Council (3) entered into force on 20 November 2023, 
+introducing changes to the legislative framework regulating renewable energy until 2030 and beyond, including 
+provisions to streamline permit-granting procedures applicable to renewable energy projects. Some of the measures 
+introduced by Regulation (EU) 2022/2577 were also included in Directive (EU) 2018/2001 by means of Directive 
+(EU) 2023/2413. However, Directive (EU) 2023/2413 did not mirror some of the more exceptional measures 
+contained in Regulation (EU) 2022/2577, thus delimiting exceptional and temporary nature of those measures. 
+Instead, that Directive introduced a stable and long-term permanent regime to accelerate permit-granting 
+procedures which establishes dedicated steps and procedures which require a longer implementation time. Member 
+States have the obligation to transpose Directive (EU) 2023/2413 into their national law by 21 May 2025, with the 
+exception of some of the provisions as regards permit-granting procedures, which have an earlier transposition 
+date, i.e. 1 July 2024, which is immediately after the date of end of validity of Regulation (EU) 2022/2577. 
+Following the transposition of Directive (EU) 2023/2413, renewable energy projects will benefit from the 
+provisions introduced by that Directive to streamline permit-granting procedures.
+(3)
+Pursuant to Regulation (EU) 2022/2577, the Commission carried out a review of that Regulation by 31 December 
+2023, in view of the development of the security of supply and energy prices and the need to further accelerate the 
+deployment of renewable energy, and presented a report on the main findings of that review to the Council. The 
+Commission, based on that review, has proposed that the validity of some provisions of that Regulation be 
+prolonged.
+(1) Council Regulation (EU) 2022/2577 of 22 December 2022 laying down a framework to accelerate the deployment of renewable 
+energy (OJ L 335, 29.12.2022, p. 36).
+(2) Directive (EU) 2023/2413 of the European Parliament and the Council of 18 October 2023 amending Directive (EU) 2018/2001, 
+Regulation (EU) 2018/1999 and Directive 98/70/EC as regards the promotion of energy from renewable sources, and repealing 
+Council Directive (EU) 2015/652 (OJ L, 2023/2413, 31.10.2023, ELI: http://data.europa.eu/eli/dir/2023/2413/oj).
+(3) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy 
+from renewable sources (OJ L 328, 21.12.2018, p. 82).
+Official Journal  
+of the European Union 
+EN 
+L series    
+2024/223  
+10.1.2024
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+2/9
+(4)
+In its Report of 28 November 2023 on the review of Council Regulation (EU) 2022/2577 of 22 December 2022
+laying down a framework to accelerate the deployment of renewable energy, the Commission found that the 
+conditions for the prolongation of the validity of Regulation (EU) 2022/2577 were met and proposed to prolong 
+selected measures that have the greatest potential for the acceleration of the deployment of renewables, which are 
+different from the measures in Directive (EU) 2018/2001, and which appear to bring about an important 
+acceleration in the permit-granting process of renewable energy and for related grid infrastructure projects or which 
+have the significant potential to do so. The fact that Directive (EU) 2023/2413 introduced certain provisions to 
+streamline permit-granting procedures applicable to renewable energy projects in Directive (EU) 2018/2001, 
+including rules on the same or similar topics as those covered by Regulation (EU) 2022/2577 was taken into 
+account. The fact that permit-granting rules introduced by Directive (EU) 2023/2413, except those related to 
+renewables acceleration areas pursuant to Articles 15c and 16a of that Directive, have to be transposed by 1 July 
+2024, immediately after the date of end of validity of Regulation (EU) 2022/2577 was also taken into account.
+(5)
+Since the entry into force of Regulation (EU) 2022/2577, the level of preparedness in the electricity market and the 
+Union’s security of supply have improved. However, severe risks persist for the Union’s security of energy supply. 
+The global situation on the gas market remains very tight. Gas prices are still considerably higher than pre-crisis 
+with inevitable consequences on Union citizens’ purchasing power and the competitiveness of Union businesses. 
+This is exacerbated by high market volatility stemming, inter alia, from tense geopolitical circumstances. Recent 
+episodes of significant price volatility in the summer and autumn of 2023, when prices increased by more than 
+50 % within a few weeks, caused by events such as the strike in Australian liquefied natural gas (LNG) facilities, the 
+Middle East crisis or the disruption of the Balticconnector, show that markets are still fragile and vulnerable to even 
+relatively small shocks on demand and supply. Under such conditions, the fear of scarcity resulting from even an 
+isolated event may trigger negative systemic reactions across the Union with serious repercussions on energy prices. 
+Furthermore, due to the significant decrease in Russian pipeline gas imports over the past year, the availability of gas 
+supplies to the Union has considerably decreased as compared to pre-crisis conditions. With the current level of 
+pipeline gas imports, the Union is expected to receive approximately 20 billion cubic meters (bcm) of Russian gas – 
+approximately 110 bcm less than in 2021. Therefore, a serious risk remains that gas shortages will occur in the 
+Union.
+(6)
+Global gas markets remain very tight and are expected to remain so for a certain period of time. As noted by the 
+International Energy Agency (IEA) in its Medium-Term Gas Report 2023, global LNG supply grew only modestly 
+in 2022 (by 4 %) and in 2023 (by 3 %). In its World Energy Outlook 2023, the IEA expects that market balances 
+will remain precarious in the immediate future despite the fact that new LNG capacities are set to come online as of 
+2025.
+(7)
+Such severe difficulties are exacerbated by a number of additional risks, including a rebound in Asian LNG demand, 
+which could reduce the availability of gas on the global gas market, a cold winter which could lead to an increase in 
+the demand for gas of up to 30 bcm, extreme weather conditions potentially affecting hydropower storage and 
+nuclear production due to low water levels which would lead to the subsequent increase in demand for gas-fired 
+power generation, further disruptions of critical infrastructures, such as the acts of sabotage against the Nord 
+Stream pipelines in September 2022 or the disruption of the Balticconnector pipeline in October 2023, and a 
+deterioration of the geopolitical environment, in particular in countries and regions relevant to Union energy 
+security of supply, such as Ukraine, Azerbaijan, and the Middle East.
+(8)
+Given the current tight supply and demand balance, even a minor disruption to the supply of energy could have a 
+wide impact on the gas and electricity prices and could cause serious and lasting harm to the European economy, 
+thereby affecting its competitiveness, and also causing lasting harm to the citizens of the Union. The current 
+situation is therefore exposing the entire Union to risks of energy shortage and high energy prices.
+(9)
+An accelerated deployment of renewable energy played an essential role in the Union strategy to address the energy 
+crisis and has been instrumental in increasing security of supply and in protecting consumers from price volatility 
+by reducing the Union’s overall gas demand. In its Renewable Energy Market Update of June 2023, entitled ‘How 
+much money are European consumers saving thanks to renewables?’, the IEA estimated that average wholesale 
+electricity prices would have been 8 % higher in all European markets in 2022 without the additional installed 
+renewable capacities. In 2022, higher electricity production from renewable energy sources replaced circa 107 
+TWh of fossil-based electricity generation which is equivalent to circa 10 bcm of gas and which led to estimated 
+savings of more than EUR 10 billion.
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+3/9
+(10)
+While Regulation (EU) 2022/2577 has been in force for a limited period, the Commission’s report has shown that it 
+has positively contributed to accelerating the pace of deployment of renewable energy sources in the Union, notably 
+by streamlining the procedures applicable to specific permit-granting processes, and by raising political awareness 
+regarding the importance of the acceleration of the permit-granting process of renewable energy. While most of the 
+effects of that Regulation will be visible in the months to come, initial available data on the production, deployment 
+and permit-granting process of renewable energy and related infrastructure projects for the period after the entry 
+into force of Regulation (EU) 2022/2577 suggests acceleration, at least in some Member States. According to 
+Eurostat, in the first half of 2023, renewable energy production in the Union was at a record high in replacing 
+further gas volumes. The Commission’s report also highlights positive developments in terms of the increase in 
+renewable energy deployment in the months following the entry into force of Regulation (EU) 2022/2577. 
+According to initial industry data, in three quarters of 2023, the Union installed more solar photovoltaic capacities 
+than during 2022 in its entirety. Wind capacity also significantly increased in several Member States. Available data 
+gathered in the Commission’s report also signals that several Member States have experienced double-digit increases 
+in the volume of permits issued for renewable energy projects since the entry into force of Regulation 
+(EU) 2022/2577. Additionally, at least in one Member State, grid projects that are important for increased 
+penetration for renewables and that amount to over 2 000 km in total also benefit from accelerated permit-granting 
+process.
+(11)
+Given that risks for energy supplies and prices persist, a quicker pace of deployment of renewable energy projects 
+would still be required for a certain period of time after the end of June 2024, to phase out the remaining Russian 
+gas imports. There is no doubt that higher shares of energy from renewable sources would strengthen the Union’s 
+resilience even further. Moreover, the faster the rollout of renewables, the higher the positive impact on the Union’s 
+resilience, security of energy supply, energy prices and independence from Russian fossil fuels.
+(12)
+Due to the urgent and yet unstable energy situation faced by the Union, it is necessary to prolong the application of 
+certain provisions of Regulation (EU) 2022/2577, namely the provisions which have shown the greatest potential for 
+the immediate acceleration of renewable energy sources and which are different from the measures included in 
+Directive (EU) 2018/2001, thereby ensuring that the prolongation of the application of Regulation (EU) 2022/2577 
+does not duplicate that Directive. Moreover, those measures include appropriate safeguards to ensure environmental 
+protection in the form of specific conditions for their application. Measures included in Directive (EU) 2018/2001 
+shall apply in parallel to this Regulation, complementing it with additional emergency measures for a limited period 
+of time. Without the prolongation of the application of Regulation (EU) 2022/2577 the risk of slowing down the 
+pace of permit-granting and deployment of renewables and related infrastructure would be created, in particular in 
+Member States which have made extensive use of that Regulation. For example, according to Germany, the 
+installation of around 41 GW of wind power onshore could be delayed and could take approximately two years 
+longer or in some cases be halted altogether without a prolongation of the application of Regulation 
+(EU) 2022/2577, in particular as regards the acceleration of the permit-granting process of renewable energy 
+projects and for related grid infrastructure which is necessary to integrate renewables into the electricity system. The 
+speed of the permit-granting process regarding a number of planned large transmission grid projects totalling 
+thousands of kilometres in length would equally be slowed down, by an estimated one to three years.
+(13)
+One of the temporary measures introduced by Regulation (EU) 2022/2577, which has shown positive effects and 
+which has significant acceleration potential in the future, is the introduction in Article 3(1) of a rebuttable 
+presumption that renewable energy projects are of overriding public interest and serve public health and safety for 
+the purposes of specific derogations foreseen in the relevant Union environmental legislation, except where there is 
+clear evidence that such projects have major adverse effects on the environment which cannot be mitigated or 
+compensated for. Directive (EU) 2018/2001, by means of Article 16f thereof, introduced a rebuttable presumption 
+that renewable energy projects are of overriding public interest and serve public health and safety, with almost 
+identical wording as compared to the wording of Article 3(1) of Regulation (EU) 2022/2577. Therefore, it is not 
+necessary to prolong the application of Article 3(1) of Regulation (EU) 2022/2577 since such a rebuttable 
+presumption will apply by virtue of Article 16f of Directive (EU) 2018/2001.
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+4/9
+(14)
+However, Article 3(2) of Regulation (EU) 2022/2577 requires priority to be given to projects that are recognised as 
+being of overriding public interest whenever the balancing of legal interests is required in individual cases and 
+where those projects introduce additional compensation requirements for species protection. An analogous 
+provision is not present in Directive (EU) 2018/2001. The first sentence of Article 3(2) of Regulation 
+(EU) 2022/2577 has the potential, in the current urgent and still unstable energy situation on the energy market 
+which the Union is facing, to further accelerate renewable energy projects since it requires Member States to 
+promote those renewable energy projects by giving them priority when dealing with different conflicting interests 
+beyond environmental matters in the context of Member States’ planning and the permit-granting process. The 
+Commission’s report demonstrated the value of the first sentence of Article 3(2) of Regulation (EU) 2022/2577 
+which recognises the relative importance of renewable energy deployment in the current difficult energy context 
+beyond the specific objectives of the derogations foreseen in the Directives referred to in Article 3(1) of Regulation 
+(EU) 2022/2577. Given the particularly severe situation in the supply of energy which the Union is currently facing, 
+it is appropriate to prolong the application of Article 3(2) of Regulation (EU) 2022/2577 in order to appropriately 
+recognise the crucial role played by renewable energy plants to fight climate change and pollution, reduce energy 
+prices, decrease the Union’s dependence on fossil fuels and to ensure the Union’s security of supply in the context of 
+the balancing of legal interests carried out by permit-granting authorities or national courts. At the same time, it is 
+also appropriate to keep the environmental safeguard that, for projects recognised as being of overriding public 
+interest, appropriate species conservation measures, underpinned by sufficient financial resources, are adopted.
+(15)
+As shown in the Commission’s report, challenges exist in the application of another condition to apply specific 
+derogations foreseen in the Union environmental legislation, namely the requirement regarding the absence of other 
+alternative solutions. Such challenges limit the practical usefulness of the rebuttable presumption that renewable 
+energy projects, their connection to the grid, the related grid itself and storage assets, are of overriding public 
+interest, because it is a considerable hurdle to prove that a project could not take place elsewhere, if the territory of 
+a whole country has to be considered, and even more if other renewable energy technologies have to be considered. 
+Therefore, in order to speed up the deployment of renewables, their connection to the grid, and the building of the 
+grid infrastructure necessary to integrate renewable energy into the electricity system which is a key objective 
+recognised in the Commission’s Communication of 28 November 2023, entitled ‘Grids, the missing link – An EU 
+Action Plan for Grids’, it is appropriate to specify, for the purpose of this Regulation, how the conditions for 
+applying specific derogations as foreseen in Union environmental legislation can be attained, as regards the scope of 
+the relevant alternative conditions that have to be considered. in particular, for the purposes of relevant Union 
+environmental law, in the necessary case-by-case assessments to ascertain whether there are satisfactory alternative 
+solutions to the specific renewable energy project or grid infrastructure project which is necessary to integrate 
+renewable energy into the electricity system, it is necessary to specify that the scope of the assessment of alternative 
+solutions can cover solutions that ensure the achievement of the same objectives as the project in question within the 
+same or similar timeframe and without resulting in significantly higher costs. When comparing the timeframe and 
+the cost of satisfactory alternative solutions, Member States should take into account the need to deploy renewable 
+energy and grid infrastructure which is necessary to integrate renewable energy into the electricity system in an 
+accelerated and cost-effective manner in accordance with the priorities set out in their integrated national energy 
+and climate plans and updates thereof submitted pursuant to Regulation (EU) 2018/1999 of the European 
+Parliament and the Council (4) and the expected speed to achieve those priorities. Such a temporary specification is 
+justified in view of the current situation on the energy markets in order to facilitate the uptake of renewable energy 
+plants and the related grid infrastructure, thereby recognising their role in fighting climate change and pollution, 
+reducing energy prices, decreasing the Union’s dependence on fossil fuels and ensuring the Union’s security of 
+supply.
+(16)
+When applying the relevant derogation foreseen in Council Directive 92/43/EEC (5), Member States face additional 
+challenges concerning the requirement to adopt compensatory measures concerning the plant or installation for the 
+production of energy from renewable sources, or the related grid infrastructure which is necessary to integrate 
+renewables into the electricity system. Such additional challenges can cause considerable delays. Therefore, in order 
+(4) Regulation (EU) 2018/1999 of the European Parliament and the Council of 11 December 2018 on the Governance of the Energy 
+Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the 
+Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European 
+Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of 
+the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+(5) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 
+22.7.1992, p. 7).
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+5/9
+to speed up such projects, while preserving a high level of environmental protection, it is appropriate to specify, for 
+the purpose of this Regulation, that the compensatory measures may be carried out in parallel with the 
+implementation of the project under strict conditions. The following conditions, namely that the ecological 
+processes essential for maintaining the structure and functions of the site are not irreversibly affected before the 
+compensatory measures are put into place and that the overall coherence of the Natura 2000 network is not 
+compromised, ensure that the environmental integrity of the site is preserved and that a high level of protection of 
+the Natura 2000 sites is ensured. Such a temporary specification is justified in view of the current situation on the 
+energy markets in order to facilitate the uptake of plants or installations for the production of energy from 
+renewable sources and the related grid infrastructure.
+(17)
+Another provision with potential for the significant acceleration of the pace of deployment of renewable energy 
+sources is Article 5(1) of Regulation (EU) 2022/2577. That Article imposes a six-month maximum deadline for the 
+repowering of existing renewable energy plants. Repowering existing renewable energy plants has the significant 
+potential of rapidly increasing renewable power generation, thus allowing the reduction of gas consumption. It 
+enables the continued use of sites with significant renewable energy potential, which reduces the need to designate 
+new sites for renewable energy projects. Repowering a wind energy power plant with more efficient turbines 
+usually allows for the existing capacity to be maintained or increased but with fewer, larger and more efficient 
+turbines. Repowering also benefits from the existing grid connection, a likely higher degree of public acceptance 
+and knowledge of environmental impacts.
+(18)
+In its review pursuant to Regulation (EU) 2022/2577, the Commission found that there was scope for further 
+streamlining the permit-granting process applicable to the repowering of renewable energy projects, in particular in 
+the Member States that have greater repowering potential. Directive (EU) 2023/2413 introduces several provisions 
+in this regard into Directive (EU) 2018/2001, including maximum deadlines as regards permit-granting. Article 16b 
+of Directive (EU) 2018/2001 introduces a maximum deadline of one year for the repowering of renewable energy 
+projects located outside renewables acceleration areas, while Article 16a of that Directive includes a six-month 
+deadline for renewable energy projects in the renewables acceleration areas. Given that the implementation deadline 
+for the designation of renewables acceleration areas is 27 months from the entry into force of Directive 
+(EU) 2018/2001 (meaning renewables acceleration areas would have to be designated by 20 February 2026), and 
+even if those renewables acceleration areas could be designated earlier, it is appropriate to prolong the application 
+of Article 5(1) of Regulation (EU) 2022/2577. Such prolongation includes a targeted amendment regarding the 
+scope of Article 5(1) of Regulation (EU) 2022/2577, in order to limit its application to the areas designated 
+pursuant to Article 6 of Regulation (EU) 2022/2577. Prolonging the application of Article 5(1) of that Regulation, 
+together with the application of Article 6 thereof, should ensure that an ambitious permit-granting deadline applies 
+immediately for the repowering of renewable energy projects located in the specific areas identified by Member 
+States voluntarily under Regulation (EU) 2022/2577, while the maximum deadlines for the repowering of 
+renewable energy projects contained in Directive (EU) 2018/2001 would apply to the rest of the territory. 
+Moreover, this is consistent with the differentiation introduced by Directive (EU) 2023/2413 between renewable 
+acceleration areas and areas that do not have such a status.
+(19)
+Article 6 of Regulation (EU) 2022/2577 allows Member States, under certain conditions to ensure environmental 
+protection, to introduce exemptions from certain environmental assessment obligations set in Union environmental 
+legislation for renewable energy projects and for energy storage projects and electricity grid projects that are 
+necessary for the integration of renewable energy into the electricity system. The application of Article 6 of 
+Regulation (EU) 2022/2577 is optional for Member States. That Article provides them with an effective tool to 
+accelerate the deployment of renewable energy and related infrastructure projects by ensuring a careful balance 
+between the need to deploy renewables at a much faster speed and the need to ensure protection of environmentally 
+sensitive areas. As explained in the Commission report, Article 6 of Regulation (EU) 2022/2577 has led to tangible 
+positive results both in terms of the number of successful renewable energy and electricity grid projects that are 
+being deployed, and of acceleration potential and the shortening of permit-granting process time in the Member 
+States that have made use of it. According to the findings in the Commission’s report based on estimates provided 
+by Member States and stakeholders, such acceleration could range from several months and even up to three years 
+for offshore projects.
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+6/9
+(20)
+Based on the evidence gathered in the Commission’s report, the prolongation of the application of Article 6 of 
+Regulation (EU) 2022/2577 appears necessary in view of the particularly tense situation for supply on the energy 
+markets to ensure an immediate strong acceleration of renewable energy projects. That Article can and should 
+co-exist, for a limited period of time, with the provisions of Directive (EU) 2018/2001 as regards the designation of 
+renewables acceleration areas and areas for grid and storage infrastructure necessary to integrate renewable energy 
+into the electricity system and does not in any way prevent the designation of such areas.
+(21)
+Directive (EU) 2018/2001 imposes the obligation on Member States to designate renewables acceleration areas for 
+one or more renewable energy technologies within a deadline of 27 months from the entry into force of Directive 
+(EU) 2023/2413. Even if Member States could designate renewable acceleration areas from the moment Directive 
+(EU) 2023/2413 enters into force, without waiting until its transposition deadline, such designation requires time, 
+which is expected to be longer than the time needed to designate the dedicated renewable or grid areas referred to in 
+Article 6 of Regulation (EU) 2022/2577. This is because that Article does not require establishing upfront 
+appropriate rules as part of the plan designating renewable acceleration areas for those areas on effective mitigation 
+measures to be adopted for the installation of renewable energy plants and co-located energy storage in those areas 
+and it does not introduce specific procedures to be followed in those areas. Therefore, in order to further facilitate 
+the construction of renewable energy projects during a temporary period, the application of Article 6 of Regulation 
+(EU) 2022/2577 should be prolonged, so that it is possible for Member States to designate specific areas in a 
+streamlined manner, without prejudice to the possibility to designate in parallel renewables acceleration areas 
+pursuant to Directive (EU) 2018/2001 in order to ensure that such areas are set up within the deadline prescribed in 
+that Directive.
+(22)
+Directive (EU) 2018/2001 includes a provision granting Member States the possibility of designating areas for grid 
+and storage infrastructure necessary to integrate renewable energy into the electricity system under certain 
+conditions. In view of the optional nature of Article 6 of Regulation (EU) 2022/2577 and Article 15e of Directive 
+(EU) 2018/2001, there is no legal risk of contradiction since Member States can decide which provision to apply or 
+even apply both during the period of application of that Regulation in order to identify different grid areas in 
+parallel, following the different conditions set in those legal acts, respectively.
+(23)
+The provisions of the United Nations Economic Commission for Europe (UNECE) Convention on Access to 
+Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters (‘the Aarhus 
+Convention’) as regards access to information, public participation in decision-making and access to justice in 
+environmental matters, and in particular, the obligations of Member States relating to public participation and to 
+access to justice, remain applicable.
+(24)
+The principle of energy solidarity is a general principle of Union law and applies to all Member States. In 
+implementing the principle of energy solidarity, the proposed measures allow for cross-border distribution of the 
+effects of faster deployment of renewable energy projects. The measures apply to renewable energy installations in 
+Member States and capture a wide scope of projects. Given the degree of integration of Union energy markets, any 
+increase in renewable energy deployment in a Member State should also be beneficial to other Member States in 
+terms of security of supply and lower prices. It should assist renewable electricity flows across the borders to where 
+it is most needed and ensure that cheaply produced renewable electricity is exported to Member States where 
+electricity production is more expensive. In addition, the newly installed renewable energy capacities in the Member 
+States will have an impact on the overall gas demand reduction across the Union.
+(25)
+Article 122(1) of the Treaty on the Functioning of the European Union (TFEU) enables the Council to decide, without 
+prejudice to any other procedures provided for in the Treaties, on a proposal from the Commission and in a spirit of 
+solidarity between Member States, upon the measures appropriate to the economic situation, in particular if severe 
+difficulties arise in the supply of certain products, notably in the area of energy. In view of such considerations, the 
+urgent and yet unstable energy situation and the urgent need to immediately accelerate the deployment of 
+renewable energy sources as an instrument to mitigate the risks for the Union’s security of energy supply and 
+volatility of energy prices that still exist, constitute the situation described in Article 122(1) TFEU. Moreover, it is 
+necessary to take into account the approaching end of the mandate of the European Parliament, the time required 
+to adopt legislation under the ordinary legislative procedure, as well as the need for Member States and investors to 
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+7/9
+have predictability and legal certainty about the legal framework. A prolongation of the application of certain 
+provisions of Regulation (EU) 2022/2577 by one year and the addition of a new provision is necessary to respond 
+to the ongoing situation and it is therefore justified to have Article 122(1) TFEU as the legal basis for this Regulation.
+(26)
+The need to act is urgent as Regulation (EU) 2022/2577 will cease to apply on 30 June 2024 and investors and 
+authorities need to have clarity as soon as possible as regards the legal framework applying thereafter to secure their 
+investment decisions and plan their projects accordingly. Therefore, it is appropriate to adopt a legal act prolonging 
+the application of that Regulation some months before the end of its application. In addition, due to the introduction 
+of a new provision, this Regulation should enter into force as a matter of urgency on the day following that of its 
+publication in the Official Journal of the European Union.
+(27)
+The application of the relevant provisions should be extended temporarily and should, together with the new 
+provision, remain in force until 30 June 2025.
+(28)
+Since the objective of this Regulation cannot be sufficiently achieved by the Member States, but can rather, by reason 
+of the scale and effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance 
+with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the 
+principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order 
+to achieve that objective.
+(29)
+Regulation (EU) 2022/2577 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Amendments to Regulation (EU) 2022/2577
+Regulation (EU) 2022/2577 is amended as follows:
+(1) in Article 1, the second paragraph is replaced by the following:
+‘This Regulation applies to all permit-granting processes that have a starting date within the period of its application 
+and is without prejudice to national provisions establishing shorter deadlines than those laid down in Article 5(1).’;
+(2) in Article 3, paragraph 2 is replaced by the following:
+‘2.
+Member States shall ensure, for projects which are recognised as being of overriding public interest, that in the 
+planning and permit-granting process, the construction and operation of plants and installations for the production of 
+energy from renewable sources and the related grid infrastructure development are given priority when balancing legal 
+interests in the individual case.
+Concerning species protection, the first subparagraph shall only apply if and to the extent that appropriate species 
+conservation measures contributing to the maintenance or restoration of the populations of the species at a 
+favourable conservation status are undertaken and sufficient financial resources as well as areas are made available for 
+that purpose.’;
+(3) the following Article is inserted:
+‘Article 3a
+Absence of alternative or satisfactory solutions
+1.
+When assessing whether there are no satisfactory alternative solutions to a project for a plant or installation for 
+the production of energy from renewable sources and its connection to the grid for the purposes of Articles 6(4) 
+and 16(1) of Directive 92/43/EEC, Article 4(7) of Directive 2000/60/EC and Article 9(1) of Directive 2009/147/EC, 
+this condition may be considered as being fulfilled if there are no satisfactory alternative solutions capable of achieving 
+the same objective of the project in question, notably in terms of development of the same renewable energy capacity 
+through the same energy technology within the same or similar timeframe and without resulting in significantly 
+higher costs.
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+8/9
+2.
+When assessing whether there are no satisfactory alternative solutions to a grid infrastructure project which is 
+necessary to integrate renewables into the electricity system, for the purposes of Articles 6(4) and 16(1) of 
+Directive 92/43/EEC, Article 4(7) of Directive 2000/60/EC and Article 9(1) of Directive 2009/147/EC, this condition 
+may be considered fulfilled if there are no satisfactory alternative solutions capable of achieving the same objective of 
+the project in question within the same or similar timeframe and without resulting in significantly higher costs.
+3.
+When implementing compensatory measures for a project for a plant or installation for the production of energy 
+from renewable sources, and the related grid infrastructure which is necessary to integrate renewables into the 
+electricity system, for the purpose of Article 6(4) of Directive 92/43/EEC, Member States may allow for such 
+compensatory measures to be carried out in parallel with the implementation of the project, unless there is clear 
+evidence that a specific project would irreversibly affect the ecological processes essential for maintaining the structure 
+and functions of the site and would compromise the overall coherence of the Natura 2000 network before 
+compensatory measures are put into place. Member States may allow for those compensatory measures to be adapted 
+over time, depending on whether the significant negative effects are expected to arise in the short, medium or long 
+term.’;
+(4) in Article 5, paragraph 1 is replaced by the following:
+‘1.
+The permit-granting process for the repowering of renewable energy projects located in a dedicated renewable or 
+grid area referred to in Article 6, including the permits related to the upgrade of the assets necessary for their 
+connection to the grid where the repowering results in an increase in capacity, shall not exceed six months including 
+environmental impact assessments where required by relevant legislation.’;
+(5) Article 8 is replaced by the following:
+‘Article 8
+Timelines for the permit-granting process for the repowering of renewable energy power plants in dedicated 
+renewable or grid areas referred to in Article 6
+When applying the deadlines referred to in Article 5(1), the following time shall not be counted as falling within those 
+deadlines except where it coincides with other administrative stages of the permit-granting process:
+(a) the time during which the plants, their grid connections and, with a view to ensuring grid stability, grid reliability 
+and grid safety, the related necessary grid infrastructure are being built or repowered; and
+(b) the time spent on the administrative stages necessary for significant upgrades to the grid required in order to ensure 
+grid stability, grid reliability and grid safety.’;
+(6) in Article 10, the following paragraph is added:
+‘However, Article 1, Article 2, point (1), Article 3(2), Article 3a, Article 5(1), Article 6 and Article 8 shall apply until 
+30 June 2025.’.
+Article 2
+Entry into force and application
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall apply from 1 July 2024.
+However, Article 1, point (3), shall apply from its entry into force.
+OJ L, 10.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg/2024/223/oj 
+9/9
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 22 December 2023.
+For the Council
+The President
+P. NAVARRO RÍOS
+OJ L, 10.1.2024 
+EN  

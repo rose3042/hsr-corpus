@@ -1,0 +1,149 @@
+REGULATION (EU) 2024/1307 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 29 April 2024
+amending Regulation (EU) 2021/1232 on a temporary derogation from certain provisions of 
+Directive 2002/58/EC as regards the use of technologies by providers of number-independent 
+interpersonal communications services for the processing of personal and other data for the purpose 
+of combating online child sexual abuse
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 16(2), in conjunction with 
+Article 114(1), thereof,
+Having regard to the proposal from the European Commission,
+After transmission of the draft legislative act to the national parliaments,
+Having regard to the opinion of the European Economic and Social Committee (1),
+Acting in accordance with the ordinary legislative procedure (2),
+Whereas:
+(1)
+Regulation (EU) 2021/1232 of the European Parliament and of the Council (3) provides for a temporary regime as 
+regards the use of technologies by certain providers of publicly available interpersonal communications services for 
+the purpose of combating online child sexual abuse, pending the preparation and adoption of a long-term legal 
+framework addressing the prevention of and combating online child sexual abuse (the ‘long-term legal framework’). 
+That Regulation applies until 3 August 2024.
+(2)
+The proposal for a Regulation of the European Parliament and of the Council laying down rules to prevent and 
+combat child sexual abuse, which the Commission adopted on 11 May 2022, aims to provide the long-term legal 
+framework. However, the interinstitutional negotiations on that proposal have not yet started and it is certain that 
+they will not be concluded on time for the long-term legal framework, including any amendments to Regulation (EU) 
+2021/1232 that it might contain, to be adopted, enter into force and apply by 4 August 2024.
+(3)
+It is important that online child sexual abuse can be combated effectively, in accordance with the applicable rules of 
+Union law, including the conditions set out in Regulation (EU) 2021/1232, and without interruption, pending the 
+conclusion of the interinstitutional negotiations on the proposal for, and the adoption, entry into force and 
+application of, the long-term legal framework. The co-legislators express their commitment to reaching an 
+agreement on the long-term legal framework as soon as possible and with a view to avoiding any further extensions 
+of Regulation (EU) 2021/1232 in the future.
+(4)
+Given the particular circumstances, Regulation (EU) 2021/1232 should be amended to extend its period of 
+application for a period of time that is limited to that which is strictly necessary to adopt the long-term legal 
+framework and for it to enter into force. It is crucial to note that that extension is exceptional and should not 
+establish a precedent for further extensions. Regulation (EU) 2021/1232 was initially designed as a transitional, 
+temporary instrument serving as a link between the implementation of Directive (EU) 2018/1972 of the European 
+Official Journal 
+of the European Union
+EN 
+L series
+2024/1307
+14.5.2024
+ELI: http://data.europa.eu/eli/reg/2024/1307/oj
+1/3
+(1)
+Opinion of 17 January 2024 (not yet published in the Official Journal).
+(2)
+Position of the European Parliament of 10 April 2024 (not yet published in the Official Journal) and decision of the Council of 
+29 April 2024.
+(3)
+Regulation (EU) 2021/1232 of the European Parliament and of the Council of 14 July 2021 on a temporary derogation from certain 
+provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal 
+communications services for the processing of personal and other data for the purpose of combating online child sexual abuse (OJ 
+L 274, 30.7.2021, p. 41).
+Parliament and of the Council (4), which brought number-independent interpersonal communications services 
+within the scope of Directive 2002/58/EC of the European Parliament and of the Council (5) from 21 December 
+2020, and the establishment of the long-term legal framework. Contrary to the co-legislators’ expectation, the 
+application of Regulation (EU) 2021/1232 needs to be extended, due to the absence of an agreed long-term legal 
+framework.
+(5)
+Pursuant to Regulation (EU) 2021/1232, in order for the temporary derogation from certain provisions of Directive 
+2002/58/EC to apply, providers of number-independent interpersonal communications services are required to 
+publish and submit to the competent supervisory authority and to the Commission a report on the processing of 
+personal data under that Regulation.
+(6)
+In view of the report from the Commission on the implementation of Regulation (EU) 2021/1232, it is necessary to 
+improve reporting to the Commission both from the Member States and from providers of number-independent 
+interpersonal communication services. It is also important to stress that the Commission should report on the 
+implementation of Regulation (EU) 2021/1232 in a timely manner.
+(7)
+In order to facilitate reporting by providers of number-independent interpersonal communications services, in 
+particular to ensure that their reports are machine readable and easily accessible, a common reporting format for 
+those reports should be established.
+(8)
+In order to ensure uniform conditions for the implementation of Article 3(1), point (g)(vii), of Regulation (EU) 
+2021/1232, implementing powers should be conferred on the Commission. Those powers should be exercised in 
+accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (6).
+(9)
+Considering the need to ensure, in a timely manner, legal certainty and considering the limited nature of the 
+amendments provided for in this Regulation, namely the extension of the period of application of the temporary 
+regime and the conferral of implementing powers on the Commission for the purpose of establishing a common 
+reporting format, it is appropriate to provide that this Regulation should enter into force as soon as possible.
+(10)
+The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 
+2018/1725 of the European Parliament and of the Council (7) and delivered its opinion on 24 January 2024.
+(11)
+Regulation (EU) 2021/1232 should therefore be amended accordingly,
+HAVE ADOPTED THIS REGULATION:
+Article 1
+Regulation (EU) 2021/1232 is amended as follows:
+(1) in Article 3, the following paragraph is added:
+‘4.
+The data included in the report referred to in paragraph 1, point (g)(vii), shall be provided in writing by means of 
+a standard form. By 3 December 2024 at the latest, the Commission shall determine the content and presentation of 
+that form by means of implementing acts. In doing so, the Commission may divide the data categories listed in 
+paragraph 1, point (g)(vii), into subcategories.
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 9a(2).’;
+(2) in Article 9, paragraph 1 is replaced by the following:
+‘1.
+On the basis of the reports submitted pursuant to Article 3(1), point (g)(vii), and the statistics provided pursuant 
+to Article 8, the Commission shall, by 4 September 2025, prepare a report on the implementation of this Regulation 
+and submit and present it to the European Parliament and to the Council.’;
+EN
+OJ L, 14.5.2024
+2/3
+ELI: http://data.europa.eu/eli/reg/2024/1307/oj
+(4)
+Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European 
+Electronic Communications Code (OJ L 321, 17.12.2018, p. 36).
+(5)
+Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data 
+and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ 
+L 201, 31.7.2002, p. 37).
+(6)
+Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and 
+general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers 
+(OJ L 55, 28.2.2011, p. 13).
+(7)
+Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural 
+persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free 
+movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+(3) the following article is inserted:
+‘Article 9a
+Committee procedure
+1.
+The Commission shall be assisted by a committee. That committee shall be a Committee within the meaning of 
+Regulation (EU) No 182/2011.
+2.
+Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.’;
+(4) in Article 10, the second paragraph is replaced by the following:
+‘It shall apply until 3 April 2026.’.
+Article 2
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 29 April 2024.
+For the European Parliament
+The President
+R. METSOLA
+For the Council
+The President
+M. MICHEL
+OJ L, 14.5.2024
+EN
+ELI: http://data.europa.eu/eli/reg/2024/1307/oj
+3/3

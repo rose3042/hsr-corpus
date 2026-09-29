@@ -1,0 +1,308 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION REGULATION (EU) 2022/357 
+of 2 March 2022
+amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in 
+accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as 
+regards International Accounting Standards 1 and 8 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the 
+application of international accounting standards (1), and in particular Article 3(1) thereof,
+Whereas:
+(1)
+By Commission Regulation (EC) No 1126/2008 (2) certain international accounting standards and interpretations 
+that were in existence on 15 October 2008 were adopted.
+(2)
+On 12 February 2021, the International Accounting Standards Board published amendments to International 
+Accounting Standard (IAS) 1 Presentation of Financial Statements and IAS 8 Accounting Policies, Changes in Accounting 
+Estimates and Errors. Those amendments clarify the differences between accounting policies and accounting 
+estimates to ensure further consistent application of accounting standards and comparability of financial statements.
+(3)
+Following the consultation with the European Financial Reporting Advisory Group, the Commission concludes that 
+the amendments to IAS 1 and IAS 8 meet the criteria for adoption set out in Article 3(2) of Regulation (EC) 
+No 1606/2002.
+(4)
+Regulation (EC) No 1126/2008 should therefore be amended accordingly.
+(5)
+The measures provided for in this Regulation are in accordance with the opinion of the Accounting Regulatory 
+Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The Annex to Regulation (EC) No 1126/2008 is amended as follows:
+(a) International Accounting Standard (IAS) 1 Presentation of Financial Statements is amended as set out in the Annex to this 
+Regulation;
+(b) IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors is amended as set out in the Annex to this 
+Regulation.
+(1) OJ L 243, 11.9.2002, p. 1.
+(2) Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance 
+with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).
+EN
+Official Journal of the European Union 
+3.3.2022 
+L 68/1  
+Article 2
+Each company shall apply the amendments referred to in Article 1, at the latest, as from the commencement date of its first 
+financial year starting on or after 1 January 2023.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 2 March 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 68/2 
+3.3.2022  
+ANNEX 
+Amendments to IAS 1 
+Presentation of Financial Statements 
+Paragraphs 7, 10, 114, 117 and 122 are amended. Paragraphs 117A–117E and 139V are added. Paragraphs 118, 119 
+and 121 are deleted.
+DEFINITIONS
+7.
+The following terms are used in this Standard with the meanings specified:
+Accounting policies are defined in paragraph 5 of IAS 8 Accounting Policies, Changes in Accounting Estimates 
+and Errors, and the term is used in this Standard with the same meaning.
+…
+FINANCIAL STATEMENTS
+…
+Complete set of financial statements
+10.
+A complete set of financial statements comprises:
+…
+(e) notes, comprising material accounting policy information and other explanatory information;
+…
+STRUCTURE AND CONTENT
+…
+Notes
+Structure
+…
+114.
+Examples of systematic ordering or grouping of the notes include:
+…
+(c) following the order of the line items in the statement(s) of profit or loss and other comprehensive income and 
+the statement of financial position, such as:
+…
+(ii) material accounting policy information (see paragraph 117);
+…
+Disclosure of accounting policy information
+117.
+An entity shall disclose material accounting policy information (see paragraph 7). Accounting policy 
+information is material if, when considered together with other information included in an entity’s 
+financial statements, it can reasonably be expected to influence decisions that the primary users of 
+general purpose financial statements make on the basis of those financial statements.
+EN
+Official Journal of the European Union 
+3.3.2022 
+L 68/3  
+117A Accounting policy information that relates to immaterial transactions, other events or conditions is immaterial and 
+need not be disclosed. Accounting policy information may nevertheless be material because of the nature of the 
+related transactions, other events or conditions, even if the amounts are immaterial. However, not all accounting 
+policy information relating to material transactions, other events or conditions is itself material.
+117B Accounting policy information is expected to be material if users of an entity’s financial statements would need it to 
+understand other material information in the financial statements. For example, an entity is likely to consider 
+accounting policy information material to its financial statements if that information relates to material 
+transactions, other events or conditions and:
+(a) the entity changed its accounting policy during the reporting period and this change resulted in a material 
+change to the information in the financial statements;
+(b) the entity chose the accounting policy from one or more options permitted by IFRSs—such a situation could 
+arise if the entity chose to measure investment property at historical cost rather than fair value;
+(c) the accounting policy was developed in accordance with IAS 8 in the absence of an IFRS that specifically 
+applies;
+(d) the accounting policy relates to an area for which an entity is required to make significant judgements or 
+assumptions in applying an accounting policy, and the entity discloses those judgements or assumptions in 
+accordance with paragraphs 122 and 125; or
+(e) the accounting required for them is complex and users of the entity’s financial statements would otherwise not 
+understand those material transactions, other events or conditions—such a situation could arise if an entity 
+applies more than one IFRS to a class of material transactions.
+117C Accounting policy information that focuses on how an entity has applied the requirements of the IFRSs to its own 
+circumstances provides entity-specific information that is more useful to users of financial statements than 
+standardised information, or information that only duplicates or summarises the requirements of the IFRSs.
+117D If an entity discloses immaterial accounting policy information, such information shall not obscure material 
+accounting policy information.
+117E An entity’s conclusion that accounting policy information is immaterial does not affect the related disclosure 
+requirements set out in other IFRSs.
+118.
+[Deleted]
+119.
+[Deleted]
+120.
+[Deleted]
+121.
+[Deleted]
+122.
+An entity shall disclose, along with material accounting policy information or other notes, the judgements, 
+apart from those involving estimations (see paragraph 125), that management has made in the process of 
+applying the entity’s accounting policies and that have the most significant effect on the amounts 
+recognised in the financial statements.
+…
+TRANSITION AND EFFECTIVE DATE
+…
+139V Disclosure of Accounting Policies, issued in February 2021, amended paragraphs 7, 10, 114, 117 and 122, added 
+paragraphs 117A–117E and deleted paragraphs 118, 119 and 121. It also amended IFRS Practice Statement 2 
+Making Materiality Judgements. An entity shall apply the amendments to IAS 1 for annual reporting periods 
+beginning on or after 1 January 2023. Earlier application is permitted. If an entity applies those amendments for an 
+earlier period, it shall disclose that fact.
+EN
+Official Journal of the European Union 
+L 68/4 
+3.3.2022  
+Amendments to other IFRS Standards and publications
+Amendments to IFRS 7 Financial Instruments: Disclosures
+Paragraphs 21 and B5 are amended. Paragraph 44II is added.
+SIGNIFICANCE OF FINANCIAL INSTRUMENTS FOR FINANCIAL POSITION AND PERFORMANCE
+…
+Other disclosures
+Accounting policies
+21.
+In accordance with paragraph 117 of IAS 1 Presentation of Financial Statements (as revised in 2007), an entity 
+discloses material accounting policy information. Information about the measurement basis (or bases) for financial 
+instruments used in preparing the financial statements is expected to be material accounting policy information.
+…
+EFFECTIVE DATE AND TRANSITION
+…
+44II
+Disclosure of Accounting Policies, which amends IAS 1 and IFRS Practice Statement 2 Making Materiality Judgements, 
+and was issued in February 2021, amended paragraphs 21 and B5. An entity shall apply that amendment for 
+annual reporting periods beginning on or after 1 January 2023. Earlier application is permitted. If an entity applies 
+the amendment for an earlier period, it shall disclose that fact.
+…
+EN
+Official Journal of the European Union 
+3.3.2022 
+L 68/5  
+Appendix B 
+Application guidance 
+…
+CLASSES OF FINANCIAL INSTRUMENTS AND LEVEL OF DISCLOSURE (PARAGRAPH 6)
+…
+Other disclosure—accounting policies (paragraph 21)
+B5 Paragraph 21 requires disclosure of material accounting policy information, which is expected to include information 
+about the measurement basis (or bases) for financial instruments used in preparing the financial statements. For 
+financial instruments, such disclosure may include:
+…
+Paragraph 122 of IAS 1 (as revised in 2007) also requires entities to disclose, along with material accounting policy 
+information or other notes, the judgements, apart from those involving estimations, that management has made in 
+the process of applying the entity’s accounting policies and that have the most significant effect on the amounts 
+recognised in the financial statements.
+Amendments to IAS 26 Accounting and Reporting by Retirement Benefit Plans
+Paragraph 34 is amended and paragraph 38 is added.
+ALL PLANS
+Disclosure
+34.
+The financial statements of a retirement benefit plan, whether defined benefit or defined contribution, 
+shall also contain the following information:
+…
+(b) material accounting policy information; and
+…
+EFFECTIVE DATE
+…
+38.
+Disclosure of Accounting Policies, which amends IAS 1 Presentation of Financial Statements and IFRS Practice Statement 2 
+Making Materiality Judgements, and was issued in February 2021, amended paragraph 34. An entity shall apply that 
+amendment for annual reporting periods beginning on or after 1 January 2023. Earlier application is permitted. If 
+an entity applies the amendment for an earlier period, it shall disclose that fact.
+Amendments to IAS 34 Interim Financial Reporting
+Paragraph 5 is amended and paragraph 60 is added.
+CONTENT OF AN INTERIM FINANCIAL REPORT
+5.
+IAS 1 defines a complete set of financial statements as including the following components:
+…
+(e) notes, comprising material accounting policy information and other explanatory information;
+…
+EN
+Official Journal of the European Union 
+L 68/6 
+3.3.2022  
+EFFECTIVE DATE
+…
+60.
+Disclosure of Accounting Policies, which amends IAS 1 and IFRS Practice Statement 2 Making Materiality Judgements, 
+and was issued in February 2021, amended paragraph 5. An entity shall apply that amendment for annual 
+reporting periods beginning on or after 1 January 2023. Earlier application is permitted. If an entity applies the 
+amendment for an earlier period, it shall disclose that fact.
+Amendments to IAS 8
+Accounting Policies, Changes in Accounting Estimates and Errors
+Paragraphs 5, 32, 34, 38 and 48 and the heading above paragraph 32 are amended. Paragraphs 32A–32B, 34A and 54I and 
+the headings above paragraphs 34 and 36 are added. The heading above paragraph 39 is amended to be a sub-heading of 
+the heading added above paragraph 34.
+DEFINITIONS
+5.
+The following terms are used in this Standard with the meanings specified:
+…
+Accounting estimates are monetary amounts in financial statements that are subject to measurement 
+uncertainty.
+…
+ACCOUNTING ESTIMATES
+32.
+An accounting policy may require items in financial statements to be measured in a way that involves measurement 
+uncertainty—that is, the accounting policy may require such items to be measured at monetary amounts that 
+cannot be observed directly and must instead be estimated. In such a case, an entity develops an accounting 
+estimate to achieve the objective set out by the accounting policy. Developing accounting estimates involves the use 
+of judgements or assumptions based on the latest available, reliable information. Examples of accounting estimates 
+include:
+(a) a loss allowance for expected credit losses, applying IFRS 9 Financial Instruments;
+(b) the net realisable value of an item of inventory, applying IAS 2 Inventories;
+(c) the fair value of an asset or liability, applying IFRS 13 Fair Value Measurement;
+(d) the depreciation expense for an item of property, plant and equipment, applying IAS 16; and
+(e) a provision for warranty obligations, applying IAS 37 Provisions, Contingent Liabilities and Contingent Assets.
+32A
+An entity uses measurement techniques and inputs to develop an accounting estimate. Measurement techniques 
+include estimation techniques (for example, techniques used to measure a loss allowance for expected credit losses 
+applying IFRS 9) and valuation techniques (for example, techniques used to measure the fair value of an asset or 
+liability applying IFRS 13).
+32B
+The term ‘estimate’ in IFRSs sometimes refers to an estimate that is not an accounting estimate as defined in this 
+Standard. For example, it sometimes refers to an input used in developing accounting estimates.
+…
+EN
+Official Journal of the European Union 
+3.3.2022 
+L 68/7  
+Changes in accounting estimates
+34.
+An entity may need to change an accounting estimate if changes occur in the circumstances on which the 
+accounting estimate was based or as a result of new information, new developments or more experience. By its 
+nature, a change in an accounting estimate does not relate to prior periods and is not the correction of an error.
+34A
+The effects on an accounting estimate of a change in an input or a change in a measurement technique are changes 
+in accounting estimates unless they result from the correction of prior period errors.
+…
+Applying changes in accounting estimates
+…
+38.
+Prospective recognition of the effect of a change in an accounting estimate means that the change is applied to 
+transactions, other events and conditions from the date of that change. A change in an accounting estimate may 
+affect only the current period’s profit or loss, or the profit or loss of both the current period and future periods. For 
+example, a change in a loss allowance for expected credit losses affects only the current period’s profit or loss and 
+therefore is recognised in the current period. However, a change in the estimated useful life of, or the expected 
+pattern of consumption of the future economic benefits embodied in, a depreciable asset affects depreciation 
+expense for the current period and for each future period during the asset’s remaining useful life. In both cases, the 
+effect of the change relating to the current period is recognised as income or expense in the current period. The 
+effect, if any, on future periods is recognised as income or expense in those future periods.
+Disclosure
+…
+ERRORS
+…
+48.
+Corrections of errors are distinguished from changes in accounting estimates. Accounting estimates by their nature 
+are approximations that may need changing as additional information becomes known. For example, the gain or 
+loss recognised on the outcome of a contingency is not the correction of an error.
+…
+EFFECTIVE DATE AND TRANSITION
+…
+54I
+Definition of Accounting Estimates, issued in February 2021, amended paragraphs 5, 32, 34, 38 and 48 and added 
+paragraphs 32A, 32B and 34A. An entity shall apply these amendments for annual reporting periods beginning on 
+or after 1 January 2023. Earlier application is permitted. An entity shall apply the amendments to changes in 
+accounting estimates and changes in accounting policies that occur on or after the beginning of the first annual 
+reporting period in which it applies the amendments.
+EN
+Official Journal of the European Union 
+L 68/8 
+3.3.2022  

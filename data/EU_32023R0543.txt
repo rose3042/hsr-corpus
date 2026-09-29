@@ -1,0 +1,275 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/543 
+of 9 March 2023
+amending Implementing Regulation (EU) No 686/2012 as regards the allocation to Member States, 
+for the purposes of the renewal procedure, of the evaluation of active substances whose approval 
+expires between 31 January 2029 and 1 October 2035
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009
+concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC 
+and 91/414/EEC (1), and in particular Article 19 thereof,
+Whereas:
+(1)
+Commission Implementing Regulation (EU) No 686/2012 (2) allocates the evaluation of active substances to a 
+rapporteur Member State and to a co-rapporteur Member State for the purposes of the renewal procedure. Since the 
+evaluation of active substances whose approval expires between 31 January 2029 and 1 October 2035 has not yet 
+been allocated to a Member State or to a co-rapporteur Member State, it is appropriate to proceed to such allocation.
+(2)
+That allocation should be made in a way that ensures a balance between Member States as regards the distribution of 
+the responsibilities and the work.
+(3)
+Implementing Regulation (EU) No 686/2012 should therefore be amended accordingly.
+(4)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Implementing Regulation (EU) No 686/2012 is amended in accordance with the Annex to this Regulation.
+(1) OJ L 309, 24.11.2009, p. 1.
+(2) Commission Implementing Regulation (EU) No 686/2012 of 26 July 2012 allocating to Member States, for the purposes of the 
+renewal procedure, the evaluation of the active substances (OJ L 200, 27.7.2012, p. 5).
+EN
+Official Journal of the European Union 
+10.3.2023 
+L 73/1  
+
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 9 March 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 73/2 
+10.3.2023  
+
+ANNEX 
+In the Annex to Implementing Regulation (EU) No 686/2012, the following Part E is added:
+‘PART E
+Allocation of the evaluation of active substances whose approval expires between 31 January 2029 and 
+1 October 2035
+Active substance
+Rapporteur Member 
+State
+Co-rapporteur Member 
+State
+1-methylcyclopropene
+DE
+EL
+2,4-D
+DE
+EL
+2,4-DB
+EL
+IE
+ABE-IT 56
+FR
+PT
+Acetamiprid
+DE
+ES
+Acibenzolar-S-methyl
+ES
+BE
+Ampelomyces quisqualis strain AQ10
+SE
+NL
+Bacillus amyloliquefaciens strain FZB24
+DE
+AT
+Bacillus subtilis strain IAB/BS03
+ES
+AT
+Beauveria bassiana strain 203
+DK
+NL
+Beauveria bassiana strain IMI389521
+SE
+NL
+Beauveria bassiana strain PPRI 5339
+SE
+NL
+Benzoic acid
+HU
+CZ
+Carfentrazone-ethyl
+FR
+DE
+Carvone
+IT
+NL
+Cerevisane
+ES
+DE
+Clonostachys rosea strain J1446
+HU
+AT
+Coniothyrium minitans strain CON/M/91-08
+AT
+EE
+COS-OGA
+FR
+HR
+Cyhalofop-butyl
+CZ
+BE
+Cypermethrin
+CZ
+DE
+Dimethenamid-P
+BE
+DE
+Ethofumesate
+AT
+FI
+Fenhexamid
+BE
+CZ
+Ferric phosphate
+PL
+DK
+Ferric pyrophosphate
+CZ
+FR
+Flazasulfuron
+ES
+PL
+Florasulam
+CZ
+FR
+Florpyrauxifen-benzyl
+FR
+IT
+Flutianil
+DE
+EL
+Foramsulfuron
+FR
+SK
+Forchlorfenuron
+ES
+BE
+EN
+Official Journal of the European Union 
+10.3.2023 
+L 73/3  
+
+Iodosulfuron
+BE
+FR
+Iprovalicarb
+SE
+LV
+Isaria fumosorosea strain Apopka 97
+NL
+AT
+Isoxaflutole
+SE
+BE
+Laminarin
+EL
+FR
+Lavandulyl senecioate
+SE
+NL
+Maleic hydrazide
+SI
+IT
+Mefentrifluconazole
+ES
+FR
+Mesosulfuron
+PL
+SE
+Mesotrione
+NL
+SK
+Metalaxyl-M
+DE
+EL
+Mild Pepino Mosaic Virus isolate VC 1
+FR
+DE
+Mild Pepino Mosaic Virus isolate VX 1
+FR
+DE
+Pasteuria nishizawae Pn1
+NL
+DK
+Pepino mosaic virus strain CH2 isolate 1906
+FI
+BE
+Pethoxamid
+AT
+FR
+Phlebiopsis gigantea strain FOC PG 410.3
+EE
+FI
+Phlebiopsis gigantea strain VRA 1835
+EE
+FI
+Phlebiopsis gigantea strain VRA 1984
+EE
+FI
+Picolinafen
+LT
+IT
+Propoxycarbazone
+SE
+BE
+Pyraflufen-ethyl
+DE
+FR
+Pyridate
+AT
+DE
+Pyriproxyfen
+ES
+BE
+Saccharomyces cerevisiae strain LAS02
+EL
+AT
+Silthiofam
+NL
+IE
+Sodium hydrogen carbonate
+AT
+FR
+Sulfosulfuron
+IE
+SE
+Thiabendazole
+NO
+ES
+Thifensulfuron-methyl
+FR
+DK
+Tolclofos-methyl
+FI
+SE
+Tribenuron
+FR
+SE
+Trichoderma atroviride strain SC1
+SI
+NL
+Trifloxystrobin
+HR
+DE
+Verticillium albo-atrum strain WCS850
+NL
+SE
+Zoxamide
+BE
+PL’
+EN
+Official Journal of the European Union 
+L 73/4 
+10.3.2023

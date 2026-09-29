@@ -1,0 +1,122 @@
+COMMISSION DELEGATED REGULATION (EU) No 1292/2014 
+of 17 July 2014 
+on the conditions for classification, without testing, of certain uncoated wood floorings under 
+EN 14342 with regard to their reaction to fire 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying 
+down harmonized conditions for the marketing of construction products and repealing Council Directive 
+89/106/EEC (1), and in particular Article 27(5) thereof, 
+Whereas: 
+(1)  
+A system for classifying the performance of construction products, with regard to their reaction to fire was 
+adopted in Commission Decision 2000/147/EC (2). Wood floorings are among the construction products to 
+which that Decision applies. 
+(2)  
+Tests have shown wood floorings covered by the harmonised standard EN 14342 to have a stable and predictable 
+performance concerning reaction to fire provided that they meet certain conditions regarding the density of the 
+wood, the thickness of the flooring and the end use of the product. 
+(3)  
+Wood floorings covered by the harmonised standard EN 14342 should therefore be deemed to satisfy the classes 
+of performance for reaction to fire established in Decision 2000/147/EC on those conditions without further 
+testing being required, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Wood floorings covered by the harmonised standard EN 14342 which fulfil the conditions set out in the Annex shall be 
+deemed to satisfy the classes of performance indicated in the Annex without testing. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 17 July 2014. 
+For the Commission 
+The President 
+José Manuel BARROSO  
+5.12.2014 
+L 349/27 
+Official Journal of the European Union 
+EN     
+(1) OJ L 88, 4.4.2011, p. 5. 
+(2) Commission Decision 2000/147/EC of 8 February 2000 implementing Council Directive 89/106/EEC as regards the classification of the 
+reaction to fire performance of construction products (OJ L 50, 23.2.2000, p. 14). 
+ANNEX 
+Product (1) (7) 
+Product detail (4) 
+Minimum mean 
+density (5) 
+(kg/m3) 
+Minimum 
+overall 
+thickness 
+(mm) 
+End use condition 
+Class for 
+floorings (3) 
+Wood flooring 
+Solid wood flooring of pine or 
+spruce 
+Pine: 480 
+Spruce: 400 
+14 
+Without air gap 
+underneath 
+Dfl-s1 
+Wood flooring 
+Solid flooring of beech, oak, pine 
+or spruce 
+Beech: 700 
+Oak: 700 
+Pine: 430 
+Spruce: 400 
+20 
+With or without 
+air gap under­
+neath 
+Dfl-s1 
+Wood parquet 
+Solid wood (one layer) parquet of 
+walnut 
+650 
+8 
+Glued to 
+substrate (6) 
+Dfl-s1 
+Wood parquet 
+Solid (one layer) parquet of oak, 
+maple or ash 
+Ash: 650 
+Maple: 650 
+Oak: 720 
+8 
+Glued to 
+substrate (6) 
+Dfl-s1 
+Wood parquet 
+Multilayer parquet with oak top 
+layer, at least 3,5 mm 
+550 
+15 (2) 
+Without air gap 
+underneath 
+Dfl-s1 
+Wood flooring 
+and parquet 
+Solid wood flooring and parquet 
+not specified above 
+400 
+6 
+All 
+Efl 
+(1)  Mounted in accordance with EN ISO 9239-1, on a substrate of at least Class D-s2, d0 with minimum density of 400 kg/m3 or with 
+an air gap (minimum height 30 mm) underneath. 
+(2)  An interlayer of at least Class Efl and with maximum thickness 3 mm and minimum density of 280 kg/m3 may be included. 
+(3)  Class as set out in Table 2 of the Annex to Decision 2000/147/EC. 
+(4)  Without surface coatings. 
+(5)  Conditioned in accordance with EN 13238 (50 % RH, 23 °C). 
+(6)  Substrate at least Class D-s2, d0. 
+(7)  Applies also to steps of stairs.   
+5.12.2014 
+L 349/28 
+Official Journal of the European Union 
+EN     

@@ -1,0 +1,58 @@
+COMMISSION DELEGATED REGULATION (EU) 2017/748 
+of 14 December 2016 
+amending Annex I to Regulation (EU) No 510/2011 of the European Parliament and of the Council 
+in order to take into account the evolution of the mass of new light commercial vehicles 
+registered in 2013, 2014 and 2015 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting 
+emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce 
+CO2 emissions from light-duty vehicles (1), and in particular Article 13(5) thereof, 
+Whereas: 
+(1)  
+The average mass value used for the purpose of calculating the specific emissions of CO2 for each new light 
+commercial vehicle is to be adjusted every 3 years to take into account any changes in the average mass of the 
+new vehicles registered in the Union. 
+(2)  
+It is evident from the monitoring of the mass in running order of new light commercial vehicles registered in 
+calendar years 2013, 2014 and 2015 that the average mass has increased and the figure M0 referred to in 
+point 1(b) of Annex I to Regulation (EU) No 510/2011 should therefore be adjusted. 
+(3)  
+The new value should be determined by taking into account only those values that the vehicle manufacturers 
+concerned have been able to verify whilst excluding values from the calculation that were obviously incorrect, i.e. 
+values lower than 500 kg as well as values relating to vehicles that were out of the scope of Regulation (EU) 
+No 510/2011 including vehicles with a reference mass exceeding 2 840 kg. The new value is moreover based on 
+the weighted average taking into account the number of new registrations in each of the reference years. 
+(4)  
+Against that background, the M0 value to be applied from 2018 should be increased by 60,4 kg from 1 706,0 to 
+1 766,4, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Point 1(b) of Annex I to Regulation (EU) No 510/2011 is replaced by the following: 
+‘From 2018: 
+Specific emission of CO2 = 175 + a × (M – M0) 
+Where: 
+M  
+= mass of the vehicle in kilograms (kg) 
+M0  
+= 1 766,4 
+a  
+= 0,093;’. 
+29.4.2017 
+L 113/9 
+Official Journal of the European Union 
+EN     
+(1) OJ L 145, 31.5.2011, p. 1. 
+Article 2 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 14 December 2016. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+29.4.2017 
+L 113/10 
+Official Journal of the European Union 
+EN     

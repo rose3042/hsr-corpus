@@ -1,0 +1,220 @@
+ELI: http://data.europa.eu/eli/reg_impl/2024/216/oj 
+1/4
+COMMISSION IMPLEMENTING REGULATION (EU) 2024/216 
+of 11 January 2024
+amending the Annex to Implementing Regulation (EU) 2018/1882 concerning listed diseases of 
+aquatic animals and the list of species and groups of species posing a considerable risk for the spread 
+of those listed diseases 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on 
+transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health 
+Law’) (1), and in particular Article 8(2), Article 8(3), and Article 8(4), point (b) thereof,
+Whereas:
+(1)
+Regulation (EU) 2016/429 lays down rules for the prevention and control of diseases, which are transmissible to 
+animals or humans, including rules for the prioritisation and categorisation of listed diseases that are of concern at 
+Union level. Those rules for the prevention and control of listed diseases apply to species and groups of species, 
+which can transmit the listed diseases, by virtue of either being susceptible to them or by acting as vectors. Those 
+species and groups of species are listed in the table in the Annex to Commission Implementing Regulation 
+(EU) 2018/1882 (2), in accordance with the criteria laid down in Article 8 of Regulation (EU) 2016/429.
+(2)
+The European Food Safety Authority (EFSA) has provided scientific advice in its Scientific Opinions of 1 August 
+2023, concerning species of fish (3), molluscs (4), and crustaceans (5), which may act as vectors of diseases falling 
+within the scope of Regulation (EU) 2016/429.
+(3)
+It is, therefore, timely and important, to review the list of vectors of the aquatic diseases listed in the table set out in 
+the Annex to Implementing Regulation (EU) 2018/1882, taking into account the scientific advice provided by EFSA, 
+as well as the criteria laid down in Article 8 of Regulation (EU) 2016/429 which specifically stipulates that the list is 
+to comprise those animal species, or groups of animal species which pose a considerable risk for the spread of 
+specific listed diseases. According to the working definition set out in the EFSA Scientific Opinions, vector species 
+are those species which have been demonstrated to transmit the causative agent of a listed disease to susceptible 
+species. Such vector species clearly present a considerable risk for the spread of listed diseases.
+(1) OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+(2) Commission Implementing Regulation (EU) 2018/1882 of 3 December 2018 on the application of certain disease prevention and 
+control rules to categories of listed diseases and establishing a list of species and groups of species posing a considerable risk for the 
+spread of those listed diseases (OJ L 308, 4.12.2018, p. 21), ELI: https://eur-lex.europa.eu/eli/reg_impl/2018/1882/oj
+(3) Species which may act as vectors or reservoirs of diseases covered by the Animal Health Law: Listed pathogens of fish. EFSA Journal 
+2023; 21(8): 8174
+(4) Species which may act as vectors or reservoirs of diseases covered by the Animal Health Law: Listed pathogens of molluscs EFSA 
+Journal 2023; 21(8): 8173
+(5) Species which may act as vectors or reservoirs of diseases covered by the Animal Health Law: Listed pathogens of crustaceans EFSA 
+Journal 2023; 21(8): 8172
+Official Journal  
+of the European Union 
+EN 
+L series    
+2024/216  
+12.1.2024
+ELI: http://data.europa.eu/eli/reg_impl/2024/216/oj 
+2/4
+(4)
+In so far as the risk posed by the vector species which have been identified in the EFSA Scientific Opinions can be 
+managed by the competent authorities of Members States, those vector species should be listed in the fourth 
+column of the table set out in the Annex to Implementing Regulation (EU) 2018/1882. In addition, the vector 
+species which are currently listed in that column, and which have not been identified by EFSA as having 
+demonstrated the ability to transmit the causative agent of a listed disease of aquatic animals to susceptible species, 
+should be deleted from that column. The list of vector species for the aquatic diseases set out in the Annex to 
+Implementing Regulation (EU) 2018/1882 should, therefore, be amended accordingly.
+(5)
+Moreover, the World Organisation for Animal Health (WOAH) has recently reviewed the aquatic species, which are 
+susceptible to infection with Marteilia refringens. A revised list of species which are susceptible to that disease is set 
+out in Article 11.4.2. of the Aquatic Animal Health Code (6). As this disease is also currently listed in the table set 
+out in the Annex to Implementing Regulation (EU) 2018/1882, the Commission has reviewed the Report of the 
+WOAH ad hoc group on susceptible species to infection with WOAH listed diseases (7), which led to the revised list 
+of species, which is set out in the Aquatic Animal Health Code.
+(6)
+Following that review by the Commission, it is appropriate to amend the list of species and groups of species, which 
+is set out in the third column of the table in the Annex to Implementing Regulation (EU) 2018/1882, concerning 
+infection with Marteilia refringens. This amendment takes the latest scientific knowledge into account and seeks to 
+achieve an appropriate level of convergence with WOAH standards, while still taking previous risk management 
+decisions concerning two species of mussels, namely Mytilus edulis and Mytilus galloprovincialis, into account.
+(7)
+That list should therefore reflect the list of susceptible species set out in Article 11.4.2. of the WOAH Aquatic 
+Animal Health Code, with the exception of the species Mytilus edulis and Mytilus galloprovincialis.
+(8)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+The Annex to Implementing Regulation (EU) 2018/1882 is amended in accordance with the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 11 January 2024.
+For the Commission
+The President
+Ursula VON DER LEYEN
+(6) 2023 OIE – Aquatic Animal Health Code, 25th edition
+(7) https://www.woah.org/app/uploads/2022/10/a-ahg-susceptibility-mollusc-marteilia-refringens-nov-dec-2021-may-june-2022.pdf
+OJ L, 12.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg_impl/2024/216/oj 
+3/4
+ANNEX 
+In the Annex to Implementing Regulation (EU) 2018/1882, in the table, rows 51 to 63 concerning listed diseases, 
+categories of listed diseases and listed species of aquatic animals are replaced by the following:
+Name of listed disease
+Category of 
+listed disease
+Listed species
+Species and group of species
+Vector species
+‘Epizootic 
+haematopoietic necrosis
+A+D+E
+Ameiurus melas, Bidyanus bidyanus, Esox lucius, 
+Galaxias olidus, Gambusia affinis, Gambusia 
+holbrooki, Macquaria australasica, Melanotaenia 
+fluviatilis, Oncorhynchus mykiss, Perca fluviatilis, 
+Sander lucioperca
+Viral haemorrhagic 
+septicaemia
+C+D+E
+Alosa immaculata, Ameiurus nebulosus, 
+Ambloplites rupestris, Ammodytes hexapterus, 
+Aplodinotus grunniens, Centrolabrus exoletus, 
+Clupea harengus, Clupea pallasii pallasii, Coregonus 
+artedii, Coregonus clupeaformis, Coregonus 
+lavaretus, Ctenolabrus rupestris, Cyclopterus lumpus, 
+Cymatogaster aggregata, Dorosoma cepedianum, 
+Danio rerio, Engraulis encrasicolus, Esox lucius, Esox 
+masquinongy, Fundulus heteroclitus, Gadus 
+macrocephalus, Gadus morhua, Gaidropsarus 
+vulgaris,Gasterosteus aculeatus, Labrus bergylta, 
+Labrus mixtus, Lampetra fluviatilis, Lepomis 
+gibbosus, Lepomis macrochirus, Limanda limanda, 
+Merlangius merlangus, Micropterus dolomieu, 
+Micropterus salmoides, Micromesistius poutassou, 
+Morone americana, Morone chrysops, Morone 
+saxatilis, Mullus barbatus, Neogobius 
+melanostomus, Notropis atherinoides, Notropis 
+hudsonius, Oncorhynchus kisutch, Oncorhynchus 
+mykiss, Oncorhynchus mykiss x Oncorhynchus 
+kisutch hybrids, Oncorhynchus tshawytscha, 
+Paralichthys olivaceus, Perca flavescens, Pimephales 
+notatus, Pimephales promelas, Platichthys flesus, 
+Pleuronectes platessa, Pomatoschistus minutus, 
+Pomoxis nigromaculatus, Raja clavata, Salmo 
+marmoratus, Salmo salar, Salmo trutta, Salvelinus 
+namaycush, Sander vitreus, Sardina pilchardus, 
+Sardinops sagax, Scomber japonicus, Scophthalmus 
+maximus, Solea senegalensis, Sprattus sprattus, 
+Symphodus melops, Thaleichthys pacificus, 
+Trachurus mediterraneus, Trisopterus esmarkii, 
+Thymallus thymallus, Uranoscopus scaber
+Infectious 
+haematopoietic necrosis
+C+D+E
+Esox lucius, Onchorynchus clarkii, Oncorhynchus 
+keta, Oncorhynchus kisutch, Oncorhynchus masou, 
+Oncorhynchus mykiss, Oncorhynchus nerka, 
+Oncorhynchus tshawytscha, Salmo marmoratus, 
+Salvelinus namaycush, Salmo salar, Salmo trutta, 
+Salvelinus alpinus, Salvelinus fontinalis
+OJ L, 12.1.2024 
+EN  
+ELI: http://data.europa.eu/eli/reg_impl/2024/216/oj 
+4/4
+Infection with HPR- 
+deleted infectious salmon 
+anaemia virus
+C+D+E
+Oncorynchus mykiss, Salmo salar, Salmo trutta
+Koi herpes virus disease
+E
+All varieties and subspecies of Cyprinus carpio, 
+and Cyprinus carpio hybrids e.g., Cyprinus carpio × 
+Carassius auratus, Cyprinus carpio × Carassius 
+carassius
+Carassius auratus, Carassius 
+gibelio, Ctenopharyngodon 
+idella, Gymnocephalus cernua, 
+Hypophthalmichthys molitrix, 
+Rutilus rutilus, Tinca tinca
+Infection with Mikrocytos 
+mackini
+A+D+E
+Crassostrea gigas, Crassostrea sikamea, Ostrea edulis
+Crassostrea virginica
+Infection with Perkinsus 
+marinus
+A+D+E
+Crassostrea gigas, Crassostrea virginica
+Infection with Bonamia 
+exitiosa
+C+D+E
+Crassostrea ariakensis, Crassostrea virginica, Ostrea 
+puelchana, Ostrea angasi, Ostrea chilensis, Ostrea 
+equestris, Ostrea edulis, Ostrea lurida
+Infection with Bonamia 
+ostreae
+C+D+E
+Crassostrea ariakensis, Ostrea chilensis, Ostrea edulis
+Infection with Marteilia 
+refringens
+C+D+E
+Chamelea gallina, Ostrea edulis, Ostrea stentina, 
+Solen marginatus, Xenostrobus securis
+Infection with Taura 
+syndrome virus
+A+D+E
+Metapenaeus ensis, Penaeus aztecus, Penaeus 
+monodon, Penaeus setiferus, Penaeus stylirostris, 
+Penaeus vannamei
+Episesarma mederi, 
+Macrobrachium lanchesteri’
+Infection with yellow 
+head virus
+A+D+E
+Metapenaeus affinis, Penaeus monodon, 
+Palaemonetes pugio, Penaeus stylirostris, Penaeus 
+vannamei
+Infection with white spot 
+syndrome virus
+C+D+E
+All decapod crustaceans (order Decapoda)
+OJ L, 12.1.2024 
+EN  

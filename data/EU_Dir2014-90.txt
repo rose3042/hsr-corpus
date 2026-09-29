@@ -1,0 +1,1723 @@
+DIRECTIVE 2014/90/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+of 23 July 2014 
+on marine equipment and repealing Council Directive 96/98/EC 
+(Text with EEA relevance) 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 100(2) thereof, 
+Having regard to the proposal from the European Commission, 
+After transmission of the draft legislative act to the national parliaments, 
+Having regard to the opinion of the European Economic and Social Committee ( 1 ), 
+After consulting the Committee of the Regions, 
+Acting in accordance with the ordinary legislative procedure ( 2 ), 
+Whereas: 
+(1) 
+The global dimension of shipping calls for the Union to apply and support the international regulatory framework 
+for maritime safety. The international maritime safety conventions require flag States to ensure that the equipment 
+carried on board ships complies with certain safety requirements as regards design, construction and performance, 
+and to issue the relevant certificates. To that end, detailed performance and testing standards for certain types of 
+marine equipment have been developed by the International Maritime Organization (IMO) and by the international 
+and European standardisation bodies. 
+(2) 
+The international instruments leave a significant margin of discretion to the flag administrations. In the absence of 
+harmonisation, this leads to varying levels of safety for products which the competent national authorities have 
+certified as complying with those conventions and standards; as a result, the smooth functioning of the internal 
+market is affected as it becomes difficult for the Member States to accept equipment certified in another Member 
+State to be placed on board ships flying their flags without further verification. 
+(3) 
+Harmonisation by the Union resolves these problems. Council Directive 96/98/EC ( 3 ) thus laid down common 
+rules to eliminate differences in the implementation of international standards by means of a clearly identified set 
+of requirements and uniform certification procedures. 
+(4) 
+There are various other instruments of Union law which lay down requirements and conditions, inter alia, in order 
+to ensure the free movement of goods within the internal market or for environmental purposes, for certain 
+products which are similar in nature to equipment used on board ships but which do not meet the international
+EN 
+L 257/146 
+Official Journal of the European Union 
+28.8.2014 
+( 1 ) OJ C 161, 6.6.2013, p. 93. 
+( 2 ) Position of the European Parliament of 15 April 2014 (not yet published in the Official Journal) and decision of the Council of 
+23 July 2014. 
+( 3 ) Council Directive 96/98/EC of 20 December 1996 on marine equipment (OJ L 46, 17.2.1997, p. 25).
+standards – which may substantially differ from the internal legislation of the Union and are in constant evolution. 
+Those products cannot therefore be certified by the Member States in accordance with the relevant international 
+maritime safety conventions. Equipment to be placed onboard EU ships in accordance with international safety 
+standards should therefore be regulated exclusively by this Directive, which should in any event be considered the 
+lex specialis; furthermore, a specific marking should be established to indicate that equipment bearing that mark 
+complies with the requirements laid down in the relevant international conventions and instruments which have 
+entered into force. 
+(5) 
+As well as setting out detailed performance and testing standards for marine equipment, the international 
+instruments sometimes allow for measures that deviate from the prescriptive requirements but which, under 
+certain conditions, are suitable to satisfy the intent of those requirements. The International Convention for the 
+Safety of Life at Sea (SOLAS), 1974, allows for alternative designs and arrangements which could be applied by 
+individual Member States acting under their own responsibility. 
+(6) 
+Experience in the implementation of Directive 96/98/EC has shown that it is necessary to take additional measures 
+in order to enhance the implementation and enforcement mechanisms of that Directive and simplify the regulatory 
+environment while guaranteeing that IMO requirements are applied and implemented in a harmonised way across 
+the Union. 
+(7) 
+Requirements should therefore be established for marine equipment to meet the safety standards laid down in the 
+applicable international instruments, including the relevant testing standards, in order to ensure that equipment 
+which complies with those requirements can circulate unimpeded within the internal market and be placed on 
+board ships flying the flag of any Member State. 
+(8) 
+In order to allow for fair competition in the development of marine equipment, every effort should be made to 
+promote the use of open standards in order to make them available freely or at a nominal charge, and permissible 
+to all to copy, distribute and use for no fee or at a nominal fee. 
+(9) 
+Decision No 768/2008/EC of the European Parliament and of the Council ( 1 ) lays down common principles and 
+reference provisions intended to apply across sectoral legislation in order to provide a coherent basis for revision 
+or recasts of that legislation. That Decision constitutes a general framework of a horizontal nature for future 
+legislation harmonising the conditions for the marketing of products and a reference text for existing legislation. 
+That general framework provides appropriate solutions to the problems identified in the implementation of 
+Directive 96/98/EC. It is therefore necessary to incorporate the definitions and reference provisions of Decision 
+No 768/2008/EC into this Directive by making the adaptations which are required by the specific features of the 
+marine equipment sector. 
+(10) 
+In order to provide market surveillance authorities with additional, specific means to facilitate their task, an 
+electronic tag could supplement or replace the wheel mark in due time. 
+(11) 
+The responsibilities of the economic operators should be laid down in a way which is proportionate and non- 
+discriminatory for those economic operators who are established within the Union, taking into account the fact 
+that a significant proportion of the marine equipment falling within the scope of this Directive may never be 
+imported and distributed in the territory of the Member States.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/147 
+( 1 ) Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the 
+marketing of products, and repealing Council Decision 93/465/EEC (OJ L 218, 13.8.2008, p. 82).
+(12) 
+Given that marine equipment is placed on board ships at the time of their construction or repair all over the 
+world, market surveillance becomes particularly difficult and cannot be effectively supported by border controls. 
+Therefore, the respective obligations of Member States and of economic operators within the Union should be 
+clearly specified. Member States should ensure that only compliant equipment is installed on board ships flying 
+their flags and that this obligation is fulfilled through issuance, endorsement or renewal of the certificates of such 
+ships by the flag State administration under the international conventions, as well as through national market 
+surveillance arrangements in place in accordance with the Union market surveillance framework laid down in 
+Chapter III of Regulation (EC) No 765/2008 of the European Parliament and of the Council ( 1 ). Member States 
+should be supported in fulfilling those obligations by the information systems made available by the Commission 
+for the assessment, notification and monitoring of bodies authorised to carry out conformity assessment tasks, the 
+sharing of information in relation to approved marine equipment, applications withdrawn or refused, and non- 
+compliance of equipment. 
+(13) 
+In the first instance, the affixing of the wheel mark to the marine equipment by the manufacturer or, where 
+relevant, the importer should be the guarantee pursuant to their obligations under this Directive that the 
+equipment is compliant and may be placed on the market with a view to being placed on board an EU ship. 
+Thereafter, certain provisions are necessary for the safe continuation and applicability of the wheel mark after it 
+has been affixed and for the effective discharge of the task of national market surveillance authorities. The 
+manufacturer or, where relevant, the importer or the distributor, should be obliged to provide the competent 
+authorities with full and truthful information in relation to the equipment it has wheel marked to ensure that 
+marine equipment remains safe. The manufacturer should be obliged to cooperate with market surveillance 
+authorities, including as regard standards against which it has manufactured and certified equipment, and 
+should also exercise due diligence in relation to marine equipment it places on the market. In this regard, a 
+manufacturer located outside the Union should appoint an authorised representative in order to ensure 
+cooperation with competent national authorities. 
+(14) 
+Compliance with international testing standards could best be demonstrated by means of conformity assessment 
+procedures such as those laid down in Decision No 768/2008/EC. However, only those conformity assessment 
+procedures which meet the requirements of the international instruments should be made available to manu­
+facturers. 
+(15) 
+In order to ensure a fair and efficient procedure when examining suspected non-compliance, the Member States 
+should be encouraged to take all measures conducive to an exhaustive and objective evaluation of the risks;. if the 
+Commission is satisfied that this condition has been met, it should not be obliged to repeat that evaluation when 
+reviewing the restrictive measures adopted by the Member States as regards non-compliant equipment. 
+(16) 
+When performing its investigative duties with regard to notified bodies, the Commission should keep Member 
+States informed and should cooperate with them as far as possible, taking due account of its independent role. 
+(17) 
+When the surveillance authorities of a Member State consider that marine equipment covered by this Directive is 
+liable to present a risk to maritime safety, to health or to the environment, they should carry out evaluations or 
+tests in relation to the equipment concerned. In cases where a risk is detected, the Member State should call upon 
+the economic operator concerned to take the appropriate corrective action, or even to withdraw or recall the 
+equipment concerned. 
+(18) 
+The use of marine equipment not bearing the wheel mark should be allowed in exceptional circumstances, 
+especially when it is not possible for a ship to obtain equipment bearing the wheel mark in a port or installation 
+outside the Union or when equipment bearing the wheel mark is not available in the market.
+EN 
+L 257/148 
+Official Journal of the European Union 
+28.8.2014 
+( 1 ) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for 
+accreditation and market surveillance relating to the marketing of products (OJ L 218, 13.8.2008, p. 30).
+(19) 
+It is necessary to ensure that the attainment of the objectives of this Directive is not impaired by the absence of 
+international standards or serious weaknesses or anomalies in existing standards, including testing standards, for 
+specific items of marine equipment falling within the scope of this Directive. It is also necessary to identify the 
+specific items of marine equipment which could benefit from electronic tagging. Moreover, it is necessary to keep 
+up to date a non-essential element of this Directive, namely the references to standards as referred to in Annex III, 
+when new standards become available. The power to adopt acts in accordance with Article 290 of the Treaty on 
+the Functioning of the European Union should therefore be delegated to the Commission in respect of the 
+adoption, under certain conditions and on an interim basis, of harmonised technical specifications and testing 
+standards and in order to amend those references. It is of particular importance that the Commission carry out 
+appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing 
+and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant 
+documents to the European Parliament and to the Council. 
+(20) 
+In order to meet the objectives of this Directive, the international instruments should be uniformly implemented in 
+the internal market. It is therefore necessary, for each item of marine equipment for which the approval of the flag 
+State is required by the international conventions, to identify in a clear and timely way the design, construction 
+and performance requirements as well as the associated testing standards laid down in the international 
+instruments for that equipment, and to adopt common criteria and procedures, including timeframes, for the 
+implementation of those requirements and standards by notified bodies, Member State authorities and economic 
+operators, including any operator responsible for placing equipment on board an EU ship. It is also necessary to 
+ensure that the attainment of the objectives of this Directive is not impaired by shortcomings in the applicable 
+technical specifications and testing standards or in cases where the IMO has failed to produce appropriate 
+standards for marine equipment falling within the scope of this Directive. 
+(21) 
+The international instruments, with the exception of testing standards, should automatically apply in their up-to- 
+date version. In order to mitigate the risk that the introduction of new testing standards into Union legislation 
+causes disproportionate difficulties for the Union fleet and for economic operators, from the standpoint of clarity 
+and legal certainty, the entry into force of such new testing standards should not be automatic but, rather, should 
+be explicitly indicated by the Commission. 
+(22) 
+In order to ensure uniform conditions for the implementation of this Directive, implementing powers should be 
+conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) 
+No 182/2011 of the European Parliament and of the Council ( 1 ). 
+(23) 
+In order to facilitate a harmonised, rapid and simple implementation of this Directive, implementing acts adopted 
+pursuant to this Directive should take the form of Commission Regulations. 
+(24) 
+In line with established practice, the committee referred to in this Directive can play a useful role in examining 
+matters concerning the application of this Directive raised either by its chair or by a representative of a Member 
+State in accordance with its rules of procedure. 
+(25) 
+When matters relating to this Directive, other than its implementation or infringements, are being examined, for 
+example, in a Commission expert group, the European Parliament should, in line with existing practice, receive full 
+information and documentation and, where appropriate, an invitation to attend meetings.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/149 
+( 1 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general 
+principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 
+28.2.2011, p. 13).
+(26) 
+The Commission is assisted by the European Maritime Safety Agency, in accordance with Regulation (EC) 
+No 1406/2002 of the European Parliament and of the Council ( 1 ), in the effective implementation of relevant 
+binding legal acts of the Union and in the performance of the tasks therein entrusted to the Commission. 
+(27) 
+The competent authorities and all economic operators should make all possible efforts to facilitate written 
+communication in accordance with international practice, with a view to finding common means of communi­
+cation. 
+(28) 
+Since the objectives of this Directive, namely to enhance safety at sea and the prevention of marine pollution 
+through the uniform application of the relevant international instruments relating to equipment to be placed on 
+board ships, and to ensure the free movement of such equipment within the Union, cannot be sufficiently achieved 
+by the Member States but can rather, by reason of the scale of the action, be better achieved at Union level, the 
+Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on 
+European Union. In accordance with the principle of proportionality, as set out in that article, this Directive does 
+not go beyond what is necessary in order to achieve those objectives. 
+(29) 
+The measures to be adopted represent a major modification of the provisions of Directive 96/98/EC and therefore, 
+in the interests of clarity, that Directive should be repealed and replaced by this Directive, 
+HAVE ADOPTED THIS DIRECTIVE: 
+CHAPTER 1 
+GENERAL PROVISIONS 
+Article 1 
+Objective 
+The objective of this Directive is to enhance safety at sea and to prevent marine pollution through the uniform 
+application of the relevant international instruments relating to marine equipment to be placed on board EU ships, 
+and to ensure the free movement of such equipment within the Union. 
+Article 2 
+Definitions 
+For the purposes of this Directive, the following definitions apply: 
+(1) ‘marine equipment’ means equipment falling within the scope of this Directive in accordance with Article 3; 
+(2) ‘EU ship’ means a ship flying the flag of a Member State and falling within the scope of the international 
+conventions; 
+(3) ‘international conventions’ means the following conventions, together with their protocols and codes of mandatory 
+application, adopted under the auspices of the International Maritime Organization (IMO), which have entered into 
+force and which lay down specific requirements for the approval by the flag State of equipment to be placed on 
+board ships: 
+— the 1972 Convention on the International Regulations for Preventing Collisions at Sea (Colreg),
+EN 
+L 257/150 
+Official Journal of the European Union 
+28.8.2014 
+( 1 ) Regulation (EC) No 1406/2002 of the European Parliament and of the Council of 27 June 2002 establishing a European Maritime 
+Safety Agency (OJ L 208, 5.8.2002, p. 1).
+— the 1973 International Convention for the Prevention of Pollution from Ships (Marpol), 
+— the 1974 International Convention for the Safety of Life at Sea (Solas); 
+(4) ‘testing standards’ means the testing standards for marine equipment set by: 
+— the International Maritime Organization (IMO), 
+— the International Organization for Standardization (ISO), 
+— the International Electrotechnical Commission (IEC), 
+— the European Committee for Standardization (CEN), 
+— the European Committee for Electrotechnical Standardization (Cenelec), 
+— the International Telecommunication Union (ITU), 
+— the European Telecommunications Standards Institute (ETSI), 
+— the Commission, in accordance with Article 8 and Article 27(6) of this Directive, 
+— the regulatory authorities recognised in the mutual recognition agreements to which the Union is a party; 
+(5) ‘international instruments’ means the international conventions, together with the resolutions and circulars of the 
+IMO giving effect to those conventions in their up-to-date version, and the testing standards; 
+(6) ‘wheel mark’ means the symbol referred to in Article 9 and set out in Annex I or, as appropriate, the electronic tag 
+referred to in Article 11; 
+(7) ‘notified body’ means an organisation designated by the competent national administration of a Member State in 
+accordance with Article 17; 
+(8) ‘making available on the market’ means any supply of marine equipment on the Union market in the course of a 
+commercial activity, whether in return for payment or free of charge; 
+(9) ‘placing on the market’ means the first making available of marine equipment on the Union market; 
+(10) ‘manufacturer’ means any natural or legal person who manufactures marine equipment or has marine equipment 
+designed or manufactured, and markets that equipment under its name or trademark; 
+(11) ‘authorised representative’ means any natural or legal person established within the Union who has received a 
+written mandate from a manufacturer to act on its behalf in relation to specified tasks;
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/151
+(12) ‘importer’ means any natural or legal person established within the Union who places marine equipment from a 
+third country on the Union market; 
+(13) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, 
+who makes marine equipment available on the market; 
+(14) ‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor; 
+(15) ‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008; 
+(16) ‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation 
+(EC) No 765/2008; 
+(17) ‘conformity assessment’ means the process carried out by the notified bodies, in accordance with Article 15, 
+demonstrating whether marine equipment complies with the requirements laid down in this Directive; 
+(18) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, 
+testing, certification and inspection; 
+(19) ‘recall’ means any measure aimed at achieving the return of marine equipment that has already been placed on board 
+EU ships or purchased with the intention of being placed on board EU ships; 
+(20) ‘withdrawal’ means any measure aimed at preventing marine equipment in the supply chain from being made 
+available on the market; 
+(21) ‘EU declaration of conformity’ means a statement issued by the manufacturer in accordance with Article 16; 
+(22) ‘product’ means an item of marine equipment. 
+Article 3 
+Scope 
+1. 
+This Directive shall apply to equipment placed or to be placed on board an EU ship and for which the approval of 
+the flag State administration is required by the international instruments, regardless of whether the ship is situated in the 
+Union at the time when it is fitted with the equipment. 
+2. 
+Notwithstanding the fact that the equipment referred to in paragraph 1 may also fall within the scope of 
+instruments of Union law other than this Directive, that equipment shall, for the purpose set out in Article 1, be 
+subject only to this Directive. 
+Article 4 
+Requirements for marine equipment 
+1. 
+Marine equipment that is placed on board an EU ship on or after the date referred to in the second subparagraph of 
+Article 39(1) shall meet the design, construction and performance requirements of the international instruments as 
+applicable at the time when that equipment is placed on board.
+EN 
+L 257/152 
+Official Journal of the European Union 
+28.8.2014
+2. 
+Compliance of marine equipment with the requirements referred to in paragraph 1 shall be demonstrated solely in 
+accordance with the testing standards and by means of the conformity assessment procedures referred to in Article 15. 
+3. 
+The international instruments shall apply, without prejudice to the conformity checking procedure set out in 
+Article 5 of Regulation (EC) No 2099/2002 of the European Parliament and of the Council ( 1 ). 
+4. 
+The requirements and standards referred to in paragraphs 1 and 2 shall be implemented in a uniform manner, in 
+accordance with Article 35(2). 
+Article 5 
+Application 
+1. 
+When Member States issue, endorse or renew the certificates of the ships flying their flag as required by the 
+international conventions, they shall ensure that the marine equipment on board those ships complies with the 
+requirements of this Directive. 
+2. 
+Member States shall take the necessary measures to ensure that marine equipment on board ships flying their flag 
+complies with the requirements in the international instruments which are applicable to equipment already placed on 
+board. Implementing powers shall be conferred upon the Commission to ensure the uniform application of those 
+measures, in accordance with Article 35(3). 
+Article 6 
+Functioning of the internal market 
+Member States shall not prohibit the placing on the market or the placing on board an EU ship of marine equipment 
+which complies with this Directive, nor refuse to issue the certificates relating thereto to the ships flying their flag, or to 
+renew the said certificates. 
+Article 7 
+Transfer of a ship to the flag of a Member State 
+1. 
+In the case of a non-EU ship which is to be transferred to the flag of a Member State, that ship shall, during 
+transfer, be subject to inspection by the receiving Member State to verify that the actual condition of its marine 
+equipment corresponds to its safety certificates and either complies with this Directive and bears the wheel mark or 
+is equivalent, to the satisfaction of that Member State’s administration, to marine equipment certified in accordance with 
+this Directive as of 18 September 2016. 
+2. 
+In cases where the date of installation on board of marine equipment cannot be established, Member States may 
+determine satisfactory requirements of equivalence, taking into account relevant international instruments. 
+3. 
+Unless the equipment either bears the wheel mark or the administration considers it to be equivalent, it shall be 
+replaced. 
+4. 
+Marine equipment which is considered equivalent pursuant to this Article shall be issued with a certificate by the 
+Member State which shall at all times be carried with the equipment. That certificate shall give the flag Member State’s 
+permission for the equipment to be retained on board the ship and impose any restrictions or lay down any provisions 
+relating to the use of the equipment.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/153 
+( 1 ) Regulation (EC) No 2099/2002 of the European Parliament and of the Council of 5 November 2002 establishing a Committee on 
+Safe Seas and the Prevention of Pollution from Ships (COSS) (OJ L 324, 29.11.2002, p. 1.).
+Article 8 
+Standards for marine equipment 
+1. 
+Without prejudice to Directive 98/34/EC of the European Parliament and the Council ( 1 ), as amended by Regulation 
+(EU) No 1025/2012 of the European Parliament and of the Council ( 2 ), the Union shall pursue the development by the 
+IMO and by standardisation bodies of appropriate international standards, including detailed technical specifications and 
+testing standards, for marine equipment whose use or installation on board ships is deemed necessary to enhance 
+maritime safety and the prevention of marine pollution. The Commission shall monitor such development on a 
+regular basis. 
+2. 
+In the absence of an international standard for a specific item of marine equipment, in exceptional circumstances 
+where duly justified by an appropriate analysis and in order to remove a serious and unacceptable threat to maritime 
+safety, to health or to the environment and taking into account any ongoing work at IMO level, the Commission shall be 
+empowered to adopt, by means of delegated acts in accordance with Article 37, harmonised technical specifications and 
+testing standards for that specific item of marine equipment. 
+It is of particular importance that the Commission carry out consultations with experts, including Member States’ experts, 
+during the preparation of such delegated acts. 
+Those technical specifications and testing standards shall apply on an interim basis until such time as the IMO has 
+adopted a standard for that specific item of marine equipment. 
+3. 
+In exceptional circumstances where duly justified by an appropriate analysis and if it is necessary to remove an 
+identified unacceptable threat to maritime safety, to health or to the environment due to a serious weakness or anomaly 
+in an existing standard for a specific item of marine equipment indicated by the Commission pursuant to Article 35(2) or 
+(3) and taking into account any ongoing work at IMO level, the Commission shall be empowered to adopt, by means of 
+delegated acts in accordance with Article 37, harmonised technical specifications and testing standards for that specific 
+item of marine equipment, to the extent necessary to remedy the serious weakness or anomaly only. 
+It is of particular importance that the Commission carry out consultations with experts, including Member States’ experts, 
+during the preparation of such delegated acts. 
+Those technical specifications and testing standards shall apply on an interim basis until such time as the IMO has 
+reviewed the standard applicable to that specific item of marine equipment. 
+4. 
+The technical specifications and standards adopted in accordance with paragraphs 2 and 3 shall be made accessible 
+free of charge by the Commission. 
+CHAPTER 2 
+THE WHEEL MARK 
+Article 9 
+The wheel mark 
+1. 
+Marine equipment the compliance of which with the requirements laid down in this Directive has been demon­
+strated in accordance with the relevant conformity assessment procedures shall have the wheel mark affixed to it.
+EN 
+L 257/154 
+Official Journal of the European Union 
+28.8.2014 
+( 1 ) Directive 98/34/EC of the European Parliament and the Council of 22 June 1998 laying down a procedure for the provision of 
+information in the field of technical standards and regulations (OJ L 204, 21.7.1998, p. 37). 
+( 2 ) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, 
+amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 
+2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council 
+Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+2. 
+The wheel mark shall not be affixed to any other product. 
+3. 
+The form of the wheel mark to be used shall be as set out in Annex I. 
+4. 
+Use of the wheel mark shall be subject to the general principles set out in paragraphs 1 and 3 to 6 of Article 30 of 
+Regulation (EC) No 765/2008, where any reference to the CE marking shall be construed as a reference to the wheel 
+mark. 
+Article 10 
+Rules and conditions for affixing the wheel mark 
+1. 
+The wheel mark shall be affixed visibly, legibly and indelibly to the product or to its data plate and, where relevant, 
+embedded in its software. Where that is not possible or not warranted on account of the nature of the product, it shall be 
+affixed to the packaging and to the accompanying documents. 
+2. 
+The wheel mark shall be affixed at the end of the production phase. 
+3. 
+The wheel mark shall be followed by the identification number of the notified body, where that body is involved in 
+the production control phase, and by the year in which the mark is affixed. 
+4. 
+The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the 
+manufacturer or the manufacturer's authorised representative. 
+Article 11 
+Electronic tag 
+1. 
+In order to facilitate market surveillance and prevent the counterfeiting of specific items of marine equipment 
+referred to in paragraph 3, manufacturers may use an appropriate and reliable form of electronic tag instead of, or in 
+addition to, the wheel mark. In such a case, Articles 9 and 10 shall apply, as appropriate, mutatis mutandis. 
+2. 
+The Commission shall carry out a cost-benefit analysis concerning the use of the electronic tag as a supplement to, 
+or a replacement of, the wheel mark. 
+3. 
+The Commission may adopt delegated acts, in accordance with Article 37, in order to identify the specific items of 
+marine equipment which can benefit from electronic tagging. It is of particular importance that the Commission carry out 
+consultations with experts, including Member States’ experts, during the preparation of such delegated acts. 
+4. 
+Implementing powers shall be conferred upon the Commission in order to lay down, in the form of Commission 
+Regulations and in accordance with the examination procedure referred to in Article 38(2), appropriate technical criteria 
+as regards the design, performance, affixing and use of electronic tags. 
+5. 
+For the equipment identified in accordance with paragraph 3, the wheel mark may, within three years after the date 
+of adoption of the appropriate technical criteria referred to in paragraph 4, be supplemented by an appropriate and 
+reliable form of electronic tag. 
+6. 
+For the equipment identified in accordance with paragraph 3, the wheel mark may be replaced, five years after the 
+date of adoption of the appropriate technical criteria referred to in paragraph 4, by an appropriate and reliable form of 
+electronic tag.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/155
+CHAPTER 3 
+OBLIGATIONS OF ECONOMIC OPERATORS 
+Article 12 
+Obligations of manufacturers 
+1. 
+By affixing the wheel mark, manufacturers shall take on responsibility for guaranteeing that the marine equipment 
+to which the mark is affixed has been designed and manufactured in accordance with the technical specifications and 
+standards implemented in accordance with Article 35(2), and shall assume the obligations laid down in paragraphs 2 to 9 
+of this Article. 
+2. 
+Manufacturers shall draw up the required technical documentation and have the applicable conformity assessment 
+procedures carried out. 
+3. 
+Where the compliance of marine equipment with the applicable requirements has been demonstrated by the 
+conformity assessment procedure, manufacturers shall draw up an EU declaration of conformity in accordance with 
+Article 16 and affix the wheel mark in accordance with Articles 9 and 10. 
+4. 
+Manufacturers shall keep the technical documentation and the EU declaration of conformity referred to in Article 16 
+for at least 10 years after the wheel mark has been affixed and in no case for a period shorter than the expected life of 
+the marine equipment concerned. 
+5. 
+Manufacturers shall ensure that procedures are in place for series production to remain in conformity. Changes in 
+marine equipment design or characteristics and changes in the requirements in the international instruments as referred to 
+in Article 4, on the basis of which conformity of marine equipment is declared, shall be taken into account. When 
+necessary in accordance with Annex II, manufacturers shall have a new conformity assessment carried out. 
+6. 
+Manufacturers shall ensure that their products bear a type, batch or serial number or other element allowing their 
+identification, or, where the size or nature of the product does not allow it, that the required information is provided on 
+the packaging or in a document accompanying the product or both, as appropriate. 
+7. 
+Manufacturers shall indicate their name, registered trade name or registered trade mark and the address at which 
+they can be contacted on the product or, where that is not possible, on its packaging or in a document accompanying the 
+product or both, as appropriate. The address must indicate a single point at which the manufacturer can be contacted. 
+8. 
+Manufacturers shall ensure that the product is accompanied by instructions and all necessary information for safe 
+installation on board and safe use of the product, including limitations of use, if any, that can be easily understood by the 
+users, together with any other documentation required by the international instruments or testing standards. 
+9. 
+Manufacturers who consider or have reason to believe that a product to which they have affixed the wheel mark is 
+not in conformity with the applicable design, construction and performance requirements and with the testing standards 
+implemented in accordance with Article 35(2) and (3), shall immediately take the necessary corrective measures to bring 
+that product into conformity, to withdraw it or to recall it, if appropriate. In addition, where the product presents a risk, 
+manufacturers shall immediately inform the competent national authorities of the Member States, giving details, in 
+particular, of the non-compliance and of any corrective measures taken.
+EN 
+L 257/156 
+Official Journal of the European Union 
+28.8.2014
+10. 
+Manufacturers shall, further to a reasoned request from a competent authority, promptly provide it with all the 
+information and documentation necessary to demonstrate the conformity of the product, in a language which can be 
+easily understood by or is acceptable to that authority, grant that authority access to their premises for market 
+surveillance purposes in accordance with Article 19 of Regulation (EC) No 765/2008 and provide samples or access 
+to samples in accordance with Article 25(4) of this Directive. They shall cooperate with that authority, at its request, on 
+any action taken to eliminate the risks posed by products which they have placed on the market. 
+Article 13 
+Authorised representatives 
+1. 
+A manufacturer who is not located in the territory of at least one Member State shall, by a written mandate, 
+appoint an authorised representative for the Union and shall indicate in the mandate the name of the authorised 
+representative and the address at which it can be contacted. 
+2. 
+Fulfilment of the obligations laid down in Article 12(1) and the drawing-up of technical documentation shall not 
+form part of the authorised representative’s mandate. 
+3. 
+An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The 
+mandate shall allow the authorised representative to do at least the following: 
+(a) keep the EU declaration of conformity and the technical documentation at the disposal of national surveillance 
+authorities for at least 10 years after the wheel mark has been affixed and in no case for a period shorter than the 
+expected life of the marine equipment concerned; 
+(b) further to a reasoned request from a competent authority, provide that authority with all the information and 
+documentation necessary to demonstrate the conformity of a product; 
+(c) cooperate with the competent authorities, at their request, on any action taken to eliminate the risks posed by 
+products covered by its mandate. 
+Article 14 
+Other economic operators 
+1. 
+Importers shall indicate their name, registered trade name or registered trade mark and the address at which they 
+can be contacted on the product or, where that is not possible, on its packaging or in a document accompanying the 
+product or both, as appropriate. 
+2. 
+Importers and distributors shall, further to a reasoned request from a competent authority, provide it with all the 
+information and documentation necessary to demonstrate the conformity of a product in a language which can be easily 
+understood by, or is acceptable to, that authority. They shall cooperate with that authority, at its request, on any action 
+taken to eliminate the risks posed by products which they have placed on the market. 
+3. 
+An importer or distributor shall be considered a manufacturer for the purposes of this Directive and shall be subject 
+to the obligations of the manufacturer under Article 12, where it places marine equipment on the market or on board an 
+EU ship under its name or trademark or modifies marine equipment already placed on the market in such a way that 
+compliance with the applicable requirements may be affected.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/157
+4. 
+For a period of at least 10 years after the wheel mark has been affixed and in no case for a period shorter than the 
+expected life of the marine equipment concerned, economic operators shall, on request, identify the following to the 
+market surveillance authorities: 
+(a) any economic operator who has supplied them with a product; 
+(b) any economic operator to whom they have supplied a product. 
+CHAPTER 4 
+CONFORMITY ASSESSMENT AND NOTIFICATION OF CONFORMITY ASSESSMENT BODIES 
+Article 15 
+Conformity assessment procedures 
+1. 
+The conformity assessment procedures shall be as set out in Annex II. 
+2. 
+Member States shall ensure that the manufacturer or the manufacturer's authorised representative has the 
+conformity assessment carried out, through a notified body, for a specific item of marine equipment, by using one of 
+the options provided by means of implementing acts adopted by the Commission in accordance with the examination 
+procedure referred to in Article 38(2), from among one of the following procedures: 
+(a) where the EC type-examination (module B) is to be used, before being placed on the market, all marine equipment 
+shall be subject to: 
+— production-quality assurance (module D); or 
+— product-quality assurance (module E); or 
+— product verification (module F); 
+(b) where sets of marine equipment are produced individually or in small quantities and not in series or in mass, the 
+conformity assessment procedure may be the EC unit verification (module G). 
+3. 
+The Commission shall, by means of the information system made available for that purpose, keep an up to date list 
+of approved marine equipment and applications withdrawn or refused and shall make that list available to interested 
+parties. 
+Article 16 
+EU declaration of conformity 
+1. 
+The EU declaration of conformity shall state that the fulfilment of the requirements laid down in accordance with 
+Article 4 has been demonstrated. 
+2. 
+The EU declaration of conformity shall follow the model structure set out in Annex III to Decision No 768/ 
+2008/EC. It shall contain the elements specified in the relevant modules set out in Annex II to this Directive and 
+shall be kept up to date. 
+3. 
+By drawing up the EU declaration of conformity, the manufacturer shall assume the responsibility and the 
+obligations referred to in Article 12(1).
+EN 
+L 257/158 
+Official Journal of the European Union 
+28.8.2014
+4. 
+When marine equipment is placed on board an EU ship, a copy of the EU declaration of conformity covering the 
+equipment concerned shall be provided to the ship, and shall be kept on board until the said equipment is removed from 
+the ship. It shall be translated by the manufacturer into the language or languages required by the flag Member State, 
+including at least a language commonly used in the maritime transport sector. 
+5. 
+A copy of the EU declaration of conformity shall be provided to the notified body or to the bodies which carried 
+out the relevant conformity assessment procedures. 
+Article 17 
+Notification of conformity assessment bodies 
+1. 
+Member States shall, by means of the information system made available by the Commission for that purpose, 
+notify the Commission and the other Member States of bodies authorised to carry out conformity assessment tasks under 
+this Directive. 
+2. 
+Notified bodies shall comply with the requirements laid down in Annex III. 
+Article 18 
+Notifying authorities 
+1. 
+Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the 
+necessary procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified 
+bodies, including compliance with Article 20. 
+2. 
+Notified bodies shall be monitored at least every two years. The Commission may choose to participate as an 
+observer in the monitoring exercise. 
+3. 
+Member States may decide that the assessment and monitoring referred to in paragraph 1 are to be carried out by a 
+national accreditation body. 
+4. 
+Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to 
+in paragraph 1 to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis 
+mutandis with the requirements laid down in Annex V. In addition, it shall have in place arrangements to cover liability 
+arising out of its activities. 
+5. 
+The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 4. 
+6. 
+The notifying authority shall comply with the requirements laid down in Annex V. 
+Article 19 
+Information obligation on notifying authorities 
+1. 
+Member States shall inform the Commission of their procedures for the assessment and notification of conformity 
+assessment bodies and the monitoring of such bodies, and of any changes thereto. 
+2. 
+The Commission shall, by means of the information system made available for that purpose, make that information 
+publicly available.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/159
+Article 20 
+Subsidiaries of, and subcontracting by, notified bodies 
+1. 
+Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a 
+subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Annex III and shall 
+inform the notifying authority accordingly. 
+2. 
+Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever these 
+are established. 
+3. 
+Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client. 
+4. 
+Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the 
+assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by such subcontractor 
+or subsidiary under this Directive. 
+Article 21 
+Changes to notifications 
+1. 
+Where a notifying authority has ascertained, or has been informed, that a notified body no longer meets the 
+requirements laid down in Annex III, or that it is failing to fulfil its obligations under this Directive, the notifying 
+authority shall restrict, suspend or withdraw notification as appropriate, depending on the seriousness of the failure to 
+meet those requirements or fulfil those obligations. It shall, by means of the information system made available by the 
+Commission for that purpose, immediately inform the Commission and the other Member States accordingly. 
+2. 
+In the event of restriction, suspension or withdrawal of notification, or where the notified body has ceased its 
+activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed 
+by another notified body or kept available for the responsible notifying and market surveillance authorities at their 
+request. 
+Article 22 
+Challenges to the competence of notified bodies 
+1. 
+The Commission shall investigate all cases where it doubts, based on the information available to it or brought to 
+its attention, the competence of a notified body or the continued fulfilment by a notified body of the requirements and 
+responsibilities to which it is subject. 
+2. 
+The notifying Member State shall provide the Commission, on request, with all information relating to the basis for 
+the notification or the maintenance of the competence of the body concerned. 
+3. 
+The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated 
+confidentially. 
+4. 
+Where the Commission ascertains that a notified body does not meet, or no longer meets, the requirements for its 
+notification, it shall without delay inform the notifying Member State accordingly and request it to take the necessary 
+corrective measures without delay, including de-notification if necessary. 
+Article 23 
+Operational obligations of notified bodies 
+1. 
+Notified bodies shall carry out conformity assessments or have them carried out in accordance with the procedures 
+provided for in Article 15.
+EN 
+L 257/160 
+Official Journal of the European Union 
+28.8.2014
+2. 
+Where a notified body finds that the obligations laid down in Article 12 have not been met by a manufacturer, it 
+shall require that manufacturer to take appropriate corrective measures without delay and shall not issue a conformity 
+certificate. 
+3. 
+Where, in the course of monitoring conformity following the issue of a conformity certificate, a notified body finds 
+that a product no longer complies, it shall require the manufacturer to take appropriate corrective measures without delay 
+and shall suspend or withdraw the certificate if necessary. Where corrective measures are not taken or do not have the 
+required effect, the notified body shall restrict, suspend or withdraw the certificate, as appropriate. 
+Article 24 
+Obligation of notified bodies to provide information 
+1. 
+Notified bodies shall inform the notifying authority of the following: 
+(a) any refusal, restriction, suspension or withdrawal of a conformity certificate; 
+(b) any circumstances affecting the scope of, and the conditions for, notification; 
+(c) any request for information which they have received from market surveillance authorities regarding conformity 
+assessment activities; 
+(d) on request, conformity assessment activities performed within the scope of their notification and any other activity 
+performed, including cross-border activities and subcontracting. 
+2. 
+Notified bodies shall provide the Commission and the Member States, on request, with relevant information 
+concerning issues relating to negative and positive conformity assessment results. Notified bodies shall provide the 
+other notified bodies carrying out conformity assessment activities covering the same products with information 
+concerning negative and, on request, positive conformity assessment results. 
+CHAPTER 5 
+UNION MARKET SURVEILLANCE, CONTROL OF PRODUCTS, SAFEGUARD PROVISIONS 
+Article 25 
+EU market surveillance framework 
+1. 
+As regards marine equipment, the Member States shall undertake market surveillance in accordance with the EU 
+market surveillance framework laid down in Chapter III of Regulation (EC) No 765/2008, subject to paragraphs 2 and 3 
+of this Article. 
+2. 
+National market surveillance infrastructures and programmes shall take into account the specific features of the 
+marine equipment sector, including the various procedures carried out as part of the conformity assessment, and in 
+particular the responsibilities placed on the flag State administration by the international conventions. 
+3. 
+Market surveillance may include documentary checks as well as checks of marine equipment which bears the wheel 
+mark, whether or not it has been placed on board ships. Checks of marine equipment already placed on board shall be 
+limited to such examination as can be carried out while the equipment concerned remains fully functional on board.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/161
+4. 
+Where the market surveillance authorities of a Member State, as defined in Regulation (EC) No 765/2008, intend to 
+carry out sample checks, they may, when it is reasonable and practicable to do so, request the manufacturer to make the 
+necessary samples available or to give on-the-spot access to the samples at the manufacturer’s own cost. 
+Article 26 
+Procedure for dealing with marine equipment presenting a risk at national level 
+1. 
+Where the market surveillance authorities of a Member State have sufficient reason to believe that marine 
+equipment covered by this Directive presents a risk to maritime safety, to health or to the environment, they shall 
+carry out an evaluation in relation to the marine equipment concerned covering all the requirements laid down in this 
+Directive. The relevant economic operators shall cooperate as necessary with the market surveillance authorities. 
+Where, in the course of that evaluation, the market surveillance authorities find that the marine equipment does not 
+comply with the requirements laid down in this Directive, they shall without delay require the relevant economic operator 
+to take all appropriate corrective actions to bring the marine equipment into compliance with those requirements, to 
+withdraw the marine equipment from the market, or to recall it within such reasonable period, commensurate with the 
+nature of the risk, as they may prescribe. 
+The market surveillance authorities shall inform the relevant notified body accordingly. 
+Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this 
+paragraph. 
+2. 
+Where the market surveillance authorities consider that non-compliance is not restricted to their national territory 
+or to ships flying their flag, they shall inform the Commission and the other Member States, by means of the information 
+system made available by the Commission for market surveillance purposes, of the results of the evaluation carried out 
+under paragraph 1 and of the actions which they have required the economic operator to take. 
+3. 
+The economic operator shall ensure that all appropriate corrective action is taken in respect of all the products 
+concerned that it has made available on the market throughout the Union or, as the case may be, placed or delivered to 
+be placed on board EU ships. 
+4. 
+Where the relevant economic operator does not take adequate corrective action within the period prescribed by the 
+market surveillance authorities in accordance with the second subparagraph of paragraph 1, or otherwise fails to meet its 
+obligations under this Directive, the market surveillance authorities shall take all appropriate provisional measures to 
+prohibit or restrict the marine equipment being made available on their national market or placed on board ships flying 
+their flag, to withdraw the product from that market or to recall it. 
+The market surveillance authorities shall inform the Commission and the other Member States, without delay, of those 
+measures. 
+5. 
+The information on the measures taken by the market surveillance authorities referred to in paragraph 4 shall 
+include all available details, in particular the data necessary for the identification of the non-compliant marine equipment, 
+the origin of the product, the nature of the alleged non-compliance and the risk involved, the nature and duration of the 
+national measures taken and the arguments put forward by the economic operator concerned. In particular, the market 
+surveillance authorities shall indicate whether the non-compliance is due to either: 
+(a) failure of the marine equipment to comply with the applicable design, construction and performance requirements as 
+laid down pursuant to Article 4;
+EN 
+L 257/162 
+Official Journal of the European Union 
+28.8.2014
+(b) non-compliance with the testing standards referred to in Article 4 during the conformity assessment procedure; 
+(c) shortcomings in those testing standards. 
+6. 
+Member States other than the Member State initiating the procedure shall without delay inform the Commission 
+and the other Member States of any measures adopted and of any additional information at their disposal relating to the 
+non-compliance of the marine equipment concerned, and, in the event of disagreement with the notified national 
+measure, of their objections. 
+7. 
+Where, within four months of receipt of the information concerning the measures taken by the market surveillance 
+authorities, as referred to in paragraph 4, no objection has been raised by a Member State or by the Commission in 
+respect of a provisional measure taken by a Member State, that measure shall be deemed justified. 
+8. 
+Member States shall ensure that appropriate restrictive measures in respect of the marine equipment concerned, 
+such as withdrawal of the product from their market, are taken without delay. 
+Article 27 
+EU safeguard procedure 
+1. 
+Where, on completion of the procedure set out in Article 26(3) and (4), objections are raised against a measure 
+taken by a Member State, or where the Commission considers that a national measure may be contrary to Union 
+legislation, the Commission shall without delay enter into consultation with the Member States and the relevant economic 
+operator or operators and shall evaluate the relevant national measure. On the basis of the results of that evaluation, the 
+Commission shall decide whether or not the relevant national measure is justified. 
+2. 
+For the purposes of paragraph 1, where the Commission is satisfied that the procedure followed in the adoption of 
+the national measure is appropriate for an exhaustive and objective evaluation of the risk and that the national measure 
+complies with Article 21 of Regulation (EC) No 765/2008, it may limit itself to examining the appropriateness and 
+proportionality of the relevant national measure in relation to the said risk. 
+3. 
+The Commission shall address its decision to all Member States and shall immediately communicate it to them and 
+to the relevant economic operator or operators. 
+4. 
+If the relevant national measure is considered justified, all Member States shall take the measures necessary to ensure 
+that the non-compliant marine equipment is withdrawn from their market, and, where necessary, recalled. They shall 
+inform the Commission accordingly. 
+5. 
+If the relevant national measure is considered unjustified, the Member State concerned shall withdraw it. 
+6. 
+Where the non-compliance of the marine equipment is attributed to shortcomings in the testing standards referred 
+to in Article 4, the Commission may, in order to fulfil the objective of this Directive, confirm, modify or revoke a 
+national safeguard measure by means of implementing acts in accordance with the examination procedure referred to in 
+Article 38(2). 
+The Commission shall furthermore be empowered to adopt, by means of delegated acts in accordance with the procedure 
+referred to in Article 37, interim harmonised requirements and testing standards for that specific item of marine 
+equipment. The criteria laid down in Article 8(3) shall apply accordingly. These requirements and testing standards 
+shall be made accessible free of charge by the Commission.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/163
+7. 
+Where the testing standard concerned is a European standard, the Commission shall inform the relevant European 
+standardisation body or bodies and shall bring the matter before the committee set up by Article 5 of Directive 98/34/EC. 
+That committee shall consult the relevant European standardisation body or bodies and deliver its opinion without delay. 
+Article 28 
+Compliant products which present a risk to maritime safety, to health or to the environment 
+1. 
+Where, having performed an evaluation under Article 26(1), a Member State finds that marine equipment which is 
+in compliance with this Directive nevertheless presents a risk to maritime safety, to health or to the environment, it shall 
+require the economic operator concerned to take all appropriate measures to ensure that the marine equipment 
+concerned, when placed on the market, no longer presents that risk, to withdraw the marine equipment from the 
+market or to recall it within such reasonable period, commensurate with the nature of the risk, as it may prescribe. 
+2. 
+The economic operator shall ensure that corrective action is taken in respect of all the products concerned that it 
+has made available on the market throughout the Union or placed on board EU ships. 
+3. 
+The Member State shall immediately inform the Commission and the other Member States. The information 
+provided shall include all available details, in particular the data necessary for the identification of the marine 
+equipment concerned, the origin and the supply chain of the marine equipment, the nature of the risk involved and 
+the nature and duration of the national measures taken. 
+4. 
+The Commission shall without delay enter into consultation with the Member States and the relevant economic 
+operator or operators and shall evaluate the national measures taken. On the basis of the results of that evaluation, the 
+Commission shall decide whether or not the measure is justified and shall where necessary propose appropriate measures. 
+Article 27(2) shall apply mutatis mutandis for this purpose. 
+5. 
+The Commission shall address its decision to all Member States and shall immediately communicate it to them and 
+to the relevant economic operator or operators. 
+Article 29 
+Formal non-compliance 
+1. 
+Without prejudice to Article 26, where a Member State makes one of the following findings, it shall require the 
+relevant economic operator to put an end to the non-compliance concerned: 
+(a) the wheel mark has been affixed in violation of Article 9 or Article 10; 
+(b) the wheel mark has not been affixed; 
+(c) the EU declaration of conformity has not been drawn up; 
+(d) the EU declaration of conformity has not been drawn up correctly; 
+(e) technical documentation is either not available or not complete; 
+(f) the EU declaration of conformity has not been sent to the ship. 
+2. 
+Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appro­
+priate measures to restrict or to prohibit the marine equipment being made available on the market or to ensure that it is 
+recalled or withdrawn from the market.
+EN 
+L 257/164 
+Official Journal of the European Union 
+28.8.2014
+Article 30 
+Exemptions based on technical innovation 
+1. 
+In exceptional circumstances of technical innovation, the flag State administration may permit marine equipment 
+which does not comply with the conformity assessment procedures to be placed on board an EU ship if it is established 
+by trial or otherwise to the satisfaction of the flag State administration that such equipment meets the objectives of this 
+Directive. 
+2. 
+The trial procedures shall in no way discriminate between marine equipment produced in the flag Member State and 
+marine equipment produced in other States. 
+3. 
+Marine equipment covered by this Article shall be given a certificate by the flag Member State which shall at all 
+times be carried with the equipment and which gives the flag Member State’s permission for the equipment to be placed 
+on board the ship and imposes any restrictions or lays down any provisions relating to the use of the equipment. 
+4. 
+Where a Member State allows marine equipment covered by this Article to be placed on board an EU ship, that 
+Member State shall forthwith communicate the particulars thereof together with the reports of all relevant trials, 
+assessments and conformity assessment procedures to the Commission and to the other Member States. 
+5. 
+Within 12 months of receipt of the communication referred to in paragraph 4, the Commission, if it considers that 
+the conditions laid down in paragraph 1 are not met, may require the Member State concerned to withdraw the 
+permission granted within a specified deadline. For this purpose, the Commission shall act by means of implementing 
+acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 38(2). 
+6. 
+Where a ship with marine equipment on board which is covered by paragraph 1 is transferred to another Member 
+State, the receiving flag Member State may take the necessary measures, which may include tests and practical demon­
+strations, to ensure that the equipment is at least as effective as equipment which does comply with the conformity 
+assessment procedures. 
+Article 31 
+Exemptions for testing or evaluation 
+A flag State administration may permit marine equipment which does not comply with the conformity assessment 
+procedures or which is not covered by Article 30 to be placed on board an EU ship for reasons of testing or evaluation, if 
+the following cumulative conditions are complied with: 
+(a) the marine equipment shall be given a certificate by the flag Member State which shall at all times be carried with the 
+equipment, state that Member State’s permission for the equipment to be placed on board the EU ship, impose all 
+necessary restrictions and lay down any other appropriate provisions as regards the use of the equipment concerned; 
+(b) the permission shall be limited to the period considered by the flag State as being necessary to complete the testing, 
+which should be as short as possible; 
+(c) the marine equipment shall not be relied on in place of equipment which meets the requirements of this Directive 
+and shall not replace such equipment, which shall remain on board the EU ship in working order and ready for 
+immediate use.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/165
+Article 32 
+Exemptions in exceptional circumstances 
+1. 
+In exceptional circumstances, which shall be duly justified to the flag State administration, when marine equipment 
+needs to be replaced in a port outside the Union where it is not practicable in terms of reasonable time, delay and cost to 
+place on board equipment which bears the wheel mark, other marine equipment may be placed on board subject to 
+paragraphs 2 to 4. 
+2. 
+The marine equipment placed on board shall be accompanied by documentation issued by a Member State of the 
+IMO which is a party to the relevant conventions, certifying compliance with the relevant IMO requirements. 
+3. 
+The flag State administration shall be informed at once of the nature and characteristics of such other marine 
+equipment. 
+4. 
+The flag State administration shall, at the earliest opportunity, ensure that the marine equipment referred to in 
+paragraph 1, along with its testing documentation, complies with the relevant requirements of the international 
+instruments and of this Directive. 
+5. 
+Where it has been demonstrated that specific marine equipment bearing the wheel mark is not available on the 
+market, the flag Member State may authorise other marine equipment to be placed on board, subject to 
+paragraphs 6 to 8. 
+6. 
+The authorised marine equipment shall comply, as much as possible, with the requirements and testing standards 
+referred to in Article 4. 
+7. 
+The marine equipment placed on board shall be accompanied by an interim certificate of approval issued by the flag 
+Member State or by another Member State, stating the following: 
+(a) the equipment bearing the wheel mark which the certified equipment is due to replace; 
+(b) the exact circumstances under which the certificate of approval has been issued, and in particular the unavailability in 
+the market of equipment bearing the wheel mark; 
+(c) the exact design, construction and performance requirements against which the equipment has been approved by the 
+certifying Member State; 
+(d) the testing standards applied, if any, in the relevant approval procedures. 
+8. 
+The Member State issuing an interim certificate of approval shall inform the Commission forthwith. If the 
+Commission considers that the conditions of paragraphs 6 and 7 have not been met, it may require that Member 
+State to revoke that certificate or take other appropriate measures by means of implementing acts. Those implementing 
+acts shall be adopted in accordance with the examination procedure referred to in Article 38(2). 
+CHAPTER 6 
+FINAL PROVISIONS 
+Article 33 
+Exchange of experience 
+The Commission shall provide for the organisation of exchanges of experience between the Member States’ national 
+authorities responsible for notification policy, especially as regards market surveillance.
+EN 
+L 257/166 
+Official Journal of the European Union 
+28.8.2014
+Article 34 
+Coordination of notified bodies 
+1. 
+The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in 
+place and properly operated in the form of a sectoral group of notified bodies. 
+2. 
+Member States shall ensure that the bodies notified by them participate in the work of the sectoral group, directly 
+or by means of designated representatives. 
+Article 35 
+Implementing measures 
+1. 
+The Member States shall, by means of the information system made available by the Commission for that purpose, 
+notify to the Commission the name and contact details of the authorities in charge of the implementation of this 
+Directive. The Commission shall draw up, periodically update and make public a list of those authorities. 
+2. 
+For each item of marine equipment for which the approval of the flag State administration is required by the 
+international conventions, the Commission shall indicate by means of implementing acts the respective design, 
+construction and performance requirements and the testing standards provided for in the international instruments. 
+When adopting those acts, the Commission shall explicitly indicate the dates from which those requirements and 
+testing standards are to apply, including the dates for placing on the market and placing on board, in accordance 
+with the international instruments, and taking into consideration timeframes for ship-building. The Commission may 
+also specify the common criteria and detailed procedures for their application. 
+3. 
+The Commission shall, by means of implementing acts, indicate the respective design, construction and 
+performance requirements newly provided for in the international instruments and which apply to equipment already 
+placed on board, in order to ensure that equipment placed on board EU ships complies with the international instru­
+ments. 
+4. 
+The Commission shall set up and maintain a database containing at least the following information: 
+(a) the list and essential details of the conformity certificates issued pursuant to this Directive, as provided by the notified 
+bodies; 
+(b) the list and essential details of the declarations of conformity issued pursuant to this Directive, as provided by the 
+manufacturers; 
+(c) an up-to-date list of the applicable international instruments, and of the requirements and testing standards applicable 
+by virtue of Article 4(4); 
+(d) the list and full text of the criteria and procedures referred to in paragraph 2; 
+(e) the requirements and conditions for electronic tagging referred to in Article 11, when applicable; 
+(f) any other useful information with a view to facilitating correct implementation of this Directive by the Member 
+States, the notified bodies and the economic operators. 
+That database shall be made accessible to the Member States. It shall also be made available to the public for information 
+purposes only.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/167
+5. 
+The implementing acts referred to in this Article shall be adopted in the form of Commission Regulations in 
+accordance with the examination procedure referred to in Article 38(2). 
+Article 36 
+Amendments 
+The Commission shall be empowered to adopt delegated acts in accordance with Article 37 in order to update the 
+references to standards, as referred to in Annex III, when new standards become available. 
+Article 37 
+Exercise of the delegation 
+1. 
+The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this 
+Article. 
+2. 
+The power to adopt delegated acts referred to in Articles 8, 11, 27 and 36 shall be conferred on the Commission 
+for a period of five years from 17 September 2014. The Commission shall draw up a report in respect of the delegation 
+of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly 
+extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not 
+later than three months before the end of each period. 
+3. 
+The delegation of power referred to in Articles 8, 11, 27 and 36 may be revoked at any time by the European 
+Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that 
+decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or 
+at a later date specified therein. It shall not affect the validity of any delegated acts already in force. 
+4. 
+As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and 
+to the Council. 
+5. 
+A delegated act adopted pursuant to Articles 8, 11, 27 and 36 shall enter into force only if no objection has been 
+expressed either by the European Parliament or the Council within a period of two months of notification of that act to 
+the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council 
+have both informed the Commission that they will not object. That period shall be extended by two months at the 
+initiative of the European Parliament or of the Council. 
+Article 38 
+Committee 
+1. 
+The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships 
+(COSS) established by Regulation (EC) No 2099/2002. That committee shall be a committee within the meaning of 
+Regulation (EU) No 182/2011. 
+2. 
+Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the 
+committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of 
+Article 5(4) of Regulation (EU) No 182/2011 shall apply. 
+Article 39 
+Transposition 
+1. 
+Member States shall adopt and publish, by 18 September 2016 at the latest, the laws, regulations and administrative 
+provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of 
+those provisions. 
+They shall apply those provisions from 18 September 2016.
+EN 
+L 257/168 
+Official Journal of the European Union 
+28.8.2014
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a 
+reference on the occasion of their official publication. Member States shall determine how such reference is to be made. 
+2. 
+Member States shall communicate to the Commission the text of the main provisions of national law which they 
+adopt in the field covered by this Directive. 
+Article 40 
+Repeal 
+1. 
+Directive 96/98/EC is repealed with effect from 18 September 2016. 
+2. 
+The requirements and testing standards for marine equipment applicable on 18 September 2016 pursuant to the 
+provisions of national law adopted by the Member States in order to comply with Directive 96/98/EC shall continue to 
+apply until the entry into force of the implementing acts referred to in Article 35(2). 
+3. 
+References to the repealed Directive shall be construed as references to this Directive. 
+Article 41 
+Entry into force 
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+Article 42 
+Addressees 
+This Directive is addressed to the Member States. 
+Done at Brussels, 23 July 2014. 
+For the European Parliament 
+The President 
+M. SCHULZ 
+For the Council 
+The President 
+S. GOZI
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/169
+ANNEX I 
+WHEEL MARK 
+The mark of conformity must take the following form: 
+If the wheel mark is reduced or enlarged the proportions given in the graduated drawing must be respected. 
+The various components of the wheel mark must have substantially the same vertical dimension, which may not be less 
+than 5 mm. 
+That minimum dimension may be waived for small devices.
+EN 
+L 257/170 
+Official Journal of the European Union 
+28.8.2014
+ANNEX II 
+CONFORMITY ASSESSMENT PROCEDURES 
+I. 
+MODULE B: EC TYPE-EXAMINATION 
+1. 
+EC type-examination is the part of a conformity assessment procedure in which a notified body examines the 
+technical design of marine equipment and verifies and attests that the technical design of the marine equipment 
+meets the relevant requirements. 
+2. 
+EC type-examination may be carried out in either of the following manners: 
+— examination of a specimen, representative of the production envisaged, of the complete product (production 
+type); 
+— assessment of the adequacy of the technical design of the marine equipment through examination of the 
+technical documentation and supporting evidence referred to in point 3, plus examination of specimens, 
+representative of the production envisaged, of one or more critical parts of the product (combination of 
+production type and design type). 
+3. 
+The manufacturer shall lodge an application for EC type-examination with a single notified body of its choice. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, its 
+name and address as well; 
+— a written declaration that the same application has not been lodged with any other notified body; 
+— the technical documentation. The technical documentation shall make it possible to assess the conformity of the 
+marine equipment with the applicable requirements of the international instruments as referred to in Article 4, 
+and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify 
+the applicable requirements and shall cover, as far as relevant for the assessment, the design, manufacture and 
+operation of the marine equipment. The technical documentation shall contain, wherever applicable, at least the 
+following elements: 
+(a) a general description of the marine equipment; 
+(b) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.; 
+(c) descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation of the marine equipment; 
+(d) a list of the requirements and testing standards which are applicable to the marine equipment concerned in 
+accordance with this Directive, together with a description of the solutions adopted to meet those require­
+ments; 
+(e) results of design calculations made, examinations carried out, etc.; and 
+(f) test reports; 
+— the specimens representative of the production envisaged. The notified body may request further specimens if 
+needed for carrying out the test programme;
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/171
+— the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall 
+mention any documents that have been used. The supporting evidence shall include, where necessary, the 
+results of tests carried out by the appropriate laboratory of the manufacturer, or by another testing laboratory 
+on the manufacturer's behalf and under its responsibility. 
+4. 
+The notified body shall: 
+For the marine equipment: 
+4.1. examine the technical documentation and supporting evidence to assess the adequacy of the technical design of the 
+marine equipment; 
+For the specimen(s): 
+4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the 
+elements which have been designed in accordance with the applicable provisions of the relevant requirements and 
+testing standards, as well as the elements which have been designed without applying the relevant provisions of 
+those standards; 
+4.3. carry out appropriate examinations and tests, or have them carried out, in accordance with this Directive; 
+4.4. agree with the manufacturer on a location where the examinations and tests will be carried out. 
+5. 
+The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 
+4 and their outcomes. Without prejudice to its obligations vis-à-vis the notifying authorities, the notified body shall 
+release the content of that report, in full or in part, only with the agreement of the manufacturer. 
+6. 
+Where the type meets the requirements of the specific international instruments that apply to the marine equipment 
+concerned, the notified body shall issue an EC type-examination certificate to the manufacturer. The certificate shall 
+contain the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its 
+validity and the necessary data for identification of the approved type. The certificate may have one or more annexes 
+attached. 
+The certificate and its annexes shall contain all relevant information to allow the conformity of manufactured 
+products with the examined type to be evaluated and to allow for in-service control. 
+Where the type does not satisfy the applicable requirements of the international instruments, the notified body shall 
+refuse to issue an EC type-examination certificate and shall inform the applicant accordingly, giving detailed reasons 
+for its refusal. 
+7. 
+If the approved type no longer complies with the applicable requirements, the notified body shall determine whether 
+further testing or a new conformity assessment procedure is necessary. 
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EC type- 
+examination certificate of all modifications to the approved type that may affect the conformity of the marine 
+equipment with the requirements of the relevant international instruments or the conditions for validity of the 
+certificate. Such modifications shall require additional approval in the form of an addition to the original EC type- 
+examination certificate. 
+8. 
+Each notified body shall inform its notifying authorities concerning the EC type-examination certificates and/or any 
+additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its 
+notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted.
+EN 
+L 257/172 
+Official Journal of the European Union 
+28.8.2014
+Each notified body shall inform the other notified bodies concerning the EC type-examination certificates and/or any 
+additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning 
+the certificates and/or additions thereto which it has issued. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC type- 
+examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a 
+copy of the technical documentation and the results of the examinations carried out by the notified body. The 
+notified body shall keep a copy of the EC type-examination certificate, its annexes and additions, as well as the 
+technical file including the documentation submitted by the manufacturer, until the expiry of the validity of the 
+certificate. 
+9. 
+The manufacturer shall keep a copy of the EC type-examination certificate, its annexes and additions together with 
+the technical documentation at the disposal of the national authorities for at least 10 years after the wheel mark has 
+been affixed on the last product manufactured and in no case for a period shorter than the expected life of the 
+marine equipment concerned. 
+10. The manufacturer’s authorised representative may lodge the application referred to in point 3 and fulfil the 
+obligations set out in points 7 and 9, provided that they are specified in the mandate. 
+II. 
+MODULE D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS 
+1. 
+Conformity to type based on quality assurance of the production process is the part of a conformity assessment 
+procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on 
+its sole responsibility that the marine equipment concerned is in conformity with the type described in the EC type- 
+examination certificate and that it satisfies the requirements of the international instruments that apply to it. 
+2. 
+Manufacturing 
+The manufacturer shall operate an approved quality system for production, final product inspection and testing of 
+the products concerned as specified in point 3, and shall be subject to surveillance as specified in point 4. 
+3. 
+Quality system 
+3.1. The manufacturer shall lodge an application for assessment of its quality system with the notified body of its choice, 
+for the marine equipment concerned. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, its 
+name and address as well; 
+— a written declaration that the same application has not been lodged with any other notified body; 
+— all relevant information for the marine equipment category envisaged; 
+— the documentation concerning the quality system; 
+— the technical documentation of the approved type and a copy of the EC type-examination certificate. 
+3.2. The quality system shall ensure that the products are in conformity with the type described in the EC type- 
+examination certificate and that they comply with the requirements of the international instruments that apply to 
+them.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/173
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall 
+permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to product quality; 
+— the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic 
+actions that will be used; 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out; 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc.; and 
+— the means of monitoring the achievement of the required product quality and the effective operation of the 
+quality system. 
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in 
+point 3.2. 
+In addition to experience in quality management systems, the auditing team shall have at least one member with 
+experience of evaluation in the relevant marine equipment field and marine equipment technology concerned, and 
+knowledge of the applicable requirements of the international instruments. The audit shall include an assessment 
+visit to the manufacturer’s premises. The auditing team shall review the technical documentation referred to in the 
+fifth indent of point 3.1 in order to verify the manufacturer’s ability to identify the relevant requirements of the 
+international instruments and to carry out the necessary examinations with a view to ensuring compliance of the 
+product with those requirements. 
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the 
+reasoned assessment decision. 
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to 
+maintain it so that it remains adequate and efficient. 
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended 
+change to the quality system. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue 
+to satisfy the requirements referred to in point 3.2 or whether a re-assessment is necessary. 
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and 
+the reasoned assessment decision. 
+4. 
+Surveillance under the responsibility of the notified body 
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the 
+approved quality system.
+EN 
+L 257/174 
+Official Journal of the European Union 
+28.8.2014
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, 
+testing and storage sites, and shall provide it with all necessary information, in particular: 
+— the quality system documentation; 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc. 
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the 
+quality system, and shall provide the manufacturer with an audit report. 
+4.4. In addition, the notified body may pay unexpected visits to the manufacturer, except where, under national law, and 
+for defence or security reasons, certain restrictions apply to such visits. During such visits the notified body may, if 
+necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning 
+correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, 
+with a test report. 
+5. 
+Conformity marking and declaration of conformity 
+5.1. The manufacturer shall affix the wheel mark referred to in Article 9, and, under the responsibility of the notified 
+body referred to in point 3.1, the latter’s identification number to each individual product that is in conformity with 
+the type described in the EC type-examination certificate and that satisfies the applicable requirements of the 
+international instruments. 
+5.2. The manufacturer shall draw up a written declaration of conformity for each product model and keep it at the 
+disposal of the national authorities for at least 10 years after the wheel mark has been affixed on the last product 
+manufactured and in no case for a period shorter than the expected life of the marine equipment concerned. The 
+declaration of conformity shall identify the marine equipment model for which it has been drawn up. 
+A copy of the declaration of conformity shall be made available to the relevant authorities upon request. 
+6. 
+The manufacturer shall keep at the disposal of the competent authorities, for at least 10 years after the wheel mark 
+has been affixed on the last product manufactured and in no case for a period shorter than the expected life of the 
+marine equipment concerned: 
+— the documentation referred to in point 3.1; 
+— the change referred to in point 3.5, as approved; 
+— the decisions and reports of the notified body referred to in points 3.5, 4.3 and 4.4. 
+7. 
+Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn, and shall, 
+periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, 
+suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, 
+suspended, withdrawn or otherwise restricted, and, upon request, of quality system approvals which it has issued.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/175
+8. 
+Authorised representative 
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by its authorised representative, 
+on its behalf and under its responsibility, provided that they are specified in the mandate. 
+III. 
+MODULE E: CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE 
+1. 
+Conformity to type based on product quality assurance is that part of a conformity assessment procedure whereby 
+the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on its sole respon­
+sibility that the marine equipment concerned is in conformity with the type described in the EC type-examination 
+certificate and that it satisfies the requirements of the international instruments that apply to it. 
+2. 
+Manufacturing 
+The manufacturer shall operate an approved quality system for final product inspection and testing of the products 
+concerned as specified in point 3, and shall be subject to surveillance as specified in point 4. 
+3. 
+Quality system 
+3.1. The manufacturer shall lodge an application for assessment of its quality system with the notified body of its choice, 
+for the marine equipment concerned. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, its 
+name and address as well; 
+— a written declaration that the same application has not been lodged with any other notified body; 
+— all relevant information for the marine equipment category envisaged; 
+— the documentation concerning the quality system; and 
+— the technical documentation of the approved type and a copy of the EC type-examination certificate. 
+3.2. The quality system shall ensure compliance of the products with the type described in the EC type-examination 
+certificate and with the applicable requirements of the international instruments. 
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall 
+permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to product quality; 
+— the examinations and tests that will be carried out after manufacture; 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc.; 
+— the means of monitoring the effective operation of the quality system.
+EN 
+L 257/176 
+Official Journal of the European Union 
+28.8.2014
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in 
+point 3.2. 
+In addition to experience in quality management systems, the auditing team shall have at least one member with 
+experience of evaluation in the relevant marine equipment field and marine equipment technology concerned, and 
+knowledge of the applicable requirements of the international instruments. The audit shall include an assessment 
+visit to the manufacturer’s premises. The auditing team shall review the technical documentation referred to in the 
+fifth indent of point 3.1, in order to verify the manufacturer’s ability to identify the relevant requirements of the 
+international instruments and to carry out the necessary examinations with a view to ensuring compliance of the 
+product with those requirements. 
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the 
+reasoned assessment decision. 
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to 
+maintain it so that it remains adequate and efficient. 
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended 
+change to the quality system. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue 
+to satisfy the requirements referred to in point 3.2 or whether a re-assessment is necessary. 
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and 
+the reasoned assessment decision. 
+4. 
+Surveillance under the responsibility of the notified body 
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the 
+approved quality system. 
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, 
+testing and storage sites, and shall provide it with all necessary information, in particular: 
+— the quality system documentation; 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc. 
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the 
+quality system, and shall provide the manufacturer with an audit report. 
+4.4. In addition, the notified body may pay unexpected visits to the manufacturer, except where, under national law, and 
+for defence or security reasons, certain restrictions apply to such visits. During such visits the notified body may, if 
+necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning 
+correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, 
+with a test report. 
+5. 
+Conformity marking and declaration of conformity 
+5.1. The manufacturer shall affix the wheel mark referred to in Article 9, and, under the responsibility of the notified 
+body referred to in point 3.1, the latter’s identification number to each individual product that is in conformity with 
+the type described in the EC type-examination certificate and that satisfies the applicable requirements of the 
+international instruments.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/177
+5.2. The manufacturer shall draw up a written declaration of conformity for each product model and keep it at the 
+disposal of the national authorities for at least 10 years after the wheel mark has been affixed on the last product 
+manufactured and in no case for a period shorter than the expected life of the marine equipment concerned. The 
+declaration of conformity shall identify the marine equipment model for which it has been drawn up. 
+A copy of the declaration of conformity shall be made available to the relevant authorities upon request. 
+6. 
+The manufacturer shall keep at the disposal of the competent authorities, for at least 10 years after the wheel mark 
+has been affixed on the last product manufactured and in no case for a period shorter than the expected life of the 
+marine equipment concerned: 
+— the documentation referred to in point 3.1; 
+— the change referred to in point 3.5, as approved; 
+— the decisions and reports of the notified body referred to in points 3.5, 4.3 and 4.4. 
+7. 
+Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn, and shall, 
+periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, 
+suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended 
+or withdrawn, and, upon request, of quality system approvals which it has issued. 
+8. 
+Authorised representative 
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by its authorised representative, 
+on its behalf and under its responsibility, provided that they are specified in the mandate. 
+IV. 
+MODULE F: CONFORMITY TO TYPE BASED ON PRODUCT VERIFICATION 
+1. 
+Conformity to type based on product verification is the part of a conformity assessment procedure whereby the 
+manufacturer fulfils the obligations laid down in points 2, 5.1 and 6, and ensures and declares on its sole 
+responsibility that the products concerned, which have been subject to the provisions of point 3, are in conformity 
+with the type described in the EC type-examination certificate and that they satisfy the requirements of the inter­
+national instruments that apply to them. 
+2. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+conformity of the manufactured products with the approved type described in the EC type-examination certificate 
+and with the requirements of the international instruments that apply to them. 
+3. 
+Verification 
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests in order to check the 
+conformity of the products with the approved type described in the EC type-examination certificate and with the 
+appropriate requirements of the international instruments. 
+The examinations and tests to check the conformity of the products with the appropriate requirements shall be 
+carried out, at the choice of the manufacturer, either by examination and testing of every product as specified in 
+point 4 or by examination and testing of the products on a statistical basis as specified in point 5.
+EN 
+L 257/178 
+Official Journal of the European Union 
+28.8.2014
+4. 
+Verification of conformity by examination and testing of every product 
+4.1. All products shall be individually examined and tested in accordance with this Directive, in order to verify 
+conformity with the approved type described in the EC type-examination certificate and with the appropriate 
+requirements of the international instruments. 
+4.2. The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out, and 
+shall affix its identification number to each approved product or have it affixed under its responsibility. 
+The manufacturer shall keep the certificates of conformity available for inspection by the national authorities for at 
+least 10 years after the wheel mark has been affixed on the last product manufactured and in no case for a period 
+shorter than the expected life of the marine equipment concerned. 
+5. 
+Statistical verification of conformity 
+5.1. The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure the 
+homogeneity of each lot produced, and shall present its products for verification in the form of homogeneous lots. 
+5.2. A random sample shall be taken from each lot. All products in a sample shall be individually examined and tested in 
+accordance with this Directive, in order to ensure their conformity with the applicable requirements of the inter­
+national instruments and to determine whether the lot is accepted or rejected. 
+5.3. If a lot is accepted, all products of the lot shall be considered approved, except for those products from the sample 
+that have been found not to satisfy the tests. 
+The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out, and 
+shall affix its identification number to each approved product or have it affixed under its responsibility. 
+The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for at least 10 
+years after the wheel mark has been affixed on the last product manufactured and in no case for a period shorter 
+than the expected life of the marine equipment concerned. 
+5.4. If a lot is rejected, the notified body or the competent authority shall take appropriate measures to prevent that lot 
+being placed on the market. In the event of the frequent rejection of lots, the notified body may suspend the 
+statistical verification and take appropriate measures. 
+6. 
+Conformity marking and declaration of conformity 
+6.1. The manufacturer shall affix the wheel mark referred to in Article 9, and, under the responsibility of the notified 
+body referred to in point 3, the latter’s identification number to each individual product that is in conformity with 
+the approved type described in the EC type-examination certificate and that satisfies the applicable requirements of 
+the international instruments. 
+6.2. The manufacturer shall draw up a written declaration of conformity for each product model and keep it at the 
+disposal of the national authorities for at least 10 years after the wheel mark has been affixed on the last product 
+manufactured and in no case for a period shorter than the expected life of the marine equipment concerned. The 
+declaration of conformity shall identify the marine equipment model for which it has been drawn up. 
+A copy of the declaration of conformity shall be made available to the relevant authorities upon request.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/179
+7. 
+If the notified body agrees and under its responsibility, the manufacturer may affix the notified body’s identification 
+number to the products during the manufacturing process. 
+8. 
+Authorised representative 
+The manufacturer’s obligations may be fulfilled by its authorised representative, on its behalf and under its respon­
+sibility, provided that they are specified in the mandate. An authorised representative may not fulfil the manu­
+facturer’s obligations set out in points 2 and 5.1. 
+V. 
+MODULE G: CONFORMITY BASED ON UNIT VERIFICATION 
+1. 
+Conformity based on unit verification is the conformity assessment procedure whereby the manufacturer fulfils the 
+obligations laid down in points 2, 3 and 5 and ensures and declares on its sole responsibility that the product 
+concerned, which has been subject to the provisions of point 4, is in conformity with the requirements of the 
+international instruments that apply to it. 
+2. 
+Technical documentation 
+The manufacturer shall draw up the technical documentation and make it available to the notified body referred to 
+in point 4. The documentation shall make it possible to assess the product’s conformity with the relevant require­
+ments, and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall 
+specify the applicable requirements and shall cover, as far as relevant for the assessment, the design, manufacture and 
+operation of the product. The technical documentation shall, wherever applicable, contain at least the following 
+elements: 
+— a general description of the product; 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.; 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and the operation 
+of the product; 
+— a list of the requirements and testing standards which are applicable to the marine equipment concerned in 
+accordance with this Directive, together with a description of the solutions adopted to meet those requirements; 
+— results of design calculations made, examinations carried out; and 
+— test reports. 
+The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for at 
+least 10 years after the wheel mark has been affixed on the last product manufactured and in no case for a period 
+shorter than the expected life of the marine equipment concerned. 
+3. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+conformity of the manufactured product with the applicable requirements of the international instruments. 
+4. 
+Verification 
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests in accordance with 
+this Directive, in order to check the conformity of the product with the applicable requirements of the international 
+instruments.
+EN 
+L 257/180 
+Official Journal of the European Union 
+28.8.2014
+The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out and shall 
+affix its identification number to the approved product, or have it affixed under its responsibility. 
+The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for at least 10 
+years after the wheel mark has been affixed on the last product manufactured and in no case for a period shorter 
+than the expected life of the marine equipment concerned. 
+5. 
+Conformity marking and declaration of conformity 
+5.1. The manufacturer shall affix the wheel mark referred to in Article 9 and, under the responsibility of the notified 
+body referred to in point 4, the latter’s identification number to each product that satisfies the applicable 
+requirements of the international instruments. 
+5.2. The manufacturer shall draw up a written declaration of conformity and keep it at the disposal of the national 
+authorities for at least 10 years after the wheel mark has been affixed on the last product manufactured and in no 
+case for a period shorter than the expected life of the marine equipment concerned. The declaration of conformity 
+shall identify the product for which it has been drawn up. 
+A copy of the declaration of conformity shall be made available to the relevant authorities upon request. 
+6. 
+Authorised representative 
+The manufacturer’s obligations set out in points 2 and 5 may be fulfilled by its authorised representative, on its 
+behalf and under its responsibility, provided that they are specified in the mandate.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/181
+ANNEX III 
+REQUIREMENTS TO BE MET BY CONFORMITY ASSESSMENT BODIES IN ORDER TO BECOME NOTIFIED BODIES 
+1. For the purposes of notification, a conformity assessment body shall meet the requirements laid down in points 2 
+to 11. 
+2. A conformity assessment body shall be established under national law and have legal personality. 
+3. A conformity assessment body shall be a third-party body independent of the organisation or the marine equipment 
+which it assesses. 
+4. A body belonging to a business association or professional federation representing undertakings involved in the 
+design, manufacturing, provision, assembly, use or maintenance of marine equipment which it assesses, may, on 
+condition that its independence and the absence of any conflict of interest are demonstrated, be considered a 
+conformity assessment body. 
+5. A conformity assessment body, its top-level management and the personnel responsible for carrying out the 
+conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or 
+maintainer of the marine equipment which is assessed, nor the authorised representative of any of those parties. This 
+shall not preclude the use of assessed products that are necessary for the operations of the conformity assessment 
+body or the use of such products for personal purposes. 
+6. A conformity assessment body, its top-level management and the personnel responsible for carrying out the 
+conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, 
+installation, use or maintenance of that marine equipment, or represent the parties engaged in those activities. They 
+shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to 
+conformity assessment activities for which they are notified. This shall apply, in particular, to consultancy services. 
+7. Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the 
+confidentiality, objectivity or impartiality of their conformity assessment activities. 
+8. Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the 
+highest degree of professional integrity and the requisite technical competence in the specific field and shall be free 
+from all pressures and inducements, particularly of a financial nature, which might influence their judgement or the 
+results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in 
+the results of those activities. 
+9. A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it 
+under this Directive and in relation to which it has been notified, whether those tasks are carried out by the 
+conformity assessment body itself or on its behalf and under its responsibility. 
+10. At all times and for each conformity assessment procedure and each kind, category or sub-category of marine 
+equipment in relation to which it has been notified, a conformity assessment body shall have at its disposal the 
+necessary: 
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity 
+assessment tasks; 
+(b) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the trans­
+parency of those procedures and the possibility of reproducing them. It shall have in place appropriate policies 
+and procedures that distinguish between tasks that it carries out as a notified body and other activities; 
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in 
+which it operates, its structure, the degree of complexity of the marine equipment technology in question and the 
+mass or serial nature of the production process.
+EN 
+L 257/182 
+Official Journal of the European Union 
+28.8.2014
+11. A conformity assessment body shall have the means necessary to perform the technical and administrative tasks 
+connected with the conformity assessment activities in an appropriate manner, and shall have access to all necessary 
+equipment and facilities. 
+12. The personnel responsible for carrying out conformity assessment activities shall have the following: 
+(a) sound technical and vocational training covering all the conformity assessment activities in relation to which the 
+conformity assessment body has been notified; 
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out 
+those assessments; 
+(c) appropriate knowledge and understanding of the applicable requirements and testing standards and of the 
+relevant provisions of Union legislation on harmonisation and of the regulations implementing that legislation; 
+(d) the ability to draw up certificates, records and reports demonstrating that assessments have been carried out. 
+13. The impartiality of the conformity assessment bodies, of their top-level management and of the assessment personnel 
+shall be guaranteed. 
+14. The remuneration of the top-level management and of the assessment personnel of a conformity assessment body 
+shall not depend on the number of assessments carried out or on the results of those assessments. 
+15. Conformity assessment bodies shall take out liability insurance unless liability is assumed by the State in accordance 
+with national law, or the Member State itself is directly responsible for the conformity assessment. 
+16. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information 
+obtained in carrying out their tasks under this Directive or pursuant to any provision of national law giving effect to 
+it, except in relation to the competent authorities of the Member States in which its activities are carried out. 
+Proprietary rights shall be protected. 
+17. Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed of, the 
+relevant standardisation activities and the activities of the notified body coordination group established under this 
+Directive, and shall apply as general guidance the administrative decisions and documents produced as a result of the 
+work of that group. 
+18. Conformity assessment bodies shall meet the requirements of standard EN ISO/IEC 17065:2012. 
+19. Conformity assessment bodies shall ensure that testing laboratories used for conformity assessment purposes meet 
+the requirements of standard EN ISO/IEC 17025:2005.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/183
+ANNEX IV 
+NOTIFICATION PROCEDURE 
+1. 
+Application for notification 
+1.1. A conformity assessment body shall submit an application for notification to the notifying authority of the Member 
+State in which it is established. 
+1.2. That application shall be accompanied by a description of the conformity assessment activities, the conformity 
+assessment module or modules and the marine equipment for which that body claims to be competent, as well as by 
+an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity 
+assessment body fulfils the requirements laid down in Annex III. 
+1.3. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the 
+notifying authority with all the documentary evidence necessary for the verification, recognition and regular moni­
+toring of its compliance with the requirements laid down in Annex III. 
+2. 
+Notification procedure 
+2.1. Notifying authorities may notify only conformity assessment bodies which have satisfied the requirements laid down 
+in Annex III. 
+2.2. They shall notify the Commission and the other Member States using the electronic notification tool developed and 
+managed by the Commission. 
+2.3. The notification shall include full details of the conformity assessment activities, the conformity assessment module 
+or modules and marine equipment concerned and the relevant attestation of competence. 
+2.4. Where a notification is not based on an accreditation certificate as referred to in section 1, the notifying authority 
+shall provide the Commission and the other Member States with documentary evidence which attests to the 
+conformity assessment body’s competence and the arrangements in place to ensure that that body will be 
+monitored regularly and will continue to satisfy the requirements laid down in Annex III. 
+2.5. The body concerned may perform the activities of a notified body only where no objections are raised by the 
+Commission or the other Member States within two weeks of a notification where an accreditation certificate is used 
+or within two months of a notification where accreditation is not used. 
+2.6. Only a body referred to in point 2.5 shall be considered a notified body for the purposes of this Directive. 
+2.7. The Commission and the other Member States shall be notified of any subsequent relevant changes to the notifi­
+cation. 
+3. 
+Identification numbers and lists of notified bodies 
+3.1. The Commission shall assign an identification number to a notified body. 
+3.2. It shall assign a single such number even where the notified body is recognised as notified under several legislative 
+acts of the Union. 
+3.3. The Commission shall make publicly available the list of the bodies notified under this Directive, including the 
+identification numbers that have been allocated to them and the activities for which they have been notified. 
+3.4. The Commission shall ensure that that list is kept up to date.
+EN 
+L 257/184 
+Official Journal of the European Union 
+28.8.2014
+ANNEX V 
+REQUIREMENTS TO BE MET BY NOTIFYING AUTHORITIES 
+1. A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies 
+occurs. 
+2. A notifying authority shall be organised and operated in such a way as to safeguard the objectivity and impartiality of 
+its activities. 
+3. A notifying authority shall be organised in such a way that each decision relating to notification of a conformity 
+assessment body is taken by competent persons different from those who carried out the assessment. 
+4. A notifying authority shall not offer or provide, on a commercial or competitive basis, any activities that conformity 
+assessment bodies perform or any consultancy services. 
+5. A notifying authority shall safeguard the confidentiality of the information it obtains. 
+6. A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance 
+of its tasks.
+EN 
+28.8.2014 
+Official Journal of the European Union 
+L 257/185

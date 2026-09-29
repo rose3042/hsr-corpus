@@ -1,0 +1,1617 @@
+ICS 45.020 CCS S60
+T 中华人民共和囤铁道行亚标准 TB/T 454.1-2021 代替 TB/T 454-1981
+爷锬跨通信停号泫 第1部分:'诛路信号词汇 Glossary Of railway communicalion ?jgnaling Part 1 Glossary Of railway.'5 swis 平台
+2021-05-28发布
+2021-12-01实施
+囤家铁路局
+发  布
+
+行业杯准信息服务平台
+
+TB/T 454.1一2021
+目 ^次
+前言 引言 1 范围 2 规范性引用文件 3 一般术语 4  停号 5 联锁 6 闭塞 列车运行控制 8 运输调度指挥 驼峰停号及编组亚声动化 10 轨道电路 11 继电器 12 转辙装置 13 道口 ,桥梁 .隧道的防护设备 14  电源 15  故障一安全 16  其他 参考文献 汊语索引 英文索引
+2
+10
+30
+34
+46
+49
+62
+70
+76
+79
+81
+84
+88 92
+93
+108
+
+行业杯准信息服务平台
+
+TB/T 454.1一2021
+前 ^言
+本文件按照 GB/T 1.1-2020《标准化丁作导则 笫1部分:标谁化文件的结构和起草规则》的规 定起草。 本文件是 TB/T 454《铁路通停停号词汇》笫1部分 TB/T 454已经发布了以下部分: 一笫1部分:铁路停号词汇。 本文件代替 TB/I 454一1981《铁路停号名词术语》。 与 TB/T 454-1981相比,除编辑性修改外, 本文件主要技术娈化如下: a ) 增加了:一般术诱"一章(见笫3章) ; b)  将"机车信号与列车自动控制"一章名称更改为"列车运行控制 "(见笫7章,1981年版的 笫5章); C) 增加了"运输词度指挥"一章(见笫&章) ; d) 删除了"遥控,愆, ,遥测"和"自动化"二章,其相关内容纳入"运输调度指挥"一章中 (见笫 & 章,1981年版的第(声 .第7章) ; e) 将"驼峰"一章名称更改艿"恪停号及编组站自动化"(见第9章,1981年版的笫4章) ; [) 在"轨道电路"词汇中增加 'ZPU?o) 系列轨道电路 移频脉冲轨道电路"电码化"等词汇 (见笫10章) ; 年颛的笫 9章 8) 删除了"断轨保障"(见1981 h) 更改了"轨道电路"无绝缘轨道电路"4移频崭.笪电路''筚词汇 (见笫10章,1981年版的 第 9章) ; i  在"继电器"词汇中增加了"充磁值":反向不动作值"-忪界云:极电压值"等词汇 (见笫 11章); j) 更改了"定位接点""反位接点""继电器吸起"等术语(见第11章,1981年版时笋 JV章) ; k) 将"转辙机 "章名称更改为"转辙装置" (见第12章,1981年版的第11章) ; 1) 增加了"道岔转辙装置""交流转辙机"直流转辙机"等词汇(见第12章) ; n) 更改了"转辙机'电动转辙机"电空转辙机 "词汇(见第12章,1981年版的笫11章) ; n) 在"道口 ,桥粱 ,隧道的防护设备"章增加了"道口自动通知""人T控制道口停片"列车接近通 知时间"接近区段长度"等词汇(见笫13章) ; 删除了"道口遮断停号"桥梁遮断停号""隧道遮断停号""遮断停号按钮"等词汇(见1981年 版的笫&章) ; P) 更改了"道口通知设备""道口自动停号""道口栏木"等词汇(见笫13 章,1981年版的笫 8 章) ; 9) 将"供电 "章名称更改为"电源"(见第14章,1981年版的第12章) ; )  在"故障一安全"章中删除了"灯丝断丝""违章作业'维修不良"等词汇(1981年版的笫 12 章) ; 8) 更改了"可靠性"安全性"错误办理"等词汇(见第15 章.1981年版的第13章) ; t) 在"其他"一章中增加了"停号集中监测""停号计算机室""停号机械室"等词汇 (见第16 章) ; UI ) 删除了"股道有效长""继电器室"'蓄电池室"等词汇(见1981年版的第14章) ; V) 更改了:上行方面"下行方面":上行咽喉""下行咽喉"等词汇(见第16 章 ,1981年版的
+
+TB /T 454.1一2021
+笫14章 ) ; W) 词汇的参考译文只保留英文.删除其他语种译文。 请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。 本文件由中国铁道科学研究院集团有限公司标准计量研究所归口_ 本文件起草单位:北京全路通停信号研究设计院集团有限公司 .中国铁道科学研究院集团有限公 司标崔计量研究所 ,中国铁道科学研究院集团有限公司通停停号研究所 .北京交通大学。 本文件主要起草人:张文汇,岳朝鹏 ,李志兵 .杨明春 .杨锐 ,高媛 .陈立华 ,程光红 ,李开成 贾云光, 赵丽 ,姚文华 ,杨慧莹。 本文件及其所代替文件的历次版本发布情况为: 一1963年首次发布为 TB/I 454-1963; 一1981年第一次修订,发布为 TB/T 454-1981; 一本次为第二次修订_
+下
+行业标准信息服务平合
+
+TB/T 454.1一2021
+引^言
+TB/I 454《铁路通信停号词汇》旨在确定规范化 .标准化_统一化的铁路通停停号的专业词汇,拟 由以下两个部分组成: 第1部分:铁路信号词汇。 第2部分:铁路通停词汇。
+行业杯准信息服务平台
+
+行业杯准信息服务平台
+
+TB/T 454.1一2021
+铁路通信信号词汇 第1部分:铁路信号词汇
+1 范围
+本文件界定了铁路信号专业常用词汇及其定义。 本文件适用于铁路停号专业的生产 ,设计 .施丁 ,维修,管理 .科研 .教学及卅版等方面<
+2 规范性引用文件
+本文件没有规范性引用文件
+3
+一般术语
+」业u:准 3.1 铁路信号 railway signaling 铁路运输系统中 ,保证行车安全 .提高区间和苄凇通过能力以及编解能力的手动控制 ,自动控制及 遥控 ,遥信技术的总称 [来源 :GB/T 50262 2013,14.1.1] 3.2 』服务平台 区间信号 section signaling 在区间设置的停号及闭塞技术的总称= 3.3 车站信号 station signaling 在车站设置的停号及联锁技术的总称= [来源:GB/T 50262一2013,14.1.3] 3.4 驼峰信号 hummp signaling 在驼峰场设置的完成车列解编作业停号技术的总称。 [来源:GB/T 50262一2013.14.1.4] 3.5 道口信号 crossing signaling 铁路和道路平面交叉处设置的为保证交通安全的停号防护技术的总称。 [来源 :GB/T 50262- 2013.14.1.5] 3.6 车载信号 on-board signaling 安装在列车上用于指示 .监督或控制列车运行的停号装置及其附属设备的总称。
+
+TB /T 454.1一2021
+4 信号
+4.1
+信号 signal 在行车 ,调车T作中 ,对乘务人员与行车有关人员指示运行条件而规定的物理特征和符号。 4.2 视觉信号 visual signal 用颜色 ,形状 ,位置 ,显示数目及灯光状祝表达的信号。 4.3 听觉信号 audible signal; acoustic signal 音响停号 用音响表达的信号 4.4 昼间信号 day SIn:' 当一种信号昼衣显卞方式下同时 ,用于昼间显示的视觉停号 4.5 夜间信号 night signal 莅_ 4.6 ~'脲炙平台 昼夜通用信号 signal for day and night 昼夜显示方式相同的信号 4.7 固定信号 fixed signal 为防护一定目标 ,常设在固定地点的停号。 4.8 移动信号 movable signal 临时设置的 ,可以移动的停号。 4.9 机车信号 cah signal 在司机室内指示列车前方地面停号状态的停号 4.10 地面信号 ground signal wayside signal 由设在地面上的停号机显示的信号。 4.11 手信号 hand signal 以停号旗 ,停号灯或用手势表达的信号。 4.12 响墩信号 torpedo; detonating signal 以车轮轧压响墩发卅的爆炸声响 ,要求列车紧急停车的信号。 4.13 火炬信号 torch signal 以点燃火炬 ,要求列车停车的停号。
+
+TB/T 454.1一2021
+4.14 闪光信号 flashing signal 用周期亮灭的灯光显示的停号。 4.15 速差制信号 speed signaling 每一种停号显示均表示不同行车速度的信号显示制度。 4.16 迸路制信号 route signaling 以指示列车进入不同进路为原则的信号显示制度。 4.17 列车信号 running signal 指示列车运行的停号。 4.18 调车信号 shunting signal 指示调车车列运彳的停号 4.19 进行信号 proceed sian; | 允许停号 ~ 4.20 "m#nnnwetnntsaeswis 注意信号 caulion signal 4.21 减速信号 restriction signal 准许列车以规定的低速通过显示停号地点的停号。 服务平台 4.22 停车信号 stop signal 禁止信号 禁止列车或调车车列越过设置停号地点的停号。 4.23 绝对信号 ahsolute signal 调车.列车须无条件遵守的停车停号 = 4.24 容许信号 permissive signal 雀许指定的列车,在自动闭塞通过色灯停号机显示红色灯光,显示不明或灯光熄灭时不停车限速 通过并雀备随时能够停车的停号。 4.25 接车信号 receiving signal 指示列车进入车站或车场的停号_ 4.26 发车信号 departure signal; starting signal 指示列车驶离车站或车场的停号=
+3
+
+TB/T 454.1一2021
+4.27 通过信号 through signal 准许列车经正线不停车驶过车站的停号_ 4.28 引导信号 calling-on signal |许列车在信号关闭条件下,按照规定的低速通过该信号机的停号。 4.29 预告信号 distant signal; approaching signal 预先通知列车运行前方下一架停号机显示状祝的停号 [来源:GB/T 50262一2013,14.2.8] 4.30 复示信号 repeating signal 重复主体停号机显示基本含义的停号。 4.31 遮断信号 monu-`nipation ohstruction signal 为某种防护目的而汶,必罟时亮灯 ,用以指示列车停车的停号。 4.32 推送信号 start humping sigue ' 谁许车列按规定速度向驼峰峰J推进e 来源 :GB/I 50262-2013,14.2.11] 4.33 允许预推信号 allow t0 approach the humping sigma 指示调车车轴向驼峰峰顶推送. ~n 务平台 4.34 加速推送信号 humping fast signal 指示机车车辆加速向驼峰推进的信号。 4.35 减速推送信号 humping slow signal 指示机车车辆减速向驼峰推进的信号 4.36 下峰信号 hump trimming signal 准许驼峰机车车辆通过峰顶到峰下作业的停号。 4.37 后退信号 humping back signal 指示车列 ,在已经建立的进路中间向后倒退的停号。 4.38 最大限制信号 most restrictive signal 任一停号机 ,在其本身所具备的停号显示中间 ,对行车限制最大的信号。 4.39 较大限制信号 more restrictive signal 两种停号显示当中限制意义较严的停号。
+
+TB/T 454.1一2021
+4.40 最大允许信号 mosl favorable signal 信号机在其本身所具备的信号显示中间 ,对行车限制最小的信号。 4.41 较大允许信号 more favorable signal 两种停号显示当中 ,限制意义较宽的信号。 4.42 敌对信号 conflicting signal 按其运行将导致列车或调车车列冲突的倚号 4.43 信号显示 signal aspecf and indication 信号的示象及其所表达的意义。 4.44 错误显示 wrong indication 信号显示与应表计的衰熹义不符的现象 4.45 乱显示 false indicatinr 在信号机上信号所表达的意父含'1不清的现象。 4.46 显示距离 distance Of signal aspecl; 88- '21 Vislril ty 从驾驶室,以目力能够连续地清楚辨认停号显剀线&:离。 4.47 开放信号 clear a signal 使停号机显示进行停号。 "*服务平台 4.48 关闭信号 pul a signal al danger 使停号机显示最大限制停号。 4.49 信号开放 Signal at clear 信号机显示进行停号的状态 4.50 信号关闭 Signal at danger 信号机显示最大限制停号的状态。 4.51 信号机 signal 表达固定信号显示所用的机具。 4.52 色灯信号机 Color-light signal 用灯光的颜色及其组合.亮灯状态表达信号含义的信号机。 [来源 :GB/I 50262-2013,14.2.22] 4.53 透镜式色灯信号机 lenticular signal 以凸透镜为集光器的色灯停号机。
+
+TB /T 454.1一2021
+4.54 探照式色灯信号机 searchlight signal 以反射镜为集光器的色灯信号机。 4.55 LED 色灯信号机 light emitting diode( LED)signal 以 LED 作为发光源的色灯停号机。 4.56 臂板信号机 semaphore signal 以停号臂板的形状 ,位置表达停号含义的停号机。 4.57 机械臂板信号机 mechanically operated semaphore signal 以导线传动的臂板信号机。 4.58 电动臂板信号机 power operated semaphore 用电动机动作臂板的信号机。 4.59 单线臂板信号机 singlr Ir operaled semaphore 用一根导线传动的机械管板停_ "儿。 4.60 双线臂板信号机 double-wire operated naphsie 用两根导线传动的机械臂板停号机。 4.61 高柱信号机 high signal 信号机构 (或臂板)设于柱上的信号机。 息服务平台 4.62 矮型信号机 dwarf signal 信号机构设于停号基础上的停号机。 4.63 信号托架 signal brackel 为代替停号机柱而设置的托臂形结构建筑物。 4.64 信号桥 signal bridge 为代替停号机柱而设置的桥形结构建筑物。 4.65 进站信号机 homne Signal 指示列车能否进入车站的停号机。 4.66 出站信号机 starting signal 出发停号机 指示列车能否由车站向区间发车的停号机。 4.67 线群出站信号机 group starting signal 线群卅发停号机 若干条线路共用的卅站停号机。
+
+TB/T 454.1一2021
+4.68 迸路信号机 roule signal 指示列车能否在站内或从一个牟场到另一个车场运行的停号机。 4.69 接车进路信号机 route signal for receiving 对进站列车指示运行条件的进路信号机。 4.70 发车迸路信号机 route Signal for departure 对出站列车指示运行条件的进路信号机。 4.71 接发车进路信号机 route signal for receiving-departure 对进站及卅站列车指示运行条件的进路停号机。 4.72 通过信号机 hlock signal 设于区间分界点 .省示列车能否占用前方闭塞分区(或所间区间)的停号机= 4.73 线路所通过信号机 hlo」 igna/ located af the block post 设于线路所 ,用于指示列牛运彳N宾号机。 [来源 :GB/T 50262-2013,14. 4.74 信, 所间区间 seclion belween block post 相邻两个线路所间或线路所与车站间的区间 ,以线路外过过停号机或进站信号机为分界  4.75 主体信号机 main signal 直接防护某段线路的列车或调车停号机。 #'务平台 4.76 从属信号机 dependent signal 预告 .复示和接近停号机的总称_ 4.77 预告信号机 distant signal 设于主体信号机前方 ,向列车预告主体信号机显示的信号机。 4.78 复示信号机 repeating signal 复示主体信号机显示的基本含义的信号机。 [来源 :GB/T 50262 2013.14.2.30] 4.79 接近信号机 approach signal 非自动闭塞线路设于进站停号机前方 ,停号显示具有速度含义的停号机 。 [来源 :GB/I 50262 2013.14.2.31] 4.80 列车信号机 train signal 为列车指示运行条件的信号机。
+
+TB /T 454.1一2021
+4.81 调车信号机 shunting signal 为调车车列指示运行条件的信号机。。 4.82 驼峰信号机 hump signal 设于驼峰推送部分,指示列车能否溜放的停号机。 4.83 驼峰辅助信号机 hump auxiliary signal 纵列式编组站设置于到达场股道列车到达方向 ,列车到达时对列车起阻挡作用.推峰时指示机车 车辆预先推送或推送的信号机。 -来源: TB 10069 2017.2.0.1] 4.84 线束调车信号机 shunting signal i group 0f tracks 设置于驼峰调车场峰下钩车溜放区域,指示机车在峰下线路间进行转线调车作业的信号机。 -来源: TB 10069 2917.2.0.3] 4.85 遮断信号机 mono-irdir ? 'n oh_truction signal 设于规定的防护地点 ,平'灭:'人芒停号作用,必要时点亮红灯 ,用以指示列车停车的停号机。 -来源:GB/T 50262 2013.14 4.86 机车信号机 cah signal 设于司机室内的信号机。 信息服务平台 4.87 咽喉信号机 signal in throat section 设于车站咽喉区中间的停号机。 4.88 尽头信号机 signal for stub-end track 设于车站股道 ,进 .卅几及尽头线处的停号机。 4.89 组合式信号机构 unit type signal mechanism; modular design 用单灯孔灯具进行组装的停号机构。 4.90 表示器 indicator 对行车人员传达行车或调车意图或对停号进行某些补充说明所用的器具。 4.91 进路表示器 roule indicator 指示出站列车运行方向的表示器 4.92 发车表示器 departure indicator 车长通知司机发车用的表示器 4.93 调车表示器 shunting indicator 向调车人员表示可否从牵卅线向调车区或从调车区向牵卅线运行的表示器 8
+
+TB/T 454.1一2021
+4.94 发车线路表示器 departure track indicator 在线群卅站信号机开放的情况下.补充说明允许某条线路发车所用的表示器 4.95 调车线路表示器 shunting track indicator 设置于驼峰调车场调车线始端,在驼峰线束调车停号机开放的情况下,指示该调车线调车所使用 的表示器 _ [来源: TB 10069-2017.2.0.4] 4.96 标志 sign; indicator marker 表示设备.线路 .机车车辆的位置 .状态和特征的器具 4.97 道岔标志 switch indicator 道岔表示器 表示道岔开通位菅的标志 4.98 脱轨标志 derail 脱轨表示器 线路遮断表示器 表示脱轨器 ,脱轨道岔状态的标志 4.99 owo_标准信息服务平台 水鹤标志 waler Crane indicalor 水鹤表示器 表示水鹤状态的标志 4。100 车挡标志 huffer stop indicator Car stop indicator 车挡表示器 表示车挡位置的标志。 4.101 带柄道岔标志 switch lever with indicator 带柄道岔表示器 附有握柄 ,能扳动道岔的道岔标志。 4.102 警冲标 fouling post 设于二交会线路中间 ,表示由此点向线路交会方向不得有两辆机车车辆同时侵入的标志 4.103 站界标 station limit sign 区间与车站分界所设的标志。 4.104 预告标 warning sign 表示接近进站停号机的标志
+
+TB /T 454.1一2021
+4.105 信号无效标 signal oul 0f use sign 表示停号机不起作用的"义"型标志。 4.106 机车信号接通标 cab signal connecting sign 表示即将收到机车停号码的标志。 4.107 四显示机车信号接通标 4-aspect cah signal connecting sign 表示即将收到四显示自动闭塞机车信号码的标志 = 4.108 四显示机车信号断开标 4-aspect cab signal disconnecting sign 表示即将断开四显示自动闭塞机车停号码 ,或由四显示自动闭塞机车信号码转入三显示自动闭塞 机车信号码的标志_ 4.109 轨道电路调谐区-芯牌 track circuit tuning section sign 设于轨道电路词谐'x分界外,标明调谐区长度,禁止短车停在调谐区内的标忐牌。 分为I型, 正型 ,皿型。 4.110 ? 反向区间停车位置标志牌 revc_se dirii  ? section stop sign 工型轨道电路调谐区标志牌 指示反`;刁运行!塞分区分界点的标志 4.111 反向容许信号标志牌 reverse direction permissive si Ia sign 山型轨道电路调谐区标志牌。指示反方向运行时行孕困?'}+的闭蹇分区分界点的容许停号 标志。 务 「 4.112 区间轨道电路分割点调谐区标志牌 stop sign for section track circuit separalion p~;n 皿型轨道电路调谐区标志牌= 指示区间轨道电路分割点的标志 _ 4.113 闭塞分区信号标志牌 block section signal sign 以车载停号为列车行车凭证的自动闭塞区间 ,设置于区间闭塞分区分界处 ,用于指示闭塞分区分 界的停号标志 _ 4.114 中继站标 relay stalion sign 表示接近中继站的标志_ 4.115 级间转换标 level transition sign 表示不同等级列控系统转换点的标志。
+5 联锁
+5.1 联锁 inlerlocking 通过技术方法 .使停号 ,道岔和进路必须按照一定程序并满足一定条件 ,才能动作或建立的相互关系。 10
+
+TB/T 454.1一2021
+5.2 联锁设备 inlerlocking equipment 实现联锁所用的装备。 5.3 集中联锁 centralized interlocking 道岔和停号集中操纵的联锁设备(集中联锁设备的简称)。 5.4 机械集中联锁 mechanical interlocking 用人力操纵道岔和停号 ,以机械方式传动的集中设备(机械集中联锁设备的简称) = 5.5 电机集中联锁 electro-mechanical interlocking 操纵道岔以机械方式传动 ,停号则用色灯停号机的集中联锁(电气机械联锁设备的简称) 5.6 电气集中联锁 electric interlocking 用动力转辙机转e道忿并采用色灯停号机的集中联锁设备(电气集中联锁设备的简称)。 5.7 调车区电气集中联锁 211 -_lav ilterlocking for shunting area 适合调车区作业特点的电集'广轶锁_ 5.8 继电式电气集中联锁 all-relay inlerlcc:ing 主要联锁关系用继电器实现的电气集中联锁。 5.9 信恳耶 单独操纵继电式电气集中联锁 individual lever type ~erlocking 以单独操纵道岔的方式排列进路的继电式电气集中联锁 5.10 oog 平台 进路继电式电气集中联锁 route type all-relay interlocking 排列进路时 ,以每条进路为操纵单元的继电式电气集中联锁 5.11 组合式电气集中联锁 unit-block type all-relay interlocking 按照电路单元组成继电器敞开式组合,在T厂进行配线的电气集中联锁= 5.12 组匣式电气集中联锁 modular all-relay interlocking 按照电路单元组成继电器封闭式组匣 ,在丁厂进行配线的电气集中联锁。 5.13 计算机联锁 computer based interlocking 主要联锁关系由计算机实现的集中联锁。 [来源 :GB/T 50262一2013,14.7.7] 5.14 区域联锁 district interlocking 若干个车站(或车场 .线路所 )通过一套联锁设备,在其中一个车站作为主站 ,对本站及范围内的其 他车站统一实现联锁控制的模式。
+11
+
+TB /T 454.1一2021
+5.15 非集中联锁 interlocking with locally worked points 在现场分散操纵道岔的联锁设备 5.16 联锁箱联锁 ilerlocking by point detector 主要联锁关系用联锁箱实现的非集中联锁设备 5.17 电锁器联锁 interlocking by electric locks 主要联锁关系用电锁器实现的非集中联锁设备。 5.18 色灯电锁器联锁 interlocking by electric locks with light signals 使用色灯停号机的电锁器联锁。 5.19 臂板电锁器联锁 interlocking by electric locks with semaphore 使用臂板停号机'宅锁器联锁。 5.20 电动臂板电锁器联锁 「1_ rocki 48 by electric locks with electric semaphore 使用电动臂板停号机的电锁骼未{ _ 5.21 臂板信号机自动点灯 semaphore autcir'tic ilsr:: '9 臂板停号机的灯光能够根据昼夜自然光照的娈:而自 ;;宫灭的一种方式。 5.22 锁闭  locking 为实现联锁关系而将机具限制于规定状态的技术措施。 `服务平合 5.23 进路锁闭 route locking 使被排进路上有关的道岔和敌对信号限制于规定位置的锁闭 = 5.24 预先锁闭 locking j advance 所排进路的接近区段末被占用 .进路锁闭可经过一定手续立即解锁的锁闭= 5.25 接近锁闭 approach locking 完全锁闭 所排进路的接近区段被占用以后 ,进路锁闭必须在列车 ,车列通过进路或经过一定手续和限时方 能解锁的锁闭 _ [来源 :GB/T 50262-2013,14.7.13] 5.26 照查锁闭 check locking 停号楼间 ,车场间或同一股道两端相互之间的锁闭 [来源 :GB/T 50262-2013,14.7.14] 5.27 区段锁闭 section locking 道岔区段被占用 .该区段中有关道岔即不能转换的锁闭 12
+
+TB/T 454.1一2021
+5.28 道岔锁闭 locked oul swilch 用机械或电气的方法使道岔不能转动 = 5.29 引导总锁闭 general calling-on locking 车站集中联锁中 ,遇道岔失去表示等故障或向非接车进路的编组线接车等特殊情况,通过人丁操 作 ,使车站咽喉区联锁道岔全部锁闭的一种锁闭方式。 5.30 电气锁闭 electric locking 用电气方法实现的锁闭 5.31 机械锁闭 mechanical lock ig 用机械方法实现的锁闭 5.32 定位锁闭 locker nrmal 电锁器联锁中拆柄田定位句反位必须先使电锁器有电才能解锁的一种锁闭关系。 5.33 反位锁闭 locked reverse + 电锁器联锁中握柄由反位向定企必须共 'c锁器有电才能解锁的一种锁闭关系。 5.34 osc   蓓 定反位锁闭 locked normal and reverse 电锁器联锁中握柄由定位向反位,或由反位向定位廿须先伫中锁器有电才能扳动的一种锁闭 关条 = 5.35 道岔密贴 switch closure N 务平台 道岔尖轨与基本轨贴紧到使列车车列可以安全通过的状态。 5.36 防止重复 prevention 0f repetitive clear 0f Signal 信号开放一旦关闭非经人为办理不能再次开放的一种技术措施。 5.37 解锁 release 解除锁闭 5.38 进路解锁 roule release 解除进路锁闭 5.39 进路一次解锁 route release at once 列车或调车车列通过整条进路后 ,同时解除整个进路锁闭。 5.40 进路分段解锁 sectional route release 列车或调车车列每通过进路上的一个区段就解锁一个区段 。
+13
+
+TB/T 454.1一2021
+5.41 人工解锁 manua/ release 联锁设备在非正常情祝下使用 ,而且必须实行规定的手续方能办理的一种解锁方法 5.42 迸路人工解锁 manua/ roule release 对已经锁闭的进路实行的人丁解锁。 5.43 道岔人工解锁 switch manual release 对已经锁闭的道岔实行的人丁解锁。 5.44 限时人工解锁 manual time release 进路接近锁闭以后 ,使用人T的方法并经过一定肘间方能解除锁闭。 5.45 不限时人工解锁 Inanual release without timne locking 进路接近锁闭以广 ,恁用人T方法就可以立即解除锁闭。 5.46 自动限时解锁 aulomal p 'MC r lcase 取消信号以后不需另办人'亍'卖,畏据列车是否接近或规定的其他条件决定是否经过一定时间解 锁进路的方法。 5.47 佳信 两点检查 released by two sections 解锁进路中的某个区段时 ,必须证实列车或车列曾圣; )其e 区段再占用并卅清本区段 ,或曾 经占用并卅清本区段又占用后一区段的一种技术要求。 5.48 版务- 三点检查 released by three sections 解锁进路中的某个区段时 ,必须证实列车或车列曾经占用其前一区段 ,再占'月并卅沣本区段,而且 又占用后一区段的一种技术要求 5.49 进路 routc 在车站内列车或调车车列由一点运行至另一点的全部行程。 5.50 列车进路 train route 列车用的进路 5.51 调车进路 shunting route 调车用的进路。 5.52 通过进路 through route 直通进路 列车经正线不停车通过车站(或车场)的进路。 5.53 接车进路 receiving route; entrance route 列车进入车站(或车场)所经过的进路 = 14
+
+TB/T 454.1一2021
+5.54 发车迸路 deparlure route; outgoing route; exit route 列车由车站(或车场)驶卅所经过的进路 = 5.55 平行迸路 parallel roule 因道岔位置的互相配置而能同时开通的并列进路。 5.56 基本迸路 basic route 站内由一点向另一点运行有几条径路时 ,规定常用的一条径路。 5.57 娈更进路 alternative route _ detour routes; option route 迂回进路 变通进路 站内由一点向另一点运行有几条径路时 ,除基本进路以外的径路。 5.58 对向重叠进路 opsosite rJrte with overlapped section 两条方向相对的,互相启卡郭分!全部重合的进路 5.59 顺向重叠进路 routes with over appor' .(:? in the same direction 两条方向相同的 ,互相间有部分或全部至片的-士监 5.60 延续进路 SuCCCSsive route 息肫 继续进路 方向相同的两条列车进路中 ,若后一条进路用前一条进路的终岢作 ^3端 ,则后一进路称为前一 进路的延续进路。 5.61 平台 敌对进路 Conflicl roule 同时行车会危及行车安全的任意两条进路。 5.62 表示 indication 反映列车.线路 .联锁设备位置 .状态的一种技术方法。 5.63 接近表示 approach indication 列车驶入接近区段的表示 5.64 离去表示 departure indication 列车占用离去区段的表示 5.65 道岔表示 switch indication 有关道岔位置的表示 5.66 信号表示 signal indication 有关停号显示情况的表示 . 15
+
+TB /T 454.1一2021
+5.67 信号开放表示 clear signal indication 信号在开放状态的表示 。 5.68 信号关闭表示 stop signal indication 信号在关闭状态的表示 。 5.69 进路锁闭表示 route locking indication 进路处于锁闭状态的表示 5.70 人工解锁表示 manual release indication 设备或进路正在进行人丁解锁的表示。 5.71 按钮表示 indication of depressed button 按压按钮的表示 5.72 道岔定位表示 switch Idal i Jication 道岔开通定位的表示 5.73 道岔反位表示 switch reverse indicali 道岔开通反位的表示 = 5.74 wo 信息服务平台 线路占用表示 track occupancy indication 有关正线和到发线是否占用的表示 5.75 区段占用表示 section occupancy indication 有关道岔区段和无岔区段被占用的表示 < 5.76 道岔锁闭表示 switch Iock out indication 道岔处于锁闭状态的表示 5.77 光点式表示 Spot light indication 利用不连续的光点反映进路开通 .线路占用或锁闭情况的表示方式。 5.78 光带式表示 strip light indication 利用连续的光条反映进路开通 .线路占用或锁闭状祝的表示方式 = 5.79 报警 alarm 反映设备故障或状态不良的技术方法。 5.80 主灯丝断丝报警 alarmn for burnout of 3 Iain filamnent 双丝灯泡主丝断丝的报警。
+16
+
+TB/T 454.1一2021
+5.81 灯丝断丝报警 alarm for burnout of filaments 信号灯泡断丝的报警。 5.82 熔丝报警 alarm for burn oul of fuse 熔断器断丝或断路器开关断开的报警 5.83 接地报警 alarm for a false ground 电源或导线非正常接触大地时的报警 5.84 挤岔报警 alarm for trailed switch 除转换过程外道岔既不处于定位也不处于反位肘的报警 -来源:GB/T50262-2013.14.7.43] 5.85 道岔启动 switcn sizrting 通过控制使道1尖玑或少幼开始动作。 5.86 道岔转换 switch transactoni 5.87 #息服务平台 道岔顺序启动 sequential starting 0f 排列进路时 ,道岔依次启动的一种动作方式。 5.88 道岔顺序转换 sequential operating of switches 排列进路时 ,一个道岔转完以后另一个道岔再转的转岔方式。 5.89 局部控制 local control 现地操纵 在集中道岔区内 ,必要时将部分道岔 ,停号机集中于一处在现地控制的方法 5.90 双重控制 dual control 道岔和停号设备既可集中控制又可分散控制的方式。 5.91 排列进路 roule selting 办理进路 谁备进路 开通站内两点间的径路 ,使之处于使用状态的作业过程。 5.92 预排进路 roule presetling 预先办理手续 ,待条件满足后再执行排列进路过程的一种方法。 5.93 取消进路 cancel roule 取消已经建立的进路的作业过程 17
+
+TB /T 454.1一2021
+5.94 解锁迸路 release 日 roule 解除进路锁闭的过程。 5.95 选路 route selection 当有几条径路时 .根据需要选卅其中一条或排列进路时选动(不包括转换)道岔的过程。 5.96 非进路调车 hold route for shunting 在一定时间内 ,开通并锁闭通往编组区的某一条线路上的联锁道岔_ 使该线路作为牵出线来进行 往返调车作业的调车方法。 5.97 中途返回 midway return operation 中途折返 调车车列未通过原排进路的全部区段即改娈运行方向的折返作业: 5.98 防护道岔 pro' ecti e tunIt 能够防止列车.调车车死甘-他线路进入已被排好或占用之线路的非进路上的道岔 5.99 带动道岔 switch with follow U IO'Ci  ` 5.100 启息服务平台 联锁道岔 inlerlocked switch 有联锁关条的道岔 _ 5.101 非联锁道岔 non-interlocked switch 无联锁关系的道岔  5.102 集中道岔 centrally operated switch 集中操纵的道岔。 5。103 非集中道岔 locally operated switch 在现场分散操纵的道岔_ 5.104 联锁区 interlocking area 道岔和停号有联锁关系的区域。 5.105 非联锁区 non-interlocking area 道岔和停号无联锁关系的区域。 5.106 道岔区段 switch section 有道岔的轨道区段=
+18
+
+TB/T 454.1一2021
+5.107 无岔区段 swilchless seclion 咽喉区内无道岔的轨道区段 = 5.108 线路区段 track section 车站正线及到发线上的轨道区段 5.109 接近区段 approach section 靠近分界点进口 ,道口 ,防护的建筑物以及进站 ,出站 ,调车信号机并有防护作用的轨道区段 5.110 第一接近区段 first approach section 由相邻的多个轨道区段构成接近区段时 ,列车先占用的轨道区段。 5。111 离去区段 section after the departure 邻近车站卅口处定的轨道区段 5。112 第一离去区段 first seC i. after the departure 具有多个相邻的离去区段时,少兴占用的离去区段。 5.113 第二离去区段  second seclion after [: eparu 5.114 m rm 服务平台 第三离去区段 third section after the departure 具有多个相邻的离去区段时 ,列车第三占用的离去区段。 5。115 联锁图表 interlocking chart 记载线路 ,道岔 ,停号设备的布置以及其间联锁关系的图表。 5.116 联锁表 interlocking table 记载车站(场)或某一联锁区域内各种联锁关系的总表。 [来源:GB/T 50262-2013,14.7.9] 5.117 进路表 route sheel 记载车站(场)或某一联锁区域内进路数量的总表。 5.118 联锁试验 interlocking test 检验规定的各种联锁关系正确性的试验。 [来源:GB/T 50262-2013.14.7.10] 5.119 安全电路 vital circuit; safety circuit 道岔 ,停号机 .轨道电路等与行车安全有关的控制 ,表示电路及联锁电路。
+19
+
+TB /T 454.1一2021
+5.120 非安全电路 non-vilal circuil 整个电路系统中 ,除安全电路以外的电路。 5.121 励磁电路 energizing circuit 使继电器吸起的电路。 5.122 自闭电路 stick circuit 自保电路 通过本身前接点使继电器保持吸起的电路。 5.123 网路 ICtwork 网状电路。 5。124 站场型网路 georrazhical circuitry 按站场线路布置形:~构戕(网路。 5.125 继电器并联网路 parallel reidj n sork 网路中 ,继电器并联连接。电路'妄通斥 ,:礻'3器同时动作的网路。 5.126 "层! 继电器串联网路 series relay network 网路中 ,继电器串联连接。电路接通后 ,继电器同时云 E的网C 5.127 继电器并联传递网路 successively worked parallel relay nelwoI 网路中 ,继电器并联连接。电路接通后 ,继电器依次动作的网路= 务平合 5.128 条件 requisition 在电路中完成某种功能的物理因素。 5.129 串联条件 series requisition 串联连接的条件= 5。130 并联条件 parallel requisition 并联连接的条件。 5.131 串并联条件 series-parallel requisition 串联和并联混联的连接条件。 5.132 励磁条件 energizing requisition 继电器励磁应具备的条件< 5.133 自闭条件 stick requisition 继电器自闭应具备的条件 = 20
+
+TB/T 454.1一2021
+5.134 控制条件 control requisilion 控制某对象所需要的条件= 5.135 表示条件 indication requisition 反映线路 ,设备状态及列车位置所需要的条件 5.136 锁闭条件 lock requisition 使设备处于锁闭状态的条件。 5.137 解锁条件 release requisition 使设备解锁所需要的条件。 5.138 照查条件 Check requisition 完成照查关系应#C的条件_ 5。139 开路 open circuit 电路未接通的状态。 5.140 闭路 Closed circuil 电路接通的状态。 " 业标准信息服务平台 5.141 短路 short circuit 电路中两点.通过一很小的阻抗有意或偶然的连接。 5.142 单断 single break 同一功能的控制条件 ,只控制用电对象的一个电源极性的电路连接方法。 5.143 双断 double break 同一功能的控制条件 ,控制用电对象的两个电源极性的电路连接方法。 5。144 重复检查 repeated check 同一条件 ,在完成某一功能的几个环节中多次检查的做法。 5.145 极性检查电路 polarity check 网路复用时 ,以不同极性电流区分不同用途的一种电路连接方法 5.146 送受分开电路 remote end feeding circuit 电源 ,控制条件与被控对象分设于两端的电路连接方法 = 5.147 灭火花电路 spark extinguishing circuit 为避免接点接通与断开的瞬间产生火花而设的电路。
+21
+
+TB /T 454.1一2021
+5.148 基本联锁电路 fundamental interlocking circuit 车站(场)内完成道岔 .信号间联锁关系的电路。 5.149 选路电路 roule selecting circuit 完成选路功能的电路。 5.150 锁闭电路 lock circuit 完成锁闭功能的电路。 5。151 解锁电路 rclease circuil 完成解锁功能的电路。 5.152 信号控制电路 signal control circuit 控制停号显示状公的电路。 5.153 信号机点灯电路 signa' | Sutine circuit 控制停号机显示的点灯电潞。 5。154 道岔控制电路 switch control circuit 控制道岔位置的电路。 5.155 "岖堆信息服务平 表示电路 indication circuit 反映线路,道岔 ,停号及有关设备状态 ,位置的电路。 5.156 联系电路 connecting circuit 完成车站(或车场)与其以外区域互要条件 ,相互控制以及车站(或车场)为完成某'C牧足作业而设 的电路。 5.157 区间联系电路 connecting circuit with block signaling 车站与区间闭塞之间的联系电路 5.158 自动闭塞联系电路 connecting circuit with automatic blocks 车站与自动闭塞区间的联系电路。 5.159 半自动闭塞联系电路 connecting circuit with hlock instruments 车站与半自动闭塞区间的联系电路。 5.160 站间联系电路 connecting circuit between stations 车站与车站之间的联系电路 5.161 场间联系电路 connecling circuit between yards 车场与车场之间的联系电路= 22
+
+] 工 454.1一2021
+5.162 集中场与驼峰场间联系电路 connecting circuit belween centralized inlerlocking and hump yard 电气集中联锁场与驼峰调车场间的联系电路。 5.163 集中场间联系电路 connecting circuit belween centralized yard 两集中联锁场间的联系电路。 5。164 非进路调车电路 circuit to hold a route for shunting 为完成非进路调车功能而设的电路。 5.165 局部控制电路 local control circuit 电气集中联锁场内某一区域或个别道岔 ,附加局部控制功能的电路。 5.166 机务段联系电路 connecting circuit with depot 集中场与机务段7[的联系电路 5.167 站内道口联系电路 FOIJ ~ing Circuit 0f level crossing within the station 站内道口与集中联锁电路之问f系电路 _ 5.168 下坡道防护电路 protection circuit foi ! eavy 小;" grade approaching 站外一端有超过规定的下坡道时 ,车站基本联顷为路霁`加的防护电路。 5.169 到发线出岔电路 protection circuit for switch Iying midway ; ceiving-departure track 为控制和防护股道上的道岔所设的电路。 5.170 平台 进路表示器电路 roule indicator circuil 进路表示l的控制及点灯电路。 5.171 发车表示器电路 departure indicator circuit 发车表示器的控制及点灯电路。 5.172 调车表示器电路 shunting indicator circuit 调车表示器的控制及点灯电路。 5.173 通过按钮电路 through button circuit 列车需通过一个或兀个车场时 ,为简化排列进路手续而专设的电路。 5.174 自动通过按钮电路 automatic passing button circuil 自动闭塞区段的中间站,为了将进 ,卅站停号暂时转娈成与区间通过信号一样 ,由列车控制其显示 而专设的电路 5.175 控制台 control console 具有控制和表示功能的联锁操作装置。 23
+
+TB/T 454.1一2021
+5.176 操纵台 operaling console 控制功能和表示功能分离时仅用于操作的控制装置。 [来源 :GB/T 50262一2013,14.7.45] 5.177 表示盘 indicating panel 用于显示列车运行情祝和信号设备基本状态的表示装置。 [来源 :GB/T 50262- 2013.14.7.46] 5.178 控制盘 control panel 用操纵 ,表示元件组成,用以控制铁路停号设备的盘状器械。 5.179 解锁按钮盘 manua/ release hutton panel 装设人T解锁按钮的盘 5.180 同意按钮盘 asree nent hfton panel 装设同意按钮及附属表,;`-备的盘 5.181 联锁计算机 interlocking compc ter 计算机联锁中实现联锁功能和安全性轴 _ 输`矽汁算机系统 [来源 :IB/I 3027一2015,3.1] 5.182 噜息脲* 电子执行单元 Clectronic executive unit 接收联锁计算机产生的设备动作命令直接驱动室外信号设备,夹采I王外停号设备状态转化为表 示停息传送纷联锁计算机的电子模块_ [来源 : TB/T 3027-2015 ,3.16] 呼台 5.183 组合 unit block 采用敞开式结构 ,将若干继电器组装在一起作为一个扩大的单元来运用的设备 5.184 组匣 modular hlock 采用封闭式结构 ,将若千继电器组装在一起作为一个扩大的单元来运用的设备 5.185 组合架(柜) unit block assembly rack cabinet ) 安装继电器组合的架(柜) s 5.186 综合架(柜) composite rack (cabinet) 附有托架 ,可摆放一定数量变压器 .整流器等设备的组合架(柜)  5.187 组匣架 Inodular rack 安装继电器组匣的架=
+21
+
+TB/T 454.1一2021
+5.188 电码继电器架 light relay rack 安装电码继电器的架。 5.189 分线盘(柜) distributing board cabinet ) 控制台室 .继电器室 .电子器械室之间以及与室外转接电线 ,电缆芯线所用的端子盘(柜) 。 5.190 机械联锁机 Iechanical interlocking machine 信号楼内.以人力集中操纵道岔和信号并完成其间联锁关系的机械设备。 5.191 锁簧床 locking bed 安装机械锁簧,完成联锁关系的框架及锁条 ,锁簧设备。 5.192 电机联锁机 electro-mechanical interlocking machine 在停号楼内 ,以入力焦中操纵道岔 ,采用色灯停号机并完成其间联锁关系的电气机械设备。 5.193 桌上握柄 tahle interlork + 安装于桌上,用电力操纵号NJ岔的握柄 。 5.194 控制台单元 Conlrol desk elemenl 单元控制台中 ,组成盘面的基本标准结构 _ 5.195 手柄 handle; knob 雌信息服务平台 带柄旋转式开关。 5.196 电钮 hutton 以按压或拉卅的动作来接通或切断电路的开关。 5.197 按钮 push-button 以按压方式动作的电钮。 5.198 拉钮 pull-hutton 以拉卅方式动作的电钮。 5.199 自复式按钮 nonstick button 按压后娈位 ,松开后自动复位的按钮 5.200 非自复式按钮 stick button 按压后娈位 ,松开后未办理恢复手续以前仍停留在变位状态的按钮。 5.201 表示灯 indication lammp 用颜色和亮 .灭情况来表示设备状态的灯
+25
+
+TB/T 454.1一2021
+5.202 信号复示器 signal repealer 外形模拟信号机 ,反映信号显示情况的表示灯= 5.203 光带 light strip 连接起来可以表示线路状态的光条型表示灯 5.204 汇流排 bus-bar 将电能分配至各分支电路的母线。 5.205 走线架 Chamfer; Chute 盘 ,柜 ,架之间 ,电缆电线的支撑架 5.206 分线盘端子 termninals on distributing board 装设在分线盘上H接线端子= 5.207 电源端子 terminals for Swer $Jpply 盘 .柜 ,架上 ,专为引接电源用於  5.208 零层端子 terminals Of layer 0 of relay 设于盘 .柜 .架最上部或最下部的端子 5.209 组合端子 terminals of 3 unit hlock 言息服务平台 侧面端子 继电器组合对外连线的端子。 5.210 电笛 electric siren 通电后发卅喇叭声响的电声器件 5.211 继电器箱 relay case; relay cabinet 设于现场 ,放置继电器等电器的箱 5.212 继电器防震架 shock absorber for relays 为防止继电器因外界震动而误动所设 ,有缓冲装置的小型继电器架 5.213 变压器箱 transformer box 设于现场 ,放置娈压器等电器的箱。 5.214 局部控制盘 local control stand 设于现场 ,集中操纵一部分道岔 ,信号并附一定表示设备的盘。 5.215 电缆盒 Cable box 为电缆引卅 ,引入 ,分向以及接头配线用的盒。 26
+
+TB/T 454.1一2021
+5.216 电缆接续盒 cable terminal box 电缆接头用的电缆盒。 5.217 杆上电缆盒 cable termninal hox On post 设于电杆上 ,电缆与电线连接用的电缆盒= 5.218 分向电缆盒 cahle hranching terminal box 设于电缆分歧处 ,将一根电缆的若干芯线分向各分支电缆的电缆盒。 5.219 中间电缆盒 intermediate cahle terminal hox 既可引向设备又可通过电缆的电缆盒。 5.220 终端电缆盒 Cahle termination hox 电缆终端引向设i罔的电缆盒。 5.221 电缆套管 Cahle sleeve 电缆向箱 ,盒 ,架笄设备引入尉 ,凸宅和防护电缆终端用的套管。 5.222 "# ,a8~{;刿_a,坐命 3#_ ~奁4《 #爷猴[*具。 联锁箱 point deteclor 5.223 道岔握柄 switch lever 扳动道岔尖轨用的握柄 _ 服务平台 5.224 信号握柄 signal lever 操纵停号用的握柄 _ 5.225 导管装置 pipe installation 操纵道岔 ,脱轨器等设备.从握柄将力传至被操纵对象所用的钢管以及转向 ,调整 ,支撑等设备。 5.226 导管调整器 pipe compensator 自动调整导管因温度差异而引起的长度娈化的器具。 5.227 结合杆 pipe joint 导管装置中两端全为铆接的杆< 5.228 接杆 pipe jaw 导管装置中一端为铆接,另一端为活连接的杆。 5.229 连接杆 pipe link 两端均为活连接的杆。
+27
+
+TB/T 454.1一2021
+5.230 转向杆 deflecting bar 变更导管动作方向 ,代替拐肘的一种曲杆 5.231 拐肘 Crak 变更导管方向的一种杠杆式器其 _ 5.232 直立拐肘 Vertical crank 娈更导管垂直方向用的拐肘 5.233 uT 型拐肘 T-type crank 具有三臂.形状呈"工"形的拐肘。 5.234 直角拐肘 right angle crank 两臂间成直角的+肘 5.235 直线拐肘 straight cran 两臂间成直线状的拐肘 5.236 臂形拐肘 radial arm 只有单臂 ,在小范围内改娈导管方向的拐肘 5.237 y准信息服务平台 加减拐肘 adjustable crank 力臂可调的拐肘 5.238 牵纵拐肘 escapement 带动设备,能自动调节伸缩并保持设备稳定的拐肘 _ 5.239 转辙锁闭器 plunger lock 检查尖轨与基本轨密贴并锁闭道岔的器具= 5.240 转换锁闭器 switch-and-lock mechanism 检查尖轨与基本轨密贴和锁闭道岔 ,同时又能转换道岔的器具< 5.241 尖端杆 front rod 装在道岔尖轨尖端,具有活连接的连接杆。 5.242 密贴调整杆 adjustable switch operating rod 可以调整道岔动程的连接杆= 5.243 导线装置 wire installatjonl 人力操纵臂板停号机或道岔时 ,将力传至被操纵对象所用的导线以及转向 ,调整 .支撑等设备
+28
+
+TB/T 454.1一2021
+5.244 导线反正扣 wire-adjusting screw 人丁调整导线长度的简单器具= 5.245 导线调整器 wire compensator 根据温度娈化自动调节导线伸缩的器具 5.246 导线平轮 horizontal wheel 娈更导线水平方向的滑轮。 5.247 导线立轮 vertical wheel 变更导线垂直方向的滑轮。 5.248 导线导轮 wire carrier 支持导线的滑轮 5.249 导线平轮组 horizonal Nrel as_emhly 较多导线同时娈更方向处裟设:轮组。 5.250 住。# 脱轨器 derailer 为防止机车车辆进入不允许进入的区段而设a- 种使d午车辆一压上就脱卅线外的器具 5.251 信号选别器 signal slot 控制停号臂板动作的一种电磁连接器具< s"服务平台 5.252 轨道接触器 frack treadle 以车辆的通过使接点闭合或断开 ,用以反映列车车列是否通过该点的器具。 5.253 电锁器 electric lock 锁闭道岔和停号握柄 ,带有接点系统的电磁锁闭器具。 5.254 带柄电锁器 electric lock with handle 带有握柄的电锁器。 5.255 臂板接触器 semaphore contact 以停号臂板带动的一种开关。 5.256 臂板转极器 semaphore pole changer 以停号臂板带动的一种变换电流极性的三位开关。
+29
+
+TB /T 454.1一2021
+6 闭塞
+6。1
+闭塞 block 用停号或凭证 ,保证列车按照空间间隔制运行的技术方法。 6.2 时间间隔制 time interval system 前行列车和追踪列车之间必须保持一定时间的行车方法。 6.3 空间间隔制 space interval system 前行列车和追踪列车之间必须保持一定距离的行车方法 < 6.4 区间闭塞 Section hlocked 两分界点间 ,办珲:己:闲塞手续的区间状态。 6.5 区间空闲 section clearrd 区间没有列车占用的状态 = 6.6 区间占用 seclion occupied 区间有列车占用的状态 6.7 标准信息服务平台 电话闭塞 telephone block system 两分界点间用电话联系 ,凭路票行车的闭塞方法。 6.8 电报闭塞 telegraph block system 两分界点间用电报联系 ,凭路票行车的闭塞方法。 6.9 电气路签闭塞 electric staff system 单线铁路线上 ,以路签作为占用区间凭证的闭塞方法。 6。10 电气路牌闭塞 electric tablet block system 单线铁路线上 ,以路牌作为占用区间凭证的闭塞方法。 6。11 半自动闭塞 semi-automatic block system 人丁办理闭塞手续 ,列车凭停号显示发车后 ,出站停号机自动关闭的闭塞方法 6.12 继电半自动闭塞 all-relay semi-automatic block system 利用继电器电路实现分界点间联系的半自动闭塞。 6.13 单线继电半自动闭塞 single track all-relay semi-automatic block system 单线铁路上采用的继电半月动闭塞。
+30
+
+TB/T 454.1一2021
+6.14 复线继电半自动闭塞 double track all-relay semi-automalic block system 复线铁路上采用的继电半自动闭塞。 6.15 自动闭塞 automatic block system 根据列车运行及有关闭塞分区状态.自动娈换通过停号显示而司机凭停号行车的闭塞方法。 6.16 单线自动闭塞 single track automatic block system 单线铁路上采用的自动闭塞_ 6.17 复线自动闭塞 douhle track automatic hlock system 复线铁路上采用的自动闭塞。 6.18 单向自动闭塞 automatic block with single direction running 区间每条铁路线i上-只运行单方向列车的自动闭塞。 6.19 双向自动闭塞 automal ( 5ock vith douhle direction running 区间每条铁路线路上 ,运行双厂凹列车的自动闭塞 6.20 电码自动闭塞 aulomalic block with Cuied Irzcn ircuils 应用电码轨道电路的自动闭塞。 6.21 脉冲自动闭塞 automatic block with impulse track circuife o服务 应用脉冲轨道电路的自动闭塞。 6.22 不对称脉冲自动闭塞 automatic block with asymmetrical high voltage impuse trac' Circuits 应用不对称脉冲轨道电路的自动闭塞 6.23 移频自动闭塞 automatic block with audio frequency shift modulated track circuits 应用移频轨道电路的自动闭塞。 6.24 极频自动闭塞 automatic block with polar frequency coded track circuits 应用极频轨道电路的自动闭塞。 6.25 交流计数电码自动闭塞 automatic block with AC counting code track circuits 应用交流计数电码轨道电路的自动闭塞。 6.26 二显示自动闭塞 twoaspecl automatic block 通过停号机具有两种显示 ,能预告列车运行前方一个闭塞分区状态的自动闭塞。 6.27 三显示自动闭塞 threc aspect automatic block 通过停号机具有三种显示,能预告列车运行前方两个闭塞分区状态的自动闭塞
+31
+
+TB/T 454.1一2021
+6.28 四显示自动闭塞 four-aspecl aulomatic block 通过停号机其有四种显示.能预告列车运行前方三个闭塞分区状态的自动闭塞。 6.29 自动站间闭塞 automatic station block 随着办理发车进路自动构成站间闭塞,列车凭卅站信号显示进入发车进路后 ,卅站停号机自动关 闭 ,待列车卅清区间后自动解除闭塞的行车闭塞方式。 [来源 :GB/T 50262一2013,14.6.9] 6.30 闭塞分区 block scction 自动闭塞区段 ,顺向相邻两架通过停号机 (或闭塞分区停号标志牌 )间的区段。 6.31 区间逻辑检查 section logic check 在列车运行过程中对闭塞分区的占用时序进行逻辑校验的技术手段。 6.32 重叠区段 ove' 1ap sectinn 一个停号机防护区域的 分延申到另一个停号机所防护的范围内的区段 6.33 保护区段 overlap protection blJJck SP_:;" 为防止列车冒进停号造成危险后果而议'1重叠仄 !殳。 6.34 防护区段 prolecled seclion 信号机显示能够直接表示其状态的轨道区段。 息服务平合 6.35 接近发码 approach coding 采用连续式轨道电路的区段,当列车驶近时才向轨道区段发码的一种方法 _ 6.36 接近点灯 approach lighting 列车接近停号机时 ,停号机才点灯的一种方法 _ 6.37 信号点 signal location 设置通过停号机的地点。 6.38 单置信号点 single signal location 设置一架通过停号机的地点 6.39 并置信号点 double signal location 上 ,下行两架通过停号机 ,设于同一里程的停号点。 6.40 预办闭塞 preworking block 在区间闭塞的情况下,提前为下一次列车办理闭塞。
+32
+
+TB/T 454.1一2021
+6.41 解除闭塞 block cleared 列车到达后 .使闭塞设备恢复正常状态 _ 6.42 取消闭塞 Cancel a block 区间虽已闭塞但末占用时 ,两分界点协同用人为方法 ,使闭塞设备恢复正常状态 6.43 灯光转移 transfer of lighting indication 色灯信号机因故灭灯时 ,使其前方信号机转娈为较大限制信号的方法。 6.44 闭塞机 hlock instrument 办理闭塞所用的器械。 6.45 电气路签机 electric staff instrument 电气路签闭塞中.用!储存和控制路签的器械。 6.46 电气路牌机 electric tar/ instrment 电气路牌闭塞中 ,用以储存和尕何咚牌的器械。 6.47 半自动闭塞机 semi-aulomatic block Uu"hinc  k and block instrument 半自动闭塞中 ,用以完成闭塞手续并控制卅茧介5机显一的器械。 6.48 路签 train staff 允许列车占用区间的棒状凭证。 "服务平 6.49 旋分路签 divisible staff 为容许以隔时续行和有补机全区间推进的区间而设 ,由正签 ,副签两部分结合而成.内- 种路签 6.50 正签 main staff 旋分路签.给予续行列车或补机司机带有一个环套的部分。 6.51 副签 suhsidiary staff 旋分路签 ,给予先行列车或有补机推进时给予本务机车司机 ,带有两个环套的部分 6.52 钥匙路签 staff with the key 补机或路用列车,从区间中途折返所用的路签。 6.53 钥匙路牌 tablel with the key 补机或路用列车,从区间中途折返所用的路牌 _ 6.54 钥匙路签器 Staff key container 电气路签闭塞区间段中 ,用以储存及控制钥匙路签的器具。
+33
+
+TB /T 454.1一2021
+6.55 钥匙路牌器 tablel container with the key 电气路牌闭塞区段中 ,用以储存以及控制钥匙路牌的器具 6.56 替换路签 alternate staff 需要由辅助路签机取卅路签交纷司机时 ,在基本路签机与辅助路签机之间直接转递的路签。 6.57 路牌锁闭器 tablet lock 电气路牌闭塞区段 .锁闭区间道岔的控制器具= 当区间空闲 ,道岔向正线开通并放入本区间路牌 后道岔方能解锁= 6.58 基本路签机 master staff instrument 两分界点间办理闭塞的电气路签机。 6.59 辅助路签机 aux'li"v instrument 分界点与辅助-间文牢站内发车地点与办理闭塞地点不在一起时 ,它们相互间转递路签的电气路 签机。 6.60 祢 基本路牌机 mnaster tahlet instr 两分界点间办理闭塞的电气路牌机 6.61 笊 7 辅助路牌机 auxiliary tablel instrumenl 它们相互转递路牌的电气路 牌机。 6.62 路签(牌)携带器 staff pouch 传递和携带路签(牌)用的器具。 6.63 路签(牌)自动授受机 automatic staff (tablet) exchanger 列车与分界点间肖动传递路签(牌)的设备=
+7 列车运行控制
+7.1 中国列车运行控制系统 Chinese train control system (CTCS) 保证列车安全运行 ,并以分级形式满足不同线路运输需求的列车运行控制系统的总称。 注:根据系统配眚按功 划分为 CTCS-O,CTCS-ICTCS2,CTCS3CTCS 4 级 。 7.2 列车运行控制应用等级 application level 0f train control system 表示地面和列车间可能的运用关系。等级的定义主要与所用的地面与车载的设备配置 信息传输 方式以及设备所完成的功能有关。
+31
+
+TB/T 454.1一2021
+7.3 列车自动控制 aulomalic train control(ATC) 对列车运行全过程或一 部分作业 ,实现自动控制的设备的总称。 7.4 列车超速防护 automatic train protection(ATP) 强迫使列车遵守行车许可.按照速度限制运行的安全系统。 7.5 列车自动驾驶 automatic train operation(ATO) 在 ATP 系统的防护下,自动实现列车加速 ,调速 ,停车和车门开闭 ,提示等控制技术的总称 。 7.6 列控车载设备 on-hoard equipment 0f train control system 安装在列车上 ,监控列车安全运行的设备。 7.7 列控地面设备 trackside equipment 0f train control system 安装在地面 ,为完戊与列控车载设备进行停息交互以实现监控列车安全运行而设的技术设备 7.8 点式设备 intermittent Jice 由地面向车载设备传输不连续声?哟设备。 [来源 :GB/T 50262-2013,14. 7.9 应答器 balise 一种用于地面向列车信息传输的点式设备。 注:分为无源(固定 )应答l利有源(可变)应答器。  信息服务平台 7.10 无源应答器 halise, fixed 固定应答器 发送数据不随停号娈化的应答器 7.11 有源应答器 balise. switchable 可娈应答器 发送数据根据停号动态娈化的应答器 7.12 地面电子单元 line side electronic unit 按照控制条件选择不同的数据传送到有源应答器的地面设备= 7.13 应答器读写工具 balise programming tool 用于应答器报文读卅和写入的丁具 [来源 :GB/T 50262一2013,14.6.60] 7.14 环线 Ioop 线路上铺设的环状电缆 ,用于地面和车载设备之间的数据传输。
+35
+
+TB /T 454.1一2021
+7.15 轨道电路信息接收单元 track circuit receiving module 列车车载设备中完成轨道电路停息的接收与处理的部分 [来源 :GB/T 50262-2013,14.6.61] 7.16 应答器信息接收单元 balise transmission Iodule 列车车载设备中完l应答器停息接收与处理的部分= [来源 :GB/T 50262一2013,14.6.62] 7.17 数字记录单元 data recorder unit 列车运行控制车载设备中负责记录保养(诊断)事件信息的装置 .供后续维护等使用。 [来源 :GB/T 50262 2013.14.6.63] 7.18 列车接口单元 train interface unit 车载设备内部的旦元-提供车载设备与列车之间的接口 7.19 人机界面 driver-manhi」 sterf cC (DMII) 车载设备和司机之间信息爻互竹t置 7.20 本务端设备 leading unit M#48郯。 与主控机车或动车组主控驾驶室 DMI 7.21 e 列控申心 train control center 用于列车运行控制系统的列车控制 ,产生进路命令 ,速度停息的没备" , 称。 7.22 "7 无线闭塞申心 radio block center (RBC) 采用无线通停方式实现列车间隔控制的地面设备。系统接收所辖全部列车的位置停急,向所有列 车发卅行车许可并提供列车间隔控制功能_ [来源 :GB/T 50262-2013.14.6.44] 7.23 铁路信号安全数据网 railway signal safety data network 基于计算机通停技术实现铁路停号系统安全停息传输的专用通停网络。 [来源 : TB/T 3547-2019 ,3.4] 7.24 行车许可 movement authority (MIA 允许列车在线路条件等各种约束下运行到指定位置的授权。 7.25 行车许可终点 end 0f authority (EoA) 允许列车到达的最远位置 ,该位置目标速度为零。 7.26 限制性行车许可 limit of authority (LoA) 线路数据未知但允许列车以不为零的目标速度通过的位置。 列车在经过限制性许可终点前,应收 到新的数据。 36
+
+TB/T 454.1一2021
+7.27 行车许可的取消 revocation 0f movement authorily 收回已发卅的允许列车运行到指定位置的许可 7.28 危险点 danger point 位于 EoA 或其外方 ,是允许列车前端到达而不产生危险的最后点。 7.29 安全防护距离 safety distance 列车行车许可终点与危险点之间的距离_ 7.30 过走防护区 overlap 接车进路末端的延长部分,位于行车许可终点的防护区域内。 在至停车停号的运行指令发{之前 及执行期间 ,该区段必须空闲 ,预先锁闭 ,而且在列车停车前不能取消,以避免由于列车制动性能未达 到预期目标而导致事故。 7.31 列车冒进防护 fra n trip 除有允许命令外 ,列车赵i CoA 寸立即触发的紧急制动。 7.32 目标点 Tu targef 任意一个静态速度的娈更点= 越过该烹!寸,列 '干徒度应低于给定的速度限制 = 7.33 目标距离 largel distance 刎车前端全运行前方目杯点的距离。 7.34 息服务平台 目标速度 target speed 列车运行前方目标点允许的最高速度。 7.35 允许速度 permitted speed 车载设备不会报警和 /或触发制动的列车最高运行速度。 7.36 顶棚速度  ceiling Speed 列车整个运行区域内允许的最高恒定速度。 7.37 开口速度 release speed 允许列车接近行车许可终点的速度值 7.38 估计速度 estimated speed 车载设备根据列车物理参数和测速测距单元的丁作状态 ,计算的列车运行速度 7.39 安全减速度 Safe deceleralion 假定列车在一定置停度下能够实现的减速度
+37
+
+TB/T 454.1一2021
+7.40 点式传输 intermillent transmission 仅当列车通过地面特定点时才发生的地面和车载之间的信息传输_ 7.41 连续数据传输 conlinuous dala transmission 通过轨道 ,无线等方式不间断地传输地面和车载停息 - 7.42 目标距离模式曲线 distance tO-g0 curve 以目标速度.目标距离 ,线路条件列车特性为基础生成的保证列车安全运行的一次制动模式 曲线 = -来源:GB/T 20562-2013,14.6.31] 7.43 车轮滑行 Wheel slide 制动时车轮与钢轨失去黏着 .转动过慢。 7.44 车轮空转 whrdl sIp 牵引时驱动轮与钢轨失忐着 .较动过快。 7.45 当前位置 current position PmnmZTswmnoss 信[s 7.46 估计位置 estimated position 它表示 为到车载设备检测到的一个参照位置的距离。 7.47 ;罴rst"9蛉  列车位置置信区间 train position confidence inlerval 根据列车定位数据和精度确定的列车位置估计值的可信范围。 7.48 列车最大安全前端 max safe front end position 根据列车定位数据和精度确定的列车前端的最大值(按照正误差计算的定位值) ,该值大于列车前 端位置的估计值。 7.49 列车最小安全前端 min safe front end position 根据列车定位数据和精度确定的列车前端的最小值(按照负误差计算的定位值) ,该值小于列车前 端位置的估计值。 7.50 列车最小安全后端 min safe rear end position 根据列车定位数据和精度确定的列车后端的最小值(按照负误差计算的定位值) ,该值小于列车后 端位置的估计值。 7.51 列车最大安全后端 max safe rear end position 根据列车定位数据和精度确定的列车后端的最大值(按照正误差计算的定位值) ,该值大于列车后 端位置的估计值。 38
+
+TB/T 454.1一2021
+7.52 列车运行前方 i advance of 对列车运行方向而言 ,如果列车在 B点之前通过 A 点,则 B就称之为 A 的运行前方 = 7.53 列车运行后方 i rear of 对列车运行方向而言 ,如果列车在 B点之前通过 A 点 则 A 就称之为 B的运行后方。 7.54 越行 override 列车在规定的速度下通过禁止停号或 EoA , 屏蔽列车冒进防护功能 ,不触发设备制动。 注:"越行"是任特殊条件下(如地面设备故障)车载设备应具备的功能。 使用"越行"功能应遵守严格的限制 ,包括 速度限制 ,肘间限制 ,距离限制以及严格的操作规程。 7.55 退行 reverse movement 列车向非本务端的方向移动。 7.56 溜逸 roll away 列车意外无动力眇移动 」户向与激活驾驶台的方向手柄不-致。 7.57 列车完整性 train integrity 列车车体完整的确认 ,没有发生丢车。 佳信  7.58 列车数据 train data 为了览督列车运行 ,列车运行控制系统要求的表示列`":征幻爽珞。 7.59 } 司法数据 juridical data 用于离线分析事故原因,与列车运行 .车载设备丁作以及地一车通停相关的让亏停息 _ 7.60 迸路适合性数据 route suitability data 地面传送给车载设备的数据 ,该数据可以检查列车能否适合在进路上运行。 注:它包括与承载能力 ,牵引供电利限界等有关的数据。 7.61 司机号 driver identity 确认列车司机唯一性的代码。 7.62 设备干预 intervention 车载设备控制列车,包括采取切除牵引 .采用最大常用制动并切除牵引和采用紧急制动并切除牵 引等措施。 7.63 干预曲线 itervention CurVe 速度距离曲线 ,如果列车速度超过该曲线 ,系统将实施制动。可以有几条干预曲线。 7.64 最限制速度曲线 most restrictive speed profile 列车不能超过的最大速度的描述。 注:最限制速度线是所有要岁虑的各类速度曲线中最严格的速度构成的册线。 39
+
+TB /T 454.1一2021
+7.65 静态速度曲线 stalic speed profile 一段线路的固定速度限制的描述。 注:静态速度曲线与最大线路速度 ,帅线 ,道岔 ,隧道 ,桥等因紊有关。 7.66 动态速度曲线 dynamic train speed profile 车载设备遵守的速度距离监控曲线 7.67 制动曲线 braking curve 基于列车制动性能和前方线路数据 ,车载设备计算的速度 制动距离曲线 7.68 常用制动 service brake 调节列车运行速度或使列车在预定地点停车的制动。 7.69 最大常用制动 urgimum Service hrake 列车采用最大的常[刷动窄所实施的制动 [来源:GB/T50262一201; -4.6 34] 7.70 常用制动距离 braking distanc serv: 在施加最大常用制动时 ,列车能够停车4走行!孕  注:常用制动距离取浃于列车速度 ,列车类型 ,制动性 ,诈 ,o车重髻 |坡度。 7.71 紧急制动 emergency brake 使列车迅速减速并达到在最短距离内紧急停车的制动。 "服务平合 7.72 紧急制动距离 hraking distance, emergency 在施加紧急制动时 ,列车能够停车的走行距离 = 注:紧急制动距离取决于列车速度 ,列车类型 ,制动性能 ,列车重量利坡度。 7.73 停放制动 parking brake 防止静置状态下的列车发生溜逸的制动方式。 [来源:GB/T 37532-2019,3.7] 7.74 人控优先 driver with high priority 列车超速后车载设备输卅常用制动 ,当列车减速至缓解速度以下时 ,需要人下按压缓解键 ,车载设 备才缓解常用制动 7.75 机控优先 ATP with high priority 设备能够按照模式曲线自动控制列车减速并确保列车运行安全。 设备常用制动后 ,在满足缓解条 件时将自动缓解。 [来源 :GB/I 50262一2013,14.6.32]
+40
+
+TB/T 454.1一2021
+7.76 无条件紧急停车消息 unconditional emergency message 要求列车立即制动停车的消息= 7.77 有条件紧急停车消息 conditional emergency Iessage 要求列车在指定位置前停车的消息 若列车前端巳经越过指定位置,则拒绝该消息_ 7.78 临时限速 temporary speed restriction 临时情况下的速度限制 7.79 临时限速服务器 temporary speed restriction server 用于临时限速等数据管理的服务器 7.80 临时限速管辖范围 temporary speed restriction sef area 设备可接受临时M速命令的区域 7.81 级间转换 level traneiti' s 不同等级列车运行控制系统{之冽的转换。 [来源 :GB/T 50262一2013,14.. 7.82 等级转换边界 level transition border 地面设备支持的等级列表发生娈化的位置。 7.83 "信息服务平台 等级转换预告 level transition announcement 要求在前方某一位置进行等级转换的指示。 7.84 等级转换命令 level transition order 立即等级转换命令和等级转换预告的统称。 7.85 立即等级转换命令 irnediate level transition order 要求在当前位置进行等级转换的命令 7.86 有条件等级转换命令 conditional level transition order 一种对车载运行等级进行检查的等级转换命令 当车载设备没有运行在允许的等级时 ,可导致等 级转换。 7.87 等级转换信息 level transition informalion 等级转换命令和有条件等级转换命令的统称。 7.88 RBC 切换 RBC handover 列车在两个无线闭塞中心交接控制权的过程。
+41
+
+TB/T 454.1一2021
+7.89 报文 telegram 一条应答器报文包含报头 ,编号和一系列停息包。 一条应答器组消息由一条或多条报文组戕。 7.90 用户报文 user data 按照规定的数据格式编制的 ,未经过编码处理的用户数据。 [来源 : IB/I 3485一 2017 ,3.13] 7.91 传输报文 transmitted telegram 对用户报文按照规定的规则进行编码后形成用于地一车传输的应答器数据 = [来源 :IB/I 3485-2017,3.14] 7.92 默认报文 default telegram 控制有源应答器的设备或通道故障时 ,有源应答器发送的报文。 7.93 空报文 mpty telrgram 该报文不包括任何用户 ,`忌包.包括停息帧(包头)和结束标志。 7.94 q 应答器组 halise group 畦鼹 ##am n n 炱 A 7.95 应答器组坐标系 balise group co-ordinate system 对于 CTCS 传输通道交互的所有基于位置的停息 ,保证车载汶和; 丘'设备使用统一参照位置的 方法 < 7.96 台 应答器组定位基准点 balise group location reference 应答器组中编号为1的应答器 ,它是应答器组坐标系的原点。 7.97 正方向 norminal direction 应答器组内应答器编号增加的方向。 7.98 最近相关应答器组 last relevant balise group 在车载设备未得到链接停息的情祝下,该应答器组是列车通过并正确读取的笫1个应答器组;或 在车载设备已知链接停息的情祝下,是列车在预期位置找到并正确读取的最后1个应答器组。应答器 组用作列车定位时,最近相关应答器组是车载设备和地面设备使用的定位基雄。 7.99 链接 linking 一种应答器组数据丢失的防护功能,通过用链接停息提前预告和检查是否在期望窗口被读取来 实现。 7.100 链接距离 linking distance 两个被预告应答器组之间的距离 _ 42
+
+TB/T 454.1一2021
+7.101 链接信息 linking information 定义应答器组之间的距离 ,应答器组的编号 ,通过方向以及在纷定范围内没有检测到应答器组所 采取措施的数据。 7.102 模式 mode 车载设备的丁作状态 ,不同丁作状态下车载设备承担特定的防护责任。 7.103 待机模式 standby mode 车载设备上电后的默认模式,也是退卅调车或关闭激活的驾驶台时进人的模式 7.104 完全监控模式 full supervision mode 当车载设备具备列控系统所需的基本数据(行车许可 ,列车数据 ,线路数据'等)时 ,车载设备生成目 标距离模式曲线 ,并能通过 DMI 显示列车运行速度 .允许速度 目标速度和目标距离等 ,控制列车安全 运行 7.105 "行 部分监控模式 partil 0 'i'visirn mode 车载设备接收到轨道电路允江行专停息,而缺少应答器提供的线路数据或限速数据时使用的 模式。 7.106 "'信不 调车模式 Shunl mode 调车作业时的车载设备丁作模式 ,调车模式由司机迹I ,不要广列车数据 ,给出调车允许限速。 可 通过应答器实施调车防护_ 7.107 务-驷 休眠模式 sleeping mode 非本务端车载设备不监控列车运行 ,但仍执行列车定位 ,记录等级转换等功箴的模` 7.108 机车信号模式 cah signal mode 当列车运行到末装备 CTCS2/CTCS-3 级列控系统地面设备的区段时 ,车载设备按规定的限制速 度监控列车运行 ,并显示机车停号 7.109 引导模式 Call on mode 允许列车进入设备无法确认空闲的进路 ,行车许可来自地面系统 ,不由司机选择。 车载设备监控 列车运行速度,司机负责检查轨道空闲情况。 注:此模式对应 ETCS 的 On Sight(OS) 模式。 [来源 :GB/T 50262一2013,14.6.41] 7.110 目视行车模式 0 Sight mode CICS 3 级控车时位置不确定或列车根据调度命令越过停车停号的丁作模式。 车载设备按规定顶 棚速度监控列车运行,司机负责检查轨道空闲状祝。 注:此模式对应 ETCS 的 Staff Responsible(SR)模式。
+43
+
+TB /T 454.1一2021
+7.111 隔离模式 isolalion mode 车载设备与列车制动系统隔离。 7.112 重联(无重联控制装置) tandem 列车中多个牵引单元用机械而非电气联接。 每个牵引单元需要单独的司机 .只有一个单元设计为 本务端 ,其他单元均为非本务端。 7.113 重联(有重联控制装置) multiple units 列车中多个牵引单元用机械 ,电气联接,由一个司机室控制 _ 7.114 消息 Iessage 列控地面和车载设备通过应答器或无线等介质传输的应用数据和协议数据的组合 7.115 信息包 packet 多个娈量按内菩定 <结构成的信息单元。 信息包是报文和消息的组成部分。 7.116 消息认证码 Iessagc authenil a' ,  code I@4g 25黧&#{#' 信 7.117 密钥管理 key management 按照一定安全策略生成 ,保存 ,分发 .删除 _ 7.118 认证密钥 authentication key Inmonoa 服务平合 用于建立无线安全连接的密钥。 7.119 无线盲区 radio hole 巳知不能建立或维持可靠无线连接的区域。 7.120 无线消息超时 radio message timeout 车载设备在规定时间内没有接收到来自地面设备的任何应用消息 ,则应认为车地间通停中断 7.121 机车信号设备 cah signaling equipment 为实现机车停号而装设的技术设备。 7.122 点式机车信号 intermittent type cab signaling 只在线路上固定地点使机车设备和地面设备发生作用的机车停号 < 7.123 连续式机车信号 continuous Iype cab signaling 能连续反映地面线路状态和运行条件的机车信号。 7.124 自动停车 aulomalic train stop 当显示停车停号或转变为较大限制停号而司机未曾采取相应措施时 ,使列车自动制动的一种方法。 44
+
+TB/T 454.1一2021
+7.125 自动停车装置 automalic train stop equipment 为完成自动停车作用所装设的技术装备。 7.126 接触式机车信号 electromechanical cab signaling 机车设备和地面设备因互相接触而产生联系的机车信号 7.127 感应式机车信号 inductive cah signaling 机车设备和地面设备之间 .通过电磁感应而发生联系的机车信号_ 7.128 机车信号测试区段 cah signal testing section 为检查机车停号设备的动作而装设的轨道区段。 7.129 机车信号作用点 cah signal inductor location 点式机车停号区r宁 .装设地面设备的地点。 7.130 预告式显示制度 apnrvur $ indiration system 机车停号机复示列车前方诗号儿示的机车停号制度。 7.131 复示式显示制度 repeating indication 5 SleDI 7.132 tmms   务平台 预告复示式显示制度 approach repeating indication syster 既采用预告式又采用复示式显示的机车停号制度 = 7.133 机车设备 locomotive equipment 机车上 ,为完成机车停号作用而设的全套技术设备。 7.134 接收线圈 receiving coil 连续式机车停号设备中 .机车用以接收轨道上传递之信息的线圈 _ 7.135 机车感应器 locomotive inductor 点式机车停号设备中 ,机车上与地面感应器耦合的线圈。 7.136 地面感应器 wayside inductor 机车停号作用点上 ,用以与机车感应器耦合的线圈_ 7.137 共用箱 cah signal box 机车上 ,盛放放大器 解码器等所用的箱 = 7.138 警惕手柄 acknowledgment lever 证实司机巳确认机车停号显示娈为较大限制信号,操纵后避免自动停车所用的手柄
+45
+
+TB/T 454.1一2021
+7.139 警惕按钮 acknowledgment butlon 证实司机巳确认机车停号显示娈为较大限制信号,操纵后避免自动停车所用的按钮 7.140 制动主管 braking main 由司机阀到制动风管路间的风管 7.141 压力主管 pressuring main 由司机阀至总风缸管路间的风管_ 7.142 方向转接器 directional switch 点式机车停号中用以接通不同的机车感应器;连续式机车停号中用以接通不同的感应线圈的转换 开关。 7.143 气笛 Siren 机车停号显示卒为坟大限刿停号时 ,通知司机的一种听觉停号。 7.144 单频感应器 single frequeucy n?tor 调谐在某一固定频率,有电磁作汀卅N-立器。 7.145 onr。 双频感应器 double frequency induclor 根据谐振电路闭合的情况 ,可以调谐单一的固定频孕虱词时诉 成两个不同频率 ,具有电磁作用 的地面感应器 7.146 测试环线 test loop #务平台 为检查机车停号设备,用于代替测试区段所设的环形导线 = 7.147 定点停车 stopping at target point; programmed stop 列牟自动停到预先规定的坐标点上。 7.148 车门自动控制 automatic door control 列车到站后 ,自动开 .闭车门。 7.149 机车接近通知 approaching announcing in cah 自动向司机反映 ,机车已经接近车站的一种技术措施。
+8 运输调度指挥
+8。1 调度监督 dispatching supervision 在调度所内 ,集中表示某一区段或枢纽内各站(场)有关停号 ,进路 ,线路 ,闭塞分区占用情祝的系 统设备。
+46
+
+TB/T 454.1一2021
+8.2 车站遥控 slalion remole control 在车站操纵处所 ,对部分车场 .道岔等进行远距离控制的设备_ 8.3 车站遥信 slalion remole surveillance 在车站操纵处所 ,集中表示部分车场 ,站外道岔等有关信号 ,进路 .线路占用情祝。 8.4 列车调度指挥系统 train dispatching and commanding system(TDCS) 实时自动采集列车运行及现场停号设备状态停息 ,完成列车运行实时追踪 ,无线车次号校核自动 报点 ,阶段计划和自动调整 ,调度命令及行车计划下达等功能 ,实现列车调度指挥的系统 -来源:GB/T 50262-2013,14.5.5] 8.5 调度集申 centralized traffic control (CTC) 在调度所内集中控制某一区段内各站信号和道岔并指挥列车运行的设备_ 8.6 分散自律调度隽中 decer Iralized self-regulated CIC 综合了计算机技术 网绐-愆技才和现代控制技术 ,采用智能化分散自律设计原则 ,以列车运行调 整计划控制为中心,兼顾列车与调4- 业的高度自动化的调度指挥系统。 8.7 调度中心 dispatching center Monnsszmonecnnns 息 L 8.8 集控站 centralized control station 按调度集中基本操作方式,由列车调度员直接办理接发列车作业的亨+(线路所) _ 8.9 次< 自律机 aulonomous compuler 调度集中系统中实现列车计划处理 ,进路控制执行 ,车站接口停息处理 ,车次自动?跷等功能的专 用计算机设备。 [来源: TB/T 3471-2016.3.4] 8.10 时钟同步 clock synchroniation 通过接收卫星停号获取标准时钟 ,以满足铁路停号地面设备运用 维护及故障分析对时钟准确度 的要}。 8.11 车次号 train number 为区别不同方向 ,不同种类 ,不同区段和不同时刻的列车,为每一列车编排的唯一的标识码。 8.12 列车运行调整计划 train operation adjustment schedule 调度集中系统/调度监督系统中由调度员输入或导入描述一段时间和一段区间内列车的车次 .列 车属性 ,运行径路 ,运行时刻 ,车站作业的数据 = 8.13 计划有效性检查 schedule validity check 在调度集中系统可识别范围内对列车运行调整计划进行合法性 ,时效性 ,完整性和无冲突性的 47
+
+TB /T 454.1一2021
+检查 [来源 : IB/I 3471一2016 ,3.2] 8.14 信号有效性检查 Signal validity check 在调度集中系统可识别范围内 ,依据信号逻辑对操作指令进行时空冲突检查。 [来源 : TB/T 3471一2016 ,3.3] 8.15 分散自律控制模式 CTC control mode 分散自律调度集中系统通过调度集中设备进行列车和调车进路自动或人丁办理的模式。 8.16 非常站控控制模式 emergency control mode 脱离调度集中系统控制由车站联锁控制台人丁办理的模式。 [来源 : TB/I 3471一2016 .3.8] 8.17 中心操作 centr' czeration 调度集中分散乍律-制模弋下.中心调度终端具有停号设备的全部控制权,调度员对列车及调车 进路均有操作权 ,车站对列车尸洞车过路均无操作权的操作控制方式 8.18 车站操作 station operation 调度集中分散自律控制模式下 ,车站车3终端云杰:停号设备的全部控制权 ,车站对列车及调车进 路均有操作权,中心调度终端对列车及调车进路」嬴作权:'操作控制方式。 8.19 @u 车站调车操作 station shunting operation 调度集中分散自律控制模式下,中心调度终端对列车进路有操仃权 .天 .周车进路无操作权;而车站 车务终端对调车进路有操作权 ,对列车进路无操作权的操作控制方式 8.20 平台 进路序列 route sequence 调度集中系统按照列车运行调整计划或者调车作业计划产生的进路控制指令序列 [来源 : TB/I 3471一2016 .3.5] 8.21 进路自动控制 route automatic control 分散自律调度集中系统中 ,车站自律机按照列车运行调整计划自动生成进路指令/进路序列 ,适时 转换为命令后发送给本站联锁设备执行。 8.22 进路人工控制 roule manual control 由调度员或车站值班员人T控制进路序列和操作的控制方式。 8.23 无线接/发车迸路自动预告 automatic notice 0f wireless train approach/departure 通过无线通停自动向司机发送接/发车进路预告停息- 8.24 进路存储 route storage 为了自动排路而将若干控制进路的命令按照时序 时刻或人T规定的程序存储起来。
+48
+
+TB/T 454.1一2021
+8.25 自动选路 automatic routing 根据运行图计划 .股道占用情祝以及对其他列车或作业的影响等因素,自动进行综合 比较以后, 选择控制进路方案的方法 = 8.26 自动排路 automatic route setting 根据规定的程序,自动排列进路的方法。 8.27 列车预确报 frain consist advance and Out report 相邻编组站之间 ,预告列车编组情况及到开时刻。 8.28 列车位置表示 train position indication 在表示盘上 ,对有关列车位置的表示。 8.29 车次表示 train ruher indication 在表示盘上 ,反'央某一列车=次号的表示 8.30 占线表示 occupancy indicalin ] 8.31  T  信息服务平台 晚点表示 delay time indication 反映列车晚点情况的表示 9 驼峰信号及编组站自动化 9.1 编组站 marshalling station 为办理大量货物列车编 ,解作业而设置的车站 _ [来源 :GB/T 50262-2013,9.1.19] 9.2 自动化编组站 automatic marshalling station 自动编制并下达作业计划 ,并对到 ,发和站内作业进路以及解体作业实行肖动控制的编组站。 9.3 编组站自动化系统 automation system 0f marshalling station 编组站运输生产管理与作业过程控制结合于一体的自动化计算机系统 ,包括管理信息系统和停号 控制集中系统 [来源 :IB 10069一2017,2.0.6] 9.4 调车场 Classificalion yard 办理货物列车车列的解体 ,集结和编组作业的车场。 [来源 :GB/I 50262 2013.9.2.8]
+49
+
+TB /T 454.1一2021
+9.5 驼峰调车场 hump yard 利用驼峰进行调车作业的调车场= [来源 :GB/T 50262 2013.9.2.10] 9.6 驼峰 hump 调车场始端道岔区前线路拾到一定高度,利用其位能和车辆自重.使车辆自动溜到调车线上 ,用以 解体车列的一种调车设备。 [来源:GB/T 50262 2013.9.5.3] 9.7 计算停车点 calculated target point 在最不利的条件下,难行车应能溜到的地点。 9.8 驼峰头部 head of hump 自推送线某点至计算停车点或制动位末端的一段线路的范围。 [来源 :GB/T 59,262 201?.9.5.17] 9.9 驼峰尾部 tail of hummp 自牵卅线起点至调车线末端最仄:方警冶冰幻一段线路范围。 9.10 ~| 自动化驼峰 aulomalic hummp *smosrsega e 务平台 [来源 :GB/I 50262 2013,9.5.7 9.11 半自动化驼峰 semi-automatic hump 自动化驼峰中部分设备采用半自动控制的驼峰。 [来源 :GB/T 50262一 2013,9.5.8] 9.12 机械化驼峰 mechanized hummp yard 以人T控制的减速器或加速器为主要调速设备的驼峰。 9.13 非机械化驼峰 unmechanized hummp yard; gravity yard 简易驼峰 以铁鞋为主要制动设备的驼峰。 9.14 线束 group Of tracks 在调车场内将调车线划分成原则上线数相等 束形相同的线群。 [来源 :GB/T 50262 2013.9.3.24] 9.15 分路道岔 branch turnout 分歧道岔 驼峰溜放部分连接线束和连接调车线的对向道岔。
+50
+
+TB/T 454.1一2021
+9.16 分路道岔保护区段长度 shunt switch protection section length 分路道岔岔前绝缘至道岔尖轨尖端的长度与岔前短轨长度之和。 [来源 : TB/I 2306一2020 ,3.43] 9.17 调车线 shunting track 调车场内办理货物列车解体 ,集结和编组作业的线路。 9.18 编发线 marshalling-departure track 可办理直接发车的调车线。 9.19 牵出线 shunting neck 供车列牵卅 ,转线 ,取送等调车作业使用的线路。 9.20 坡度牵出线 dro:; oul Irack al grade 解体列车时除主要竹靠推力以外并利用线路坡度形成的下滑力溜放的牵卅线 9.21 推送线 pushing track 到达场卅口端最外道岔(或牵 .f线 至峰顶工台始端 ,用以向峰顶推送车列的线路。 -来源:GB/T 50262 2013,9.5.29] 9.22 溜放线 rolling track 自峰顶至第一分路道岔始端的一段线路。 信息服务平合 [来源:GB/T 50262一2013,9.5.30] 9.23 驼峰迂回线 hu叩p Ioop Irack 将禁止通过峰顶及减速器的车辆绕过峰顶及减速器送往调车场的线路。 [来源:GB/T 50262一2013,9.5.32] 9.24 禁溜车停留线 no-humping car storage track 在解体过程中暂时存放禁止经驼峰溜放的车辆的线路。 [来源 :GB/T 50262-2013,9.5.33] 9.25 峰顶 hummp crest 峰顶平台与加速坡的交点。 [来源 :GB/T 50262-2013,9.5.27] 9.26 峰顶平台 crest plalform 连接推送部分与溜放部分的一段平坡。 [来源 :GB/T 50262-2013 ,9.5.28] 9.27 峰高 hump height 峰顶与计算停车点的高程差。 [来源 :GB/I 50262-2013 ,9.5.24] 51
+
+TB /T 454.1一2021
+9.28 推送部分 pushing section 由推送线始点至峰顶的区域= 9.29 溜放部分 rolling down section 由峰顶至计算停车点间的区域。 9.30 打靶区 Shot area 自笫一目的制动位出口至计算停车点的一段线路。 9.31 连挂区 coupling area 自计算停车点至调速系统控制长度末端的一段线路。 9.32 车组 rake; Cult 钩车 在解体过程中--个文几个-挂在一起的车辆。 -来源:GB/T 502622(1;」5。7 9.33 驼峰解体作业量 workload 0f Lumpirs I ~ration 驼峰平均一昼夜解体货物列车数或车s~。 -来源:GB/T 50262-2013,9.5.62] 9.34 驼峰解体能力 hreak-Ip capacity 0f hump 唁息服务平台 驼峰在一昼夜内能解体的货物列车数或车辆数 [来源:GB/T 50262一2013,9.8.3] 9.35 驼峰繁忙小时解体能力 hourly break-up capacity when busy 驼峰在1h内最多能解体的车辆数 [来源 : TB/T 2306一2020 .3.4] 9.36 溜放 rolling 车辆以其位能而转化的动能或以惯性而产生的运动= [来源:GB/T 50262-2013,9.5.21] 9.37 单溜放 single humping 一个驼峰 ,在同一时间内只有一个车列解体的作业方法。 9.38 双溜放 double humping 一个驼峰,在同一时间内有两个车列解体的作业方法 。 9.39 单推单溜 single pushing and single rolling 使用一台机车担当驼峰推送和解体作业的作业方式。 [来源 :GB/T 50262 2013,9.5.35] 52
+
+TB/T 454.1一2021
+9.40 双推单溜 double humping and single rolling 使用两台及其以上机车担当驼峰推送和解体作业时一台机车进行解体作业.另一台机车可进行 预推作业的作业方式。 [来源:GB/T 50262一2013.9.5.36] 9.41 双推双溜 double humping and double rolling 使用两台及其以上机车同时进行驼峰推送和解体作业的作业方式。 [来源:GB/T 50262 2013.9.5.37] 9.42 推送速度 pushing speed 驼峰解体作业时 ,机车推送车列的速度。 9.43 溜放速度 rolling speed 车组在溜放过程4的丰行速度。 9.44 连挂速度 coupling enerd 车组溜入调车线与停留车组连注!的速度,或与前行车组连接的相对速度< 9.45 驼峰电气集中 electric inlerlocking for MMP J 1 驼峰调车场头部 ,采用动力转辙机集中控制迂竹设各 9.46 单独操纵式驼峰电气集申 individual lever type all-relay itcr i king fnr hump yard 排列进路时 ,必须单独操纵道岔的驼峰电气集中_ 9.47 w_平巨 进路式驼峰电气集申 route type all-relay interlocking for hump yard 排列进路时 ,以一条进路为操纵单元的驼峰电气集中 9.48 存储式驼峰电气集中 route storage type all-relay interlocking for a hummp yard 驼峰自动集中 车组溜放前或溜放过程中 ,均按预先排好的程序操纵道岔的驼峰电气集中 _ 9.49 单独操纵作业 manual operation 手动作业 为溜放的车组 ,逐个操纵道岔手柄以排列进路的作业。 9.50 进路操纵作业 semi-automatic operation 半自动作业 为即将溜放的车组 ,以一条进路为操作单元排列进路的作业。 9.51 自动操纵作业 automatic operation 车组溜放前或溜放过程中 ,预办储存进路的作业。
+53
+
+TB /T 454.1一2021
+9.52 推送迸路 pushing roule 从到达场股道 (或牵卅线)至峰顶间向峰顶推送车列的进路 ,包括去往禁溜车停留线 ,迂回线取送 车进路的峰上部分。 9.53 溜放进路 rolling route 自峰顶至调车场调车线车组溜放所经过的进路。 [来源 :TB/I 2306一2020 ,3.20] 9.54 调车进路 shunting route 峰上和机车上下峰进行调车作业的进路。 [来源 : TB/I 2306一2020,3.21] 9.55 驼峰集中联锁 centralized interlocking for hump yard 用于驼峰调车场'歆的集中联锁 [来源 :GB/T 59,262 201?.14.8.1] 9.56 驼峰推送进路控制 route Courtiwl pnr humping 到达场(或牵{线)至峰顶间向岭顶(令~涸车停留线 ,迂回线)推送车列的进路的控制 9.57 驼峰调车进路控制 shunting roule control fJr 用于驼峰头部的调车进路控制 [来源:GB/I 50262-2013,14.8.3] 9.58 o服务平台 驼峰钩车溜放迸路控制 route control for cul rolling 在解体车组溜放过程中 ,自动排列溜放进路 9.59 驼峰钩车溜放速度控制 speed control for cut rolling 自动控制溜放车辆的速度 .使之溜放到指定地点。 [来源 :GB/T 50262-2013,14.8.6] 9.60 推峰速度自动控制 automatic control for humping speed 通过遥控系统对推峰车组速度进行的控制_ 9.61 驼峰推峰机车遥控 cah remote control for humping 对驼峰推峰机车的起 停和推送速度实行的遥控。 [来源 :GB/I 50262一2013,14.8.5] 9.62 驼峰推峰机车信号 cab signal for humping 通过设于推峰机车司机室内的停号器具显示车列解体作业停号的状态。 [来源 :GB/I 50262一2013,14.2.13]
+54
+
+TB/T 454.1一2021
+9.63 迸路储存器 route storage 作业前用以储存一定数量排列进路的命令 ,并在作业过程中按储存的命令自动排列进路的设备。 9.64 电子储存器 electronic route storage 用电子元件制成的进路储存器= 9.65 继电储存器 relay route storage 用继电器制成的进路储存器 9.66 钓鱼 fishing 解体过程中 ,因某种原因 ,车列头部已进入第一分路道岔区段 ,待摘车钩已经拉紧 ,提不开钩的作 业状况  [来源 : TB/I 2306一2020 ,3.23] 9.67 追钩 catch- Ip 前后两个车组同时占毋川 分路苴岔轨道区段或减速器轨道区段。 [来源 : TB/I 2306一2020,3. 9.68 准C= 道岔恢复 swilch resume 自动控制的分路道岔因故在规定的时间内无志o换到而自动返回。 [来源 :IB/I 2306一2020 ,3.26] 9.69 错道 miss route 服务平合 车组实际进入的股道和计划进入的股道不-致。 [来源 : TB/T 2306一2020 ,3.25] 9.70 途停 Stop on the way 牟组在溜放途中 ,未能到达其目的地就停止运动。 [来源 : TB/T 2306一2020 ,3.27] 9.71 堵门 hlock door 当车组停在溜放部分末级分路道岔的警冲标区段时的状态= [来源 :TB/I 2306一2020 ,3.30] 9.72 侧冲防护 flank protection 前车尾部尚未通过道岔警冲标 ,后车头部可能追上前车尾部 ,发生侧面冲突情况的预计和防护_ 9.73 空线 empty track 调车线有效控制范围内没有任何机车,车辆。 [来源 :IB/I 2306一2020 ,3.28]
+55
+
+TB/T 454.1一2021
+9.74 满线 full track 调车线的测长距离小于一辆车的长度。 9.75 驼峰调速制式 type Of hump Speed Control 为控制溜放钩车的速度进行调速的方式 [来源 :GB/T 50262 2013,9.5.49] 9.76 驼峰调速系统 hummp speed control system 为调整溜放钩车速度而设置的控制系统。 [来源 :GB/T 50262一2013,9.5.13] 9.77 点式调速系统 point type speed control system 在驼峰溜放部分和调车线内 ,钩车溜放的调速设备全部采用减速器的调速系统。 [来源 :GB/T 5022 2013,9.5.14] 9.78 点连式调速系统 point- rinue type speed control system 在驼峰溜放部分和调车线始端卡觅咸速器 ,在调车场内采用连续式调速设备的调速系统。 来源 :GB/T 50262-2013,9.5.15] 9.79 住」 so 连续式调速系统 continued Iype speed conlrol $ slem 在驼峰溜放部分和调车线内 ,钩车溜放的调速设备迸多~置在笺路上实现对钩车连续调速的调速 条统 [来源 :GB/I 50262 2013.9.5.16] 9.80 H务平台 调速系统控制长度 length of speed control system 自笫一车场制动位出口至调车线平坡末端的长度。 [来源 :GB/T 50262一2013,9.5.9] 9.81 制动能高 braking consumption height 制动设备对钩车所能抵消的能高 [来源 :GB/T 50262-2013,9.5.51] 9.82 制动位 relarder localion 主要制动设备的设置地点< 9.83 间隔制动 spacing braking 为保证两溜放车组间有一定距离所进行的制动 9.84 目的制动 target braking 为使钩车溜行至预定地点停车或安全连挂所进行的制动。 [来源:GB/T 50262-2013.9.5.54]
+56
+
+TB/T 454.1一2021
+9.85 测速 Speed measurement 测量溜放车辆的速度。 [来源 :GB/T 50262-2013,14.8.11] 9.86 测长 length measurement 测量溜放股道的剩余(空闲)长度= [来源 :GB/T 50262-2013,14.8.12] 9.87 测重 weight sensing 测量溜放车辆的重量。 [来源:GB/T 50262-2013,14.8.13] 9.88 测阻 rollability measurement; resistance measuremelt 调车场内 ,对解体?辆溜放阻力的检测 = 9.89 雷达测速器 rad:r sper ~o neler 利用雷达测量溜放车辆夹际速只 i没备。 9.90 笊O下 车辆减速器 vchicle retarder 驼峰场内,固定于线路上 ,通过向溜放车辆车纶施;压力而产生制动力使其减速的机械装置 9.91 怠朋 钳夹式减速器 clamp braking relarder 通过制动轨 (或制动粱)对溜放车辆的车轮内外侧施以钳夹-士制动`佟低车辆速度的驼峰调速 设备。 9.92 崂~平合 内撑式减速器 inner-support retarder 通过制动轨(或制动梁)对溜放车辆的轮对内侧进行摩擦制动 ,达到调速要求的装冒。 9.93 峰下减速器 master retarder 第一制动位 安装在交叉渡线后 ,主要用于间隔调速的车辆减速器。 9.94 线束减速器 group retarder 安装在线束前,主要用于间隔调速的车辆减速器 习惯称为第二制动位。 [来源 :IB/I 2306-2020 ,3.14] 9.95 调车线始端减速器 tangent retarder 安装在调车线始端.主要用于目的调速的车辆减速器。 习惯称为第三制动位。 [来源 :IB/I 2306-2020 ,3.15] 9.96 调车线内减速器 Classificalion track relarder 安装在调车线内适当位置,用于目的调速的车辆减速器 _ 习惯称为第四或以上的制动位。 [来源 :IB/I 2306-2020 ,3.16] 57
+
+TB /T 454.1一2021
+9.97 间隔制动位 spacing braking relarder location 主要用于调整车组溜放间隔的减速器制动部位。 通常指峰下减速器和线束减速器 [来源 : IB/T 2306一2020 .3.17] 9.98 目的制动位 target braking retarder location 主要用于调整车组速度.以实现目的安全连挂的减速器制动位= 通常指调车线始端减速器和调车 线内诚速器 [来源: TB/T 2306 2020,3.18] 9.99 复轨器 carreplacer 设于减速器尾部 ,可以把被减速器挤卅的车辆导入线路的器具。 9.100 车辆加速器 Car accelerator 为使解体车辆溜干拦宅地点 ,而对解体车辆施加外力 ,使之加速的设备。 9.101 牵引小车 pushing carr a 安装在线路中间 ,类似小牛状於惩加速器。 9.102 限界检查器 Clearance treadle 检查车辆是否侵入减速器接近限界的器具= 9.103 计算速度 calculated speed  信息服务平台 控制系统计算确定的车组离开减速器时应有的速度。 [来源 : TB/T 2306-2020 ,3.10] 9。104 定速 selected speed 人T设定的车组离开减速器时应有的速度。 [来源 : TB/I 2306一2020 .3.11] 9.105 减速器入口速度 entrance speed at 3 retarder 车组第一轮对进入减速器时的速度。 9.106 减速器出口速度 release speed al a relarder 车组最后轮对离开减速器时的速度。 9.107 放头拦尾制动法 letting the front portion pass and retarding the rear portion 减速器控制的一种方法。 当车组实际需要降低的能高明显低于减速器制动能高时 ,车组进入诚速 器时不立即制动 ,待减速器剩余制动能高稍大于车组实际需要降低的能高时才开始制动 ,使车组出清 减速器区段时 ,达到计算速度的要求。 [来源 : IB/T 2306一2020 ,3.35]
+58
+
+TB/T 454.1一2021
+9.108 打靶控制 target shooting 利用减速器对车组溜放速度进行调整 ,使受控车组离开减速器后,自由溜行,与前方停留或正在行 进中的车组安全连挂的一种速度控制方法。 [来源 : TB/T 2306一2020 .3.36] 9.109 车辆能高 energy height Of car 在溜放过程中 ,车辆单位质量所具有的能量 (包括势能和动能) ,用当量高度来表示。 9.110 单位制动能高 energy height taken out per unit length 减速器单位制动长度(皿)上消耗被制动车辆的能高值(或单位能高)。 9。111 减速器制动状态 retarder i Closed state 减速器处于能对车组起制动作用,但车组尚未进入时的状态。 9.112 减速器工作状杰: etardey mn working state 减速器对车辆制动时的' 9。113 减速器缓解状态 retarder 减速器不起制动作用的平时所处状态 9.114 信息服务 一 减速器接近限界 Clearance of a relarder 减速器在各种状态卜,各部分规定个得超卅的空间尺寸 _ 9.115 全制动时间 full braking time 自减速器控制阀或电动控制单元接到制动命令至减速器制动轨(或制动粱 `之间的乔9达到制动 状态尺寸的时间 = [来源 : TB/I 2845.1一2019 ,3.5] 9.116 全缓解时间 full releasing time 自减速器控制阀或电动控制单元接到缓解命令至减速器制动轨(或制动粱)之间的开口达到缓解 状态尺寸的时间 _ [来源 : TB/T 2845.1-2019 ,3.6] 9.117 缓解时间 releasing time 自减速器控制阀或电动控制单元接到缓解命令至减速器制动轨(或制动粱)对车辆失去减速作用 的时间 [来源: IB/I 2845.1-2019 ,3.7 9.118 电液控制单元 power control unit 为碱速器提供动力 ,按照控制停号要求,控制减速器的动作。
+59
+
+TB/T 454.1一2021
+9.119 储气罐 air reservoir 为满足驼峰需要 .储存压缩空气的容器。 9.120 油水分离器 water oil separator 压缩空气被送入储气罐前,用以分离和排除油水的器其 9.121 水分离器 water separalor 分离和排除供气管路中压缩空气所含水分的器具 9.122 电空阀 electropneumatic valve 以电磁铁开闭的压缩空气阀_ 9.123 风压调整器 manometer regulator 为了保证设备能}得到一定压力之压缩空气,而根据需要控制电空阀来输入或排卅压缩空气的 器具。 eb 9。124 供风管路调压设备 air plpe tile ,?vernor 为供应低压用风的需要 ,利用减丕阀和 ;贝缸降低压缩空气压力的设备。 9.125 供气管路 air pipe line 输送压缩空气所用的管路。 9.126 " 息服务平台 套管式伸缩器 Sleeve type compensator 以钢管的套筒式连接来调整钢管因温度娈化而引起的伸缩的器具。 9.127 冷却塔 cooling tower 降低压缩机衿却水温度的设备。 9.128 安全连挂  safety coupling 运动中的车组以不超过允许连挂的速度与停留车连挂 ,或与前方运动的车组以不超过允许连挂速 度的相对速度连挂。 [来源 : TB/T 2306-2020 ,3.5] 9.129 安全连挂率 ratio Of safely coupling 安全连挂的车组数占总测试车组数的比率 [来源 : IB/I 2306一2020 ,3.6] 9.130 空档 stop short 天窗 调车线上未连挂的钩车间的间隙。 [来源:GB/T 50262-2013.9.5.48]
+60
+
+TB/T 454.1一2021
+9.131 过程空档 skylight in the course of operalion 车组自由溜放过程中卅现 .后来又因后续溜放车组冲撞而消失的空档 [来源 : IB/I 2306一2020 .3.8] 9.132 超速连挂 over-speed coupling 车组以高于允许连挂速度连挂。 [来源 : TB/I 2306一2020 ,3.9] 9.133 高阻轮对 hgh resistance wheel 与钢轨接触电阻大于驼峰轨道电路分路灵敏度 ,轨道电路不能正确反应区段占用停息的轮对 [来源 : TB/I 2306一2020 .3.41] 9.134 拳头钩 double closed coupler 前后车组连挂的千钧均处于无法连挂状态 [来源 : TB/I 2,06一 2020 42] 9.135 驼峰手动操纵盘 hump Opera' Ve Pqnol 驼峰停号控制人机界面的组成瓿矢 有道岔转换手柄 ,减速器控制按钮,用于手动控制道 岔 ,减速器等设备,简称"手操盘" [来源:IB 10069一2017,2.0.5] 9.136 压钩坡 coupler compressing grade 唁息服务平* 在推送线上 ,为压缩车辆间的车钩以便于摘钩而做成的反坡 9.137 加速坡 acceleration grade 在驼峰溜放部分的第一段,为使车组加速以形成前后车组间必要的间隔而设置的 坍 9.138 难行车 hard rolling Car 根据车型及总重情祝决定 ,在溜放中走行性能较差的车组。 9.139 易行车 easy rolling car 根据车型及总重情祝决定 ,在溜放中走行性能较好的车组。 9.140 最易行车 easiest rolling car 根据车型及总重情况决定 ,在溜放中走行性能最好的车组。 9.141 自动抄车号 aulomatic car identification 列车通过后 ,自动记录并打印出每辆货车车号的设备。 9.142 票据传送设备 classification list conveyer system 编组站内,各车场间传送解体 ,编组计划及其他票据的设备。
+61
+
+TB/T 454.1一2021
+9.143 箭翎线 herringbone track 股道中间有渡线相互连接的编组线。 9.144 铁鞋 skate 置于车轮与钢轨之间 .可以移动的小型制动器具。 9.145 脱鞋器 skate throw-off device 使铁鞋自动脱出钢轨的器具 9.146 减速顶 dowty-retarder 固定于钢轨侧面,由车轮压其高爿轨面部分而施阻力于车辆。 其所施阻力大小可因车速而异的小 型减速设备。 9.147 加减速顶 dowlv ac?alerator-retarder 除有减速顶作月外  尚可抿捍需要施力于车轮 ,使车辆加速的小型加减速设备。 9.148 弧形伸缩器 Ioop compensalur 9.149 电空传送设备 electropneumalic conveyer E+ 电空邮政 9.150 难行线 hard rolling track 在溜放部分 ,难行车溜经时阻力最大的线路。 9。151 易行线 easy rolling track 在溜放部分,易行车溜经肘阻力最小的线路。 9.152 挡车器 stopper 可根据需要升起或伏下,升起时可以阻挡车辆并吸收一部分冲击能量的可控车挡=
+10 轨道电路
+10.1 轨道电路 track circuit 利用钢轨作为导体,用以检查区段占用状态的电路。 10.2 直流轨道电路 DC track circuit 由直流供电的轨道电路。
+62
+
+TB/T 454.1一2021
+10.3 交流轨道电路 AC track circuitl 由交流供电的轨道电路。 10.4 阀式轨道电路 valve type track circuit 交流电源与直流继电器同时连于轨道电路的一端,而在另一端的两根钢轨之间接以整流元件的轨 道电路。 10.5 连续式轨道电路 Conlinuous track circuil 由连续电流供电的轨道电路 _ 10.6 脉冲轨道电路 ipulse track circuit 由脉冲电流供电的轨道电路 10.7 电码轨道电路 pnd  Irack circuit 由电码电流供#的玑逍电咚 _ 10.8 无绝缘轨道电路 jointless trark (:-nuil 两相邻轨道电路间采用电气绝节M~ ^a''路。 10.9 高频轨道电路 H track circuit 通过高频电流丁作的轨道电路。 10.10 "*信息服务平台 叠加轨道电路 overlap track circuit 利用已有轨道电路中的一部分钢轨 ,又增设的另一种轨道电路。 10。11 频率式轨道电路 frequency track circuit 以脉冲的频率特性传递停息的轨道电路。 10.12 极频轨道电路 polar-frequency coded track circuit 以脉冲的极性和频率特征传递停息的轨道电路。 10.13 移频轨道电路 frequency-shift track circuit 采用移频键控的调频方式进行信号传输的轨道电路。 10.14 ZPW-2000 系列轨道电路 ZPW-2OOO series track circuit 采用1700 Hz, 2 000 Hz,2 300 Hz,2 600 Hz 载频以频率调制的方式进行停号传输的轨道电路。 10.15 极性脉冲轨道电路 polar-impulse track circuit 利用不同极性的脉冲传递停息的轨道电路。 10.16 不对称高压脉冲轨道电路 asymmelrical high voltage impulse track circuit 利用波形不对称的脉冲传递停息的轨道电路。 63
+
+TB /T 454.1一2021
+10.17 交流计数电码轨道电路 AC counting code track circuit 利用不同数目的脉冲区别停息的轨道电路。 10.18 相敏轨道电路 phase modulated track circuit 除从钢轨取得电源外 ,还需另外供给局部电源 ,并且只反映本区段列车有 ,无两种状态的交流轨道 电路。 10.19 移频脉冲轨道电路 frequency-shift and pulse track circuit 采用移频信号和不对称脉冲信号叠加在一起传递停息 ,接收器采用"与"的关系进行判断的轨道 电路。 10.20 开路式轨道电路 open type track circuif 平时无电流 ,只有在有车占用轨道时 .利用轮对和线路钢轨才能接通接收端和发送端的轨道电路。 [来源 :GB/T 5022 2013,14.4.2] 10.21 闭路式轨道电路 Close trac : circuit 一直有电流流过 ,以列车或车耶占#轨道来实现分路效应的轨道电路。 10.22 单轨条轨道电路 Single rail track cirw; 10.23 "nnmoasn 服务平合 双轨条轨道电路 double rail track circuit 电化区段中 ,两根轨条均通牵引电流时的轨道电路。 10.24 串联式轨道电路 serially connected track circuit 电流必须流经跳线和每根钢轨的道岔区段的轨道电路。 10.25 并联式轨道电路 multiply connected track circuit 在调整状态下 ,电流只流经部分钢轨和跳线的道岔区段的轨道电路。 [来源:GB/T 50262-2013,14.4.5] 10.26 电码化 coding 由轨道占用检查装置自身发送或叠加其他设备发送机车信号停息技术的总称。 10.27 轨道电路电码化 coding of continuous track circuits 在连续式轨道电路上 ,当列车进入或接近轨道区段时 ,通过轨道向机车发送停息的电码化。 [来源:GB/T 50262-2013.14.4.14] 10.28 车站股道电码化 coding for station platform track 车站内 ,到发线的股道及正线实施的电码化。 [来源:GB/T 50262-2013.14.4.15]
+64
+
+TB/T 454.1一2021
+10.29 车站接发车进路电码化 coding for station receiving-departure route 车站内.按列车进路实施的电码化 [来源 :GB/T 50262 2013.14.4.16] 10.30 叠加电码化 overlapped coding 采用两套设备同时实现本区段占用检查和机车停号发码功能的电码化。 [来源 :GB/T 50262一2013,14.4.17] 10.31 预叠加电码化 overlapped coding i advancC 列车进入本区段肘 ,不仅本区段且其运行前方相邻区段也实施的电码化。 [来源 :GB/T 50262 2013.14.4.18] 10.32 入口电流 short circuit current 机车笫一轮对进 ^轨道区段肘 ,通过钢轨向机车传输信号停息的电流 [来源 :GB/T 59262 201.14.4.19] 10.33 出口电流 exit short circut criia. 电码化发送端短路肘 I停息的电流 [来源 : TB/I 2465一 2010,3.9] 10.34 轨道空闲 frack Clcar onse 息服务平合 轨道无车占用的状态。 10.35 轨道占用 track occupied 轨道有车占用的状态。 10.36 分路效应 shunting effect 两轨条间由轮对或其他导体连接 ,使轨道电路接收设备能够反映轨道占用状态的作用。 10.37 轨道电路分路状态 shunted state of a track circuit 引起分路效应时的轨道电路状态 10.38 轨道电路调整状态 regulaled stale 0f a Irack circuil 线路完整和空闲 ,接收端正常丁作时的轨道电路状态 < 10.39 轨道电路最不利条件 the worst condition 当轨道电路各电气参数在规定范围内 ,受电端所得电压在调整状态下为最低 ,分路状态下为最高, 而发送的机车信号停息的钢轨短路电流为最小时 ,与之相应的供电电压和一次参数的总称。 [来源 :IB/I 2852-2015 ,3.4] 10.40 轨道电路一次调整 track circuit onc setting 在最不利条件下,轨道电路区段内 ,可变环节的电气参数经首次调整后,能满足调整 分路状态和 65
+
+TB /T 454.1一2021
+机车停号的要求 ,无需随外界参数的娈化再次进行调整。 [来源 : IB/I 2852一 2015,3.5] 10.41 轨道电路极限长度 track circuit maximum allowable span length 当轨道电路能实现一次调整时 ,其所能达到的最大长度。 [来源 : TB/I 2852-2015 ,3.6] 10.42 轨道电路调整余量 track circuit regulated allowance 在进行轨道电路计算时 ,为满足调整状态送电端所需供出的最小电压 Ur , 及在最不利地点分路 时 ,所允许供卅的最大电压 UE 之间的相互关系= 10.43 标准分路电阻 Standard Shunt resistance 轨道电路分路的规定电阻 [来源 : TB/I 2852一 2015 ,3.8] 10.44 送电端 feed eid 轨道电路中 ,设置电源或尤达设-的一端 10.45 T 受电端 receiving end 轨道电路中 ,连接轨道继电器或接收设备刖- I ? 10.46 一送一受 single feeding and single receiving track Cr 'ut 一个轨道电路区段 ,装设一个送电端和一个受电端的方法 10.47 一送多受 服务平台 single feeding and multiple receiving track circuit 一个轨道电路区段 ,装设一个送电端和两个及以上受电端的方法。 10.48 道砟电阻率 ballast resistance ratio 道砟漏泄电阻率 单位长度(1 km)轨道电路中 ,两根轨条间的漏泄电阻。 10.49 钢轨阻抗 rail impedance 单位长度(1 km) 轨道电路中 ,两根轨条的阻抗< 10.50 分路灵敏度 shunting sensitivity 分流感度 引起分路效应时的最大分路电阻值。 10.51 标准分路灵敏度 standard shunting sensitivity 标准分流感度 规定的最小分路电阻值。
+66
+
+TB/T 454.1一2021
+10.52 分路电阻 Shunl resislance 使轨道电路分路的导体本身电阻及导体与钢轨接触电阻之和。 10.53 死区段 dead section 轨道电路中 ,两根钢轨间经轮对压接而不起分路作用的一段线路 = 10.54 轨道电路蓄电现象 track storage effect 直流轨道电路断开电源后 ,钢轨之间电压并不立即消逝的现象。 10.55 轨道生电现象 track galvanic effect 钢轨与潮湿的路基接触时 ,因化学作用而产生电势的现象。 10.56 移轨 removed rail 移开一节钢轨的洁识下,测试轨道电路性能的一种方法。 10.57 业 分路 Shunt 用电阻值很小的导体(或牛轮)守孚行的两根轨条进行连接。 10.58 人工分路 manual shunl 用人为方法实现的分路。 10.59 瞬时分路 instantanCous shunt 雁信息服务平 只在极短的时间实现分路 ,然后分路即消失的现象。 10.60 轨道电路分割 Cut-section of a track circuit 由于衰耗过大或其他原因而用两段(或以上)轨道电路来完成一个轨道区段作用的 :背}。 10.61 分割区段 Cut scction 采用轨道电路分割的轨道区段。 10.62 极性交叉 polar transposition ; staggering polarity 使两个轨道电路分界处的相邻轨条上的电流极性相反 ,以达到绝缘破损防护目的的一种措施。 10.63 一次参数 primary parameter 与电压 .电流无关,只取决于轨道线路结构 ,材料和使用电流频率的参数(一般指电阻,电感电导 和电容值)。 10.64 二次参数 secondary Parameter 由一次参数导卅 ,用以描述频率轨道电路电磁波沿钢轨传输特性的参数。 一般指传输常数^ 厂d 及波阻抗 Zr=VZ.Td
+67
+
+TB /T 454.1一2021
+10.65 钢轨绝缘 rail isulalion 将相邻钢轨实行电气绝缘的绝缘体。 10.66 绝缘节 isolated joints 设置于轨道电路边界处 .用于与相邻钢轨实现电气绝缘的器材 ,可分为机械绝缘节和电气绝缘节。 [来源: TB 10007-2017.2.1.9] 10.67 电气绝缘节 electrical isolated joints 采用电气设备进行轨道电路边界的划分与隔离的绝缘节 10.68 机械绝缘节 mechanical isolated joints 采用物理器材进行轨道电路边界的划分与隔离的绝缘节 10.69 绝缘破损 joint rrc kage 轨道电路区段让界^碱绝篆节两侧钢轨间短路。 [来源 : TB/I 2852一 201 ) 101 10.70 超限绝缘 isolated joints locate wit:i [ : Clearance 侵人限界绝缘 设于警冲标外方 ,或虽设于警冲标内方但距警`亦小 辆最外轮对至本身边缘的最大距离 ,并 用作轨道电路分界的钢轨绝缘。 10.71 钢轨引接线 track lead "服务平合 轨道电路中 ,由钢轨引向接收和发送端各种电器的连接导线。 10.72 跳线 jumper 为使辙叉部分导电性能良好 ,或于轨道电路分支中对相关轨条进行连接的导线 10.73 钢轨接续线 rail hond 为保证轨道电路传输功能将钢轨端部连接起来的连接线。 [来源 :GB/T 50262-2013,14.4.29 ] 10.74 塞钉式钢轨接续线 plug bond 用塞钉与钢轨连接的钢轨接续线。 10.75 焊接式钢轨接续线 welded bond 用焊接方式与钢轨连接的钢轨接续线。 10.76 轨道送电娈压器 track transformer 交流轨道电路,送电端用的变压器。
+68
+
+TB/T 454.1一2021
+10.77 轨道受电娈压器 track relay transformer 交流轨道电路 ,受电端用作升压的娈压器 10.78 轨道电抗器 track rcactor 交流轨道电路中 ,用以调整相位及防止轨道电路分路时电源被短路所用的电抗器 10.79 轨道娈阻器 track rhcostat 调整送电电压并防止分路时电源被短路所用的可调电阻器。 10.80 防护变压器 isolating transformer 电化区段,为防止牵引电流流入轨道电路的低压电器而将这些电器与钢轨隔开的娈压器 10.81 扼流变压器 Choke transformer 阻抗连接娈压器 交流电化区段轧道路中  使牵引电流通过钢轨绝缘并将轨道电路发送 ,接收设备以娈压器耦合 方式与轨道连接的器件。 10.82 发码器 Coder 10.83 ~u 务平台 摆式发码器 pendulum Iype coder 用搂锤在电磁作用卜闭合和断井接点的发码器。 10.84 电动机式发码器 motor type coder 用电动机带动凸轮以闭合和断开接点的发码器 10.85 解码器 decoder 译码器 把编码的停息还原成原来形式的电器 10.86 轨道滤波器 track filter 为确保轨道电路正确动作而设的滤波器。 10.87 轨道变压器箱 track transformer hox 设于现场 ,主要放置轨道电路用娈压器的箱体。 10.88 高频轨道电路收发器 transmitting receiving device Of high frequency track circuit 高频轨道电路的接收 .发送设备。 10.89 横向连接 Crosslink 两条及以上轨道区段或线路钢轨间沟通 ,平衡牵引回流以及等电位连接。
+69
+
+TB /T 454.1一2021
+10.90 计轴轨道检查装置 axle counler train delection device 通过计入 .计卅轴数的算术运算 .输卅控制条件 ,实现对轨道区段空闲 ,占用检查的安全装置。 [来源 :IB/I 3189一2007.2.1 ] 10.91 计轴轨道区段 axle track section 采用计轴轨道检查装置检查空闲的轨道区段 [来源 : TB/I 3189一2007,2.3 ] 10.92 计轴轨道区段空闲状态 Cleared 计轴轨道区段在计入轴数和计卅轴数相等时的状态 _ [来源 : TB/I 3189一2007.2.4 ] 10.93 计轴轨道区段占用状态 occupied 计轴轨道区段在计;轴数和计卅轴数不等时的状态。 [来源 : TB/T 3-89一 2007 25] 10.94 计轴轨道区段负轴状态 Iegutiv? avle number '计{轴数多于计入轴数时的状态 = [来源 : TB/I 3189一2007.2.6 ] 10.95 soasan osn息服务平  复零 rcsct 对计轴轨道区段从占用状态改为空闲状态的功能。 [来源: TB/T 3189一2007 ,2.9 ] 10.96 预复零 pre-resel 进行预复零操作后 ,该区段保持占用状态 ,只有当该区段再运行一列车且计轴轨迂松查装置确认 计入和计卅轴数相等后 ,该区段才恢复为空闲状态的功能。 [来源 : TB/T 3189一2007.2.10 ] 10.97 立即复零 instant reset 计轴轨道区段呈占用状态时 ,进行立即复零操作后 ,该区段立即呈空闲状态的功能 [来源 : TB/T 3189-2007 ,2.11 ]
+11 继电器
+11.1 继电器 relay 当控制参数娈化时 .能引起被控制参数突然娈化的电元件。 11.2 动接点 heel contact 中性接点 随同继电器衔铁或翼板一起动作的接点。 70
+
+TB/T 454.1一2021
+11.3 前接点 front contact 吸起接点 励磁接点 动合接点 继电器衔铁吸起时 .与动接点闭合的接点。 11.4 后接点 hack contact 落下接点 失磁接点 动断接点 继电器衔铁释放后,与动接点闭合的接点。 11.5 定位接点 normal Contact 有极继电器按规-的正方向通电时与动接点闭合的接点 [来源 :GB/T 6902一 2010 34] 11.6 反位接点 reverse contact [来源 :GB/「 6902一 2010,3.5] 11.7 "蓓息腴务平台 桥接点 bridge contacl 先合后断的前后接点组。 11.8 接点闭合 contact Closed 两接点接触并且导电良好的状态 11.9 接点断开 contact open 两接点分开并且不能导电的状态。 11.10 继电器吸起 relay energied 继电器励磁 使动接点与前接点闭合并达到规定压力时的状态 = 11.11 继电器落下 relay released 继电器释放 继电器失磁 使动接点与前接点断开 ,与后接点闭合时的状态。 11.12 吸起时间 pick-up time 吸合时间 从继电器通电至前接点闭合所需要的时间。
+71
+
+TB/T 454.1一2021
+11.13 落下时间 drop away time 释放时间 返回时间 从继电器断电 ,至后接点闭合所需的时间 11.14 转换时间 transfer time 无极继电器.由后接点断开至前接点闭合或前接点断开至后接点闭合所需的时间 = 11.15 转极时间 pole changing time 有极继电器由电源改变极性起至动接点转接至另一接点止所需的时间 _ 11.16 缓吸时间 Slow pick-up time 继电器由通电至后接点断开所需要的肘间 11.17 缓放时间 Slor rel-asC Iirr 缓放继电器由断电至前-点断开.沂需要的时间 11.18 吸起值 T pick-up value 继电器通电 ,使动接点接触到前接点所焉时电 丘或申流值。 11.19 工作值 working valve "息} 完全吸起值 继电器通电 ,使前接点闭合并满足规定接触压力所需要的最小电压@'己流值 _ 11.20 额定值 raled value "平台 继电器在规定或特定运用状态时的电压或电流值。 [来源 :GB/T 6902 2010.3.8] 11.21 落下值 release value 释放值 继电器从规定值降低到前接点断开时的电压或电流值。 11.22 反向工作值 TeVCTSe working value 反极性丁作值 继电器娈换电源极性以后的丁作值。 11.23 转极值 pole-changing value 有极继电器的动接点,由定位转换到反位 ,或由反位转换到定位所需要的电压或电流值。 11.24 充磁值 energized value 为了测试释放值或转极值 ,预先使磁路系统充分磁化,向继电器线圈通以几倍的丁作值或转极值。 [来源 :GB/T 6902 2010 .3.6] 72
+
+TB/T 454.1一2021
+11.25 反向不动作值 TCVCrSC no-moving voltage 向偏极继电器线圈反向通电 .继电器不动作的最大电压值。 [来源 :GB/T 6902一 2010.3.11] 11.26 临界不转极电压值 critical no pole changing voltage 有极继电器在转极瞬间 .因衔铁受阻力作用.而不能转极的最小电压值。 [来源 :GB/T 6902一 2010.3.14] 11.27 接点回跳时间 contact bouncc time 继电器接点闭合或断开时 ,接点不规则通断现象所包括的时间。 [来源:GB/T 6902一2010.3.18] 11.28 接点间隙 Contact Clearance 继电器处于落下安伫 )或吸起(定位)状态时 ,动接点与断开接点间的间隙= 11.29 接点共同行程 Contat 厂:U role 来源 :GB/T 6902一 2010,3.21, 11.30 m 难信息服务平仓 接点齐度 contacl homogeneity 继电器各组接点间同时接触的误差。 [来源 :GB/I 6902 2010,3.22] 11.31 返还系数 release factor 继电器释放值与丁作值之比。 11.32 继电器灵敏度 relay sensitivity 继电器动作一组接点所需之功率 11.33 接点压力 contact pressure 接点闭合时 ,两接点间的相对压力。 11.34 磁路系统 magnetic circuit 继电器导磁结构的总称。 11.35 接点系统 contacl system 组成接点各零件的总称。 11.36 前圈 front coil 靠近继电器衔铁的线圈
+73
+
+TB/T 454.1一2021
+11.37 后圈 back coil 远离继电器衔铁的线圈 11.38 电磁继电器 electromagnelic relay 利用电磁作用使接点开 .闭的继电器 11.39 电码继电器 light type relay; Ior-Vital relay 断电后 ,接点靠弹力返回 ,切断功率较小 ,曾大量用于有接点器件构成的电码系统中的一种电磁继 电器 11.40 直流继电器 DC relay 用苴流电动作的电磁继电器 11.41 交流继电器 AC  C:2y 用交流电动作彤电T继电'智_ 11.42 交直流继电器 ACDC reldy 11.43 黛。准c怠膑务平台 脉冲继电器 impulse relay 以脉冲电流供电时能雄确动作的一种有极继电器 _ 11.44 传输继电器 transmitting relay 适应脉动动作 ,接点切断功率较大的继电器。 11.45 座式继电器 desk-type relay 在运用时,直接摆放在平面上的继电器。 11.46 插入继电器 plug-in relay 用插接件安装及接线的继电器 11.47 重力继电器 gravitation type relay 断电时 ,以重力保证前接点断开 ,并使后接点接触的继电器 _ 11.48 弹力继电器 spring-Iype relay 断电时 ,以弹力保证前接点断开 ,并使后接点接触的继电器。 11.49 热力继电器 thermal relay 依靠电热使双金属片膨胀而动作接点的继电器 11.50 整流继电器 rectifier Iype relay 本身附有整流元件 ,可由交流电源动作的继电器。 74
+
+TB/T 454.1一2021
+11.51 无极继电器 neutral relay 正反向电流通入线圈均能正常动作的直流继电器 _ 11.52 有极继电器 polarized relay 用控制磁场与固定磁场极性的同异来选择定位或反位接点闭合的继电器 11.53 偏极继电器 pole biased relay 具有固定磁场 ,仅当-种方向的电流通过肘 ,能够动作接点系统的苴流继电器。 11.54 组合继电器 combination relay 通电以后 ,在同一磁系统中分别动作无极和有极衔铁的直流继电器_ 11.55 无极加强继电器 neutral relay with heavy-duty contacts 接点允许切断功^兴的无极继电器 11.56 有极加强继电器 retqin2r' .eutr'/ polarized relay with heavy-duty contacts 接点允许切断功率大的有极继'?R 11.57 组合保持继电器 relained neulral pol red Cr0 .naljon relay 有极衔铁转换时无极衔铁保持在丁作状态的玺合继电  11.58 "}+# 单闭磁路继电器 single shunt field relay 磁路呈闭合形 ,两臂上的绕组同时通以规定方向和大小的电流才能":|衔铁 ,否则不吸衔铁的一 种电磁继电器。 11.59 台 双闭磁路继电器 double shunt field relay 具有两个闭磁路系统的电磁继电器。 11.60 交流二元二位继电器 AC two element two position relay 具有两个供电单元。两单元同时得到规定相位差的电源时 ,继电器吸起,否则落下的一种交流相 敏继电器 11.61 时间继电器 time relay 通电后经过规定的时间 ,接点方能闭合的继电器_ 11.62 缓动继电器 slow-acting relay 从结构上保证,由通电或断电到接点良好地转接 ,要经过一定时间延迟的继电器 11.63 缓吸继电器 slow-pick 叩 relay 从结构上保证,由通电到接点吸起 ,要经过一定时间延迟的继电器。
+75
+
+TB /T 454.1一2021
+11.64 缓放继电器 Slow release relay 从结构上保证.由断电到接点落下,要经过一定时间延迟的继电器_ 11.65 快动继电器 quick-acting relay 从结构上保证.能加快由通电或断电到接点转接整个过程的继电器 11.66 快吸继电器 quick-pick 叩 relay 从结构上保证.能加快继电器吸引过程的继电器。 11.67 正常动作继电器 normal acting relay 从结构上没有采取特殊措施来加快或延缓动作过程的继电器_ 11.68 单线圈缓放继电器 Single coil moderately slow release relay 在继电器的两线"中.一个按缓放结构,一个按正常动作结构装配而成的继电器。 12 转辙装置 12。1 们业顽淮镐 道岔转辙装置 lurnout switching 道岔转换设备 用于道岔转换 ,锁闭以及对道岔所处位置及状态进行步c的装置 @ 注:道岔转辙装耸包括转辙机(电动 ,电液 ,电空转辙机 )及转换锁闭幂 .客'之查# ,外锁闭装邕 ,安装装z等。 12.2 转辙机 switch machine $劈平台 转换 ,锁闭道岔尖轨或心轨并表示其位置状态的基础设备。 12.3 交流转辙机 AC switch machine 采用交流电源驱动牵引道岔转换的转辙机。 [来源 :GB/T 50262 2013.14.3.7] 12.4 直流转辙机 DC switch machine 采用直流电源驱动牵引道岔转换的转辙机。 [来源:GB/T 50262-2013,14.3.8] 12.5 电动转辙机 electric switch machine 采用电机驱动牵引道岔转换的转辙机。 [来源 :GB/I 50262一2013,14.3.9] 12.6 电空转辙机 electropneumatic switch machine 采用气压设备驱动牵引道岔转换的快速转辙机。 [来源 :GB/T 50262-2013,14.3.11]
+76
+
+TB/T 454.1一2021
+12。 7 电液转辙机 hydraulic switch machine 采用液压设备驱动牵引道岔转换的转辙机。 [来源 :GB/T 50262 2013.14.3.10] 12.8 大功率转辙机 heavy duty switch machine 规定转换力在 6 000 J 以上的转辙机。 12.9 快速转辙机 quick-acting switch machine 规定转换肘间在0.8 $及以下的转辙机。 12.10 减速器 retarder 将电动机比较高的转速降低到动作系统所需速度的装置 12.11 传动系统 drivins sctem 将输入力矩转卒为I卅力钜的各中间环节。 12.12 接点系统 contact system 各电气接点及其有关传动装置。 12.13 `准信 锁闭装置 locking device 保证除规定的输入力矩以外 ,任何外力不能改娈动作厅'置的s械装置。 12.14 内锁闭装置 internal locking device 设在转辙机内部的锁闭装置 N务平台 12.15 外锁闭装置 exlernal locking device 设在转辙机外部的锁闭装置_ 12.16 密贴检查器 switch Closure detector 检查道岔在锁闭位置时两牵引点之间是否符合密贴要求的装置 [来源 :GB/T 50262-2013,14.3.14] 12.17 挤岔保护 lrailed switch proleclion 在挤岔时能够不损坏或少损坏转辙机 ,安装杆件等的设备。 [来源 :GB/I 50262一2013,14.3.15] 12.18 多点多机牵引 multiple drives multi-motor 对于设置两点及以上牵引点的道岔 ,每一牵引点设置独立的转辙机或转换锁闭器进行转换锁闭的方式。 [来源 :工B/工 3508 2018.2.6]
+77
+
+TB/T 454.1一2021
+12.19 开闭器 switch circuit controller 自动开闭器 表示转辙机的拉杆伸卅或拉入位置的电气接点。 12.20 摩擦联结器 frictional clutch 利用摩擦传动的离合。 12.21 摩擦电流 frictional working current 故障电流 摩擦联结器打滑丁作状态的电流。 12.22 动作杆 throw rod 转辙机中 ,输卅作用力以动作道岔尖轨的拉杆。 12.23 表示杆 indica ion rod 转辙机中 ,接受尖轨所旋K别力 ,动作接点系统的拉杆。 12.24 T。 锁闭杆 locking rod 转辙机中 ,为将道岔尖轨锁在定位或反亡 .使#天!其他外力而任意娈位的杆件。 12.25 怎 ,怠& 移位接触器 displacement contact 电动转辙机中 ,监督动作杆移位限度,以做到挤切销折断后乖}警用的电气接点。 12.26 安全接点 safety contact; power Off contact *-平台 开闭器 维修或人下转岔时 ,切断道岔电路的电气接点。 12.27 正装 right-handed machine 转辙机卅厂时 ,对动作杆 ,表示杆位置的一种规定.动作杆由底壳向右侧(从电机处看 )卅入的称为 "正装"。 12.28 反装 left-handed machine 转辙机卅厂时 ,对动作杆 ,表示杆位置的一种规定 ,动作杆由底壳向左侧(从电机处看)卅入的称为 "反装"_ 12.29 动程 slroke 尖轨或可动心轨在道岔拉杆中心位置上的扳动距离。 12.30 挤脱 trailable 转辙机中 ,挤岔时被挤开,事故后可以自动恢复正常使用一种机械连接方式。
+78
+
+TB/T 454.1一2021
+12.31 挤切 dissectihle 在转辙机传动系统中设置薄弱连接件。挤岔时 ,将其挤断以保护整机的一种机械连接方式。 12.32 挤切销 disseclible pin 挤切方式中所用的一种薄弱连接件 12.33 挤切力 dissecting force 使挤切销折断所需要的作用力。 12.34 牵引力 tractive force 转辙机推 ,拉重物的力= 12.35 动作时间 switching time 转辙机带动规定的负载 ,从定位转到反位或从反位转到定位所需要的肘间 12.36 动作次数 throwl lg mOYTIpnls 转辙机从动程的一个终位罾4 奂歪另一终端位置的次数。 -来源:GB/T 25338.1-2019 12.37 工作电流 working current 转辙机转换道岔所需要的电流。 12.38 @雀信息服务平台 锁闭力  locking force 转辙机锁闭部分 ,在锁闭状态能承受的最大作用力 12.39 解锁力 releasing force 为使转辙机锁闭部分解锁所需的作用力= 12.40 动作连接杆 operating rod for driving a swilch 为动作道岔尖轨而设于转辙机和道岔间的连接杆。 12.41 表示连接杆 connecting rod for indication 为动作转辙机的开闭器而设于转辙机与道岔间的连接杆。 12.42 安装装置 istallation device 支撑和固定转辙机 ,密贴检查器 .转换锁闭器的装置和连接杆件 [来源 :IB/I 3508一2018.2.4]
+13 道口 ,桥梁 隧道的防护设备
+13。1 道口通知设备 level crossing warning device 将列车接近道口的情祝通知道口值班人员的设备。
+79
+
+TB /T 454.1一2021
+13.2 道口自动通知 automatic level crossing warning 列车接近铁路道口时,自动通知道口看守员 [来源:GB10493一2018,3.6] 13.3 人工控制道口信号 manual operated level crossing signal 当列车接近铁路道口时.自动通知道口看守员 .并由看守员控制道口停号机的显示。 [来源:GB10493一2018,3.10] 13.4 道口自动信号 automnatic level crossing signal 当列车接近或离去铁路道口时.自动地向道路方向显示禁止或准许通行的停号。 [来源:GB10493- 2018,3.7] 13.5 道口栏木 level crossing harrier 阻止道路车辆 ,行 ^通过道口的一种遮断设备。 13.6 手动栏木 manually ^prr' d ha rier 人丁操纵道口栏木。 13.7 际谁 自动栏木 aulomalic operaled barrier [来源:GB10493-2018,3.11] 7t*合 13.8 道口室外音晌器 level  crossing outdoor audible device 装设在道口上 ,向车辆 _ 13.9 道口接近区段 approach section 0f a level crossing 当列车接近道口时,自使道口防护设备开始动作地点起至道口间的线路区段 = 13.10 列车接近通知时间 warning time 0f the approach 0f a train 道路车辆以规定最低速度通过道口的时间 ,道口栏木关闭的动作时间 ,列车司机采取紧急制动的 确认时间 ,根据道口实际运用情祝适当增加的时间之和 = [来源:G810493-2018 ,3.12] 13.11 接近区段长度 length 0f approach section 列车接近通知时间内走行长度 道口中心到遮断停号机的长度 列车紧急制动长度之和。 [来源 :GB 10493 2018.3.13] 13.12 道口信号机 level crossing signal 面向道路 ,指示道路车辆 ,行人禁止或准许通行的装置 [来源 :GB 10493 2018.3.8]
+80
+
+TB/T 454.1一2021
+13.13 道口信号控制盘 level crossing signal control panel 为操纵道口信号用的控制盘。 13.14 切断音响按钮 hutton for cut-off audible signal 值班人员确认道口信号后 ,用以切断音响的按钮。 13.15 道口闪光信号 level crossing flashing signal 用闪光形式向行人方向显示的道口停号。 13.16 道口遥信,遥测设备 remnote surveillance and telemetering for level crossing 用遥停方式集中表示及检测道口停号丁作及故障状态的设备= 13.17 桥梁通知设备 bridge warning device 向桥梁看守及丁-;员通知列车接近桥梁所用的设备。 13.18 隧道通知设备 tunnol Va.e Oevice 向隧道看守及丁作人员通刘列卡花沂隧道所用的器具。 14 电源 14。1 直流供电制 DC power supply system #唯信息服务平台 信号设备均由直流供电的制度。 14.2 交流供电制 AC power supply system 停号设备仅以交流作为电源(或通过整流器)的供电制度。 14.3 混合供电制 AC-battery power supply system 以交流为主电源 ,以蓄电池或大容量一次电池为备用电源的供电制度 14.4 浮充供电 floating charge power supply 整流器和蓄电池并联使用的一种直流供电方式。 14.5 主电源 main power source 由两路电源供电的系统中 ,规定常用的一组电源。 14.6 备电源 stand-by power source 由两路电源供电的系统中 ,规定经常不用 ,必要时用以代替主电源供电的电源。 14.7 集中供电 centralized power supply 由设置电源地点以单独之电线或电缆芯线直接动作设备的供电方式。
+81
+
+TB /T 454.1一2021
+14.8 干线供电 main power 由设置电源地点引卅一路电源线供一定区域内的设备共同使用的供电方式。 14.9 环状供电 looped power supply 电源由供电母线向外连接 ,顺序经过各用电设备再接回该母线的供电方式。 14.10 一次电池供电 primary cell supply 由一次电池作电源的供电方式。 14.11 蓄电池供电 storage battery supply 由蓄电池作电源的供电方式 = 14.12 整流器供电 rectifier power supply 由交流通过整流公作电源的供电方式。 14.13 混合电源 AC-batterv J"_i SOU_CC 正常由交流电供电 ,停电阿自动-刭备用电池的电源。 14.14 条件电源 准们 conditional power source 由电源端子引后 ,通过一定的条件(如各种纵宅帑接 : '供电的电源 14.15 方向电源 directional traffic power source 通过代表进路种类和方向的继电器接点形成的条件电源  "服务平合 14.16 集中电源 centralized power source 在车站上设于停号楼内或值班员室附近的电源。 14.17 局部电源 local power source 在车站设道岔和停号设备附近的电源 14.18 信号机点灯电源 signal lighting power source 专供信号机点灯用的电源。 14.19 信号灯调压 voltage regulation 0f signal lamps 停号灯因昼夜环境不同而改娈供电电压的方法 14.20 表示灯调压 voltage regulation 0f indication lamps 表示灯因昼夜环境不同而改娈供电电压的方法 14.21 自动转接 aulomalic switching over 自动切换 主,备电源转换时的自动动作方法。 82
+
+TB/T 454.1一2021
+14.22 电源屏 power supply panel 电源引入 ,配电 .娈压 .整流以及按照供给设备的需要组成各种条件电源所需的设备和电路以及电 源防护元件组装在一起的柜状设备。 14.23 交流电源屏 AC power supply panel 供纷各种交流负载用的电源屏= 14.24 直流电源屏 DC power supply panel 供给苴流负载用的电源屏 14.25 条件电源屏 conditional power supply panel 组成各种条件电源用的电源屏 14.26 电源转换屏 powzr switching over panel 主,备电源设备专接用的开关屏 = 14.27 电压自动调整器 automalC Vrt? ,? regulator 当输入电压波动时能自动保持辎卅电丘[ _个允许的小范围内的稳压装置。 14.28 逆变器 inverler 将直流电源变换成交流的装置。 14.29 " 唁息服务平台 自动调压 automatic voltage regulator 输入电压波动时自动保持输卅电压在规定范围的措施。 14.30 手动调压 manual voltage regulator 输入电压波动肘用人丁方法调整输卅电压的措施。 14.31 感应式调压器 induction voltage regulator 由固定绕组和旋转绕组组成。按娈压原理但初 ,次级串联连接= 利用旋转绕组的角位移来改娈其 在固定绕组中的感应电压 ,以影响输卅电压的调压器< 14.32 无级调压 slepless voltage regulalion 调压过程中电压值呈连续娈化的调压方式。 14.33 自动闭塞供电线路 aulomatic block power line 自动闭塞专用三相交流 .中性点不接地系统的高压电线路。 14.34 自动闭塞信号线路 automatic block signal line 为供给低压信号电源或实现闭塞分区两端停号机间电路联系的低压电线路。
+83
+
+TB /T 454.1一2021
+14.35 道岔控制电源 power source for switch conlrol 道岔控制电路用的电源 14.36 道岔动作电源 power source for switch operation 动作道岔转辙机用的电源。 14.37 道岔表示电源 power source for switch indication 道岔表示继电器用的电源。 14.38 继电器控制电源 power source for relay control 供完成各种联锁关系的继电器使用的电源。 14.39 表示灯电源 power source for indication lamp 控制台表示灯点忏用的电源 。 14.40 闪光电源 flashir g pow ?: snurce 按一定频率通断的电源。 14.41 " `5一 熔断器 fuse 由一种易熔的合金导体做成的保护器件 ,当通讨4抗过大时 ,合金导体熔断而切断的电路。 14.42 醌 "rP"r4 #卣廷4习"人#1止 避雷器 lightning arrester 止机龙设备和电缆受破坏的保护 器件。 14.43 平台 整流器 reclifier 将交流电转换为直流电的电子器件或装置 14.44 稳压器 voltage stabilizer 将电压稳定在某一范围的装置。 14.45 娈压器 transformer 主要用来改变交流电压振幅值的娈量器。
+15 故障一安全
+15.1 故障一安全 fail-safe 故障以后导向安全。 15.2 可靠性 reliahility 产品在规定的条件下和规定的时间区间 (t1 ,t2)内完成规定功能的能力。 [来源 :GB/工 28809-2012,3.1.39] 81
+
+TB/T 454.1一2021
+15.3 安全性 safely 免除危害的不可接受等级的风险 [来源 :GB/T 28809 2012.3.1.43] 15.4 故障 fault 一种能导致系统错误或失效的不正常状态 ,故障可是系统性的或随机性的 [来源 :GB/T 28809一2012.3.1.17] 15.5 设备故障 equipment failure 设备由于性能不良而影响正常使用的现象。 15.6 错误办理 wrong handling 不按规定的办法操作控制台(盘) 15.7 导向安全 failire 'i the '3?e side 电路或机件故障时 ,使设}:}行垄-表现卅更大的限制 ,以避免由于误动作和错误显示引起行车事 故的性能 V 15.8 瞬时分路不良 instantaneous loss 0f sinting 车在轨道区段运行过程中 ,轨道电路卅现短盯'笮去分!的现象。 15.9 干扰 interference 由外部噪声和无用电磁波或电磁感应在接收电路中引起的骚扰。  务平台 15.10 邻线干扰 interference from neighhoring line 装设轨道电路的相邻铁路线路相互间的干扰。 15.11 强电干扰 hgh voltage interference 邻近的高压输电线路或高压源 ,在本传输通道引起的干扰 15.12 串音千扰 Crosstalk interference 由其他通路中停号能量的影响而产生的干扰。 15.13 谐波干扰 harmonic interference 由谐波引起的干扰= 15.14 电力牵引干扰 electric traction interference 由电力牵引的高压 ,大电流以及在其回归通路中的不平衡电压而对停号设备造成的干扰。 15.15 内燃牵引千扰 diesel traction interference 由内燃机车通过而对停号设备造成的干扰。
+85
+
+TB/T 454.1一2021
+15.16 雷电干扰 lightning interference 由雷电在信号设备上产生的干扰。 15.17 错误锁闭 false locking 不是按照办理人员的操作或实现规定的条件而出现的锁闭现象。 15.18 错误解锁 false release 没有满足规定的条件就解锁的现象。 15.19 错误开放信号 wrong clearing of a Signal 没有满足规定的联锁条件即开放停号的现象。 15.20 错误关闭信号 wrong stopping 0f 3 signal 已开放的停号非众列车驶过或人为取消等规定程序而自动关闭。 15.21 道岔失去表示 Ioss of ,i ;_atior for 3 Switch 道岔定位或反位表示因故消失竹锪裒 15.22 道岔错误表示 false indication 0f a s;^ 道岔表示位置与实际位置不相符 15.23 芸-" 4s 自动缓解 false release by ilself 15.24 漏锁闭 missing locking 在排列进路 ,开放停号 ,办理单独锁闭等控制过程中 ,应锁闭的设备未锁闭的现象 _ 15.25 漏解锁 missing release 根据列车运行状态或人为办理情况 ,设备应该解锁但末解锁的现象。 15.26 失去联锁 loss of interlocking 设备的联锁关系因故消失的现象。 15.27 停电 power failure 中断电源。 15.28 电压过低 voltage below level 电源电压超过允许波动范围的下限而低到影响停号设备正常丁作的程度 15.29 熔断器断丝 fuse burn-out 熔断器的可熔金属丝(或片)因过载或机械损伤而折断
+86
+
+TB/T 454.1一2021
+15.30 插接不良 plug-in trouble 插接件接触不紧密因而接触电阻过大的现象。 15.31 线头脱落 wire lead drop Out 线头从端子或焊点掉下 15.32 材质不良 material fault 材料 ,元器件达不到标准。 15.33 绝缘不良 insulation fault 绝缘电阻降低到标准值以下的现象。 15.34 钢轨绝缘不良 rail insulation fault 钢轨绝缘的绝缘巴陧值降低到标准值以下的现象。 15.35 接触不良 Contact fanli 有触点元件接触不紧密,技触牢 bl过大的现象。 15.36 道岔中途转换 switch thrown under I 'ing CIs 15.37 !lm 胝务平合 故障办理 emergency treatment after failure 设备故障以后 ,规定采取的- 些特殊操作措施。 15.38 故障积累 failure accumulation 直接或间接影响某一功能的几处故障虽不同时爿现但同时存在的现象。 15.39 设备停用 equipment out of use 某种信号设备停止正常使用 15.40 开通 put into operation 设备投人运用。 15.41 加封 sealing 为限制操纵或任意打开某种设备而对其施加印封 15.42 破封 break a seal 去掉对设备所加的印封。 15.43 挤岔 trailing 0f a switch 车轮挤过道岔 ,使尖轨与基本轨离开的现象。
+87
+
+TB/T 454.1一2021
+15.44 脱轨 derailment 列车或机车车辆 ,因故车轮脱卅线路的状态。 15.45 迸入异线 Cnter Onl unexpected track 由于某种错误而使列车.车列未按规定和控制意图进入指定线路 ,而进入其他线路。 15.46 机外停车 stop i advance 0f 8 Signal 列车停于进站 (或接车进路)信号机前方 = 15.47 冒迸信号 OVCTTIII signal 列车车列驶过停车停号。 15.48 正面冲突 front conflict; head OI collision 两个沿相反方向-行的列车_机车车辆 ,动车组等互相从正面发生的冲撞 15.49 侧面冲突 flank collisiv] 两个列车机车车辆 ,动车组竽'人"」发生的冲撞 < 15.50 追尾 calch-up 后续列车与前行列车尾部发生冲撞。 16 其他 信息服务平r 16。1 上行 叩 traffic; UP line 铁路线路规定的行车方向。 干线上向首都所在地 ,支线上向连接干线之方向为上彳:。 16.2 下行 down traffic; down line 铁路线路规定的行车方向。 千线上向与首都所在地相反方向 ,支线上向支线方向为下行 16.3 上行方面 叩 direction 在任一干线线路点上 ,靠首都所在地或支线线路上 ,靠千线侧为上行方面。 16.4 下行方面 down direction 在任一干线线路点上 ,靠首都所在地相反侧或支线线路上 ,靠连接干线的相反侧为下行方向 _ 16.5 车站咽喉区 fhroal 0f a station 车站或车场两端道岔汇聚的地区。 16.6 上行咽喉 I throat 下行方面的咽喉区
+88
+
+TB/T 454.1一2021
+16.7 下行咽喉 down throal 上行方面的咽喉区= 16.8 信号机前方 i rear 0f a Signal 停号机外方 停号机机构正面所对的方向 16.9 信号机后方 i advance 0f a signal 信号机内方 信号机机构背面所对的方向_ 16.10 警冲标内方 inside of a fouling point 设有警冲标处,靠非线路交会的一方 = 16。11 警冲标外方 0utsire of ?ruling point 设有警冲标处,靠线路交令:一j 16.12 T V 单向行车 one way traffic 条铁路线上 ,只允许一个方向列车运1刖行 'F紫度。 16.13 双向行车 bi-direction running 条铁路线路,上行 .下行列车均可运行的行车制度。 '息服务平台 16。14 反向行车 running against current 0f traffic 在单向行车的铁路线路上 ,列车运行与规定方向相反。 [GB/I 50262 2013 ,定义4.1.30] 16.15 改变运行方向 change 0f running direction 规定为双方向运行的线路上 ,由某一种运行方向转换至另一运行方向 16.16 信号集中监测 centralized signaling monitoring 利用计算机及通停等技术搭建统一的监测平台,集中对信号设备丁作状态进行实时监测 ,辅助故 障分析与处理的系统设备。 16.17 单动道岔 single working switch 动作一次操纵器具(电钮 ,手柄或握柄)只转动一组的单独道岔。 16.18 双动道岔 double- working switches 动作一次操纵器具(电钮 ,手柄或握柄)转动两组的联动道岔 16.19 三动道岔 triple working switches 动作一次操纵器具(电钮 ,手柄或握柄)转动三组的联动道岔 89
+
+TB/T 454.1一2021
+16.20 四动道岔 quadruple working switches 动作一次操纵器具(电钮 ,手柄或握柄)转动四组的联动道岔 16.21 区间道岔 turnoul 讧 3 block seclionl 在区间与线路连接的道岔 16.22 列车作业 traffic operation 行车作业 接 ,发列车的作业。 16.23 调车作业 switching service; shunting operation 列车的编组 .解体和转线 ,车列的摘挂 取送 .转场和整理等作业。 -来源:GB/T 50262 2013,9.5.1] 16.24 平行作业 simIlta'JCOUS u0  king 车站同一时间内进行培汶"牟 .讽车T作而互不干扰的作业。 16.25 信号楼 signal box; signal cabi_ 集中控制道岔 ,停号或车辆加 ,减速器,设邕肖?n制及联锁设备的房舍。 16.26 电源室 power supply room 设置电源设备的专用房间 息服务平台 16.27 控制台室 Control TOOII 装设控制台的房间 _ 16.28 信号计算机室 signaling computer room 信号机房 在车站 ,编组站 ,动车段(所)或区间中继站设置信号用计算机设备的专用房屋。 16.29 信号机械室 signaling equipment room; relay room 继电器室 设置停号用继电器及有关设备的专用房间 = 16.30 电缆引入室 cable lead-in room 放置室外电缆进入室内前的盘留及做头的专用房屋。 16.31 防雷分线室 cable lighting protection and distribution T000 放置带有防雷元件的室内外电缆连接用架柜的专用房屋 16.32 道口信号设备房 level crossing signal hut 集中放置道口现地控制设备的专用房屋 = 90
+
+TB/T 454.1一2021
+16.33 驼峰空气压缩机站 hump air compressor room 装设空气压缩机及其控制设备的专用房屋 16.34 驼峰液压动力室 hummp hydraulic pressure engine room 装设油压机及其控制设备的专用房屋。
+91
+行业杯准信息服务平台
+
+TB /T 454.1一2021
+参  考  文  献
+[1]GB/150262一2013 铁路工程基本术语标雄 [2]GB/工 6902-2010 铁路停号继电器试验方法 [3]GB/1 25338.1一2010 铁路道岔转辙机 笫1部分:通用技术条件 [4]6810493一2018 铁路站内道日停号设备技术条件 L5]GB/T 28809 2012 轨道交通 通停,停号和处理系统停号用安全相关电子系统 LG]TB 10007一2017 铁路停号设计规范 [7JTB 10069一2017 铁路驼峰信号及编组站自动化系统设计规范 L8]TB/T 3027一2015 铁路车站计算机联锁技术条件 L9]TB/I 3471-2016 调度集中系统技术条件 LIO]TB/I 3505 2018 无线调车机车停号和监控系统技术条件 LIIJTB/T 3503 ?018 铁路道岔转换设备安装技术条件 L12]TB/I 2465 010 [路车站电码化技术条件 [13]TB/T 2306一 2020 月动竹砣峰技术条件 CI4]TB/T 2845.1一2019 车两陇逑器 第1部分:钳夹式减速器 CI5]TB/T 2845.2一2018 车辆减速硌  艿2剖分:内撑式减速器 CIG]TB/T 1552一2017 车辆减速器液压传竹系纪笈术条件 [17]TB/T 1555一2005 CI8]TB/T 2852-2015 $*簋服炙  轨道电路通用技术条件 [I9]IB/T 3189一2007 铁路停号计轴应用系统技术条件 [20]TB/T 3508一 2018 铁路道岔转换设备安装技术条件 C2l]ERTMS/ETCS subset 023 v3.1.0 术语和缩略语 (Glossary Of Terms l Abbreviations
+92
+
+TB/T 454.1一2021
+汉  语  索  引
+臂形拐肘 编发线- 矮型停号机: 4.62 编组站 安全电路 5.119 编组站肖动化系统 安全防护距离 7.29 娈更进路一 安全减速度 7.39 娈通进路 - 安全接点 12。26 娈压器 安全连挂 9.128 变压器箱 安全连挂率 9.129 标志: 安全性 - 15.3 标雀分流感度 安装装置 12.42 标准分路电阻 按钮 5.197 标准分路灵敏度 按钮表示 5.71 表示 表示灯 "业u邋一 凸 表示灯电源 表示灯调压 摆式发码器 03 苌示电路 办理进路- 5.91 表亓;; 半自动闭塞 6.11 表云连接杠 半自动闭塞机 6.47 表示盘 半自动闭塞联系电路 5。159 表示器 . 半自动化驼峰 9.11 表示条件 半自动作业 9.50 并联式轨道电路 保护区段- 6.33 并联条件 报警- 5.79 并置停号点 报文 7.89 不对称高压脉冲轨道电路 备电源 - 14.6 不对称脉冲自动闭塞一 本务端设备: 7.20 不限时人丁解锁 闭路 5.140 部分监控模式 闭路式轨道电路 10.21 闭塞 6. 闭塞分区- 6.30 闭塞分区停号标志牌 4.113 材质不良 闭塞机: 6.44 操纵台 避雷器 14.42 侧冲防护 臂板电锁器联锁 5。19 侧面冲突 臂板接触器 5。255 侧面端子 臂板停号机 4.56 测试环线 臂板停号机自动点灯- 5。21 测速 臂板转极器 5.256 测长
+5。236 9.18 9.
+9.3
+5.57
+5.57
+14.45
+5。213 4.96
+10.51
+10.43
+10.51 5.62 5。201 14.39 14.20 5.155 12.23
+12.41
+5。177 4.90
+5.135 10.25 5.130 6。39 10.16 6.22 5.45
+7.105
+15.32
+5.176 9.72 15.49
+5.209 7.146
+9.85 9.86
+93
+
+TB /T 454.1一2021
+测重 测阻 插接不良 插入继电器 常用制动 常用制动距离 场间联系电路 超速连挂 超限绝缘 车次表示 车次号一 车挡标志 车挡表示器 车辆加速器 车辆减速器 车辆能高 车轮滑行 车轮空转 牟门自动控制 车载停号 车站操作- 车站调车操作- 车站股道电码化 车站接发车进路电码化 车站停号 车站咽喉区- 车站遥控 车站遥停 牟组 : 充磁值 重叠区段 重复检查 重联(无重联控制装置) 重联(有重联控制装置) 卅发信号机 卅口电流 卅站信号机 储气罐 传动系统 传输报文一 传输继电器 串并联条件 串联式轨道电路 94
+9.87
+串联条件 串音干扰 磁路系统 从属停号机- 存储式驼峰电气集中 错道- 错误办理.. 错误关闭停号 错误解锁 错误开放停号 错误锁闭 错误显示
+5.129 15 12
+9.88
+15.30
+11.34
+11.46
+4.76 9.48 9.69 15.6
+7.68
+7.70 5.161
+9.132
+15.20 15.18 15.19
+10.70 8。29 8.11
+15.17 4.44
+4.100 4。100
+9.100
+9.90 9.109
+打靶控制 打靶区 - 大功率转辙机 - 带柄道岔标志 笫柄道岔表示器 带柄 $锁器 带动迂岔 待机莫式 单闭磁路继电器 单动道岔 单独操纵继电式电气集中|钡 单独操纵式驼峰电气集中 单独操纵作业 : 单断 单轨条轨道电路 单溜放 - 单频感应器 单推单溜 单位制动能高 单线臂板停号机 - 单线继电半自动闭塞 单线圈缓放继电器 单线自动闭塞 单向行车 单向自动闭塞 单置停号点 当前位置. 挡车器
+9.108
+7.43
+9.30 12.8
+41
+4.101
+4.101
+8.18 8.19 10。28 10.29 3.3
+5。254 5.99 7.103 11.58
+16.17
+16.5
+5.9
+8.2
+9.46
+8.3
+9.49
+9.32
+5.142
+11.24
+10.22
+6.32 5。144
+9.37 7.144
+7.112 7.113 4.66 10.33
+9.39
+9.110 4.59
+6.13 11.68 6.16 16.12 6.18 6.38 7.45
+4.66 9.119 12.11
+7.91
+11.44
+5.131 10.24
+9.152
+
+T/T 454.1一2021
+导管调整器 导管装置 导线导轮 导线反正扣 导线立轮 导线平轮 导线平轮组 导线调整器 导线装置 导向安全 到发线出岔电路 道岔标志 道岔表示 道岔表示电源 道岔表示器 道岔错误表示 道岔定位表示 道岔动作电源 道岔反位表示 道岔恢复 道岔控制电路 道岔控制电源 道岔密贴 道岔启动一 道岔区段 道岔人T解锁 道岔失去表示 道岔顺序启动 - 道岔顺序转换 - 道岔锁闭 道岔锁闭表示 道岔握柄 道岔中途转换 道岔转换 道岔转换设备- 道岔转辙装置.- 道口接近区段 道口栏木. 道口闪光停号 道口室外音响器 道口通知设备 道口停号 道口信号机
+5。226 5。225 5.248 5。244
+道口停号控制盘 道口停号设备房 道口遥信 ,遥测设备 道口自动通知一 道口自动停号 道砟电阻率 道砟漏泄电阻率 灯光转移- 灯丝断丝报警: 等级转换边界- 等级转换命令 等级转换停息 等级转换预告- 敌对进路 敌对停号 地面电子单元 地面感应器 地面停号.. 第二离去区段 弟三离去区段 第 诉区段 笫一 -宏去区I 第一制动位 点连式调速系统 点式传输- 点式机车停号 点式设备 点式调速系统 - 电报闭塞 电磁继电器 电笛 电动臂板电锁器联锁 电动臂板停号机 电动机式发码器 电动转辙机 电话闭塞 电机集中联锁 电机联锁机 电空传送设备 电空阀 电空邮政 电空转辙机- 电缆盒
+13.13 16.32 13.16
+13.2
+5。247 5.246 5.249 5.245 5。243 15.7
+13.4
+10.48
+10.48
+6.43
+5.81
+7.82 7.84
+5.169 4.97
+7 87
+5。65 14.37
+7 83
+5。61 4.42
+4.97
+15.22 5。72 14.36
+7.12
+136 4.10 5.113 5.114 5.110 5.112 9.93
+68
+5.154
+14.35 5.35 5.85
+9.78 7.40
+5.106 5.43
+122 7.8
+15.21 5.87
+9 77
+5.88 5.28 5.76
+6.8
+11.38 5.210 5.20 4.58 10.84 12.5
+5.223 15.36
+5.86 12。1
+12。1
+6 7
+13.9
+5.5
+13.5
+5.192 9.149
+13.15 13.8
+9.122 9.149
+13.1
+3.5
+12.6 5。215
+13.12
+95
+
+TB /T 454.1一2021
+电缆接续盒 电缆套管 电缆引入室 电力牵引干扰 电码轨道电路 - 电码化 电码继电器 电码继电器架 电码自动闭塞 电钮 电气集中联锁 电气绝缘节 电气路牌闭塞 电气路牌机 电气路签闭塞 电气路签机 电气锁闭 电锁器 电锁器联锁 电压过低 电压自动调整器 电液控制单元 电液转辙机- 电源端子 电源屏 电源室 电源转换屏 电子储存器 电子执行单元 调车表示器 调车表示器电路 调车场 调车进路 调车进路 调车模式 调车区电气集中联锁 调车线 调车线路表示器 调车线内减速器 调车线始端减速器 调车停号 调车停号机 调车作业 96
+5.216 5.221 16.30 15.14
+调度集中 调度监督 调度中心 钓鱼: 叠加电码化 叠加轨道电路 顶棚速度 . 定点停车 定反位锁闭 定速 定位接点- 定位锁闭 动程 动断接点一 动合接点- 动接点 动态速度曲线 动作次数 动作杆 动作连接杆 动作''间 堵门- 短路 对向重叠进茈 多点多机牵引
+8.5
+8
+8
+9.66 10.30 10.10 7.36
+10.7
+10.26 11.39
+5.188
+7.147
+6。20
+5.34
+5。196
+9.104
+5.6
+11.5
+10.67
+5.。32 12.29 11.4 11.3
+6.10
+6.46 6.9
+6.45
+11.2 7.66 12.36 12.22 12.40 12.35 9 71
+5.30
+5253
+1。8
+14.27
+9.118 12.7
+5.141
+5。207 14.22 16.26 14.26
+5.58 12.18
+9.64
+额定值 扼流变压器 二次参数 二显示自动闭塞-
+11.20 10.81
+5.182 4.93 5.172
+10.64 6。26
+9.4
+5.51
+9.54
+7.106
+发车表示器 发车表示器电路 发车进路 . 发车进路停号机 发车线路表示器 发车停号- 发码器 阀式轨道电路 反极性T作值
+4.92
+5.7
+5.171
+9.17
+5。54
+4.95
+4.70 4.94
+9.96
+9.95
+4.26 10.82 10. 11.22
+4.18
+4.81 16.23
+
+T/T 454.1一2021
+反位接点- 反位锁闭 反向不动作值 反向丁作值 反向区间停车位置标志牌 反向容许停号标志牌 反向行车 反装 返还系数 返回肘间 方向电源 方向转接器 防护变压器 防护道岔 防护区段 防雷分线室 防止重复 放头拦尾制动法 非安全电路 非常站控控制模式 非机械化驼峰一 非集中道岔 非集中联锁- 非进路调车 非进路调车电路 非联锁道岔 非联锁区 非自复式按钮 分割区段 分流感度 分路 分路道岔 分路道岔保护区段长度 分路电阻 分路灵敏度 分路效应 分歧道岔 分散自律调度集中 分散自律控制模式 分线柜 分线盘 分线盘端子 分向电缆盒
+11.6
+风压调整器 峰顶:一 峰顶平台一 峰高. 峰下减速器 浮充供电- 辅助路牌机:. 辅助路签机- 复轨器 复零 复示式显示制度 复示停号 复示停号机  复线继电半自动闭塞 复线舟动闭塞 副签
+9.123 9。25
+5.33
+11.25 11.22 4.110 4.111 16.14 12.28
+9.26
+9。27 9.93
+14.4
+6。61
+6.59
+11.31
+9.99
+11.13 14.15
+10.95
+7.131
+7.142 10.80
+4.30 4。78
+5.98 6.34
+6.14
+6.17
+16.31 5.36 107
+6.51
+16
+攻娈运行方向 杆上 +缆盒 感["机车-号 感应式调!义: 干扰:. 干线供电- 干预曲线- 钢轨接续线 钢轨绝缘 钢轨绝缘不良 钢轨引接线 钢轨阻抗 高频轨道电路 高频轨道电路收发器 高柱停号机 高阻轮对 隔离模式 T作电流 丁作值 共用箱 供风管路调压设备 供气管路 钩车: 估计速度
+16.15
+9.13
+5。217
+5.103 5.15 5.96
+7.127
+14.31
+15.9
+5。164 5.101
+14.8
+7.63 10.73 10.65 15.34
+5.105 5。200
+10.61
+10.50 10.57 9.15
+10.71
+10.49
+10.9
+9.16 10.52 10.50
+10.88
+4.61
+9.133
+10.36 9.15
+7.111
+12.37 11.19
+8.6
+8.15 5.189 5.189 5.206 5.218
+7 137
+9 124
+9 125
+9.32 7.38
+97
+
+TB /T 454.1一2021
+估计位置一 固定停号 固定应答器- 故障. 故障一安全 故障办理 故障电流 故障积累 拐肘 关闭停号一 光带 光带式表示 光点式表示 轨道变压器箱 轨道娈阻器 轨道电抗器 轨道电路- 轨道电路电码化 轨道电路分割 轨道电路分路状态 轨道电路极限长度 轨道电路调谐区标志牌 轨道电路调整余量 轨道电路调整状态 轨道电路信息接收单元- 轨道电路蓄电现象 轨道电路一次调整 轨道电路最不利条件 轨道接触器 轨道空闲 轨道滤波器 轨道生电现象 轨道受电娈压器 轨道送电娈压器 轨道占用 过程空档 过走防护区
+7.46
+后圈 后退停号. 弧形伸缩器 环线 . 环状供电 . 缓动继电器 缓放继电器 缓放时间 缓解时间 缓吸继电器 缓吸肘间 汇流排 混合电源 混合供电制 火炬停号-
+11.37 4.37
+47
+7.10
+9.148
+15.4
+7.14
+15.1
+14.9
+15.37
+11.62 11.64 11.17 9.117 11.63 11.16 5。204
+12.21
+15.38
+5。231
+4.48
+5。203 5。78 5。77
+14.13
+10.87 10.79
+14.3
+4.13
+10 78
+10.1
+1。27
+机车感应器 玑车接近通知 机车没备 枧号 机车声号测丫段 机车信号杌 : 机车停号接通标 机车停号模式 机车停号设备 机车停号作用点 机控优先一 机外停车 机务段联系电路 机械臂板停号机 机械化驼峰 机械集中联锁 机械绝缘节 机械联锁机 机械锁闭 基本进路- 基本联锁电路 基本路牌机- 基本路签机:. 级间转换- 级间转换标
+7.135
+20 R
+7.149
+10。?7
+133
+10.41
+4.9
+4。109
+7.128 4.86
+10.42
+10.38 7.15
+4.106 108 121 129
+10.54
+10.40
+10.39
+7.75
+5.252 10 34
+15.46
+5.166 4.57
+10.86 10.55
+9.12
+10.77 10.76
+5.4
+10.68 5。190 5.31
+10.35
+9.131
+7.30
+5.56 5.148
+6.60 6.58 7.81 4.115
+焊接式钢轨接续线 横向连接 后接点- 98
+10 75
+10.89
+11.4
+
+TB/T 454.1一2021
+极频轨道电路 极频自动闭塞: 极性检查电路 极性交叉 极性脉冲轨道电路 集控站 集中场间联系电路 集中场与驼峰场间联系电路 集中道岔 集中电源 集中供电 集中联锁 挤岔 挤岔保护 挤岔报警 挤切 挤切力 挤切销 挤脱 计划有效性检查一 计算机联锁 计算速度 计算停车点 计轴轨道检查装置 计轴轨道区段 计轴轨道区段负轴状态 计轴轨道区段空闲状态 计轴轨道区段占用状态 继电半舟动闭塞 继电储存器: 继电器 继电器并联传递网路 继电器并联网路 继电器串联网路 继电器防震架 继电器控制电源 继电器励磁 继电器灵敏度 继电器落下 继电器失磁 继电器室 继电器释放 继电器吸起
+10.12 6。24 5。145 10.62 10.15
+继电器箱 继电式电气集中联锁 继续进路- 加封 加减拐肘 加减速顶 加速坡 加速推送停号- 尖端杆 间隔制动 间隔制动位 减速顶 减速器 减速器出口速度 减速器丁作状态 减速器缓解状态 减速器接近限界 减速器入几速度 减速器制动状态 咸速推送停号.. 减速 号 简易鸵峰 箭翎线 交流电源屏 交流二元二位继电 交流供电制 交流轨道电路: 交流计数电码轨道电路 交流计数电码自动闭塞- 交流继电器 交流转辙机 交直流继电器 较大限制停号- 较大允许停号- 接车进路 . 接车进路停号机 - 接车停号一 接触不良 接触式机车信号 接地报警一 接点闭合一 接点断开.. 接点共同行程
+5。211
+5.8
+5。60 15.41
+5.237 9.147
+8.8
+5.163 5.162 5.102 14.16 14.7
+9.137
+4.34
+5。241
+9.83 9.97
+5.3
+9.146 12。10 9.106 9.112 9.113 9.114
+15.43
+12.17
+5.81
+12.31 12.33
+12。32
+9.105 9.111
+13
+4.35
+5。13 9.103 9.7
+4.21
+9.13
+9.143
+10.90
+14.23 11.60 14.2 10.3 10.17 6.25 11.41
+10.91
+10.94
+10.92 10.93 6.12
+9.65
+11。1
+12.3
+5.127 5.125 5.126 5.212 14.38
+11.42
+4.39
+4.41
+5.53
+4.69
+11.10 11.32 11.11
+4.25 15.35 7.126 5.83 11.8 11.9 11.29
+11.11 16.29 11.11 11.10
+99
+
+TB /T 454.1一2021
+接点回跳时间 接点间隙 接点齐度 接点系统 接点系统 接点压力 接发车进路停号机 接杆 接近表示 接近点灯 接近发码 接近区段 接近区段长度 接近锁闭 接近信号机 接收线圈 结合杆 解除闭塞 解码器 解锁: 解锁按钮盘 解锁电路 解锁进路一 解锁力 解锁条件 紧急制动 紧急制动距离 尽头停号机: 进路 进路表 进路表示器 进路表示器电路 进路操纵作业- 进路储存器 进路存储 . 进路分段解锁:一 进路继电式电气集中联锁- 进路解锁 . 进路人T解锁 进路人T控制 进路式驼峰电气集中 进路适合性数据 - 进路锁闭 100
+11.27 11.28 11.30 11.35 12.12 11.33
+进路锁闭表示 进路停号机- 进路序列 进路一次解锁 进路制停号 进路自动控制 进入异线 进行停号一 进站停号机 禁溜车停留线 禁止信号 警冲标 警冲标内方 警冲标外方 警惕按钮 警惕手柄 静态速度曲线 - 局部电源 局部控制- 忌部控制电路 局部~剀盘 绝+乍号: 绝缘不良 绝缘节 绝缘破损
+5。69
+4.68
+8。20 5。39 4.16 8.21
+4.71
+15.45
+5.228 5。63
+4.19
+4.65
+6.36 6.35 5.109
+9。24 4.22 4.102 16.10
+13.11 5。25 4.79
+16.11
+7.139 7.138 7.65 14.17 5.89
+7.134
+5。227
+5.41
+8
+1
+5.165 5。214 4.23
+5。179 5.151 5.94 12.39
+15.33
+10.66 10.69
+5。137 7.71
+7.72
+4.88 5.49
+开闭器 开闭器 开放停号一 开口速度- 开路 开路式轨道电路 开通 可娈应答器 可靠性 空报文- 空档 空间间隔制 空线: 控制盘 控制台
+12.19 12.26
+5。117 4.91
+4.47
+5。170
+7.37
+9.50 9.63
+5.139
+10。20 15.40
+8.24 5.40
+7.11
+5.10
+15.2
+5.38
+7.93
+5.42
+9.130
+8.22 9.47
+6.3
+9.73 5。178 5.175
+7.60 5。23
+
+T/T 454.1一2021
+控制台单元 控制台室 控制条件 快动继电器 快速转辙机- 快吸继电器
+5。194 16.27
+列车超速防护 列车调度指挥系统 列车接近通知时间 列车接口单元 : 列车进路一 列车冒进防护 - 列车数据- 列车完整性 列车位置表示 - 列车位置置停区间 列车信号 列车信号机 列车预确报 列车运行后方- 列车运行控制应用等级 列车运行前方 列车运行调整计划 列车自动驾驶 列牟肖动控制 列车最大安全后端 列牟灵大安全前端 列它最小安伞气端- 列车蕞小妾4J端 - 列车作业 列控车载设备 列控地面设备 列控中心 邻线干扰 临界不转极电压值 临时限速 临时限速服务器 临时限速管辖范围 零层端子 溜放一 溜放部分 溜放进路 . 溜放速度一 溜放线 溜逸:一 漏解锁 漏锁闭 路牌锁闭器 路签:
+7.4
+8
+5.134
+13.10 7.18
+11.65
+12.9
+5。50
+11.66
+7.31
+7.58 7 57
+8。28 7.47
+拉钮 LED 色灯信号机 雷达测速器 雷电干扰 冷却塔 离去表示 离去区段 立即等级转换命令 立即复零 励磁电路 励磁接点 励磁条件 连挂区 连挂速度 连接杆 连续式轨道电路 连续式机车信号 连续式调速系统- 连续数据传输 联锁 联锁表 联锁道岔 联锁计算机 联锁区 联锁设备 联锁试验 联锁图表 联锁箱 联锁箱联锁: 联系电路 链接. 链接距离 链接停息 两点检查
+5.198 4.55 9.89 15.16
+4。17
+4.80 8。27 7.53
+9.127 5。64
+7.2
+5.111
+7 52
+7.85 10.97
+8.12 7.5
+5
+7.3
+7 51
+5.132
+7.48
+9.31
+7.50 7.49
+9.44
+5.229 10 5
+16.22
+7_ 6
+7.123
+7_
+9.79
+7.21 15.10 11.26 7.78
+7.41
+5。1
+5.116 5.100
+7.79 7 80
+5.181
+5。104
+5.208 9.36 9.29
+5.2
+5.118 5.115 5.222 5.16 5.156
+9.53
+9.43
+9.22 7.56
+7.99
+15.25 15.24 6.57
+7.100
+7.101
+5.47
+6.48
+101
+
+TB /T 454.1一2021
+路牌携带器 路签携带器- 路牌自动授受机 路签自动授受机 乱显示 - 落下接点 落下时间 落下值
+6.62 6.62 6.63 6.63
+票据传送设备 频率式轨道电路 平行进路 平行作业 坡度牵卅线- 破封
+9.142
+10.11 5。55
+16.24
+4.45
+9.20 15.42
+11.4
+11.13
+11.21
+U
+气笛 牵卅线 牵引力 牵引小车 牵纵拐肘 前接点 前圈 钳夹式减速器 强电干扰 桥接点- 桥粱通知设备 !断音响按钮 侵 ) :总齐绝缘 区段锁闭: 区段占用 区间闭塞 区间道岔 区间轨道电路分割点调谐区标志  区间空闲 区间联系电路 区间逻辑检查 区间停号 区间占用 区域联锁 取消闭塞一 取消进路- 全缓解时间 全制动时间 拳头钩
+7.143
+9.19 12.34
+脉冲轨道电路 脉冲继电器 脉冲自动闭塞 满线- 冒进停号 密贴检查器 密贴调整杆 密钥管理 灭火花电路 模式 摩擦电流 摩擦联结器 默认报文 目标点- 目标距离 目标距离模式曲线 目标速度 目的制动 目的制动位 目视行车模式
+10.6
+11.43 6.21 9.74
+9.101 5。238 11.3
+15.47
+11.36 9.91 15.11
+12.16 5.242 117
+11. 7
+13.17 13.14
+132
+12.21 12.20
+10.70 5。27
+7.92 7.32
+5。75
+6.4
+7.33
+16.21 4.112 6.5
+7.42 7.34
+9.84 9.98 7.110
+5.157
+6.31
+3.2
+6.6
+5.14
+难行车 难行线 内撑式减速器 内燃牵引干扰 内锁闭装置 逆娈器
+9.138
+6.42
+9.150
+5.93
+9.92 15.15
+9.116 9.115 9.134
+12.14
+14.28
+RBC 切换 热力继电器 人丁分路
+7.88 11.49 10.58
+排列进路 偏极继电器 102
+5.91
+11.53
+
+] 工 454.1一2021
+人丁解锁 人丁解锁表示 人丁控制道口停号 - 人机界面 人控优先一 认证密钥 容许停号 熔断器 熔断器断丝 熔丝报警 - 入口电流
+5.41
+双闭磁路继电器 双重控制 - 双动道岔 双断 双轨条轨道电路 双溜放: 双频感应器 双推单溜 - 双推双溜 - 双线臂板停号机 双向行车 双向自动闭塞一 水分离器 水鹤标志 水鹤表示器- 顺向重叠进路 瞬时分路 瞬时分路不良 司法数据 习机号 死区= 凹讣追岔 四显示桄车断开示 四显示机车信号接 迈 '示 四显示肖动闭塞- 送电端 送受分开电路 速差制停号 隧道通知设备 所间区间 锁闭: 锁闭电路 锁闭杆 锁闭力 锁闭条件 锁闭装置 锁簧床
+11.59
+5.70
+5.90
+13.3
+16.18
+7.19
+5.143 10.23 9.38 7.145
+7.74
+7.118
+4.24
+14.41
+9.40
+15.29
+9.41
+5.82 10.32
+4.60
+16.13 6.19
+8
+9.121
+4.99
+塞钉式钢轨接续线 三点检查 三动道岔 三显示自动闭塞 色灯电锁器联锁 色灯停号机 闪光电源 闪光信号 上行 上行方面 上行咽喉 设备干预 设备故障 设备停用 失磁接点 失去联锁 时间继电器 时间间隔制 时钟同少 视觉停号 释放时间 释放值 手柄 手动栏木一 手动调压 手动作业一 手停号一 受电端 数字记录单元:
+10.74
+4.99
+5.48
+5.59 10.59
+16.19 6。27
+15.8
+7.59
+2
+7 61
+14.40
+10.53 16.20 4.108 4.107 6。28 10.44
+4.14 16.1
+16.3
+16.6
+7.62
+15.5
+5.146 4.15 13.18 4.。74
+15.39
+11.4
+15.26
+11.61 6.2
+5。22 5.150 12.24
+8.10
+4.2
+12.38 5。136 12。13
+11.13
+11.21 5.195 13.6
+5。191
+14.30
+9.49
+4.11 10.45
+'工"型拐肘 弹力继电器 探照式色灯停号机-
+5。233
+11.48
+7.17
+4.54
+103
+
+TB /T 454.1一2021
+套管式伸缩器 替换路签 天窗 条件 条件电源 条件电源屏 调速系统控制长度 跳线 铁路停号 铁路信号安全数据网 铁鞋 听觉信号 停车停号 停电 停放制动 通过按钮电路 通过进路 通过停号 通过信号机 同意按钮盘 透镜式色灯信号机 途停- 推峰速度自动控制 推送部分 推送进路一 推送速度 推送线- 推送停号 退行 脱轨 脱轨标志 脱轨表示器 脱轨器 脱鞋器 驼峰 驼峰电气集中 - 驼峰调车场 驼峰调车进路控制 驼峰繁忙小时解体能力 驼峰辅助停号机 驼峰钩车溜放进路控制 驼峰钩车溜放速度控制 驼峰集中联锁 104
+9.126 6.56 9.130 5.128 14。14
+驼峰解体能力 驼峰解体作业量一 驼峰空气压缩机站 驼峰手动操纵盘 驼峰调速系统 驼峰调速制式 驼峰头部 驼峰推峰机车信号- 驼峰推峰机车遥控 驼峰推送进路控制 驼峰尾部 驼峰停号 驼峰停号机 驼峰液压动力室 驼峰迂回线 驼峰月动集中一
+9.34
+9.33
+16.33
+9.135
+9.76 9.75
+14.25 9.80 10.72
+9.8
+9.62 9.61
+3.1
+7.23 9.144
+9.56
+9.9
+4.3
+3.4
+4.22 15.27
+4.82 16.34 9.23
+7.73
+5。173 5。52 4.27
+9.48
+外锁闭装置 元全监控模式 完全钡 月一 完午-吸起付 晚点表示 网路 危险点- 稳压器 无岔区段 无级调压 无极继电器 无极加强继电器 无绝缘轨道电路 - 无条件紧急停车消息 无线闭塞中心 无线接/发车进路自动预告 无线盲区 无线消息超时 无源应答器
+12.15
+80
+7.104
+4.53 9.70 9.60 9.28 9.52 9.42 9.21
+5。25 11.19 8。31 5.123 7.28 14.44
+5.107
+4.32
+14.32 11.51
+7.55
+15.44
+11.55 10.8 7.76 7 22
+4.98
+4.98
+5。250 9.145
+8.23 7.119 120 7.10
+9.6
+9.45
+9.5
+9.57
+9 35
+4.83 9.58 9.59 9.55
+吸合时间 吸起接点 吸起时间
+11.12 11.3 11.12
+
+T/T 454.1一2021
+吸起值 下峰停号一 下坡道防护电路 下行:: 下行方面 下行咽喉 显示距离 现地操纵- 限界检查器 限肘人T解锁 限制性行车许可 线路区段 线路所通过停号机 线路占用表示 线路遮断表示器 线群出发信号机 线群卅站停号机- 线束 线束调车信号机 线束减速器: 线头脱落 相敏轨道电路 响墩停片- 消息 消息认证码 谐波干扰 停号 停号表示 信号灯调压 停号点 停号复示器 停号关闭 停号关闭表示 停号机 - 停号机点灯电路 停号机点灯电源 停号机房 停号机后方 停号机内方 停号机前方 停号机外方 停号机械室 停号集中监测
+11.18 4.36 5.168 16.2
+停号计算机室 停号开放 . 停号开放表示 停号控制电路 16.4 停号楼 16.7 信号桥 - 4.46 停号托架 . 5.89 停号握柄 9.102 停号无效标 5.44 停号显示 - 7.26 停号选别器 5。108 停号有效性检查 4.73 停息包 5.74 行车许可 4.98 行车许可的取消 4.67 行牟许可终点 4。67 行车作业 9.14 休眠模式 蓄电池供电 94 茛分路签一 15.31 选蹬 10.18 4.12 #,服务 7.114 7.116 杰 15.13 压钩坡 4.1 压力主管 5.66 咽喉停号机 14.19 延续进路一 6.37 钥匙路牌 5.202 钥匙路牌器 4.50 钥匙路签- 5.68 钥匙路签器 4.51 夜间停号 5.153 一次参数 14.18 一次电池供电 16.28 一送多受 16.9 一送一受 16.9 移动停号 16.8 移轨 16.8 移频轨道电路 16.29 移频脉冲轨道电路 16.16 移频肖动闭塞
+16.28 4.49
+5。67 5.152 16.25 4。64
+4。63
+5。224 4.105
+4.43
+5。251 8。14
+7.115 7.24 7.27 7.25 16.22 7.107
+14.11
+6.49
+5。95 5.149
+9.136 7.141
+4.87
+5.60
+6.53
+6.55
+6.52 6.54
+4.5
+10.63 14.10 10.47
+10.46
+4.8
+10.56
+10.13 10.19 6.23
+105
+
+TB /T 454.1一2021
+移位接触器 译码器 易行车 易行线 音响停号 引导模式 引导停号一 引导总锁闭- 应答器 应答器读写丁具 应答器停息接收单元 应答器组 应答器组定位基准点 应答器组坐标系 用户报文一 油水分离器 有极继电器 有极加强继电器 有条件等级转换命令 有条件紧急停车消息 有源应答器- 迂回进路 预办闭塞 预叠加电码化 预复零 预告标 预告复示式显示制度 预告式显示制度 预告停号 预告停号机 预排进路 预先锁闭 越行 允许速度 允许停号 允许预推停号
+12.25 10.85
+站内道口联系电路 照查锁闭: 照查条件 遮断停号. 遮断停号机- 整流继电器 整流器 整流器供电 正常动作继电器 正方向 正面冲突 正签: 正装 直角拐肘 直立拐肘 直流电源屏 直流供电制 直流轨道电路 直流继电器 与流转辙机 直通:"路 直线坏肘 制动能意 一 制动曲线 - 制动位- 制动主管 中国列车运行控制系统 中继站标 中间电缆盒 中途返回 中途折返 中心操作- 中性接点- 终端电缆盒 重力继电器 昼间信号 昼夜通用停号 主灯丝断丝报警 主电源 - 主体信号机- 注意停号一 转换时间 转换锁闭器
+5.167 5.26 5。138 4.31
+9.139 9.151
+4.3
+4.85 11.50 14.43
+7.109
+4.28 5。29
+14.12 11.67 7.97
+7.9
+7.13
+7.16
+15.48
+7.94
+6.50
+7.96
+12.27 5。234
+7.95
+7.90
+5.232 14.24 14.1
+9.120
+11.52 1.55
+10.2
+11.40
+12.4
+7.11 5.57
+5.52 5.235
+6.40 10.31
+9.81
+7.67 9.82
+10.96 少 104
+140
+7.132 7.130 4。29
+7.1
+4.114 5。219 5.97
+77
+5.92 5.24
+5.97
+8.17
+7 54
+11.2
+7.35
+5.220 11.47
+4.19
+4.4
+4.33
+4.6
+5.80 14.5
+占线表示 站场型网路 站间联系电路 站界标 106
+8.30
+4.75
+5。124 5.160 4.103
+4.20 11.14 5。240
+
+T/T 454.1一2021
+转极时间 转极值 转向杆 转辙机 - 转辙锁闭器 追钩: 追尾 雄备进路 桌上握柄 自保电路 舟闭电路 舟闭条件 舟动闭塞一 舟动闭塞供电线路 舟动闭塞联系电路 舟动闭塞停号线路 舟动操纵作业- 舟动抄车号 自动化编组站 自动化驼峰 自动缓解 自动开闭器 自动栏木 肖动排路: 自动切换 |动调压 自动停车 自动停车装置 自动通过按钮电路
+11.15 11.23 5。230
+自动限时解锁- 自动选路. 自动站间闭塞 自动转接 自复式按钮 自律机 综合柜 综合架 走线架 ZPW-2OOO 系列轨道电路 阻抗连接娈压器 组合 组合保持继电器 组合端子 组合继电器 组合柜 组合架 组合式电气集中联锁 组合式停号机构 月匣 组匣 组D式电气亲中联锁一 最大常用刷- 最大限制停号 最大允许停号.. 最近相关应答器组 最限制速度曲线 最易行车 座式继电器
+5.46 8。25
+6。29 14.21 5 199
+12.2
+5.239 9。67
+8.9
+15.50
+5.186
+5.91
+5.186
+5.193
+5。205 10.14 10.81 5.183 11.57 5。209 11.54
+5.122 5.122 5。133 6.15
+14.33 5.158 14.34
+5.185 5.185 5.11
+9.51
+141
+4.89
+5.184 5.187 5。12 7.69
+15.23 12.19 13 7
+8.26 14.21
+4.38
+4.40
+14.29
+7.98 7.64 9.140
+7.124
+7.125 5。174
+11.45
+107
+
+TB /T 454.1一2021
+英  文  索  引
+approach locking 5.25 approach repeating indication system 7.132 approach section 5.109 approach section of level crossing 13.9 approach signal 4.79 approaching announcing in cab 149 approaching signal 4.29 asymmetrical high voltage impulse track Circuit 10.16 AIC 7.3 AIO 7.5 ATP 7.4 ATP with high priority 7.75 audible signal 4.3 authentication key 7.118 automatic block power line 14.33 ''tomatic block signal line 14.34 auto block system 6,15 aut luatic b' with AC counting code track Circuit, 6.25 aultomatic bloch TIL symretrical high voltage impulse track circuits 6.22 automatic block with audio frequel hift modulated track circuits 6.23 automatic block with coded track circuits 6。20
+absolute signal AC counting code track circuit AC power supply panel AC power supply system AC relay AC switch machine AC track circuit AC two element two position relay AC battery power source ACbattery power S11r JIy system acceleration grade AC DC relay acknowledgment button acknowledgment lever acoustic signal adjustable crank adjustable switch operating rod agreement button panel air pipe line air pipe line governor air reservoir alarm alarm [Or false ground alarm [Or burn Out O[ fuse alarm for burnout Of main filament alarm for burnout Of filaments alarm for trailed switch allow t0 aPproach the humping signal all-relay interlocking all-relay interlocking for shunting area all-relay semi-automatic block system alternate staff alternative route application level Of train control system approach coding approach indication approach indication system approach lighting 108
+4.23 10.17
+14.23 14.2
+11.41
+12.3
+10.3
+11.60 14.13
+14.3
+9.137
+11.42 139
+5。237 5.242 5.180 9.125 9.124 9.119 5。79 5.83 5.82 5.80
+automatic block with double direction running 6 19 altomatic block with impulse track circuits 6.21 automatic block with polar frequency coded track circuits 6.24 automatic block with single direction running 6.18 automatic Car identification 9.141 automatic control for humping speed 9.60 automatic door control 7.148 automatic hump 9.10 automatic level crossing signal 13.4 altomatic level crossing warning 13.2
+5.81
+5.84
+4.33
+5.8
+5.7
+6.12
+6.56 5.57
+7.2
+6.35 5.63 7.130
+6.36
+
+T/T 454.1一2021
+automatic marshalling station 9.2 automatic notice Of wireless train approach/ departure 8.23 automatic operated barrier 13.7 automatic operation 9.51 alltomatic passing button circuit 5.174 altomatic route setting 8.26 altomatic routing 8.25 automatic staff exchanger 6.63 automatic tablet exchanger 6.63 automatic station block 6.29 automatic switching over 14.21 automatic time release 5.46 automatic train control 7.3
+block cleared block door block instrument block section block section signal sign block signal block signal located at the block Post braking consumption height braking curve braking distance, emergency braking distance, service braking main branch turnout break 3 Seal break-uP capacity of hump bridge contact bridge warning device buffer stop indicator bus-bar ;''tton butt ^ Tor cut-off audible signal 服 cab remote control jr huri e cab signal cab signal cab signal box cab signal connecting sign cab signal for humping cab signal inductor location cab signal mode cab signal testing section cab signaling equipment cable box cable branching terminal box cable lead-in room cable lighting protection and distribution TOOnI cable sleeve Cable terminal box Cable terminal box OI Dost Cable termination box
+6.41
+9.71
+6.44
+6.30 4.113 4.72 4.73 9.81
+7.67
+7.72 7.70 7.140 9.15
+15.42
+automatic train Operati1 automatic train Prote:tior automatic train stOp automatic train stop equipment automatic voltage regulator automatic voltage regulator automation system O[ marshalling station autonomous computer auxiliary instrument auxiliary tablet instrument axle counter train detection device axle track section
+7.
+9.34
+7
+11.7
+7.124 125
+13.17
+4.100 5.204
+4. ?9
+5.196 13.14
+9.3
+8.9
+6.59
+6.61 10.90 10.91
+9.61
+4.9
+4.86
+7.137 4.106 9.62 7.129 7.108 7.128
+back coil
+11.37 11.4
+back contact
+balise
+7.9
+balise group balise group co-ordinate system balise group location reference balise Programming tool balise transmission module
+7.94
+7.95 7.96
+7.121 5.215 5.218 16.30
+7.13
+7.16
+balise, fixed balise, switchable ballast resistance ratio
+7.10 7.11
+16.31 5.221 5.216 5.217 5.220
+10.48
+basic route
+5.56 16.13 6.1
+bi-direction running block
+109
+
+TB /T 454.1一2021
+calculated speed calculated target point Call OI mode Calling OII Signal cancel block Cancel 3 route
+9.103
+coder 10.82 9.  coding 10.26 7.109 coding for station platform track 10.28 4.28 coding fOr station receiving-departure route 6.42 10.29 5.93 coding Of continuous track circuits 10.27 9.100 color light signal 4.52 4.100 combination relay 11.54 9.99 composite cabinet 5.186 9.67  composite rack 5.186 15.50 computer based interlocking 5.13 4.20 conditional emergency message 7.77 7.36 Conditional level transition order 7.86 8.17 conditiolal power source 14.14 8.8 conditional power supply Panel 14.25 5.3 Conflict route 5。61 9.55 conflicting signal 4.42 14.16 connecting circuit 5.156 connecting circuit between centralized 16 interlocking and hump yard 5.162 1 com 8.5 4.'n8 circuit between centralized yard 5.102 5.163 5。205 connectire t betwzen stations 5.160 16.15 connecting circiit Cor Meel yards 5.161 5。26 connecting circuit ol level ~) 18 Within 5.138 the station 5.167 7.1 connecting circuit with depot 5.166 10.81 connecting circuit with automatic blocks 5.205 5.158 5.164 connecting circuit with block istruments 9.91 5.159 9.142 connecting circuit with block signaling 5.157 9.96 connecting rod for indication 12.41 9.4 contact bounce time 11.27 4.47 contact clearance 11.28 5.67 contact closed 11.8 9.114 contact fault 15.35 9.102 cOntact homogeneity 11.30 10.92 contact Opeh 11.9 8.10 contact Pressure 11.33 10.21 contact system 11.35 5.140 contact system 12.12 10.7 Contact travel route 11.29
+Car accelerator
+car stop indicator Car replacer catch UP catch UP caution signal ceiling speed central operation Centralized control statici
+centralized interlockirg Centralized interlocking tor Hurr Jard centralized Power source centralized power supply centralized signaling monitoring Centralized traffic control centrally operated switch chamfer change Of running direction check locking check requisition Chinese train control system Choke transformer Chute circuit to hold a route for shunting clamp braking retarder classification list conveyer system classification track retarder classification yard Clear signal clear signal indication clearance of a retarder clearance treadle cleared clock synchronization close type track circuit closed circuit code track circuit
+110
+
+T/T 454.1一2021
+continued type speed control system continuous data transmission
+9.79 7.41
+departure indication 5。64 departure indicator 4.92 departure indicator circuit 5.171 departure route 5。54 departure signal 4.26 departure track indicator 4.94 dependent signal 4.76 derail indicator 4.98 derailer 5.250 derailment 15.41 desk type relay 11.45 detonating signal 4.12 detour routes 5.57 diesel traction interference 15.15 directional switch 7.142 directional traffic Power source 14.15 dispatching center 8.7 dispatching supervision 8.1 displacement contact 12.25 lissectible 12.31 disse  'hle Pin 12.32 dis: e~T:ng foi 12.33 distance 」  SJl' aspert 4.46 distance-tO-gO ?uTV? 7.42 distant signal 4.29 distant signal 4.77 distributing board 5.189 distributing cabinet 5.189 district interlocking 5.14 divisible staff 6.49 DMI 7.19 double break 5.143 double closed coupler 9.134 double frequency inductor 7.145 double humping 9.38 double humping and double rolling 9.41 double humping and single rolling 9.40 double rail track circuit 10.23 double shunt field relay 11.59 double signal location 6.39 double track all-relay semi automatic block system 6.14 double track automatic block system 6.17 111
+cOntinuous track circuit
+10.5
+continuous type cab signaling cOntrol console
+7.123 5.175 5.194
+cOntrol desk element
+control panel control requisition control room cooling tower coupler compressing grade coupling area coupling speed Cralk Crest platform Critical IO Dole ~changing voltafe crossing signaling Cross link Crosstalk interference CTC CTC control mode CTCS Currelt position
+5.178 5.134
+16.27
+9.127 9.136 9.31
+9.44
+5。231 9.26 11.26
+3.5
+19.89
+8.15 7.1
+7.45
+Cut
+9.32 10.61
+cut sectioll Cut-section Of a track circuit
+10.60
+danger point data recorder unit day signal DC power supply panel DC power supply system DC relay DC switch machine DC track circuit dead section decentralized self-regulated CTC decoder default telegram deflecting bar delay time indication
+7.28 7.17
+4.4
+14.24
+14。1
+11.40
+12.4 10.2
+10.53
+8
+10.85 7.92 5.230 8.31
+
+TB/T 454.1一2021
+double-wire operated semaphore 4.60 electropneumatic conveyer double-working switches 16.18 electropneumatic switch machine down direction 16.4 electropneumatic valve down line 16.2 emergency brake down throat 16.7 emergency control mode down traffic 16.2 emergency treatment after failure dowty accelerator-retarder 9.147 empty telegram dowty-retarder 9.146 empty track draw-Out track at grade 9.20 end Of authority driver identity 7.61 energized value driver with high priority 7.74 energizilg circuit driver machine interface 7.19 energizing requisition driving system 12.11 energy height taken out per unit length drop away time 11.13 energy height O[ car dual control 5.90 Clter 011 unexpected track dwarf signal 4.62 Cntralce route dynamic train speed profile 7.66 entralce speed at retarder EoA equipment failure ~祢准 Out Of use easiest rolling car 9.140 ESCI'i,It easy rolling Car 9.139 estizated P'_ Ton easy rolling track 9.151 estimate; 」(' electric interlocking 5.6 exit route electric interlocking for hump yard 9.45 exit short circuit current electric lock 5.253 exterlal locking device electric lock with handle 5.254 electric locking 5.30 electric siren 5.210 electric staff instrumett 6.45 fail-safe electric staff system 6.9 failure accumulation electric switch machine 12.5 failure on the safe side electric tablet block system 6.10 false indication electric tablet iustrumelt 6.46 false iudication Of switch electric traction interference 15.14 false locking electrical isolated joints 10.67 false release electromagnetic relay 11.38 false release by itself electromechanical cab signaling 7.126 fault electro-mechanical interlocking 5.5 feed end electro-mechanical interlocking machine first approach section 5.192 first section after the departure electronic executive unit 5.182 fishing electronic route storage 9.64 fixed signal 112
+9.149 12.6
+9.122 7.71
+8.16 15.37
+7.93
+9.73
+7.25
+11.24
+5.121 5.132 9.110
+9.109 15.45
+5.53
+9.105 7.25 15.5
+15.39 5.238 7.46
+7.38
+5.54
+10.33 12.15
+15
+15.38 15.7
+4.45
+15.22 15.17 15.18
+15.23 15.4
+10.44
+5.110 5.112 9.66
+47
+
+] 工 454.1一2021
+flank collision flank Protection flashing power source flashing signal floating charge power supply fouling post four-aspect automatic block 止 ~aspect cab signal connecting sign 4-aspect cab signal disconnecting sign frequency track circuit frequency-shift and pulse track circuit frequency-shift track circuit frictional clutch frictional working current front coil front conflict [ront contact [ront rod full braking time full releasing time full supervision mode full track fundamental interlocking circuit fuse fuse burn-out
+15.49
+head of hump head on collision heavy duty switch machine heel contact herrirgbone track HF track circuit high resistance wheel high signal high voltage interference hold route [or shunting home signal horizontal wheel
+9.8
+9.72 14.40
+15.48
+12.8
+4.14
+11.2
+14.4
+9.143 10.9
+4.102 6.28 4.107 4.108 10.11
+9.133 4.61
+15.11
+5.96
+10.19 10.13 12.20 12.21 11.36 15.48
+4.65 5.246 5.249
+horizontal wheel assembly hourly break-uP capacity when busy hump hump air compressor room hump auxiliary signal hump crest hump height ImP hydraulic Pressure engine room hum DP track hurD npera nalel hump sign? hump signaling hump speed control system hump trimming signal hump yard humping back signal humping fast signal humping slow signal hydraulic switch machine
+9.35 9.6
+16.33 4.83 9.25 9.27 16.34 9.23 9.135 4.82
+11.3
+5.241
+15
+104
+9.74
+5。148 14.41
+3.4
+15.29
+9.76 4.36
+9.5
+general calling-on locking geographical circuitry gravitation type relay gravity yard ground signal grouP of tracks group retarder group starting signal
+5.29
+4.37
+5.124 11.47
+4.34
+4.35
+9.13
+12。7
+4。10 9.14
+9.94
+immediate level tralsition order impulse relay impulse track circuit i advance Of in advance Of Signal i rear Of
+7.85
+4.67
+11.43
+10.6
+7.52 16.9
+hand signal haldle hard rolling car hard rolling track harmonic interference
+4.11
+5.195 9.138 9.150 15.13
+7.53 16.8
+i rear Of signal idicating Panel indication
+5.177 5。62
+113
+
+TB /T 454.1一2021
+indication circuit indication lamP idication of depressed button indication requisition indication rod idicator
+5.155 5。201
+intervention Curve
+7.63 inverter 14.28 isolated joints 10.66 isolated joints located within the clearance 10.70 isolating transformer 10.80 isolation mode 7.111
+5。71
+5.135 12.23 4.90 4.96 5.9
+idicator
+individual lever type all relay interlocking individual lever type all-relay interlocking for humP yard 9.46 iduction voltage regulator 14.31 inductive cab signaling 7.127 inner-support retarder 9.92 iside Of fouling point 16.10 Ilstant reset 10.97
+joint breakage jointless track circuit jumper juridical data
+10.69
+10.8
+10.72 7.59
+instantaneous loss Of shuiting 15.8 istantaneous shunt 10.59 key management 7.117 insulation fault 15.33 knob 5.195 interference interference from neighborilg line 10 '套 interlocked switch 5.100 interlocking 5。1 las: Jcievant !Jise grouP 7.98 interlocking area 5.104 leading (lt 7.20 interlocking by electric locks 5.17 LED signal 4.55 interlocking by electric locks with electric left-handed machine 12.28 semaphore 5。20 length measurement 9.86 interlocking by electric locks with light length of approach section 13.11 signals 5.18 length of speed control system 9.80 interlocking by electric locks with semaphore lenticular signal 4.53 5。19 letting the front portion pass and retarding interlocking by Doint detector 5.16 the rear portion 9.107 interlocking chart 5.115 level crossing barrier 13.5 interlocking computer 5.181 level crossing flashing signal 13.15 interlocking equipment 5.2 level crossing outdoor audible device 13.8 interlocking table 5.116 level crossing signal 13.12 interlocking test 5.118 level crossing signal control panel 13.13 interlocking with locally worked points 5.15 level crossing signal hut 16.32 intermediate cable terminal box 5.219 level crossing warning device 13.1 intermittent device 7. 8 level transition 7.81 intermittent transmission 7.40 level transition announcement 7.83 intermittent type cab signaling 7.122 level transition border 7.82 internal locking device 12.14 level transition information 7.87 intervention 7.62 level transition order 7.84
+114
+
+T/T 454.1一2021
+level transition sign light emitting diode signal light relay rack light strip light type relay lightning arrester lightning interference limit Of authority Iine side electronic unit linking linking distance linking information LoA local control local control circuit local control stand local power source locally operated switch lock and block instrument lock circuit lock requisition locked normal locked normal and reverse locked Out switch locked TCVCrsC locking locking bed locking device locking force locking in advance locking rod locomotive equipment locomotive inductor looP loop compensator looped power supply loss Of indication for switch loss of interlocking
+4.115 4.55
+main Power main Power source mainl signal mainl staff manometer regulator manual operated level crossing signal mallal operation malual release manual release button panel manual release indication manual release without time locking mahual route release
+14.8
+14.5
+5.188 5。203 11.39 14.42
+4.75 6.50 9.123 13.3
+15.16 7.26 7.12 7.99 7.100
+9.49
+5.41
+5.179 5。70 5.45
+101 7.26
+5.42
+mahual shunt
+10.58
+5.89 5.165 5.214 14.17
+manual time release manual voltage regulator manually operated barrier marker marshalling statio marshalling-departure track 'naster retarder Iast staff instrument
+5.44
+14.30 13.6
+4.96
+5 103
+9.1
+9.18 9.93
+). 10
+5.136 5.32 5.34 5.28 5.33
+6.58 6.60 15.32 7.48
+Ila ;t31 table
+strument
+material dllT
+Iax safe fronl end 八) ition max safe rear end Pysitiotr maximum service brake mechanical interlocking mechanical interlocking machine mechanical isolated joints mechanical locking mechanically operated semaphore signal mechanized hump yard message message authentication code midway return operation minl safe {ront end position min Safe rear end position miss route missing locking missing release mode modular all-relay interlocking modular block
+7.51
+5.22 5.191 12.13 12.38 5.24 12.24
+7.69
+5.4
+5.190 10.68 5.31
+4.57
+133 7.135
+9.12 7.114 7.116 5.97
+7.14 9.148
+7.49
+14.9
+15.21 15.26
+7.50 9.69 15.24
+15.25 7.102 5.12 5.184
+MI
+MA magnetic circuit
+7.24
+11.34
+115
+
+TB /T 454.1一2021
+modular design modular rack mono-indication obstruction signal mono-indication obstruction signal more favorable signal more restrictive signal most favorable signal most restrictive signal most restrictive speed Profile motor type coder movable signal IovemeIt authority multiple drives multi-motor multiple units multiply connected traci circuit NV_ negative axle nlmber network neutral relay neutral relay Vith heavy-duty contacts night signal 10 humping car storage track Ioll-interlocked switch IOI interlocking area nonstick button IOIl-Vital circuit noll-Vital relay normal acting relay normal Contact Iorminal direction
+4.89 5.187
+operating console operating rod for driving switch opposite route with overlapped section option route outgoing route Outside Of fouling Doint overlap overlap protection block section overlap section overlap track circuit overlapped coding overlapped coding in advance override OVCIIUII Signal OVCI Speed coupling
+5.176 12.40
+4.31
+5.58 5.57
+4.85 4.41
+5。54
+4.39 4.40
+16.11
+7.30
+4.38 7.64
+6.33 6.32 10.10 10.30 10.31 7.54
+10.81
+4.8
+7.24 12.18 7.113 10.25
+15.47
+9.132
+1).54 5 !3
+packet 7.115 Jarallel relay network 5.125 Parall。1 requisition 5.130 Pra:e: route。 5.55 Parkllg brarr 7.73 partial supervi:ion 1e 7.105 pendulum type code 10.83 permissive signal 4.24 permitted speed 7.35 Phase modulated track circuit 10.18 Pick-UP time 11.12 Pick-uP value 11.18 pipe compensator 5.226 Pipe installation 5.225 Pipe jaw 5.228 pipe joint 5。227 pipe link 5.229 plug bond 10.74 plug-in relay 11.46 plug-in trouble 15.30 plunger lock 5.239 point detector 5.222 point-continued type speed control system 9.78 Doint type speed control system 9.77
+11.51
+11.55
+4.5
+9.21
+5.101 5.105
+5.199 5.120
+11.39 11.67 11.5 7.97
+occupalcy indication 8.30 occupied 10.93 OIl sight mode 7.110 Onboard equipment Of train control system 7.6 on-board signaling 3.6 OIe-way traffic 16.12 open circuit 5。139 open type track circuit 10.20 116
+
+TB/T 454.1一2021
+polar transposition 10.62 Dolar frequency coded track circuit 10.12 Dolar impulse track circuit 10.15 polarity check 5.145 polarized relay 11.52 pole biased relay 11.53 pole changing time 11.15 pole changing value 11.23 Power control Unit 9.118 Power failure 15.27 power Off contact 12.26 power operated semaphore 4.58 Power source for indication lammp 14.39 Power source for relay Control 14.38 Power source for switrh cc-trol 14.35 Power source for swi ch Idicatic ] 14.37 Power source for switch opcrar 14.36 Power supply panel 14.22 power supply room POwer switching over panel '6 Pre reset 10.96 pressuring main 7.141 prevention Of repetitive clear of signal 5.36 preworking block 6.40 primary cell supply 14.10 Primary Parameter 10.63 proceed signal 4.19 Programmed stoP 7.147 protected section 6。34 protection circuit for heavy down grade approaching 5.168 protection circuit for switch Iying midway in receiving-departure track 5.169 protective turnout 5.98 Pull- button 5.198 Push button 5.197 pushing carriage 9.101 pushing route 9.52 pushing section 9.28 pushing speed 9.42 pushing track 9 21 Put signal at danger 4.48 put into operation 15.40
+quadruple-working switches quick_ acting relay quick-acting switch machine quick-Pick UP relay
+16.20 11.65
+12.9
+11.66
+radar speedometer radial arm
+9 89
+5.236 7.22 7.119 7.120 10.73
+radio block center radio hole
+radio message timeout rail bond
+rail impedance rail insulation
+10.49 10.65 15.34
+rail insulation fault ailway signal safety data network railt' signaling TaK?
+7.23 3.1
+9.32 11.20
+ratea valw_
+ratio Of satety COLI RBC RBC handover receiving coil receiving end receiving route receiving signal rectifier
+9.129 7.22 7.88
+7.134
+10.45
+5.53
+4.25
+14.43
+rectifier Power supply rectifier type relay regulated state Of a track circuit relay relay cabinet relay Case relay energized relay released relay room relay route storage relay sensitivity relay station sign
+14.12 11.50
+10.38
+11.1
+5。211 5.211 11.10 11.11 16.29 9.65 11.32 4.114
+117
+
+TB/T 454.1一2021
+release release 3 route
+5.37
+roll away rollability measurement rolling rolling down section rolling route rolling speed rolling track route route automatic control route control for cut rolling route control for humping route indicator
+7.56
+5.94
+9.88
+release circuit
+5。151
+9.36
+release factor
+11.31
+9.29
+release requisition release speed release speed at retarder release value
+5.137
+9.53
+7.37 9.106 11.21 5.48
+9.43
+9.22 5.49
+released by three sections released by tWO sections 5.47 releasing force 12.39 releasing time 9.117 reliability 15.2 remote end feeding circuit 5.146 remote surveillance anr tCI?metering for level Crossing 13.16 removed rail 10.56 repeated check 5.144 repeating indication system repeating signal 30 repeating signal 4.78 requisition 5.128 reset 10.95 resistance measurement 9.88 restriction signal 4.21 retained neutral polarized combination relay 11.57 retained neutral polarized relay with heavy duty CoItacts 11.56 retarder 12.10 retarder in closed state 9.111 retarder in working state 9.112 retarder location 9.82 retarder released 9.113 reverse contact 11.6 reverse direction permissive signal sign 4.111 reverse direction section stoP sign 4.110 reverse movement 7.55 reverse 110 moving voltage 11.25 reverse working value 11.22 revocation Of movement authority 7.27 right angle crank 5.234 right-handed machine 12.27 118
+8.21
+9.58
+9.56
+4.91
+route indicator circuit route locking route locking indication route malual control
+5.170
+5。23
+5.69
+8.22
+route presetting route release
+5.92
+5.38
+,Oute release at Once rOutr nlecting circuit IOU'C selecti
+5.39
+5.149
+5.95
+route seriuer route setting route sheet
+8.20
+5.91
+5.117
+route signal route signal for departure route signal for receiving route signal for receiving-departure route signaling route storage
+4.68
+4.70
+4.69
+4.71
+4.16
+8.24
+route storage 9.63 route storage type all relay interlocking for hump yard 9.48 route suitability data 7.60 route type all relay interlocking 5.10 route type all= relay interlocking for hump yard 9.47 routes with overlapped section in the same direction 5.59 running against current Of traffic 16.14 running signal 4.17
+
+T/T 454.1一2021
+Shot area shunt Shunt mode
+9.30 10.57 7.106 10.52 9.16 10.37 10.36 4.93 5.172 9.19 16.23
+Safe deceleration safety safety circuit safety contact safety coupling safety distance schedule validity check sealing searchlight signal second section after the departure secondary Parameter section after the depart: section betweel block Pos section blocked section cleared section locking section logic check section occupancy indication section Occupied section signaling sectional route release selected speed semaphore automatic lighting semaphore contact semaphore pole changer semaphore signal semi-automatic block machine semi-automatic block system semi-automatic hump semi_ automatic operation sequential operating Of switches sequential starting Of switches serially connected track circuit series relay network series requisition series-parallel requisition service brake shock absorber for relays short Circuit short Circuit Current
+7.39 15.3
+Shunt resistance
+shunt switch Protection section length shunted state Of track circuit shunting effect shunting indicator shunting indicator circuit shunting neck shunting operation shunting route shunting route shunting route control for humping shunting sensitivity shunting signal shunting signal shunting signal in group Of tracks shunting track hunting track indicator Sign 518-12 ! Signal Signal aspect aid II 2ltion signal at clear signal at danger signal box signal bracket signal bridge Signal cabin Signal control circuit Signal [or day and night Signal for stub-end track Signal in throat section Signal indication signal lever signal lighting circuit signal lighting power source signal location signal Out Of use sign signal repeater signal slot signal validity check
+5.119 12.26 9.128 7.29
+8.13 15.41
+4.54 5.113 10.64
+5.51
+9.54
+9.57
+5。111 4.74
+10.50
+4.18 4.81 4.84
+6.4
+6.5
+9.17
+31
+4.95
+5.75 6.6
+4.96
+4。1
+3.2
+4.51
+5.40
+4.43
+9.104
+4.49
+5.21 5。255 5.256 4.56 6.47
+4.50 16.25 4.63
+4.64 16.25
+6.11 9.11 9.50 5.88
+5.152
+4.6
+4.88 4.87
+5.87 10.24
+5.66 5.224 5.153 14.18
+5.126 5.129 5.131
+6.37
+7.68 5.212 5.141 10.32
+4.105 5.202 5.251 8.14
+119
+
+TB/T 454.1一2021
+signal visibility Signaling computer room signaling equipment room simultaneous working Single break single coil moderately slow release relay
+4.46
+staff with the key 6.52 staggering polarity 10.62 standard shult resistance 10.43 standard shunting sensitivity 10.51 standby mode 7.103 stand_by Power source 14.6 Start humping signal 4.32 starting signal 4.26 starting signal 4.66 static speed profile 7.65 station limit sign 4.103 station operation 8.18 station remote control 8.2 Sstatiol remote surveillance 8.3 station shunting operation 8.19 station signaling 3.3 stepless voltage regulation 14.32 Stick button 5.200 stick circuit 5.122 stick requisition 5.133 stoP i advance Of Signal 15.46 Strl ',71 the way 9 70 stor Lrt 9.130 Stop Sign fJ ectioi .?k circuit separation Doint 4.112 stoP signal 4.22 stop signal indication 5.68 stopper 9.152 stopping at target point 7.147 storage battery supply 14.11 straight crank 5.235 strip light indication 5.78 stroke 12.29 subsidiary staff 6.51 SucCessive route 5.60 successively worked parallel relay network 5.127 switch circuit controller 12.19 Switch closure 5.35 switch closure detector 12.16 Switch coltrol circuit 5.154 switch indication 5。65 Switch indicator 4.97 switch lever 5.223
+16.28 16.29 16.24 5.142
+11.68 single feeding and multiple receiving track Circuit 10.47 single feeding and single receiving track Circuit 10.46 single frequency inductor 7.144 single humping 9.37 single Pushing and single rolling 9.39 single rail track circuit 10.22 single shunt field rela 11.58 single signal location 6.38 single track allrelay semi-autou?atic 长 system 。i? single track automatic block system I single-wire operated semaphore 4.59 single-working switch 16.17 siren 7.143 skate 9.144 skate throw-Off device 9.145 skylight in the course of operation 9.131 sleeping mode 7.107 sleeve type compensator 9.126 slow Pick-Up time 11.16 SlOw release relay 11.64 Slow release time 11.17 slow-acting relay 11.62 slow-pick UP relay 11.63 space-interval system 6.3 spacing braking 9.83 spacing braking retarder location 9.97 spark extinguishing circuit 5.147 speed control for Cut rolling 9.59 speed measurement 9.85 speed signaling 4.15 spot light indication 5。77 spring-type relay 11.48 Staff key container 6.54 staff pouch 6。62 120
+
+TB/T 454.1一2021
+switch lever with indicator Switch lock Out indication switch machine switch machine iustallationl switch manual release switch normal indication switch resume
+4.101
+the worst condition 10.39 5.76 thermal relay 11.49 12。2 third section after the departure 5.114 12.42 three-aspect automatic block 6。27 5.43 throat of statioll 16.5 5.72 through button circuit 5.173 9.68 through route 5.52 switch reverse indication 5.73 through signal 4.27 switch sectionl 5.106 throw rod 12.22 SVitch starting 5.85 throwing movements 12.36 switch thrown under moving cars 15.36 time relay 11.61 sWitch transaction 5.86 time-interval system 6.2 sVitch With follow UP novement 5.99 torch signal 4.13 switch and lock mechanism 5.240 torpedo 4.12 switching service 16.23 track Circuit 10。1 switching time 12.35 track circuit maximum allowable spa length switchless Sectiot 5.107 10.41 track circuit one-setting 10.40 1' ~愆:~ track circuit recei ving module 7.15 rack circuit regulated allowance 10.42 table interlocker crack Circuit tuning 6.55 section Sign 4.109 tablet container with the key trac Iar 10.34 tablet lock 6.57 trac [iter 6.53 10.86 tablet with the key track galva' effect tail Of hump 9.9 10.55 tandem 7.112 track Iead 10.71 retarder 9.95 track occupancy idication 5。74 talgent 7.32 track occupied 10.35 target target braking 9.84 track reactor 10.78 target braking retarder location 9.98 track relay transformer 10.77 target distance 7.33 track rheostat 10.79 target shooting 9 108 track section 5.108 target speed 7.34 track storage effect 10.54 IDCS 8.4 track tralsformer 10.76 telegram 7.89 track transformer box 10.87 telegraph block system 6.8 track treadle 5.252 telephone block system 6. trackside equipment of train control system temporary speed restriction 7.78 7.7 temporary speed restriction Server 7.79 tractive force 12.34 temporary speed restriction set area 7.80 traffic operation 16.22 terminals for power supply 5.207 trailable 12.30 terminals Of 9 UIIlit block 5。209 trailed switch protection 12.17 terminals of layer 0 of relay racks 5.208 trailing Of switch 15.43 terminals on distributing board 5.206 train consist advance and out report 8.27 test looP 7.146 train Control Center 7.21 121
+
+TB/T 454.1一2021
+train data 7.58 train dispatching and commanding system 8.4 train integrity 7.57 train interface UIit 7.18 train number 8 11 train number indication 8.29 train operation adjustment schedule 8.12 train position confidence interval 7.47 train position indication 8.28 train route 5.50 train signal 4.80 train staff 6.48 train triP 7.31 transfer Of lighting indication 6.43 transfer time 11.14 transformer 14.45 transformer box 5.213 transmitted telegram 7.91 transmitting receiving device Of hlgh frequency track circuit 8 transmitting relay 。44 triple-working switches 16.19 T-type crank 5。233 tunnel warning device 13.18 turnout i block section 16.21 turnout switching device 12。1 tWO-aspect automatic block 6.26 type Of hump speed control 9。75
+valve type track circuit vehicle retarder vertical Cralk
+10.4
+9.90 5.232 5.247
+vertical wheel
+visllal signal vital Circuit voltage below level voltage regulation Of indication lamps voltage regulation Of signal lamps voltage stabilizer
+4。2
+5.119 15.28 14.20 14.19 14.44
+T
+Warning sign Warning time Of the approach Of a trainl water Crane indicator water Oil separator Mater separator wayside inductor T?{ ir Sign?l WeiE ht SCI welded boI_ Wheel slide wheel slip Wire Carrier wire compelsator Vire iunstallation Wire lead drop Out wire-adjusting screw Working current Working valve workload of humping operation Wrong clearing Of signal Wrong handling wrong indication Wrong stopping of Signal
+4.104 13.10
+4.99 9.120 9.121 7.136 4.10 9.87 10.75 7.43
+7.44
+5.248 5.245 5.243 15.31 5.244
+unconditional emergency message unit block unit block assembly cabinet unit block assembly rack unit type signal mechanism unit-block type allrelay interlocking unmechanized hump yard UP direction UP line UP throat UP traffic User data
+7.76
+5.183
+12.37
+5.185 5.185
+11.19 9.33 15.19
+4.89
+5.11
+15.6
+9.13
+4.44
+16.3
+15.20
+161
+16.6 16.1
+ZPW-2O00 series track circuit
+10.14
+7.90
+122
+
+行业杯准信息服务平台
+
+s 套 
+铁道行业标准 铁路通信信号词汇 第1部分:铁路信号词汇
+行业桥准信息6一 Glossary Of railway communication & signaling Part 1: Glossary Of railway sigualing TB/T454.1-2021 巾国铁道出版社有限公司出版 ,发行 (100054 ,北京市西城区布安门西街 &号) 读者服务部电话:市电(010)51873174 ,路电(021)73174 北京联兴盛业印刷股份有限公司印刷 版权专有 侵权必究 开本 :880 mmX1 230 11 1/16 印张:8 字数:237千宁 2021年6月第1版 2021年6月笫1次印刷
+151136347
+定  价: 100.00 元

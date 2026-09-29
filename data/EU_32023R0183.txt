@@ -1,0 +1,81 @@
+COMMISSION DELEGATED REGULATION (EU) 2023/183 
+of 23 November 2022
+amending Regulation (EU) 2019/6 of the European Parliament and of the Council as regards the 
+requirements on compliance with good laboratory practice for veterinary medicinal products set 
+out in Annex II to that Regulation 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on 
+veterinary medicinal products and repealing Directive 2001/82/EC (1), and in particular Article 146(1) thereof,
+Whereas:
+(1)
+Certain references to requirements for pre-clinical studies set out in Annex II to Regulation (EU) 2019/6 need to be 
+adapted to reflect the fact that compliance with good laboratory practice is not required in relation to efficacy 
+studies, but only for safety studies. Point I.1.6, point I.2.3.(1)(b), point I.2.4.(2)(b), point IIIb.3A(2) and point IIIb.4B. 
+(4)(b) of Annex II to Regulation (EU) 2019/6 should be adapted accordingly, thus ensuring that the provisions on 
+compliance with good laboratory practice are applied correctly. The European Medicines Agency has been consulted.
+(2)
+Regulation (EU) 2019/6 should therefore be amended accordingly.
+(3)
+Since Annex II to Regulation (EU) 2019/6, as replaced by Commission Delegated Regulation (EU) 2021/805 (2) has 
+applied since 28 January 2022, this Regulation should also apply from that date in order to avoid unnecessary 
+repetition of pharmacological, toxicological, residue and pre-clinical safety studies conducted with respect to 
+applications for marketing authorisations submitted before the entry into force of this Regulation.
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annex II to Regulation (EU) 2019/6 is amended in accordance with the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+(1) OJ L 4, 7.1.2019, p. 43.
+(2) Commission Delegated Regulation (EU) 2021/805 of 8 March 2021 amending Annex II to Regulation (EU) 2019/6 of the European 
+Parliament and of the Council (OJ L 180, 21.5.2021, p. 3).
+EN
+Official Journal of the European Union 
+30.1.2023 
+L 26/7  
+
+It shall apply from 28 January 2022.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 23 November 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 26/8 
+30.1.2023  
+
+ANNEX 
+Annex II to Regulation (EU) 2019/6 is amended as follows:
+(1) point I.1.6 is replaced by the following:
+I.1.6 ‘Pharmacological, toxicological, residue and pre-clinical safety studies shall be carried out in conformity with the 
+provisions related to Good Laboratory Practice (GLP) laid down in Directives 2004/10/EC (*) and 2004/9/EC (**) 
+of the European Parliament and of the Council;
+_____________
+(*)
+Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation 
+of laws, regulations and administrative provisions relating to the application of the principles of good laboratory 
+practice and the verification of their applications for tests on chemical substances (OJ L 50, 20.2.2004, p. 44).
+(**)
+Directive 2004/9/EC of the European Parliament and of the Council of 11 February 2004 on the inspection and 
+verification of good laboratory practice (GLP) (OJ L 50, 20.2.2004, p. 28).’
+(2) in point I.2.3(1), subpoint (b) is replaced by the following:
+‘(b) statement of compliance with GLP for pre-clinical safety studies, where applicable, together with a discussion of 
+the contribution that any non-GLP study may make to the overall risk assessment, and justification of non-GLP 
+status’;
+(3) in point I.2.4(2), subpoint (b) is replaced by the following:
+‘(b) a statement of compliance with GLP for pre-clinical safety studies, where applicable, together with a discussion of 
+the contribution that any non-GLP study may make to the overall risk assessment, and justification of non-GLP 
+status’;
+(4) in point IIIb.3A, subpoint (2) is replaced by the following:
+‘(2) Pre-clinical safety studies shall be carried out in compliance with GLP requirements.
+Non-GLP studies may be accepted for non-target species studies as well as studies evaluating immunological, 
+biological or genetic properties of the vaccine strains, under adequately controlled conditions. Other deviations 
+shall be justified’;
+(5) in point IIIb.4B, subpoint (4)(b) is deleted.
+EN
+Official Journal of the European Union 
+30.1.2023 
+L 26/9

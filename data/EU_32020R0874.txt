@@ -1,0 +1,1542 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COUNCIL REGULATION (EU) 2020/874 
+of 15 June 2020 
+amending Regulation (EU) No 1387/2013 suspending the autonomous Common Customs Tariff 
+duties on certain agricultural and industrial products 
+THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 31 thereof, 
+Having regard to the proposal from the European Commission, 
+Whereas: 
+(1) 
+In order to ensure a sufficient and uninterrupted supply of certain agricultural and industrial products which are not 
+produced in the Union and thereby avoid any disturbances in the market for those products, Common Customs 
+Tariff (CCT) duties of the type referred to in Article 56(2)(c) of Regulation (EU) No 952/2013 of the European 
+Parliament and of the Council (1) (‘CCT duties’) on those products have been suspended by Council Regulation (EU) 
+No 1387/2013 (2). Those products can be imported into the Union at reduced or zero duty rates. 
+(2) 
+The Union production of certain products that are not listed in the Annex to Regulation (EU) No 1387/2013 is 
+inadequate or non-existent. It is therefore in the interest of the Union to grant a total suspension of the CCT duties 
+on those products. 
+(3) 
+With a view to promoting integrated battery production in the Union in accordance with the communication from 
+the Commission of 17 May 2018 entitled ‘Europe on the Move – Sustainable Mobility for Europe: safe, connected, 
+and clean’, a partial suspension of the CCT duties should be granted in respect of certain products that are not listed 
+in the Annex to Regulation (EU) No 1387/2013. In addition, only a partial suspension of the CCT duties should be 
+granted in respect of certain products that are currently subject to complete suspensions. The date for the 
+mandatory review of those suspensions should be 31 December 2020 in order for that review to have regard to the 
+evolution of the battery sector in the Union. 
+(4) 
+In respect of the products on the candidate list referred to in Article 59 of Regulation (EC) No 1907/2006 of the 
+European Parliament and of the Council (3), only a partial suspension of the CCT duties should be granted. The date 
+for the mandatory review of those suspensions should be 31 December 2021, in order to allow economic operators 
+to replace such products with alternatives. 
+(1) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs 
+Code (OJ L 269, 10.10.2013, p. 1). 
+(2) Council Regulation (EU) No 1387/2013 of 17 December 2013 suspending the autonomous Common Customs Tariff duties on certain 
+agricultural and industrial products and repealing Regulation (EU) No 1344/2011 (OJ L 354, 28.12.2013, p. 201). 
+(3) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, 
+Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 
+1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council 
+Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1). 
+EN
+Official Journal of the European Union 
+L 204/18                                                                                                                                         
+26.6.2020   
+(5) 
+It is necessary to amend the product description, classification and end-use requirement for certain CCT duty 
+suspensions listed in the Annex to Regulation (EU) No 1387/2013 in order to take into account technical product 
+developments and economic trends in the market. 
+(6) 
+It is no longer in the interest of the Union to maintain suspensions of CCT duties for certain products listed in the 
+Annex to Regulation (EU) No 1387/2013. The suspensions for those products should therefore be withdrawn. 
+(7) 
+Regulation (EU) No 1387/2013 should therefore be amended accordingly. 
+(8) 
+In order to avoid any interruption of the application of the autonomous suspension scheme and to comply with the 
+guidelines in the communication from the Commission of 13 December 2011 concerning autonomous tariff 
+suspensions and quotas, the changes provided for in this Regulation regarding the suspensions for the products 
+concerned should apply from 1 July 2020. This Regulation should therefore enter into force as a matter of urgency, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The Annex to Regulation (EU) No 1387/2013 is amended in accordance with the Annex to this Regulation. 
+Article 2 
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union. 
+It shall apply from 1 July 2020. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 15 June 2020.  
+For the Council 
+The President 
+A. METELKO-ZGOMBIĆ     
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/19   
+ANNEX 
+The Annex to Regulation (EU) No 1387/2013 is amended as follows: 
+(1) all asterisks (*) and the related endnote containing the text ‘A newly introduced measure or a measure with amended conditions. Where more than one CN code is listed as falling within 
+the scope of the measure, the asterisk concerns the entire measure.’ are deleted; 
+(2) the entries with the serial numbers 0.2706, 0.2972, 0.3650, 0.3886, 0.3894, 0.3895, 0.4004, 0.4039, 0.4177, 0.4647, 0.4648, 0.4751, 0.5504, 0.5615, 0.5929, 0.6601, 0.6745, 
+0.7784 and 0.7803 are deleted; 
+(3) the following entries replace those entries that have the same serial numbers: 
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+‘0.7288 
+ex 2841 50 00 
+11 
+Potassium dichromate (CAS RN 7778-50-9) with a purity by weight of 99 % or more 
+2 % 
+- 
+31.12.2021 
+0.3419 
+ex 2850 00 20 
+80 
+Arsine (CAS RN 7784-42-1) with a purity by volume of 99,999 % or more 
+0 % 
+- 
+31.12.2024 
+0.2583 
+ex 2903 89 80 
+45 
+1,6,7,8,9,14,15,16,17,17,18,18-Dodecachloropentacyclo [12.2.1.16,9.02,13.05,10]octadeca-7,15- 
+diene (CAS RN 13560-89-9) with a purity by weight of 99 % or more 
+2 % 
+- 
+31.12.2021 
+0.2942 
+ex 2919 90 00 
+35 
+2,2'-Methylenebis(4,6-di-tert-butylphenyl) phosphate, monosodium salt (CAS RN 85209-91-2) 
+with a purity by weight of 95 % or more, with particles greater than 100 μm used in the 
+manufacture of nucleating agents with a particle size (D90) no greater than 35 μm as measured 
+by a light scattering technique (1) 
+0 % 
+- 
+31.12.2023 
+0.5037 
+ex 2922 49 85 
+17 
+Glycine (CAS RN 56-40-6) with a purity by weight of 95 % or more, whether or not with not 
+more than 5 % addition of anti-caking agent silicon dioxide (CAS RN 112926-00-8) 
+0 % 
+- 
+31.12.2020 
+0.3689 
+ex 2924 19 00 
+23 
+Acrylamide (CAS RN 79-06-1) with a purity by weight of 97 % or more 
+2 % 
+- 
+31.12.2021 
+0.6259 
+ex 2926 90 70 
+26 
+Cyfluthrin (ISO) (CAS RN 68359-37-5) with a purity by weight of 95,5 % or more for the use in 
+the manufacture of biocidal products (1) 
+0 % 
+- 
+31.12.2024 
+0.2656 
+ex 2931 39 90 
+38 
+N-(Phosphonomethyl)iminodiacetic acid (CAS RN 5994-61-6) containing by weight not more 
+than 15 % of water, and with a dry weight purity of 97 % or more 
+0 % 
+- 
+31.12.2024 
+0.7811 
+ex 2933 19 90 
+33 
+Fipronil (ISO) (CAS RN 120068-37-3) with a purity by weight of 95 % or more for the use in the 
+manufacture of veterinary medicine (1) 
+0 % 
+- 
+31.12.2024 
+0.4346 
+ex 2934 20 80 
+25 
+1,2-Benzisothiazol-3(2H)-one (CAS RN 2634-33-5) in the form of a powder with a purity by 
+weight of 95 % or more, or in an aqueous mixture containing by weight 20 % or more of 1,2- 
+benzisothiazol-3(2H)-one 
+0 % 
+- 
+31.12.2022 
+EN
+Official Journal of the European Union 
+L 204/20                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.5134 
+ex 3204 11 00 
+45 
+Preparation of dispersion dyes, containing: 
+— C.I. Disperse Orange 61 (CAS RN 12270-45-0) or Disperse Orange 288 (CAS RN 96662- 
+24-7), 
+— C.I. Disperse Blue 291:1 (CAS RN 872142-01-3), 
+— C.I. Disperse Violet 93:1 (CAS RN 122463-28-9),  
+whether or not containing C.I. Disperse Red 54 (CAS RN 6657-37-0) 
+0 % 
+- 
+31.12.2020 
+0.7318 
+ex 3603 00 60 
+10 
+Igniters for gas generators with an overall maximum length of 20,34 mm or more but not more 
+than 29,4 mm and a pin length of 6,68 mm (±0,3 mm) or more but not more than 7,54 mm 
+(±0,3 mm) 
+0 % 
+- 
+31.12.2022 
+0.5718 
+ex 3811 21 00 
+85 
+Additives: 
+— containing more than 20 % or more but not more than 45 % by weight of mineral oils, 
+— based on a mixture of branched dodecylphenol sulfide calcium salts, whether or not 
+carbonated,  
+for use in the manufacture of blends of additives (1) 
+0 % 
+- 
+31.12.2022 
+0.7512 
+ex 3811 29 00 
+18 
+Additives consisting of dihydroxy butanedioic acid – (mixed C12-16-alkyl and C13-rich 
+C11-14-isoalkyl) diester, for use in the manufacture of engine oils (1) 
+0 % 
+- 
+31.12.2023 
+0.3069 
+ex 3824 99 92 
+88 
+2,4,7,9-Tetramethyldec-5-yne-4,7-diol, hydroxyethylated (CAS RN 9014-85-1) 
+0 % 
+- 
+31.12.2020 
+0.4719 
+ex 3824 99 93 
+35 
+Paraffin with a level of chlorination of 70 % or more (CAS RN 63449-39-8) 
+0 % 
+- 
+31.12.2024 
+0.6953 
+ex 3901 40 00 
+20 
+Octene linear low-density polyethylene (LLDPE) in the form of pellets with: 
+— 10 % or more but not more than 20 % by weight of octene, 
+— a melt flow ratio of 9,0 or more, but not more than 10,0 (using ASTM D1238 10,0/2,16), 
+— a melt index (190 °C/2,16 kg) of 0,4 g/10 min or more but not more than 0,6 g/10 min, 
+— a density of 0,909 g/cm3 or more, but not more than 0,913 g/cm3 using ASTM D4703, 
+— a gel area per 24,6 cm3 of not more than 20 mm2, and 
+— an anti-oxidant level of not more than 240 ppm 
+0 % 
+m3 
+31.12.2020 
+0.5161 
+ex 3919 10 80 
+ex 3919 90 80 
+70 
+75 
+Rolls of polyethylene foil: 
+— self-adhesive on one side, 
+— of a total thickness of 0,025 mm or more, but not more than 0,09 mm, 
+— of a total width of 60 mm or more, but not more than 1 110 mm,  
+for use in the manufacture of products of Headings 8521 or 8528 for protection purposes (1) 
+0 % 
+- 
+31.12.2021 
+0.4947 
+ex 3919 90 80 
+65 
+Self-adhesive film with a thickness of 40 μm or more, but not more than 475 μm, consisting of 
+one or more layers of transparent, metallised or dyed poly(ethylene terephthalate), covered on 
+one side with a scratch resistant coating and on the other side with a pressure sensitive adhesive 
+and a release liner 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/21   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.3241 
+ex 3920 10 25 
+30 
+Mono-layered high-density polyethylene film: 
+— containing by weight 99 % or more of polyethylene, 
+— with a thickness of 12 μm or more but not more than 20 μm, 
+— with a length of 4 000 m or more but not more than 7 000 m, 
+— with a width of 600 mm or more but not more than 900 mm 
+0 % 
+- 
+31.12.2023 
+0.3312 
+ex 3921 90 60 
+35 
+Ion-exchange membranes based on a fabric coated on both sides with fluorinated plastic 
+material, for use in chlor-alkali electrolytic cells (1) 
+0 % 
+- 
+31.12.2023 
+0.6708 
+ex 4009 42 00 
+20 
+Rubber brake hose with: 
+— textile strings, 
+— a wall thickness of 3,2 mm, 
+— a metal hollow terminal pressed on both ends, and 
+— one or more mounting brackets,  
+for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+- 
+31.12.2024 
+0.7372 
+ex 5311 00 90 
+10 
+Plain-woven fabric of paper yarns glued on a tissue paper layer: 
+— with a weight of 190 g/m2 or more but not more than 280 g/m2, and 
+— cut into rectangles with a side length of 40 cm or more but not more than 140 cm 
+0 % 
+- 
+31.12.2022 
+0.2546 
+ex 6903 90 90 
+30 
+Silicon carbide reactor tubes and holders having a softening point of 1 400 °C or higher 
+0 % 
+- 
+31.12.2023 
+0.7619 
+ex 7006 00 90 
+40 
+Plates of sodalime glass of STN (Super Twisted Nematic) quality having: 
+— a length of 300 mm or more but not more than 1 500 mm, 
+— a width of 300 mm or more but not more than 1 500 mm, 
+— a thickness of 0,5 mm or more but not more than 1,1 mm, 
+— an indium-tin-oxide coating with a resistance of 80 Ω or more, but not more than 160 Ω on 
+one side, 
+— with or without a multilayer anti-reflection-coating on the other side and machined 
+(chamfered) edges 
+0 % 
+- 
+31.12.2023 
+0.7341 
+ex 7413 00 00 
+20 
+Loudspeaker centring ring, consisting of one or more vibration dampers and minimum two 
+non-insulated copper cables, therein woven or pressed 
+0 % 
+- 
+31.12.2022 
+0.3928 
+ex 7616 99 90 
+15 
+Honeycomb aluminium blocks for use in the manufacture of aircraft parts (1) 
+0 % 
+p/st 
+31.12.2023 
+0.6730 
+ex 8101 96 00 
+10 
+Tungsten wire containing by weight 99 % or more of tungsten with: 
+— a maximum cross-sectional dimension of not more than 50 μm, 
+— a resistance of 40 Ω or more but not more than 300 Ω at length of 1 m 
+0 % 
+- 
+31.12.2020 
+EN
+Official Journal of the European Union 
+L 204/22                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.5838 
+ex 8105 90 00 
+10 
+Bars or wires made of cobalt alloy containing by weight: 
+— 35 % (± 2 %) cobalt, 
+— 25 % (± 1 %) nickel, 
+— 19 % (± 1 %) chromium, and 
+— 7 % (± 2 %) iron,  
+conforming to the material specifications AMS 5842 
+0 % 
+- 
+31.12.2023 
+0.5570 
+ex 8207 30 10 
+10 
+Set of transfer and/or tandem press tools for cold-forming, pressing, drawing, cutting, punching, 
+bending, calibrating, bordering and throating of metal sheets, for use in the manufacture of 
+frame parts or body parts of motor vehicles (1) 
+0 % 
+p/st 
+31.12.2022 
+0.5024 
+ex 8301 60 00 
+ex 8419 90 85 
+ex 8479 90 70 
+ex 8481 90 00 
+ex 8503 00 99 
+ex 8515 90 80 
+ex 8537 10 98 
+ex 8538 90 99 
+ex 8708 99 10 
+ex 8708 99 97 
+30 
+40 
+30 
+50 
+43 
+40 
+55 
+70 
+55 
+22 
+Silicone or plastic keyboards, comprising: 
+— parts of common metal, and 
+— whether or not comprising parts of plastic, 
+— epoxy resin reinforced with fibreglass or wood, 
+— whether or not printed or surface-treated, 
+— with or without electrical conductors, 
+— with or without a membrane bonded to the keyboard, 
+— with or without mono or multilayer protective film 
+0 % 
+p/st 
+31.12.2020 
+0.7670 
+ex 8409 91 00 
+25 
+Air intake module for engine cylinders consisting of: 
+— a suction pipe, 
+— a pressure sensor, 
+— an electric throttle, 
+— hoses, 
+— brackets,  
+for use in the manufacture of engines of motor vehicles (1) 
+0 % 
+- 
+31.12.2023 
+0.7718 
+ex 8409 99 00 
+75 
+High pressure fuel rail of galvanised ferrite-pearlite steel with: 
+— at least one pressure sensor and one valve, 
+— a length of 314 mm or more, but not more than 322 mm, 
+— an operating pressure not more than 225 MPa, 
+— an inlet temperature not more than 95 °C, 
+— ambient temperature of – 45 °C or more, but not more than 145 °C,  
+for use in the manufacture of compression ignition engines of motor vehicles (1) 
+0 % 
+- 
+31.12.2024 
+0.7377 
+ex 8481 80 59 
+40 
+Flow-control valve: 
+— made of steel, 
+— with an outlet hole with a diameter of 0,05 mm or more, but not more than 0,5 mm, 
+— with an inlet hole with a diameter of 0,1 mm or more, but not more than 1,3 mm, 
+0 % 
+- 
+31.12.2022 
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/23   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+— with chromium nitride coating, 
+— with a surface roughness of Rp 0,4 
+0.7381 
+ex 8481 80 59 
+50 
+Electromagnetic valve for quantity control with: 
+— a plunger, 
+— a solenoid with a of coil resistance of 1,85 Ω or more, but not more than 8,2 Ω 
+0 % 
+- 
+31.12.2022 
+0.7604 
+ex 8484 20 00 
+20 
+Mechanical face sealing device made of two movable rings (one ceramic mating with a thermal 
+conductivity lower than 80 W/mK and the other carbon sliding), one spring and a nitrile sealant 
+on the external side 
+0 % 
+- 
+31.12.2023 
+0.5577 
+ex 8501 31 00 
+50 
+DC motors, brushless, with: 
+— an external diameter of 80 mm or more, but not more than 200 mm, 
+— a supply voltage of 9 V or more, but not more than 16 V, 
+— an output at 20 °C of 300 W or more, but not more than 750 W, 
+— a torque at 20 °C of 2,00 Nm or more, but not more than 7,00 Nm, 
+— a rated speed at 20 °C of 600 rpm or more, but not more than 3 100 rpm, 
+— with or without a rotor angle position sensor of resolver type or Hall effect type, 
+— with or without a pulley,  
+of the kind used in power steering systems for cars 
+0 % 
+- 
+31.12.2022 
+0.4855 
+ex 8501 33 00 
+ex 8501 40 80 
+ex 8501 53 50 
+30 
+50 
+10 
+Electric drive for motor vehicles, with an output of not more than 315 kW: 
+— with an AC or DC motor with or without transmission, 
+— with or without power electronics 
+0 % 
+- 
+31.12.2021 
+0.5783 
+ex 8503 00 99 
+40 
+Fuel cell membrane, in rolls or sheets, with a width of not more than 150 cm, for use in the 
+manufacture of fuel cells in Heading 8501 (1) 
+0 % 
+p/st 
+31.12.2022 
+0.7029 
+ex 8505 11 00 
+47 
+Articles in the form of a triangle, square or rectangle, whether or not arched or with rounded 
+corners, intended to become permanent magnets after magnetisation, containing neodymium, 
+iron and boron, with the following dimensions: 
+— a length of 9 mm or more but not more than 105 mm, 
+— a width of 5 mm or more but not more than 105 mm, and 
+— a height of 2 mm or more but not more than 55 mm 
+0 % 
+- 
+31.12.2021 
+0.7511 
+ex 8505 19 90 
+60 
+Articles of agglomerated ferrite in the shape of a half-sleeve or a quarter-sleeve, or with rounded 
+corners, intended to become permanent magnets after magnetisation, with the following 
+dimensions: 
+— a length of 10 mm or more but not more than 100 mm (± 1 mm), 
+— a width of 10 mm or more but not more than 100 mm (± 1 mm), 
+— a thickness of 2 mm or more but not more than 15 mm (±0,15 mm) 
+0 % 
+- 
+31.12.2023 
+EN
+Official Journal of the European Union 
+L 204/24                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.6703 
+ex 8507 60 00 
+33 
+Lithium-ion accumulator, with: 
+— a length of 150 mm or more, but not more than 1 000 mm, 
+— a width of 100 mm or more, but not more than 1 000 mm, 
+— a height of 200 mm or more, but not more than 1 500 mm, 
+— a weight of 75 kg or more, but not more than 200 kg, 
+— a nominal capacity of 150 Ah or more, but not more than 500 Ah, 
+— a nominal output voltage of 230 V AC (Line to neutral) or a nominal voltage of 64 V (± 10 %) 
+1,3 % 
+- 
+31.12.2020 
+0.6702 
+ex 8507 60 00 
+37 
+Lithium-ion accumulator, with: 
+— a length of 1 200 mm or more, but not more than 2 000 mm, 
+— a width of 800 mm or more, but not more than 1 300 mm, 
+— a height of 2 000 mm or more, but not more than 2 800 mm, 
+— a weight of 1 800 kg or more, but not more than 3 000 kg, 
+— a nominal capacity of 2 800 Ah or more, but not more than 7 200 Ah 
+1,3 % 
+- 
+31.12.2020 
+0.5342 
+ex 8507 60 00 
+65 
+Cylindrical lithium ion cell with: 
+— 3,5 VDC to 3,8 VDC, 
+— 300 mAh to 900 mAh, and 
+— a diameter of 10,0 mm to 14,5 mm 
+1,3 % 
+- 
+31.12.2021 
+0.6753 
+ex 8507 60 00 
+77 
+Lithium-ion rechargeable batteries, with: 
+— a length of 700 mm or more, but not more than 2 820 mm, 
+— a width of 935 mm or more, but not more than 1 660 mm, 
+— a height of 85 mm or more, but not more than 700 mm, 
+— a weight of 250 kg or more, but not more than 700 kg, 
+— a power of not more than 175 kWh, 
+— a nominal voltage of 400 V 
+1,3 % 
+- 
+31.12.2020 
+0.6863 
+ex 8512 30 90 
+20 
+Warning buzzer for parking sensor system in a plastic casing operating on the piezo-mechanic 
+principle, containing: 
+— a printed circuit board, 
+— a connector, 
+— whether or not a metal holder,  
+for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+p/st 
+31.12.2020 
+0.6689 
+ex 8529 90 65 
+28 
+Electronic assembly comprising a printed circuit board with at least: 
+— processors for multi-media applications and video signal processing, 
+— FPGA (Field Programmable Gate Array), 
+— flash memory, 
+— operating memory, 
+— with or without USB, HDMI, VGA- and RJ-45 interfaces, 
+— sockets and plugs for connecting an LCD-display, an LED lighting and a control panel 
+0 % 
+p/st 
+31.12.2020 
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/25   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7251 
+ex 8537 10 91 
+70 
+Programmable motor memory controller for a voltage not exceeding 1 000 V, comprising at 
+least: 
+— a printed circuit with active and passive components, 
+— an aluminium housing, and 
+— multiple connectors 
+0 % 
+p/st 
+31.12.2022 
+0.6866 
+ex 8538 90 91 
+ex 8538 90 99 
+20 
+50 
+Interior antenna for a car door locking system, comprising: 
+— an antenna module in a plastic housing, 
+— a connection cable with a plug, 
+— at least two mounting brackets, 
+— whether or not PCB including integrated circuits, diodes and transistors,  
+for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+p/st 
+31.12.2020 
+0.5953 
+ex 8538 90 99 
+95 
+Copper base plate, containing more components than Insulated Gate Bipolar Transistor (IGBT) 
+chips and diodes with a voltage of 650 V or more but not more than 1 200 V, for use as a 
+heatsink in the manufacture of IGBT modules (1) 
+0 % 
+p/st 
+31.12.2023 
+0.6710 
+ex 8544 30 00 
+ex 8544 42 90 
+60 
+50 
+Four-core connecting cable containing two female connectors for the transmission of digital 
+signals from navigation and audio systems to a USB connector, for use in the manufacture of 
+goods of Chapter 87 (1) 
+0 % 
+- 
+31.12.2020 
+0.6867 
+ex 8544 30 00 
+85 
+Extension two-core cable with two connectors, containing at least: 
+— a rubber grommet, 
+— a metal attachment bracket,  
+of a kind used to connect vehicle speed sensors in the manufacture of vehicles of Chapter 87 
+0 % 
+p/st 
+31.12.2020 
+0.5002 
+ex 8545 90 90 
+40 
+Corrosion resistant, layered technical fibre substrate of a gas diffuser layer with: 
+— controlled fibre length, flex strength, porosity, thermal conductance, electrical resistance, 
+— a thickness of less than 600 μm, 
+— a weight of less than 500 g/m2 
+0 % 
+m2 
+31.12.2020 
+0.7581 
+ex 8708 50 20 
+ex 8708 50 99 
+ex 8708 99 10 
+ex 8708 99 97 
+60 
+15 
+45 
+65 
+Car transfer case with single input and dual output, to distribute torque between front and rear 
+axles in an aluminium housing, with dimension of not more than 565 mm × 570 mm × 510 
+mm, comprising: 
+— at least an actuator, 
+— whether or not an interior distribution by chain 
+0 % 
+- 
+31.12.2024 
+0.6711 
+ex 8708 80 20 
+ex 8708 80 35 
+10 
+10 
+Upper strut insulator containing: 
+— a metal holder with three mounting screws, and 
+— a rubber bump,  
+for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+p/st 
+31.12.2020 
+EN
+Official Journal of the European Union 
+L 204/26                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.6705 
+ex 8708 80 20 
+ex 8708 80 91 
+20 
+10 
+Rear chassis arm with a protective plastic label equipped with two metal casings with pressed-in 
+rubber silent blocks, for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+p/st 
+31.12.2020 
+0.6704 
+ex 8708 80 20 
+ex 8708 80 91 
+30 
+20 
+Rear chassis arm equipped with a ball pivot and metal casing with a pressed-in rubber silent 
+block, for use in the manufacture of goods of Chapter 87 (1) 
+0 % 
+p/st 
+31.12.2020 
+0.7365 
+ex 8708 80 99 
+30 
+Surface-hardened, steel piston rod for a hydraulic or hydropneumatic shock absorber of motor 
+vehicles: 
+— with a chrome coating, 
+— of a diameter of 11 mm or more, but not more than 28 mm, 
+— of a length of 80 mm or more, but not more than 600 mm,  
+with a threaded end or a mandrel for resistance welding 
+0 % 
+- 
+31.12.2022 
+0.6687 
+ex 8708 95 10 
+ex 8708 95 99 
+10 
+20 
+Inflatable safety cushion of high-strength polyamide fibre: 
+— sewn, 
+— folded into three-dimensional packing form, fixed by thermal forming, or flat (unfolded) 
+safety cushion with or without thermal forming 
+0 % 
+p/st 
+31.12.2020 
+0.6686 
+ex 8714 10 90 
+10 
+Motorcycle fork rod inner tubes: 
+— of SAE1541 carbon steel, 
+— with a hard chromium layer of 20 μm (+ 15 μm/– 5 μm), 
+— with a wall thickness of 1,3 mm or more, but not more than 1,6 mm, 
+— with an elongation at break of 15 %, 
+— perforated 
+0 % 
+p/st 
+31.12.2020 
+0.5692 
+ex 9002 11 00 
+20 
+Lenses: 
+— measuring not more than 95 mm × 55 mm × 50 mm, 
+— with a resolution of 160 lines/mm or better, and 
+— with a zoom ratio of 18 times 
+0 % 
+- 
+31.12.2022 
+0.6527 
+ex 9029 20 31 
+ex 9029 90 00 
+20 
+30 
+Clustered instrument panel with a microprocessor control board, with or without stepping 
+motors, LED indicators or LCD display showing at least: 
+— speed, 
+— engine revolutions, 
+— engine temperature, 
+— the fuel level,  
+communicating via CAN-BUS and/or K-LINE protocols, of a kind used in the manufacture of 
+goods of Chapter 87 
+0 % 
+p/st 
+31.12.2024 
+0.5025 
+ex 9401 90 80 
+10 
+Ratchet disk for use in the manufacture of reclining car seats (1) 
+0 % 
+p/st 
+31.12.2020’ 
+(1) Suspension of duties is subject to end-use customs supervision in accordance with Article 254 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).;   
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/27   
+(4) the following entries are added or inserted according to the numerical order of the CN and TARIC codes in the second and third columns: 
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+‘0.7897 
+ex 2825 20 00 
+10 
+Lithium hydroxide monohydrate (CAS RN 1310-66-3) 
+2,6 % 
+- 
+31.12.2020 
+0.7895 
+ex 2903 72 00 
+10 
+Dichloro-1,1,1-trifluoroethane (CAS RN 306-83-2) with a purity by weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7826 
+ex 2903 79 30 
+30 
+1-Bromo-5-chloropentane (CAS RN 54512-75-3) with a purity by weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7914 
+ex 2905 39 95 
+70 
+2-methylpropane-1,3-diol (CAS RN 2163-42-0) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7828 
+ex 2909 30 38 
+50 
+2-(1-Adamantyl)-4-Bromoanisole (CAS RN 104224-63-7) with a purity by weight of 99 % or 
+more 
+0 % 
+- 
+31.12.2024 
+0.7846 
+ex 2909 50 00 
+40 
+2-methoxy-4-(trifluoromethoxy)phenol (CAS RN 166312-49-8) with a purity by weight of 
+98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7910 
+ex 2909 60 00 
+50 
+Solution of 3,6,9-(ethyl and/or propyl)-3,6,9-trimethyl-1,2,4,5,7,8-hexoxonanes (CAS RN 
+1613243-54-1) in mineral spirits (CAS RN 1174522-09-8), containing by weight 25 % or 
+more, but not more than 41 % of the hexoxonanes 
+0 % 
+- 
+31.12.2024 
+0.7824 
+ex 2914 50 00 
+15 
+1,1-dimethoxyacetone (CAS RN 6342-56-9) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7834 
+ex 2915 40 00 
+10 
+Ethyl trichloroacetate (CAS RN 515-84-4) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7830 
+ex 2915 40 00 
+20 
+Sodium trichloroacetate (CAS RN 650-51-1) with a purity by weight of 96 % or more 
+0 % 
+- 
+31.12.2024 
+0.7899 
+ex 2915 90 70 
+18 
+Myristitic acid, lithium salt (CAS RN 20336-96-3) with a purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7845 
+ex 2916 39 90 
+22 
+6-bromo-2-fluoro-3-(trifluoromethyl)benzoic acid (CAS RN 1026962-68-4) with a purity by 
+weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7827 
+ex 2916 39 90 
+27 
+Methyl 6-Bromo-2-naphthoate (CAS RN 33626-98-1) with a purity by weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7880 
+ex 2917 19 80 
+45 
+Iron fumarate (CAS RN 141-01-5) with a purity by weight of 93 % or more 
+0 % 
+- 
+31.12.2024 
+0.7907 
+ex 2918 19 98 
+50 
+12-Hydroxyoctadecanoic acid (CAS RN 106-14-9) with a purity by weight of 90 % or more for 
+the manufacture of polyglycerin-poly-12-hydroxyoctadecanoic acid esters (1) 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+L 204/28                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7864 
+ex 2918 30 00 
+35 
+3-Oxocyclobutane-1-carboxylic acid with a purity by weight of 98 % or more (CAS RN 23761- 
+23-1) 
+0 % 
+- 
+31.12.2024 
+0.7898 
+ex 2920 29 00 
+80 
+2,4,8,10-tetrakis(1,1-dimethylethyl)-6-(2-ethylhexyloxy)-12H dibenzo[d,g][1,3,2] 
+dioxaphosphocin (CAS RN 126050-54-2) with a content of 95 % or more by weight (CAS RN 
+126050-54-2) 
+0 % 
+- 
+31.12.2024 
+0.7894 
+ex 2921 51 90 
+10 
+N-(4-Chlorophenyl)benzene-1,2-diamine (CAS RN 68817-71-0) with a purity by weight of 97 % 
+or more 
+0 % 
+- 
+31.12.2024 
+0.7860 
+ex 2922 19 00 
+15 
+Aqueous solution, containing by weight: 
+— 73 % or more 2-amino-2-methyl-1-propanol (CAS RN 124-68-5), 
+— 4,5 % or more, but not more than 27 % water (CAS RN 7732-18-5) 
+0 % 
+- 
+31.12.2024 
+0.7853 
+ex 2922 49 85 
+13 
+O-Benzylglycine p-toluenesulphonate (CAS RN 1738-76-7) with a purity by weight of 93 % or 
+more 
+0 % 
+- 
+31.12.2024 
+0.7879 
+ex 2923 90 00 
+50 
+Betaine hydrochloride (CAS RN 590-46-5) with a purity by weight of 93 % or more 
+0 % 
+- 
+31.12.2024 
+0.7841 
+ex 2924 29 70 
+47 
+(S)-tert-butyl(1-amino-3-(4-iodophenyl)-1-oxopropan-2-yl)carbamate (CAS RN 868694-44-4) 
+with a purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7832 
+ex 2925 29 00 
+50 
+(Chloromethylene)dimethyliminium chloride (CAS RN 3724-43-4) with a purity by weight of 
+95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7859 
+ex 2930 90 98 
+29 
+4-amino-5-(ethylsulfanyl)-2-methoxybenzoic acid (CAS RN 71675-86-0) with a purity by 
+weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7833 
+ex 2930 90 98 
+31 
+(p-toluenesulphonyl)methyl isocyanide (CAS RN 36635-61-7) with a purity by weight of 98 % 
+or more 
+0 % 
+- 
+31.12.2024 
+0.7838 
+ex 2932 20 90 
+53 
+(R)-4-propyldihydrofuran-2(3H)-one (CAS RN 63095-51-2) with a purity by weight of 98 % or 
+more 
+0 % 
+- 
+31.12.2024 
+0.7855 
+ex 2932 99 00 
+37 
+4-(2-butyl-1-benzofuran-3-carbonyl)-2,6-diiodophenol (CAS RN 1951-26-4) with a purity by 
+weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7903 
+ex 2933 19 90 
+13 
+3-(Difluoromethyl)-5-fluoro-1-methyl-1H-pyrazole-4-carbonyl fluoride (CAS RN 1255735- 
+07-9) with a purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7835 
+ex 2933 19 90 
+17 
+1,3-dimethyl-1H-pyrazole (CAS RN 694-48-4) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7918 
+ex 2933 19 90 
+23 
+Fluindapyr (ISO) (CAS RN 1383809-87-7) with a purity by weight of 96 % or more 
+0 % 
+- 
+31.12.2024 
+0.7836 
+ex 2933 19 90 
+27 
+3-(3,3,3-trifluoro-2,2-dimethylpropoxy)-1H-pyrazole-4-carboxylic acid (CAS RN 2229861- 
+20-3) with a purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/29   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7844 
+ex 2933 39 99 
+74 
+4-Aminopyridine-2-carboxamide (CAS RN 100137-47-1) with a purity by weight of 98 % or 
+more 
+0 % 
+- 
+31.12.2024 
+0.7906 
+ex 2933 39 99 
+81 
+4-Hydroxy-3-pyridinesulphonic acid (CAS RN 51498-37-4) with a purity by weight of 98 % or 
+more 
+0 % 
+- 
+31.12.2024 
+0.7866 
+ex 2933 39 99 
+82 
+Picloram (ISO) (CAS RN 1918-02-1) containing by weight not more than 15 % of water and 
+with a purity by dry weight of 92 % or more 
+0 % 
+- 
+31.12.2024 
+0.7825 
+ex 2933 59 95 
+68 
+Guanine (CAS RN 73-40-5) with a purity by weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7839 
+ex 2933 99 80 
+66 
+(6-(4-fluorobenzyl)-3,3-dimethyl-2,3-dihydro-1H-pyrrolo[3,2-b]pyrid-5-yl)methanol (CAS RN 
+1799327-42-6) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7843 
+ex 2934 99 90 
+17 
+(S)-4-(tert-butoxycarbonyl)-1,4-oxazepane-2-carboxylic acid (CAS RN 1273567-44-4) with a 
+purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7837 
+ex 2934 99 90 
+29 
+(2R,5S)-tert-butyl 4-benzyl-2-methyl-5-(((R)-3-methylmorpholino)methyl)piperazine-1- 
+carboxylate (CAS RN 1403902-77-1) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7840 
+ex 2934 99 90 
+33 
+(2R,3R,5R)-5-(4-amino-2-oxopyrimidin-1(2H)-yl)-2-((benzoyloxy)methyl)-4,4-difluorotetrahy­
+drofuran-3-yl benzoate (CAS RN 134790-39-9) with a purity by weight of 98 % or more 
+0 % 
+- 
+31.12.2024 
+0.7842 
+ex 2934 99 90 
+69 
+3-methyl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzo[d]oxazol-2(3H)-one (CAS RN 
+1220696-32-1) with a purity by weight of 95 % or more 
+0 % 
+- 
+31.12.2024 
+0.7854 
+ex 2935 90 90 
+70 
+(4S)-4-hydroxy-2-(3-methoxypropyl)-3,4-dihydro-2H-thieno[3,2-e]thiazine-6-sulfonamide-1,1- 
+dioxide (CAS RN 154127-42-1) with a purity by weight of 97 % or more 
+0 % 
+- 
+31.12.2024 
+0.7885 
+ex 3204 15 00 
+20 
+Colourant C.I. Vat Blue 1 (CAS RN 482-89-3) and preparations based thereon with a colourant 
+C.I. Vat Blue 1 content of 94 % or more by weight 
+0 % 
+- 
+31.12.2024 
+0.7922 
+ex 3823 19 10 
+20 
+12-Hydroxyoctadecanoic acid (CAS RN 106-14-9) for the manufacture of polyglycerin-poly-12- 
+hydroxyoctadecanoic acid esters (1) 
+0 % 
+- 
+31.12.2024 
+0.7831 
+ex 3824 99 92 
+62 
+Solution of 9-borabicyclo[3.3.1]nonane (CAS RN 280-64-8) in tetrahydrofurane (CAS RN 
+109-99-9), containing by weight 6 % or more 9-borabicyclo[3.3.1]nonane 
+0 % 
+- 
+31.12.2024 
+0.7861 
+ex 3903 90 90 
+33 
+Copolymer of styrene, divinylbenzene and chloromethylstyrene (CAS RN 55844-94-5) with a 
+purity by weight of 99 % or more 
+0 % 
+- 
+31.12.2024 
+0.7865 
+ex 3909 40 00 
+70 
+Polymer in the form of flakes composed of 98 % or more by weight of phenolic resin 
+(brominated octylphenol-formaldehyde) with a softening point of 80 °C or more but not more 
+than 95 °C according to standard ASTM E28-92 (CAS RN 112484-41-0) 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+L 204/30                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7882 
+ex 3920 69 00 
+30 
+Mono- or multilayer, transverse oriented, shrink film: 
+— composed of more than 85 % by weight of polylactic acid, not more than 5 % by weight of 
+inorganic or organic additives and not more than 10 % by weight of additives based on 
+biodegradable polyesters, 
+— with a thickness of 20 μm or more but not more than 100 μm, 
+— with a length of 2 385 m or more but not more than 9 075 m, 
+— biodegradable and compostable (as determined by the method EN 13432) 
+0 % 
+- 
+31.12.2024 
+0.7883 
+ex 3920 69 00 
+70 
+Mono- or multilayer, biaxially oriented film: 
+— composed of more than 85 % by weight of polylactic acid, not more than 5 % by weight of 
+inorganic or organic additives, and not more than 10 % by weight of additives based on 
+biodegradable polyesters, 
+— with a thickness of 9 μm or more but not more than 120 μm, 
+— with a length of 1 395 m or more but not more than 21 560 m, 
+— biodegradable and compostable (as determined by the method EN 13432) 
+0 % 
+- 
+31.12.2024 
+0.7891 
+ex 7326 90 94 
+40 
+Steel ball neck, drop forged, machined, also heat treated or surface treated, with an angle between 
+the centre of the conical head and the arm of less than 90° or with an angle between the centre of 
+the ball and the arm of less than 90°, for use in the manufacture of trailer hitches for passenger 
+cars (1) 
+0 % 
+- 
+31.12.2024 
+0.7911 
+ex 7506 20 00 
+10 
+Sheets and strips in coils of nickel alloy C276 (EN 2.4819) with 
+— a thickness of 0,5 mm or more but not more than 3 mm, 
+— a width of 770 mm or more but not more than 1 250 mm 
+0 % 
+- 
+31.12.2024 
+0.7851 
+ex 8409 99 00 
+25 
+Hoses assembly for fuel return from injectors to engine fuel unit, consisting of at least: 
+— three rubber hoses, whether or not with a protective braided sleeving, 
+— three connectors for connecting fuel injectors, 
+— five metal clamps, 
+— one T-shaped plastic joint,  
+for use in the manufacture of engines of motor vehicles (1) 
+0 % 
+- 
+31.12.2024 
+0.7850 
+ex 8481 30 99 
+30 
+Brake booster check valve assembly, containing at least: 
+— three vulcanized rubber hoses, 
+— one membrane valve, 
+— two metal clamps, 
+— one metal holder, 
+— whether or not a connecting metal pipe,  
+for use in the manufacture of motor vehicles (1) 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/31   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7920 
+ex 8483 40 59 
+30 
+Hydrostatic speed changer: 
+— with a hydro pump and a differential with wheel axle, 
+— whether or not with a fan impeller and/or a pulley,  
+for use in the manufacture of lawn mowers of Subheadings 8433 11 and 8433 19 or other 
+mowers of Subheading 8433 20 (1) 
+0 % 
+p/st 
+31.12.2024 
+0.7857 
+ex 8501 10 10 
+40 
+Synchronous hybrid stepper motor with: 
+— an output not exceeding 18 W, 
+— two phases, 
+— a rated current of not more than 2,5 A/phase, 
+— a rated voltage of not more than 20 V, 
+— with or without a threaded shaft,  
+for use in the manufacture of 3D printers (1) 
+0 % 
+- 
+31.12.2024 
+0.7888 
+ex 8507 60 00 
+68 
+Lithium-ion accumulator in a metal housing with: 
+— a length of 173 mm or more but not more than 175 mm, 
+— a width of 41,5 mm or more but not more than 43 mm, 
+— a height of 85 mm or more but not more than 103 mm, 
+— a nominal voltage of 3,6 V or more but not more than 3,75 V, and 
+— a nominal capacity of 93 Ah or more but not more than 94 Ah 
+1,3 % 
+- 
+31.12.2024 
+0.7873 
+ex 8537 10 91 
+20 
+Electronic assembly containing: 
+— a microprocessor, 
+— a programmable memory controller and other electronic components mounted on a printed 
+circuit, 
+— with or without light-emitting diode (LED) or liquid crystal display (LCD) indicators,  
+for use in the manufacture of products of Subheadings 8418 21, 8418 29, 8421 12, 8422  
+11, 8450 11, 8450 12, 8450 19, 8451 21, 8451 29 and 8516 60 (1) 
+0 % 
+- 
+31.12.2024 
+0.7848 
+ex 8544 30 00 
+45 
+Linking seven-core cable for connecting sensor for pressure measure in intake manifold (Boost 
+Pressure Sensor – BPS) and sockets for glow plugs with common connector, containing four 
+sockets and two connectors for use in the manufacture of compression-ignition internal 
+combustion piston engines for passenger cars (1) 
+0 % 
+- 
+31.12.2024 
+0.7847 
+ex 8544 30 00 
+55 
+Connecting five-core cable with connectors for coupling the temperature sensor and the exhaust 
+manifold pressure difference sensor to the common connector for use in the manufacture of 
+compression-ignition internal combustion piston engines for passenger cars (1) 
+0 % 
+- 
+31.12.2024 
+0.7856 
+ex 8708 40 20 
+ex 8708 40 50 
+70 
+60 
+Manual gearbox in cast aluminium housing for transverse installation with: 
+— a width of not more than 480 mm, 
+— a height of not more than 400 mm, 
+— a length of not more than 550 mm, 
+— five gears, 
+— a differential gear, 
+— an engine torque of 250 Nm or less,  
+for use in the manufacture of motor vehicles of Heading 8703 (1) 
+0 % 
+- 
+31.12.2024 
+EN
+Official Journal of the European Union 
+L 204/32                                                                                                                                         
+26.6.2020   
+Serial 
+number 
+CN code 
+TARIC 
+Description 
+Rate of 
+autonomous 
+duty 
+Supple-
+mentary 
+Unit 
+Date foreseen for 
+mandatory review 
+0.7849 
+ex 8708 93 10 
+ex 8708 93 90 
+40 
+40 
+Clutch pedal with electronic parking brake connection (EPB), whether or not with sending signal 
+function for: 
+— cruise control reset, 
+— electronic parking brake release, 
+— start and stop engine management under Idle Stop and Go system (ISG),  
+for use in the manufacture of passenger vehicles (1) 
+0 % 
+- 
+31.12.2024 
+0.7921 
+ex 8708 99 97 
+18 
+Hydrostatic speed changer: 
+— with a hydro pump and a differential with wheel axle, 
+— whether or not with a fan impeller and/or a pulley,  
+for use in the manufacture of tractors of Subheadings 8701 91 90 and 8701 92 90, whose 
+main function is that of a lawn mower (1) 
+0 % 
+p/st 
+31.12.2023’ 
+(1) Suspension of duties is subject to end-use customs supervision in accordance with Article 254 of Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).   
+EN
+Official Journal of the European Union 
+26.6.2020                                                                                                                                         
+L 204/33   

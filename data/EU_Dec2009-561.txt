@@ -1,0 +1,559 @@
+COMMISSION DECISION 
+of 22 July 2009 
+amending Decision 2006/679/EC as regards the implementation of the technical specification for 
+interoperability relating to the control-command and signalling subsystem of the trans-European 
+conventional rail system 
+(notified under document number C(2009) 5607) 
+(Text with EEA relevance) 
+(2009/561/EC) 
+THE COMMISSION OF THE EUROPEAN COMMUNITIES, 
+Having regard to the Treaty establishing the European 
+Community, 
+Having regard to Directive 2008/57/EC of the European 
+Parliament and of the Council of 17 June 2008 on the inter­
+operability of the rail system within the Community ( 1 ), and in 
+particular Article 6(1) thereof, 
+Having regard to the recommendation of the European Railway 
+Agency on the European Deployment Plan (ERA-REC-02-2009- 
+ERTMS) of 23 February 2009, 
+Whereas: 
+(1) 
+Each technical specifications for interoperability (TSI) 
+should indicate the strategy for implementing the TSIs 
+and the stages to be completed in order to make a 
+gradual transition from the existing situation to the 
+final situation in which compliance with the TSIs shall 
+be the norm. 
+(2) 
+Commission Decision 2006/679/EC of 28 March 2006 
+concerning the technical specification for interoperability 
+relating 
+to 
+the 
+control-command 
+and 
+signalling 
+subsystem of the trans-European conventional rail 
+system ( 2 ) laid down the TSI relating to the control- 
+command and signalling subsystem of the trans- 
+European conventional rail system. 
+(3) 
+In accordance with Article 3 of Decision 2006/679/EC, 
+Member States have established a national implemen­
+tation plan of the Control Command and Signalling 
+TSI and have notified this implementation plan to the 
+Commission. 
+(4) 
+On the basis of these national plans the EU Master Plan 
+should be drafted following the principles set out in 
+Chapter 7 of the Annex to Decision 2006/679/EC. 
+(5) 
+Chapter 7 of the Annex to Decision 2006/679/EC 
+provides that the EU Master Plan will be appended to 
+the TSI through a revision procedure and will be referred 
+to as the European Deployment Plan. 
+(6) 
+Directive 2008/57/EC indicates that TSIs may establish 
+the framework necessary to decide whether the existing 
+subsystem may need to be re-authorised, and the 
+corresponding deadlines. 
+(7) 
+The strategy to implement the Control Command and 
+Signalling TSI should not only rely on compliance of 
+subsystems with the TSI at the time of their placing 
+into service, upgrading or renewal but it should also be 
+based on a coordinated implementation along pan- 
+European corridors linking the main European freight 
+transport 
+areas. 
+As 
+interoperability can 
+only 
+be 
+achieved if the corridors are fully equipped, appropriate 
+deadlines for the renewal or upgrading of the subsystem 
+should be set within a European Deployment Plan. 
+(8) 
+Member States should make every effort to make 
+available an external Specific Transmission Module for 
+their legacy Class B systems listed in Annex B of the TSI. 
+(9) 
+Projects for the European Rail Traffic Management 
+System (ERTMS), in general, and lines included in the 
+European Deployment Plan, in particular, may benefit 
+from Community support from the TEN-T programme 
+or from other programmes of Community financial aid. 
+(10) 
+Adequate financial support is instrumental to ensure the 
+deployment of ERTMS in accordance with the scope and 
+deadlines set by the European Deployment Plan. The plan 
+may therefore be adjusted in order to take account of 
+available funding.
+EN 
+L 194/60 
+Official Journal of the European Union 
+25.7.2009 
+( 1 ) OJ L 191, 18.7.2008, p. 1. 
+( 2 ) OJ L 284, 16.10.2006, p. 1
+(11) 
+The suppliers of ERTMS on-board equipment have 
+confirmed that they will be in a position to deliver on- 
+board equipment compliant with the new standard 
+(known as baseline 3) at the latest by 2015; therefore, 
+international locomotives delivered by that date, should, 
+as a general rule, be equipped with ERTMS. 
+(12) 
+Decision 2006/679/EC should therefore be amended 
+accordingly. 
+(13) 
+The measures provided for in this Decision are in 
+accordance with the opinion of the Railway Interoper­
+ability and Safety Committee, established in accordance 
+with Article 29 of Directive 2008/57/EC, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+The Annex to Decision 2006/679/EC is amended as follows: 
+1. Sections 7.1, 7.2 and 7.3 are replaced by the text set out in 
+the Annex to this Decision. 
+2. In section 7.4.2.3 the reference to section 7.2.2.5 is replaced 
+by a reference to section 7.2. 
+Article 2 
+By 31 December 2015, the Commission shall evaluate the 
+implementation of the European Deployment Plan and 
+determine, upon analysis of the progress made in its implemen­
+tation until 2015, the availability of equipment compliant with 
+the new standard (baseline 3) and of the sources and level of 
+funding 
+available 
+to 
+support 
+ERTMS 
+deployment, 
+if 
+amendments to this Decision are necessary, in particular as 
+regards the lines due to be equipped by 2020. The Member 
+States shall be involved in this analysis. 
+Article 3 
+This Decision shall apply from 1 September 2009. 
+Article 4 
+This Decision is addressed to the Member States. 
+Done at Brussels, 22 July 2009. 
+For the Commission 
+Antonio TAJANI 
+Vice-President
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/61
+ANNEX 
+Sections 7.1, 7.2 and 7.3 of the Annex to Decision 2006/679/EC are replaced by the following: 
+‘7. 
+IMPLEMENTATION OF THE TSI CONTROL COMMAND 
+This chapter outlines the strategy for the implementation (ERTMS European Deployment Plan) of the TSI and 
+specifies the stages to be completed in order to make a gradual transition from the existing situation to the final 
+situation in which compliance with the TSIs shall be the norm. 
+The ERTMS European Deployment Plan does not apply to lines located in the territory of a Member State when its 
+rail network is separated or isolated by the sea or separated as a result of special geographical conditions from the 
+rail network of the rest of the Community. This strategy does not apply to locomotives running exclusively on 
+such lines. 
+7.1. 
+ERTMS-Trackside implementation 
+The objective of the ERTMS European Deployment Plan is to ensure that, gradually, locomotives, railcars and other 
+railway vehicles equipped with ERTMS can have access to an increased number of lines, ports, terminals and 
+marshalling yards without needing national equipment in addition to ERTMS. 
+To that purpose, the deployment plan does not request the removal of the existing Class B systems on the lines 
+included in the plan. However, by the date specified in the implementation plan, equipment with a Class B system 
+shall not be a track access condition to lines included in the deployment plan for locomotives, railcars and other 
+railway vehicles equipped with ERTMS. 
+When terminal areas, such as ports or specific lines in a port for example, are not equipped with any Class B 
+system, the requirements related to the “connection” of these terminal areas does not necessarily mean that these 
+terminals or lines need to be equipped with ERTMS, as long as equipment with a Class B system is not requested 
+as a track access condition. 
+For lines consisting of a double track or more, the line is considered to be equipped as soon as a double track is 
+equipped. When there is more than one line on a corridor section, at least one line has to be equipped on the 
+section and the whole corridor is considered to be equipped as soon as at least one line is equipped on the whole 
+length of the corridor. 
+7.1.1. Corridors 
+The six corridors described in Appendix I shall be equipped with ERTMS according to the timetable indicated in 
+that Appendix (*). 
+7.1.2. Connection to the main European ports, marshalling yards, freight terminals and freight transport areas 
+The ports, marshalling yards, freight terminals and freight transport areas listed in Appendix II shall be linked to at 
+least one of the six corridors specified in Appendix I at the date and under the conditions specified in Appendix II. 
+7.1.3. EU-funded projects 
+Without prejudice to sections 7.1.1 and 7.1.2 the fitting of ERTMS/ETCS is mandatory in the case of: 
+— new installations of the train protection part of a CCS assembly or, 
+— an upgrade of the train protection part of a CCS assembly already in service that changes the functions or the 
+performance of the subsystem, 
+for railway infrastructure projects receiving financial support from European Regional Development Funds and/or 
+Cohesion Funds (Council Regulation (EC) No 1083/2006 (**)) and/or the TEN-T funds (Decision No 1692/96/EC 
+of the European Parliament and of the Council (***)).
+EN 
+L 194/62 
+Official Journal of the European Union 
+25.7.2009
+However, when signalling is renewed on short (less than 150 km) and discontinuous sections of a line, the 
+Commission may grant derogation to this rule, provided ERTMS is installed before the earliest of these two dates: 
+— 5 years after the end of the project; 
+— the time by which the section of the line is connected to another ERTMS equipped line, 
+In this section, the earliest of these two dates is called “later date for equipment”. 
+The Member State concerned shall forward a file to the Commission. This file shall contain an economical analysis 
+showing that there is a substantial economical and/or technical advantage in putting ERTMS into service at the 
+later date for equipment rather than during the course of the EU-funded project. 
+Such clause can only be advocated by a Member State when the tender covering the renewal or upgrade of the 
+train protection system contains a clear option for the ERTMS equipment of the line, either in the course of the 
+project or at the later date for equipment. 
+The Commission shall analyse the file submitted and the measures proposed by the Member State and shall inform 
+the committee referred to in Article 29 of Directive 2008/57/EC of the European Parliament and of the Coun­
+cil (****) of the result of its analysis. When a derogation is granted, the Member State shall ensure that ERTMS is 
+installed before the later date for equipment. 
+7.1.4. Conditions under which optional functions are required 
+According to the characteristics of the trackside Control-Command Trackside Assembly and its interfaces with 
+other sub-systems, some trackside functionalities not classified as mandatory, may have necessarily to be imple­
+mented in certain applications to comply with the essential requirements. 
+The trackside implementation of National or Optional-functions must not prevent the entry onto that infra­
+structure of a train that complies only with the mandatory requirements of Onboard Class A system except as 
+required for the following on-board optional functions: 
+— an ETCS Level 3 Trackside application requires train integrity supervision onboard; 
+— an ETCS Level 1 Trackside application with infill requires corresponding in-fill functionality onboard if the 
+release speed is set to zero for safety reasons (e.g., protection of danger points); 
+— when ETCS requires data transmission by radio, the data transmission services of GSM-R must fulfil the ETCS 
+data transmission requirements; 
+— an onboard assembly, which incorporates a KER STM, may require to implement the K-interface. 
+7.1.5. Legacy systems 
+Member States shall ensure that the functionality of the legacy systems referred to in Annex B to the TSI as well as 
+their interfaces is to remain as currently specified, excluding those modifications that might be deemed necessary in 
+order to mitigate safety-related flaws of these systems. Member States shall make available the necessary 
+information regarding their legacy systems that is required for the purposes of development and certification of 
+apparatus allowing interoperability of Class A equipment with their legacy Class B facilities. 
+7.1.6. Notification 
+For each corridor section described in Appendix I, Member States shall either notify to the Commission a detailed 
+timeline for the equipment with ERTMS of the corridor section or confirm that the corridor section is already 
+equipped. The information shall be notified to the Commission at the latest three years before the latest equipment 
+date of the corridor section specified in Appendix I.
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/63
+For each port, marshalling yard, freight terminal or freight transport area listed in Appendix II, Member States shall 
+notify the specific lines to be used to ensure its connection with one of the corridors listed in Appendix I. This 
+information shall be notified to the Commission at the latest three years before the date specified in Appendix II 
+and shall indicate the latest equipment date for this port, marshalling yard, freight terminal or freight transport 
+area. As necessary, the European Commission may request adjustments, in particular in order to ensure consistency 
+between equipped lines at the borders. Member States shall either notify to the Commission a detailed timeline for 
+the equipment with ERTMS of these specific lines or confirm that these specific lines are already equipped with 
+ERTMS. This information shall be notified to the Commission at the latest three years before the date specified in 
+Appendix II and shall indicate the latest equipment date for this port, marshalling yard, freight terminal or freight 
+transport area. 
+The detailed timelines shall in particular indicate the date by which the tender for the equipment of the line will be 
+concluded, the procedures put in place in order to ensure interoperability with the neighbouring countries on the 
+corridor as well as the main milestones related to the project. Member States shall notify the Commission every 
+twelve months on the progress made with the implementation on these lines by sending an updated timeline. 
+7.1.7. Delays 
+When a Member State reasonably expects delays in fulfilling the deadlines laid down in the present Decision, it 
+shall immediately inform the Commission. It shall communicate to the Commission a file containing a technical 
+description of the project and an up to date planning. The file shall also explain the reasons for the delay and shall 
+indicate the corrective measures put in place by the Member State. 
+An additional delay of no more than three years can be granted to a Member State when the delay is caused by 
+causes beyond Member State’s reasonable control such as failure of suppliers or problems regarding the hom- 
+ologation and approval process due to the absence of appropriate test vehicles. Such clause can only be advocated 
+by a Member State when the following conditions are fulfilled: 
+— the notifications referred in section 7.1.6 were received in time and were comprehensive; 
+— the file referred to in section 7.1.7 first paragraph, contains clear evidence that the causes for the delay were 
+beyond Member State’s control; 
+— a competent authority is responsible for the coordination, of on-board and trackside suppliers and integration 
+and testing of products; 
+— appropriate use of existing laboratories has been made; 
+— evidence is given that appropriate measures have been implemented to minimise the additional delay. 
+The Commission shall analyse the file submitted and the measures proposed by the Member State and shall inform 
+the committee referred to in Article 29 of Directive 2008/57/EC of the result of its analysis. 
+7.2. 
+ETCS On-board implementation 
+New locomotives, new railcars and other new railway vehicles able to run without traction equipped with a driving 
+cab, ordered after 1 January 2012 or put into service after 1 January 2015, shall be equipped with ERTMS. 
+This requirement does not apply to new shunting locomotives and to other new locomotives, new railcars and 
+other new railway vehicles equipped with a driving cab, if they are designed exclusively for national service or 
+regional border crossing service. Member States may however introduce additional requirements at national level, 
+in particular with a view to: 
+— restrict the access to ERTMS equipped lines to ERTMS equipped locomotives, so that existing national systems 
+can be decommissioned, 
+— request that new shunting locomotives and/or other new railway vehicles equipped with a driving cab, even 
+designed exclusively for national service or regional border crossing service, are equipped with ERTMS,
+EN 
+L 194/64 
+Official Journal of the European Union 
+25.7.2009
+7.3. 
+GSM-R specific implementation rules 
+These rules apply in addition to the rules laid down in section 7.1 and 7.2. 
+7.3.1. Trackside installations 
+The fitting of GSM-R is mandatory in the case of: 
+— new installations of the radio part of a CCS assembly; 
+— an upgrade of the radio part of a CCS assembly already in service that changes the functions or the 
+performance of the subsystem. 
+7.3.2. On-board installations 
+The fitting of GSM-R in rolling stock intended for use on a line including at least a section equipped with Class A 
+interfaces (even if superimposed to a Class B system), is mandatory in the case of: 
+— new installations of the radio part of a CCS assembly; 
+— an upgrade of the radio part of a CCS assembly already in service that changes the functions or the 
+performance of the subsystem. 
+7.3.3. Legacy systems 
+Member States shall ensure that the functionality of the legacy systems referred to in Annex B to the TSI as well as 
+their interfaces is to remain as currently specified, excluding those modifications that might be deemed necessary in 
+order to mitigate safety-related flaws of these systems. Member States shall make available the necessary 
+information regarding their legacy systems that is required for purposes of development and certification of 
+apparatus allowing interoperability of Class A equipment with their legacy Class B facilities. 
+___________ 
+(*) Appendix I indicates the latest date for equipment, with a view to build a consistent ERTMS network on a step by 
+step basis. In a number of cases, voluntary agreements as regards an earlier equipment date exist. 
+(**) OJ L 210, 31.7.2006, p. 25. 
+(***) OJ L 228, 9.9.1996, p. 1. 
+(****) OJ L 191, 18.7.2008, p. 1.
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/65
+Appendix I 
+specific lines constituting the corridors 
+Corridor A – to be equipped by 2015
+EN 
+L 194/66 
+Official Journal of the European Union 
+25.7.2009
+Corridor B ( 1 )
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/67
+Corridor C ( 2 )
+EN 
+L 194/68 
+Official Journal of the European Union 
+25.7.2009
+Corridor D ( 3 )
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/69
+Corridor E
+EN 
+L 194/70 
+Official Journal of the European Union 
+25.7.2009
+Corridor F 
+( 1 ) 
+Without prejudice of the legislation applicable to the Trans European high speed network, links can be provided through stretches 
+of high speed lines, provided paths are allocated to freight trains. At least one ERTMS equipped link will be provided by 2020 
+between Denmark and Germany (Flensburg-Hamburg or Rødby – Puttgarden) but not necessarily two. The Brenner base tunnel will 
+be equipped with ERTMS once the infrastructure work completed (target date 2020). 
+( 2 ) 
+A link between Nancy and Reding will be provided by 2020. 
+( 3 ) 
+Two additional branches will be equipped by 2020: Montmélian – Grenoble – Valence and Lyon – Valence – Arles – Miramas (left 
+side of the Rhône).
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/71
+Appendix II 
+main European ports, marshalling yards, freight terminals and freight transport areas ( 1 ) 
+Country 
+Freight transport area 
+Date 
+Remark 
+Belgium 
+Antwerpen 
+31.12.2015 
+A link to Rotterdam shall also be provided by 2020. 
+Gent 
+31.12.2020 
+Zeebrugge 
+31.12.2020 
+Bulgaria 
+Burgas 
+31.12.2020 
+The connection to corridor E implies the equipment 
+of the section Bourgas-Sofia and Sofia-Vidin-Calafat 
+and Calafat-Curtici in Romania (PP22). 
+Czech Republic 
+Praha 
+31.12.2015 
+Lovosice 
+31.12.2020 
+Denmark 
+Taulov 
+31.12.2020 
+Connecting this terminal implies that the Flensburg- 
+Padborg line is chosen to be an ERTMS equipped link 
+— see footnote 1 of Appendix I of the Annex. 
+Germany 
+Dresden ( 1 ) 
+31.12.2020 
+By 2020, a direct link between corridor E and 
+corridor F (from Dresden to Hannover) shall also 
+be ensured. 
+Lübeck 
+31.12.2020 
+Duisburg 
+31.12.2015 
+Hamburg ( 2 ) 
+31.12.2020 
+Köln 
+31.12.2015 
+München 
+31.12.2015 
+Hannover 
+31.12.2015 
+Rostock 
+31.12.2015 
+Ludwigshafen/ 
+Mannheim 
+31.12.2015 
+Nürnberg 
+31.12.2020 
+Greece 
+Pireás 
+31.12.2020 
+The connection to Corridor E implies equipment of 
+the section Kulata-Sofia in Bulgaria. 
+Spain 
+Algeciras 
+31.12.2020 
+Madrid 
+31.12.2020 
+Pamplona 
+31.12.2020 
+Three connections are requested. A connection to 
+Paris via Hendaye, a connection from Pamplona to 
+Madrid and a connection from Pamplona to corridor 
+D via Zaragoza. 
+Zaragoza 
+31.12.2020 
+Tarragona 
+31.12.2020 
+Barcelona 
+31.12.2015 
+Valencia 
+31.12.2020
+EN 
+L 194/72 
+Official Journal of the European Union 
+25.7.2009
+Country 
+Freight transport area 
+Date 
+Remark 
+France 
+Marseille 
+31.12.2020 
+Perpignan 
+31.12.2015 
+Avignon 
+31.12.2015 
+Lyon 
+31.12.2015 
+Le Havre 
+31.12.2020 
+Lille 
+31.12.2020 
+Dunkerque 
+31.12.2020 
+Paris 
+31.12.2020 
+By 2020 the following connections will be provided: 
+(i) Hendaye (ii) Channel Tunnel (iii) Dijon (iv) Metz 
+via Epernay and Châlons-en-Champagne. 
+Italy 
+La Spezia 
+31.12.2020 
+Genova 
+31.12.2015 
+Gioia Tauro 
+31.12.2020 
+Verona 
+31.12.2015 
+Milano 
+31.12.2015 
+Taranto 
+31.12.2020 
+Bari 
+31.12.2020 
+Padova 
+31.12.2015 
+Trieste 
+31.12.2015 
+Novara 
+31.12.2015 
+Bologna 
+31.12.2020 
+Roma 
+31.12.2020 
+Luxembourg 
+Bettembourg 
+31.12.2015 
+Hungary 
+Budapest 
+31.12.2015 
+Netherlands 
+Amsterdam 
+31.12.2020 
+Rotterdam 
+31.12.2015 
+A link to Antwerp shall also be provided by 2020. 
+Austria 
+Graz 
+31.12.2020 
+Wien 
+31.12.2020 
+Poland 
+Gdynia 
+31.12.2015 
+Katowice 
+31.12.2020 
+Wrocław 
+31.12.2015 
+By 2020 the line Wroclaw-Legnica, shall be equipped 
+in order to ensure a direct link to the German border 
+(Gorlitz). 
+Gliwice 
+31.12.2015 
+Poznań 
+31.12.2015 
+Warszawa 
+31.12.2015 
+Portugal 
+Sines 
+31.12.2020 
+Lisboa 
+31.12.2020 
+Romania 
+Constanța 
+31.12.2015
+EN 
+25.7.2009 
+Official Journal of the European Union 
+L 194/73
+Country 
+Freight transport area 
+Date 
+Remark 
+Slovenia 
+Koper 
+31.12.2015 
+Ljubljana 
+31.12.2015 
+Slovakia 
+Bratislava 
+31.12.2015 
+UK 
+Bristol 
+This terminal will be connected as corridor C is extended to the Channel 
+Tunnel. 
+( 1 ) Germany will do its best to equip the corridor E section, Dresden-Czech border at an earlier date. 
+( 2 ) Germany will ensure the equipment of a rail link to Hamburg but the harbour area may only be partly equipped by 2020. 
+( 1 ) 
+The list of hubs included in this Appendix may be revised, as long as any revisions do not reduce freight traffic or significantly 
+impact projects in other Member States.’
+EN 
+L 194/74 
+Official Journal of the European Union 
+25.7.2009

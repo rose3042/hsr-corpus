@@ -1,0 +1,1287 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/601
+of 13 April 2021
+concerning a coordinated multiannual control programme of the Union for 2022, 2023 and 2024 to 
+ensure compliance with maximum residue levels of pesticides and to assess the consumer exposure 
+to pesticide residues in and on food of plant and animal origin
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on 
+maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 
+91/414/EEC (1), in particular Article 29(2) thereof,
+Whereas:
+(1)
+Commission Regulation (EC) No 1213/2008 (2) established a first coordinated multiannual Community control 
+programme, covering the years 2009, 2010 and 2011. That programme continued under consecutive Commission 
+Regulations. The latest one was Commission Implementing Regulation (EU) 2020/585 (3).
+(2)
+Thirty to forty foodstuffs constitute the major components of the diet in the Union. Since pesticide uses show 
+significant changes over a period of three years, pesticides should be monitored in those foodstuffs over a series of 
+three-year cycles to allow consumer exposure and the application of Union legislation to be assessed.
+(3)
+The European Food Safety Authority (‘the Authority’) submitted a scientific report on a design assessment of the 
+pesticide monitoring program. It concluded that an MRL exceedance rate above 1 % could be estimated with a 
+margin of error of 0,75 % by selecting 683 sample units for a minimum of 32 different food items (4). Collection of 
+those samples should be apportioned among Member States according to population numbers, with a minimum of 
+12 samples per product and per year.
+(4)
+Analytical results from the previous official control programmes of the Union have been taken into account to 
+ensure that the range of pesticides covered by the control programme is representative for the pesticides used.
+(5)
+Guidance concerning ‘Analytical quality control and validation procedures for pesticide residues analysis in food and 
+feed’ is published on the Commission website (5).
+(6)
+Where the residue definition of a pesticide includes other active substances, metabolites and/or breakdown or 
+reaction products, those compounds should be reported separately as far as they are measured individually (6).
+(1) OJ L 70, 16.3.2005, p. 1.
+(2) Commission Regulation (EC) No 1213/2008 of 5 December 2008 concerning a coordinated multiannual Community control 
+programme for 2009, 2010 and 2011 to ensure compliance with maximum residue levels of and to assess the consumer exposure to 
+pesticide residues in and on food of plant and animal origin (OJ L 328, 6.12.2008, p. 9).
+(3) Commission Implementing Regulation (EU) 2020/585 of 27 April 2020 concerning a coordinated multiannual control programme of 
+the Union for 2021, 2022 and 2023 to ensure compliance with maximum levels of pesticides and to assess the consumer exposure to 
+pesticide residues in and on food of plant and animal origin (OJ L 135, 29.4.2020, p. 1).
+(4) European Food Safety Authority; pesticide monitoring program: design assessment. EFSA Journal 2015;13(2):4005.
+(5) Document No. SANTE/12682/2019.
+https://ec.europa.eu/food/sites/food/files/plant/docs/pesticides_mrl_guidelines_wrkdoc_2019-12682.pdf in its most recent version.
+(6) SANCO/12574/2014, Working Document on the summing up of LOQs in case of complex residue definitions.
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/29  
+(7)
+Implementing measures, such as the Standard Sample Description version 2 (SSD2) and the Chemical Monitoring 
+Reporting Guideline, for submitting results of pesticide residues analysis, relating to the submission of information 
+by Member States, have been agreed by Member States, the Commission and the Authority.
+(8)
+For the sampling procedures, Commission Directive 2002/63/EC (7), which incorporates the sampling methods and 
+procedures recommended by the Codex Alimentarius Commission, should apply.
+(9)
+It is necessary to assess whether maximum residue levels for food for infants and young children provided for in 
+Article 10 of Commission Directive 2006/141/EC (8), Article 7 of Commission Directive 2006/125/EC (9) and 
+Article 4 of Commission Delegated Regulation (EU) 2016/127 (10) are respected, taking into account only the 
+residue definitions as they are set out in Regulation (EC) No 396/2005.
+(10)
+As regards single residue methods, Member States may be able to meet their obligations of analysis by having 
+recourse to official laboratories already having the required validated methods.
+(11)
+Member States should submit by 31 August of each year the information concerning the previous calendar year.
+(12)
+In order to avoid any confusion due to an overlap between consecutive multiannual programmes, Implementing 
+Regulation (EU) 2020/585 should be repealed in the interest of legal certainty. It should, however, continue to 
+apply to samples tested in 2021.
+(13)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Member States (*) shall, during the years 2022, 2023 and 2024, take and analyse samples for the pesticide/product 
+combinations, as set out in Annex I. 
+The number of samples of each product, including foods for infants and young children and products originating from 
+organic farming, shall be as set out in Annex II.
+Article 2
+1.
+The lot to be sampled shall be chosen randomly. 
+The sampling procedure, including the number of units, shall comply with Directive 2002/63/EC. 
+2.
+All samples, including those of foods intended for infants and young children and products originating from organic 
+farming, shall be analysed for the pesticides referred to in Annex I in accordance with the residue definitions set out in 
+Regulation (EC) No 396/2005. 
+(7) Commission Directive 2002/63/EC of 11 July 2002 establishing Community methods of sampling for the official control of pesticide 
+residues in and on products of plant and animal origin and repealing Directive 79/700/EEC (OJ L 187, 16.7.2002, p. 30).
+(8) Commission Directive 2006/141/EC of 22 December 2006 on infant formulae and follow-on formulae and amending Directive 
+1999/21/EC (OJ L 401, 30.12.2006, p. 1).
+(9) Commission Directive 2006/125/EC of 5 December 2006 on processed cereal-based foods and baby foods for infants and young 
+children (OJ L 339, 6.12.2006, p. 16).
+(10) Commission Delegated Regulation (EU) 2016/127 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the 
+European Parliament and of the Council as regards the specific compositional and information requirements for infant formula and 
+follow-on formula and as regards requirements on information relating to infant and young child feeding (OJ L 25, 2.2.2016, p. 1).
+(*) Pursuant to Article 5(4) and Section 24 of Annex 2 of the Protocol on Ireland/Northern Ireland, which is an integral part of the 
+Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the 
+European Atomic Energy Community, this Regulation applies to and in the United Kingdom in respect of Northern Ireland and 
+references to Member States are read as including the United Kingdom in respect of Northern Ireland as long as that Protocol applies.
+EN
+Official Journal of the European Union 
+L 127/30                                                                                                                                         
+14.4.2021  
+3.
+For foods intended for infants and young children, samples shall be evaluated on the products as proposed ready for 
+consumption or as reconstituted according to the instructions of the manufacturers, taking into account the MRLs set out 
+in Directives 2006/125/EC and 2006/141/EC and in Delegated Regulation (EU) 2016/127. Where such foods can be 
+consumed both as sold and as reconstituted, the results shall be reported on the non-reconstituted product as sold.
+Article 3
+Member States shall submit the results of the analysis of samples tested in 2022, 2023 and 2024 by 31 August 2023, 2024 
+and 2025 respectively. Those results shall be submitted in the electronic reporting format as set out by the Authority. 
+Where the residue definition of a pesticide includes more than one compound (active substance and/or metabolite or 
+breakdown or reaction product), Member States shall report the analysis results in accordance with the full residue 
+definition. In addition, the results of all analytes that are part of the residue definition shall be submitted separately, as far 
+as they are measured individually.
+Article 4
+Implementing Regulation (EU) 2020/585 is repealed. 
+However, as regards samples tested in 2021, it shall continue to apply until 1 September 2022.
+Article 5
+This Regulation shall enter into force on 1 January 2022.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 13 April 2021.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/31  
+ANNEX I
+Part A: Products of plant origin (1) to be sampled in 2022, 2023 and 2024
+2022
+2023
+2024
+(c)
+(a)
+(b)
+Apples (2)
+Oranges (2)
+Table grapes (2)
+Strawberries (2)
+Pears (2)
+Bananas (2)
+Peaches, including nectarines and 
+similar hybrids (2)
+Kiwi fruits (2)
+Grapefruits (2)
+Wine (red or white) made from grapes 
+(where no specific processing factors for 
+wine are available, Member States shall 
+report the wine processing factors used).
+Cauliflowers (2)
+Aubergines (2)
+Lettuces (2)
+Onions (2)
+Broccoli (2)
+Head cabbages (2)
+Carrots (2)
+Melons (2)
+Tomatoes (2)
+Potatoes (2)
+Cultivated fungi (2)
+Spinaches (2)
+Beans (dried) (2)
+Sweet peppers/bell peppers (2)
+Oat grain (3)(4)
+Rye grain (4)
+Wheat grain (4)
+Barley grain (4)(5)
+Brown rice (husked rice), defined as 
+rice after the removal of the hull from 
+paddy rice (6)
+Virgin olive oil (where no specific oil 
+processing factor is available, Member 
+States shall report the processing factors 
+used).
+(1) For the raw commodities to be analysed, the parts of the products to which MRLs apply shall be analysed for the main product of the 
+group or subgroup as listed in part A of Annex I to Regulation (EU) 2018/62 unless stated otherwise.
+(2) Unprocessed products shall be analysed. In case of products sampled in frozen state, a processing factor shall be reported, if applicable.
+(3) If no sufficient samples of oat grains are available, the part of the required sample number for oat grains that could not be taken, can be 
+added to the sample number for barley grains, resulting in a reduced sample number for oat grains and a proportionately increased 
+sample number for barley grains.
+(4) If no sufficient samples of rye, wheat, oat or barley grains are available, also rye, wheat, oat or barley whole grain flour can be analysed 
+and a processing factor shall be reported.
+(5) If no sufficient samples of barley grains are available, the part of the required sample number for barley grains that could not be taken, can be 
+added to the sample number for oat grains, resulting in a reduced sample number for barley grains and a proportionately increased sample 
+number for oat grains.
+(6) Where appropriate, also polished rice grain can be analysed. It shall be reported to the Authority whether polished or husked rice was 
+analysed. If polished rice was analysed, a processing factor shall be reported.
+Part B: Products of animal origin (1) to be sampled in 2022, 2023 and 2024
+2022
+2023
+2024
+(e)
+(f)
+(d)
+Cow’s milk (2)
+Poultry fat (3)(4)
+Bovine fat (3)(4)
+Swine fat (3)(4)
+Bovine Liver (3)
+Chicken eggs (3)(5)
+(1) For the raw commodities to be analysed, the parts of the products to which MRLs apply shall be analysed for the main product of the 
+group or subgroup as listed in part A of Annex I to Reg. (EU) No 2018/62 unless stated otherwise.
+(2) Fresh (unprocessed) milk shall be analysed, including frozen, pasteurised, heated, sterilised or filtrated milk.
+(3) Unprocessed products shall be analysed. In case of products sampled in frozen state, a processing factor shall be reported, if applicable.
+(4) Meat may also be sampled according to Table 3 of the Annex to Directive 2002/63/EC.
+(5) Whole eggs without the shell shall be analysed.
+EN
+Official Journal of the European Union 
+L 127/32                                                                                                                                         
+14.4.2021  
+Part C: Pesticide/product combinations to be monitored in/on products of plant origin
+2022
+2023
+2024
+Remarks
+2,4-D
+(c)
+(a)
+(b)
+It shall only be analysed in and on lettuces, 
+spinaches and tomatoes in 2022; in and on 
+oranges, cauliflowers, brown rice and dried 
+beans in 2023; in and on grapefruits, table 
+grapes, aubergines and broccoli in 2024.
+2-Phenylphenol
+(c)
+(a)
+(b)
+Abamectin
+(c)
+(a)
+(b)
+Aclonifen
+(a)
+It shall only be analysed in and on carrots 
+in 2023
+Acephate
+(c)
+(a)
+(b)
+Acetamiprid
+(c)
+(a)
+(b)
+Acrinathrin
+(c)
+(a)
+(b)
+Aldicarb
+(c)
+(a)
+(b)
+Aldrin and dieldrin
+(c)
+(a)
+(b)
+Ametoctradin
+(c)
+(a)
+(b)
+Azinphos-methyl
+(c)
+(a)
+(b)
+Azoxystrobin
+(c)
+(a)
+(b)
+Bifenthrin
+(c)
+(a)
+(b)
+Biphenyl
+(c)
+(a)
+(b)
+Bitertanol
+(c)
+(a)
+(b)
+Boscalid
+(c)
+(a)
+(b)
+Bromide ion
+(c)
+(a)
+(b)
+It shall only be analysed in and on lettuces and 
+tomatoes in 2022; in and on brown rice in 2023; 
+in and on sweet peppers in 2024.
+Bromopropylate
+(c)
+(a)
+(b)
+Bupirimate
+(c)
+(a)
+(b)
+Buprofezin
+(c)
+(a)
+(b)
+Captan
+(c)
+(a)
+(b)
+Carbaryl
+(c)
+(a)
+(b)
+Carbendazim and benomyl
+(c)
+(a)
+(b)
+Carbofuran
+(c)
+(a)
+(b)
+Chlorantraniliprole
+(c)
+(a)
+(b)
+Chlorfenapyr
+(c)
+(a)
+(b)
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/33  
+2022
+2023
+2024
+Remarks
+Chlormequat
+(c)
+(a)
+(b)
+It shall only be analysed in and on tomatoes, oats 
+and barley in 2022; in and on carrots, pears, rye 
+and brown rice in 2023; in and on aubergines, 
+table grapes, cultivated fungi and wheat in 2024.
+Chlorothalonil
+(c)
+(a)
+(b)
+Chlorpropham
+(c)
+(a)
+(b)
+Chlorpyrifos
+(c)
+(a)
+(b)
+Chlorpyrifos-methyl
+(c)
+(a)
+(b)
+Clofentezine
+(c)
+(a)
+(b)
+Clothianidin
+(c)
+(a)
+(b)
+Cyantraniliprole
+(c)
+(a)
+(b)
+Cyazofamid
+(c)
+(a)
+(b)
+Cyflufenamid
+(c)
+(a)
+(b)
+Cyfluthrin
+(c)
+(a)
+(b)
+Cymoxanil
+(c)
+(a)
+(b)
+Cypermethrin
+(c)
+(a)
+(b)
+Cyproconazole
+(c)
+(a)
+(b)
+Cyprodinil
+(c)
+(a)
+(b)
+Cyromazine
+(c)
+(a)
+(b)
+It shall only be analysed in and on lettuces and 
+tomatoes in 2022; in and on potatoes, onions 
+and carrots in 2023; in and on aubergines, sweet 
+peppers, melons and cultivated fungi in 2024.
+Deltamethrin
+(c)
+(a)
+(b)
+Diazinon
+(c)
+(a)
+(b)
+Dichlorvos
+(c)
+(a)
+(b)
+Dicloran
+(c)
+(a)
+(b)
+Dicofol
+(c)
+(a)
+(b)
+Diethofencarb
+(c)
+(a)
+(b)
+Difenoconazole
+(c)
+(a)
+(b)
+Diflubenzuron
+(c)
+(a)
+(b)
+Dimethoate
+(c)
+(a)
+(b)
+Dimethomorph
+(c)
+(a)
+(b)
+Diniconazole
+(c)
+(a)
+(b)
+Diphenylamine
+(c)
+(a)
+(b)
+Dithianon
+(c)
+(a)
+(b)
+It shall only be analysed in and on apples and 
+peaches in 2022; in and on pears and brown rice 
+in 2023; in and on table grapes in 2024.
+EN
+Official Journal of the European Union 
+L 127/34                                                                                                                                         
+14.4.2021  
+2022
+2023
+2024
+Remarks
+Dithiocarbamates
+(c)
+(a)
+(b)
+It shall be analysed in and on all listed 
+commodities except broccoli, cauliflowers, head 
+cabbages, olive oil, wine and onions.
+Dodine
+(c)
+(a)
+(b)
+Emamectin benzoate B1a, 
+expressed as emamectin
+(c)
+(a)
+(b)
+Endosulfan
+(c)
+(a)
+(b)
+Epoxiconazole
+(c)
+(a)
+(b)
+Ethephon
+(c)
+(a)
+(b)
+It shall only be analysed in and on apples, 
+peaches, tomatoes and wine in 2022; in and on 
+oranges and pears in 2023; in and on sweet 
+peppers, wheat and table grapes in 2024.
+Ethion
+(c)
+(a)
+(b)
+Ethirimol
+(c)
+(a)
+(b)
+Etofenprox
+(c)
+(a)
+(b)
+Etoxazole
+(c)
+(a)
+(b)
+Famoxadone
+(c)
+(a)
+(b)
+Fenamidone
+(c)
+(a)
+(b)
+Fenamiphos
+(c)
+(a)
+(b)
+Fenarimol
+(c)
+(a)
+(b)
+Fenazaquin
+(c)
+(a)
+(b)
+Fenbuconazole
+(c)
+(a)
+(b)
+Fenbutatin oxide
+(c)
+(a)
+(b)
+It shall only be analysed in and on apples, 
+strawberries, peaches, tomatoes and wine 
+in 2022; in and on oranges and pears in 2023; in 
+and on aubergines, grapefruits, sweet peppers 
+and table grapes in 2024.
+Fenhexamid
+(c)
+(a)
+(b)
+Fenitrothion
+(c)
+(a)
+(b)
+Fenoxycarb
+(c)
+(a)
+(b)
+Fenpropathrin
+(c)
+(a)
+(b)
+Fenpropidin
+(c)
+(a)
+(b)
+Fenpropimorph
+(c)
+(a)
+(b)
+Fenpyrazamine
+(c)
+(a)
+(b)
+Fenpyroximate
+(c)
+(a)
+(b)
+Fenthion
+(c)
+(a)
+(b)
+Fenvalerate
+(c)
+(a)
+(b)
+Fipronil
+(c)
+(a)
+(b)
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/35  
+2022
+2023
+2024
+Remarks
+Flonicamid
+(c)
+(a)
+(b)
+Fluazifop-P
+(c)
+(a)
+(b)
+It shall only be analysed in and on strawberries, 
+head cabbages, lettuces, spinaches and tomatoes 
+in 2022; in and on cauliflowers, dried beans, 
+potatoes and carrots in 2023; in and on 
+aubergines, broccoli, sweet peppers and wheat 
+in 2024.
+Flubendiamide
+(c)
+(a)
+(b)
+Fludioxonil
+(c)
+(a)
+(b)
+Flufenoxuron
+(c)
+(a)
+(b)
+Fluopicolide
+(c)
+(a)
+(b)
+Fluopyram
+(c)
+(a)
+(b)
+Fluquinconazole
+(c)
+(a)
+(b)
+Flusilazole
+(c)
+(a)
+(b)
+Flutriafol
+(c)
+(a)
+(b)
+Fluxapyroxad
+(c)
+(a)
+(b)
+Folpet
+(c)
+(a)
+(b)
+Formetanate
+(c)
+(a)
+(b)
+Fosetyl-Al
+(c)
+(a)
+(b)
+Fosthiazate
+(c)
+(a)
+(b)
+Glyphosate
+(c)
+(a)
+(b)
+Glufosinate ammonium
+(c)
+(a)
+(b)
+Haloxyfop including 
+haloxyfop-P
+(c)
+(a)
+(b)
+It shall only be analysed in and on strawberries 
+and head cabbages in 2022; in and on dried 
+beans in 2023; in and on broccoli, grapefruits, 
+sweet peppers and wheat in 2024.
+Hexaconazole
+(c)
+(a)
+(b)
+Hexythiazox
+(c)
+(a)
+(b)
+Imazalil
+(c)
+(a)
+(b)
+Imidacloprid
+(c)
+(a)
+(b)
+Indoxacarb
+(c)
+(a)
+(b)
+Iprodione
+(c)
+(a)
+(b)
+Iprovalicarb
+(c)
+(a)
+(b)
+Isocarbophos
+(c)
+(a)
+(b)
+Isoprothiolane
+(a)
+The substance shall not be analysed in or on any 
+product in 2022 and 2024. It shall only be 
+analysed in and on brown rice in 2023.
+EN
+Official Journal of the European Union 
+L 127/36                                                                                                                                         
+14.4.2021  
+2022
+2023
+2024
+Remarks
+Kresoxim-methyl
+(c)
+(a)
+(b)
+Lambda-cyhalothrin
+(c)
+(a)
+(b)
+Linuron
+(c)
+(a)
+(b)
+Lufenuron
+(c)
+(a)
+(b)
+Malathion
+(c)
+(a)
+(b)
+Mandipropamid
+(c)
+(a)
+(b)
+Mepanipyrim
+(c)
+(a)
+(b)
+Mepiquat
+(c)
+(a)
+(b)
+It shall only be analysed in and on barley and oats 
+in 2022; in and on pears, rye and brown rice 
+in 2023; in and on cultivated fungi and wheat 
+in 2024.
+Metaflumizone
+(c)
+(a)
+(b)
+Metalaxyl and metalaxyl-M
+(c)
+(a)
+(b)
+Methamidophos
+(c)
+(a)
+(b)
+Methidathion
+(c)
+(a)
+(b)
+Methiocarb
+(c)
+(a)
+(b)
+Methomyl
+(c)
+(a)
+(b)
+Methoxyfenozide
+(c)
+(a)
+(b)
+Metrafenone
+(c)
+(a)
+(b)
+Monocrotophos
+(c)
+(a)
+(b)
+Myclobutanil
+(c)
+(a)
+(b)
+Omethoate
+(c)
+(a)
+(b)
+Oxadixyl
+(c)
+(a)
+(b)
+Oxamyl
+(c)
+(a)
+(b)
+Oxydemeton-methyl
+(c)
+(a)
+(b)
+Paclobutrazole
+(c)
+(a)
+(b)
+Parathion methyl
+(c)
+(a)
+(b)
+Penconazole
+(c)
+(a)
+(b)
+Pencycuron
+(c)
+(a)
+(b)
+Pendimethalin
+(c)
+(a)
+(b)
+Permethrin
+(c)
+(a)
+(b)
+Phosmet
+(c)
+(a)
+(b)
+Pirimicarb
+(c)
+(a)
+(b)
+Pirimiphos-methyl
+(c)
+(a)
+(b)
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/37  
+2022
+2023
+2024
+Remarks
+Prochloraz
+(c)
+(a)
+(b)
+Procymidone
+(c)
+(a)
+(b)
+Profenofos
+(c)
+(a)
+(b)
+Propamocarb
+(c)
+(a)
+(b)
+It shall be only analysed in and on strawberries, 
+head cabbages, spinaches, lettuces, tomatoes and 
+barley in 2022; in and on carrots, cauliflowers, 
+onions and potatoes in 2023; in and on table 
+grapes, melons, aubergines, broccoli, sweet 
+peppers and wheat in 2024.
+Propargite
+(c)
+(a)
+(b)
+Propiconazole
+(c)
+(a)
+(b)
+Propyzamide
+(c)
+(a)
+(b)
+Proquinazid
+(c)
+(a)
+(b)
+Prosulfocarb
+(c)
+(a)
+(b)
+Prothioconazole
+(c)
+(a)
+(b)
+It shall be only analysed in and on head cabbages, 
+lettuces, tomatoes, oats and barley in 2022; in 
+and on carrots, onions, rye and brown rice 
+in 2023; in and on sweet peppers and wheat 
+in 2024.
+Pymetrozine
+(c)
+(b)
+It shall only be analysed in and on head cabbages, 
+lettuces, strawberries, spinaches and tomatoes 
+in 2022; in and on aubergines, melons and sweet 
+peppers in 2024. The substance shall not be 
+analysed in or on any product in 2023.
+Pyraclostrobin
+(c)
+(a)
+(b)
+Pyridaben
+(c)
+(a)
+(b)
+Pyridalyl
+(c)
+(a)
+(b)
+Pyrimethanil
+(c)
+(a)
+(b)
+Pyriproxyfen
+(c)
+(a)
+(b)
+Quinoxyfen
+(c)
+(a)
+(b)
+Spinosad
+(c)
+(a)
+(b)
+Spinetoram
+(c)
+(a)
+(b)
+Spirodiclofen
+(c)
+(a)
+(b)
+Spiromesifen
+(c)
+(a)
+(b)
+Spiroxamine
+(c)
+(a)
+(b)
+Spirotetramat
+(c)
+(a)
+(b)
+Sulfoxaflor
+(c)
+(a)
+(b)
+Tau-Fluvalinate
+(c)
+(a)
+(b)
+EN
+Official Journal of the European Union 
+L 127/38                                                                                                                                         
+14.4.2021  
+2022
+2023
+2024
+Remarks
+Tebuconazole
+(c)
+(a)
+(b)
+Tebufenozide
+(c)
+(a)
+(b)
+Tebufenpyrad
+(c)
+(a)
+(b)
+Teflubenzuron
+(c)
+(a)
+(b)
+Tefluthrin
+(c)
+(a)
+(b)
+Terbuthylazine
+(c)
+(a)
+(b)
+Tetraconazole
+(c)
+(a)
+(b)
+Tetradifon
+(c)
+(a)
+(b)
+Thiabendazole
+(c)
+(a)
+(b)
+Thiacloprid
+(c)
+(a)
+(b)
+Thiamethoxam
+(c)
+(a)
+(b)
+Thiophanate-methyl
+(c)
+(a)
+(b)
+Tolclofos-methyl
+(c)
+(a)
+(b)
+Triadimefon
+(c)
+(a)
+(b)
+Triadimenol
+(c)
+(a)
+(b)
+Thiodicarb
+(c)
+(a)
+(b)
+Triazophos
+(c)
+(a)
+(b)
+Tricyclazole
+(a)
+It shall only be analysed in and on brown rice 
+in 2023.
+Trifloxystrobin
+(c)
+(a)
+(b)
+Triflumuron
+(c)
+(a)
+(b)
+Vinclozolin
+(c)
+(a)
+(b)
+Part D: Pesticide/product combinations to be monitored in/on products of animal origin
+2022
+2023
+2024
+Remarks
+Aldrin and dieldrin
+(e)
+(f)
+(d)
+Bifenthrin
+(e)
+(f)
+(d)
+Chlordane
+(e)
+(f)
+(d)
+Chlorpyrifos
+(e)
+(f)
+(d)
+Chlorpyrifos-methyl
+(e)
+(f)
+(d)
+Cypermethrin
+(e)
+(f)
+(d)
+DDT
+(e)
+(f)
+(d)
+Deltamethrin
+(e)
+(f)
+(d)
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/39  
+2022
+2023
+2024
+Remarks
+Diazinon
+(e)
+(f)
+(d)
+Endosulfan
+(e)
+(f)
+(d)
+Famoxadone
+(e)
+(f)
+(d)
+Fenvalerate
+(e)
+(f)
+(d)
+Fipronil
+(e)
+(f)
+(d)
+Glyphosate
+(e)
+(f)
+(d)
+Glufosinate 
+ammonium
+(e)
+(f)
+(d)
+Heptachlor
+(e)
+(f)
+(d)
+Hexachlorobenzene
+(e)
+(f)
+(d)
+Hexachlorcyclohexan 
+(HCH, Alpha-Isomer)
+(e)
+(f)
+(d)
+Hexachlorcyclohexan 
+(HCH, Beta-Isomer)
+(e)
+(f)
+(d)
+Indoxacarb
+(e)
+It shall only be analysed 
+in and on milk in 2022.
+Lindane
+(e)
+(f)
+(d)
+Methoxychlor
+(e)
+(f)
+(d)
+Parathion
+(e)
+(f)
+(d)
+Pendimethalin
+(e)
+(f)
+(d)
+Permethrin
+(e)
+(f)
+(d)
+Pirimiphos-methyl
+(e)
+(f)
+(d)
+EN
+Official Journal of the European Union 
+L 127/40                                                                                                                                         
+14.4.2021  
+ANNEX II
+Number of samples referred to in Article 1
+(1) The number of samples to be taken for each commodity and analysed for the pesticides listed in Annex I is set out in 
+point (5).
+(2) In addition to the samples required in accordance with point (5), in 2022 each Member State shall take and analyse ten 
+samples of foods for infants and young children other than infant formulae, follow-on formulae and processed cereal- 
+based baby food.
+In addition to the samples required in accordance with point (5), in 2023 each Member State shall take and analyse five 
+samples of infant formulae and five samples of follow-on formulae.
+In addition to the samples required in accordance with point (5), in 2024 each Member State shall take and analyse ten 
+samples of processed cereal-based baby food.
+(3) In accordance with point (5), samples from commodities originating from organic farming shall, where available, be 
+taken in proportion to the market share of those commodities in each Member State with a minimum of 1.
+(4) Member States using multi-residue methods may use qualitative screening methods on up to 15 % of the samples to be 
+taken and analysed in accordance with point (5). Where qualitative screening methods are used, the remaining number 
+of samples shall be analysed by quantitative multi-residue methods.
+Where the results of qualitative screening are positive, Member States shall use a usual target method to quantify the 
+findings.
+(5) Minimum number of samples per year per commodity:
+BE
+15
+LT
+12
+BG
+15
+LU
+12
+CZ
+15
+HU
+15
+DK
+12
+MT
+12
+DE
+106
+NL
+20
+EE
+12
+AT
+15
+IE
+12
+PL
+51
+EL
+15
+PT
+15
+ES
+55
+RO
+22
+FR
+78
+SI
+12
+HR
+12
+SK
+12
+IT
+75
+FI
+12
+CY
+12
+SE
+15
+LV
+12
+UK in respect of Northern 
+Ireland (1)
+12
+(1) In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the 
+European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern 
+Ireland in conjunction with Annex 2 to that Protocol, this Regulation applies to and in the United Kingdom in respect of Northern 
+Ireland.TOTAL
+NUMBER OF SAMPLES: 683
+EN
+Official Journal of the European Union 
+14.4.2021                                                                                                                                         
+L 127/41  

@@ -1,0 +1,175 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/1228 
+of 29 November 2019 
+laying down implementing technical standards with regard to the format of applications for 
+registration as a securitisation repository or for extension of a registration of a trade repository 
+pursuant to Regulation (EU) 2017/2402 of the European Parliament and of the Council 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying 
+down a general framework for securitisation and creating a specific framework for simple, transparent and standardised 
+securitisation (1), and in particular Article 10(8) thereof, 
+Whereas: 
+(1) 
+A uniform format for applications to the European Securities and Markets Authority (ESMA) for registration as a 
+securitisation repository or for extension of a registration of a trade repository should ensure that all information 
+required pursuant to Commission Delegated Regulation (EU) 2020/1230 (2) is submitted to, and easily identified by, 
+ESMA. 
+(2) 
+It is important that the information in those applications be submitted in a format that enables storage for future use 
+and reproduction. Therefore, these applications should be submitted in a durable medium. 
+(3) 
+In order to facilitate the identification of the information submitted within those applications, a unique reference 
+number and a title for each of their documents should be provided. For the same reason, the applicant should be 
+required to identify any information submitted by reference to the provision of Delegated Regulation (EU) 2020/ 
+1230 which that information relates to. 
+(4) 
+This Regulation is based on the draft implementing technical standards submitted by ESMA to the Commission. 
+(5) 
+In accordance with Article 15 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council (3), 
+ESMA has conducted an open public consultation on the draft implementing technical standards on which this 
+Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Securities and 
+Markets Stakeholder Group established by Article 37 of that Regulation, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Format of the application for registration and extension of registration 
+(1)
+Applicants for registration as a securitisation repository under Article 10(5)(a) of Regulation (EU) 2017/2402 shall 
+complete the formats set out in Annex 1 to this Regulation. 
+(1) OJ L 347, 28.12.2017, p. 35. 
+(2) Commission Delegated Regulation (EU) 2020/1230 of 29 November 2019 supplementing Regulation (EU) 2017/2402 of the 
+European Parliament and of the Council with regard to regulatory technical standards specifying the details of the application for 
+registration of a securitisation repository and the details of the application for a simplified application for an extension of registration 
+of a trade repository (see page 345 of this Official Journal). 
+(3) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European 
+Supervisory Authority (European Securities and Markets Authority), amending Decision No 176/2009/EC and repealing Commission 
+Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84). 
+EN
+Official Journal of the European Union 
+L 289/330                                                                                                                                         
+3.9.2020   
+(2)
+Trade repositories applying for an extension of registration under Article 10(5)(b) of Regulation (EU) 2017/2402 
+shall complete the formats set out in Annex 2 to this Regulation. 
+(3)
+For the purposes of paragraphs 1 and 2, the applications shall be submitted: 
+(a) in a durable medium as defined in Article 2(1)(m) of Directive 2009/65/EC of the European Parliament and of the 
+Council (4); 
+(b) with a unique reference number assigned to each document included in the application. 
+Article 2 
+Entry into force 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 29 November 2019.  
+For the Commission 
+The President 
+Jean-Claude JUNCKER     
+(4) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and 
+administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, 
+p. 32). 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/331   
+ANNEX I 
+Formats for an application for registration as a securitisation repository 
+Table 1 
+General information 
+Date of application 
+Corporate name of securitisation repository 
+Place of incorporation and scope of business activity 
+Legal entity identifier (LEI) registered with the Global Legal Entity Identifier Foundation 
+Legal address of the securitisation repository 
+Legal address of any subsidiaries of the securitisation repository 
+Legal address of any branches of the securitisation repository 
+Uniform resource locator (URL) of the securitisation repository’s website 
+The securitisation types, risk transfer methods and underlying exposure types for which the applicant repository is applying 
+to be registered 
+If the applicant is authorised or registered by a competent authority in the Member State where it is established, the name of 
+the authority and any reference number related to the authorisation or registration 
+Name of the person(s) responsible for the application 
+Contact details of the person(s) responsible for the application 
+Name of person(s) responsible for the securitisation repository compliance (or any other staff involved in compliance 
+assessments for the securitisation repository) 
+Contact details of the person(s) responsible for the securitisation repository compliance, or any other staff involved in 
+compliance assessments for the securitisation repository, in relation to its provision of core securitisation services 
+Name of any parent undertaking 
+LEI registered with the Global Legal Entity Identifier Foundation of any parent undertaking 
+Legal address of any parent undertaking 
+Name of the responsible supervisory authority for any parent undertaking 
+Reference number of the responsible supervisory authority for any parent undertaking 
+Name of any ultimate parent undertaking 
+LEI registered with the Global Legal Entity Identifier Foundation of any ultimate parent undertaking 
+Legal address of any ultimate parent undertaking 
+Name of the responsible supervisory authority for any ultimate parent undertaking 
+Reference number of the responsible supervisory authority for any ultimate parent undertaking   
+EN
+Official Journal of the European Union 
+L 289/332                                                                                                                                         
+3.9.2020   
+Table 2 
+Document references (1) 
+Provision of Commission 
+Delegated Regulation (EU) 2020/ 
+1230 containing the information 
+requirement to which the 
+document relates 
+Unique reference number of 
+document 
+Title of the 
+document 
+Chapter or section or page of the 
+document where the information 
+is provided or reason why the in­
+formation is not provided   
+(1) For all information required in Commission Delegated Regulation (EU) 2020/1230 with the exception of points (a) to (c), (e), (f), (h) 
+and (i) of Article 2(2) and Article 7(2) thereof. 
+EN
+Official Journal of the European Union 
+3.9.2020                                                                                                                                         
+L 289/333   
+ANNEX II 
+Formats for an application of a trade repository for extension of registration 
+Table 1 
+General information 
+Date of application 
+Date of registration of the applicant as a trade repository 
+Corporate name of securitisation repository 
+Legal entity identifier (LEI) registered with the Global Legal Entity Identifier Foundation 
+Legal address of the securitisation repository 
+Legal address of any subsidiaries of the securitisation repository 
+Legal address of any branches of the securitisation repository 
+Uniform resource locator (URL) of the securitisation repository’s website 
+Legal Entity Identifier (LEI) registered with the Global Legal Entity Identifier Foundation 
+The securitisation types, risk transfer methods and underlying exposure types for which the applicant repository is applying 
+to be registered 
+If the applicant is authorised or registered by a competent authority in the Member State where it is established, the name of 
+the authority and any reference number related to the authorisation or registration 
+Name of the person(s) responsible for the application 
+Contact details of the person(s) responsible for the application 
+Name of person(s) responsible for the securitisation repository compliance, or any other staff involved in compliance 
+assessments for the securitisation repository, in relation to its provision of core securitisation services 
+Contact details of the person(s) responsible for the securitisation repository compliance (or any other staff involved in 
+compliance assessments for the securitisation repository)   
+Table 2 
+Document references (1) 
+Provision of Commission 
+Delegated Regulation (EU) 2020/ 
+1230 containing the information 
+requirement to which the 
+document relates 
+Unique reference number of 
+document 
+Title of the 
+document 
+Chapter or section or page of the 
+document where the information 
+is provided or reason why the 
+information is not provided   
+(1) For all information required in Commission Delegated Regulation (EU) 2020/1230 with the exception of points (a) to (c), (e), (f), (h) 
+and (i) of Article 2(2) and Article 7(2) thereof. 
+EN
+Official Journal of the European Union 
+L 289/334                                                                                                                                         
+3.9.2020   

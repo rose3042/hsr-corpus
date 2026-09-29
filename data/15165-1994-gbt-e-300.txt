@@ -1,0 +1,2010 @@
+UDC 725.31/.33 : 001.4
+s 04
+GB
+中华人民共和国国家标准
+GB/T 15165---94
+铁路车站及枢纽术语
+Terminology for railway
+station and terminal
+1994-08-12发布
+1995-05-01实施
+国家技术监督局
+发布
+
+主题内容与适用范围
+引用标准
+基本概念
+中间站
+区段站
+编组站
+驼峰
+客运站、客运设备和客车整备所
+货运站、货场和货运设备
+(13）
+10
+工业站、港湾站、换装站·
+(15 )
+11
+铁路枢纽·
+(16)
+附录 A
+按汉语拼音字母顺序排列的索引（补充件）
+(18)
+附录 B
+按英文字母顺序排列的索引（补充件）
+(21 )
+
+中华人民共和国国家标准
+铁路车站及枢纽术语
+GB/T 15165—94
+Terminology for railway
+station and terminal
+1主题内容与适用范围
+本标准规定了有关铁路车站及枢纽的常用术语。
+本标准适用于国家、地方及工业企业铁路的站场及枢纽设计、施工、运营、科研、教学、出版等方面。
+2 引用标准
+GB 7179
+铁路货运名词术语
+GB 8568
+铁路行车组织名词术语
+GB/T 13317
+铁路旅客运输组织术语
+GBJ 91
+铁路车站及枢纽设计规范
+TB 1352
+铁路线路名词术语
+TB 1353
+铁路道岔和交叉名词术语
+TB 2107
+铁路编组站、区段站（分类)技术条件
+3 基本概念
+3.1 分界点 intermediate traindistancing point
+为了保证行车安全和必要的通过能力，在铁路正线上分成若干区间或闭塞分区；这些相邻区间或
+闭塞分区的分界处称为分界点。
+分界点包括：
+无配线分界点自动闭塞区间的通过色灯信号机、线路所；
+b．有配线分界点一一车站。
+3.2
+铁路车站
+3. 2. 1
+中间站
+intermediate station
+一般设在两个技术站之间，办理列车接发、会让和通过作业、沿零摘挂列车的调车和客货运等作
+业的车站。设有到发线和客货运设备。
+3. 2. 2
+区段站district station
+指设在铁路网上牵引区段分界处的车站。般除办理无调中转列车外，还解体和编组区段、沿零
+摘挂列车、换挂机车或更换乘务组，对货物列车中的车辆进行技术检修和货运检查整理作业。设
+有接发列车、调车、机车整备和车辆检修等设备。
+3. 2. 3
+编组站marshalling station
+指担当大量列车解体和编组作业编组直达、直通和其他列车的车站，还进行更换机车和乘务人
+员，对货物列车中的车辆进行技术检修和货运检查整理作业。设有专用的到达场、出发场、调车
+国家技术监督局1994-08-12批准
+1995-05-01实施
+
+GB/T 15165—94
+场、驼峰调车设备以及机车整备、车辆检修等设备。
+3. 2. 4
+客运站passenger station
+李、包裹的承运、保管、装卸、中转与交付的业务，并办理旅客列车的到达、出发、通过和旅客列车
+车底的取送等技术作业。其主要设备由站房、站前广场和站场三部分组成。
+3. 2. 5
+货运站freight station
+指专门办理货运业务或兼办货运业务的车站。主要办理货物的承运装卸、交付、中转和货物列车
+的接发和车辆取送等作业。主要设备有：货物列车到发线、调车线、牵出线和货场等。
+3.3
+线路所block post
+除正线外无其他配线，只办理列车的闭塞、接发，不办理列车的会让、越行等作业的分界点。
+3.4 辅助所auxiliary block post
+用区间正线时，其道岔由辅助所隶属的车站控制。
+3.5铁路枢纽railway junction terminal
+指在两条以上铁路干支线的交汇处或终端地区，由一个或几个统一调度协调作业的专业站（站包
+括客运站、货运站、编组站）以及相应的正线、进出站线、联络线、迁回线、环线等铁路设备组成的整
+体。
+3.6车站线路
+3.6.1正线main line
+指由区间连接车站并贯穿或直股伸入车站的线路。
+3. 6. 2
+站线 station track
+指车站内除正线以外的线路。包括到发线、调车线、货物线、牵出线以及站内指定用途的其他线
+路。
+3. 6. 3
+到发线.arrival-departure track.
+供办理旅客或货物列车到达或出发作业用的线路。
+3. 6. 4
+调车线　shunting track
+供列车解体、编组和车辆集结用的线路。
+3. 6. 5
+牵出线　shunting neck
+供车列牵出转线、解体、编组、取送等调车作业使用的线路。
+3. 6. 6
+段管线depot siding
+设在铁路机务、车辆、工务、电务等段内，供该段使用和管辖的线路。
+3. 6. 7
+专用线industrial siding
+在区间或站内接轨，通向路内外单位（厂矿企业、矿石场、港湾、码头、货物仓库等）而设置的专用
+线路。
+3. 6. 8
+线路中心线　center line of track
+指铁路线路两钢轨内侧间的中心线（不计轨距加宽值）。
+3. 6. 9
+线间距离distance between tracks
+指两相邻线路中心线间的距离。
+3. 6. 10
+线路全长total length of track
+指车站线路一端的道岔基本轨接头至另一端的道岔基本轨接头（贯通线）或车挡（尽头线）的长
+度。
+3. 6. 11
+线路有效长effective length of track
+指在车站线路全长范围内可用以停留机车车辆部分的长度。
+
+GB/T 15165--94
+3. 6. 12
+铺轨长度length of track laid out
+指线路全长减去该线路上所有道岔的长度。
+3.7　铁路限界
+3.7.1 
+机车车辆限界clearance of locomotives and vehicles
+指规定的机车车辆不同部位的宽度、高度的最大尺寸和其零部件至轨面的最小距离。它是一个
+和线路中心线垂直的横断面轮廓。无论是新造的机车车辆，还是各种部件具有最大限度公差或
+磨耗的空重车，停在水平直线上时，沿车身一切突出部分和悬挂部分，除升起的集电号外，者必
+须容纳在该轮廓之内。
+3. 7. 2 
+建筑接近限界approaching clearance
+指规定的接近铁路的各种建筑物及设备必须与线路保持的距离。它是一个和线路中心线垂直的
+横断面轮廓。在此轮廓内，除机车车辆及与机车车辆有相互作用的设备（车辆减速器、路签授受
+器、接触电线等）外，其他设备及建筑物均不得侵入。
+3.8警冲标fouling post
+在两条线路汇合处，为防止停留在一线上的机车车辆与邻线上的机车车辆发生侧面冲撞而设在两
+汇合线路中间的标志。
+3.9 水鹤 water crane
+专供蒸汽机车煤水车上水用的设备。
+3. 10
+车挡bumper post
+设在尽头线的未端，表示线路已到尽端并起一定阻挡作用的设备。
+3.11道岔
+3.11.1单开道岔simple turnout
+主线为直线方向，侧线由主线向左侧或右侧分岔的道岔。
+3. 11. 2
+对开道岔symmetrical turnout
+把直线轨道分为左右对称或不对称两条线路的道岔。又称对称双并道岔。
+3. 11. 3
+三开道岔three-throw turnout
+主线为直线，用同一部位的两组转辙器，将一条线路分为三条线路，两侧对称分支或不对称分
+岔的道岔。
+3. 11. 4
+交分道岔slip switch
+将直线异侧的两个对向单开道岔合并在一起便构成交分道岔。
+:3.11.5
+道岔中心线表示法method of indicating the center line of turnout
+在站场设计中用道岔分岔线路中心线及其交点交角表示道岔的方法。
+3. 11. 6
+道岔号数　turnout number
+道岔辙叉角的余切，即辙叉的跟端长和跟端支距的比值叫道岔号数或辙叉号码。
+3. 11. 7
+道岔主线　main line of turnout
+指单开道岔或三开道岔中的直线或其他道岔中主要方向的线路。
+3. 11. 8
+道岔侧线siding of turnout
+指道岔中从主线分支出来的线路。
+3. 11. 9
+道岔导曲线　lead curve of turnout
+指道岔中连接转辙部分和辙叉部分的圆曲线。
+3. 11. 10
+道岔中心center of turnout
+指道岔主线中心线与道岔侧线的直线中心线延伸的交点。
+3. 12
+线路连接
+3. 12. 1
+线路终端连接
+connection at ends of tracks
+
+GB/T 15165—94
+指在站场设计中，将相邻两线路汇合成一条线路的连接方式。当相邻两条线路汇合成一条线路
+而其间距较宽时，为缩短连接长度，由连接线反曲线及一组道岔形成缩短式终端连接。
+3. 12. 2
+渡线（
+crossover
+指为使机车车辆能从相邻两条相互平行或不平行的一条线路进入另一线路的连接方式。有普
+通渡线、交叉渡线、缩短渡线三种。
+3. 12. 3
+梯线　ladder track
+将儿条平行线连接在一条公共线上，这条公共线就叫梯线。按各道岔相互位置的布置不同，可
+分为直线梯线、缩短梯线和复式梯线三种。
+3.13　线路平行错移　track by paralled shifting apart
+在车站两平行线路间某一段需要修建站台或其他建筑物时及某种作业需要变更线路间距时，其
+中-一条线路要平行移动。移动后的线路与原线路之间用反向曲线和夹直线连接。
+3.14　交叉　 crossing
+两条线路在商一平面上相互交叉的设备，按两条线路的交叉角度和平面形状，可分为直角交叉、
+菱形交叉。
+3. 15
+车场　yard
+将办理同-一种作业的线路两端用梯线连接起来，便成为车场。按用途分为到发场、到达场、出发场
+及调车场等。按其形状不同可分为梯形车场、异腰形车场、平行四边形车场和梭形车场。
+3. 16
+站坪 station site
+在铁路正线的平、纵断面上设置车站配线的地坪。
+3. 17
+站坪长度 length of station site
+根据车站布置图型，到发线数量、到发线有效长度以及咽喉区长度等因素确定的，在铁路正线的
+平纵断面上设置车站配线所需要地段的长度。
+3. 18
+站场路基yard subgrade
+计为单面坡、双面坡或锯齿形坡路基。
+3. 18. 1虽
+路基顶面subgrade surface
+由站线道床覆盖部分及两侧路肩组成。
+车站范围内的路基顶面宽度B=K1十E十K2
+式中:E—各线间距的总和；
+K1,K²一--最外侧线路中心线至路肩边缘的宽度。
+3. 18. 2立
+站场路基高程elevation of yard subgrade
+站场线路中心线路基面的高程。
+3.19站场排水设备drainage facilities of yards
+指站场内设置的排除路基地面水或降低地下水的设备。可分为纵向和横向排水设备。
+4中间站
+4.1 会让站　 passing station
+设在单线铁路上，主要办理双方向列车的会车和同方向列车的越行，办理少量的客货业务，不办理
+整车货物的装卸作业和摘挂车辆的调车作业的车站。
+4.2 走
+越行站 overtaking station
+设在双线铁路上，主要办理列车的接发和越行，办理少量的旅客乘降和行包、零担等客货业务。不
+办理整车货物的装卸作业和摘挂车辆的调车作业的车站。
+4.3给水站
+water supply station
+
+GB/T 15165-94
+为机车上水的中间车站。
+4. 4
+枢纽前方站front station terminal
+位于铁路枢纽入口处的车站。
+4. 5
+补机摘挂站 picking up and ditaking station for auxiliary locomotive
+在采用双机牵引的区段，列车加挂补机或摘下补机的车站。
+4.6
+列车技术检查站train technical inspection station
+在长大下坡地段的前方，进行列车制动检查、更换闸瓦的车站。
+4.7
+凉闸站 station for cool brake
+在长大下坡地段，为使制动后过热的闸瓦降温，列车需短暂停留，进行凉闸的车站。
+4.8
+中间站站型
+4.8.1
+横列式中间站intermediate statior with paralled arrangement
+上、下行到发线并行布置的中间站。
+4.8.2
+纵列式中间站 intermediate station with longitudinal arrangement
+上、下行到发线有效长部分错开布置的中间站。
+4.8.3
+半纵列式中间站intermediate station with half longitudinal arrangement
+上、下行到发线有效长部分错开布置的中间站。
+4.9 单进路　 single routes
+只具有接、发上行或下行单方向列车的到发线进路。
+4. 10
+双进路　double routes
+具有接、发上、下行双方向列车的到发线进路。
+　4.11　.安全线　catch siding
+安全线是一种进路隔并设备，设置的目的是为了防止-一列列车或机车车辆进入另列车或机车
+车辆占用的线路而发生冲突事故。
+4. 12
+避难线refuge siding
+在陡长的下坡道上，为防止失去控制的列车发生冲突或颠覆，根据线路坡度及地形情况计算确定
+在区间或站内设置的陡上坡尽头线或回转线，称为避难线。
+5区段站
+5.1
+无解编作业区段站 the district station without marshalling operation for break-up and make-up
+of train
+除供应机车及办理无调中转车外，不担任列车的改编作业，或仅担任零摘列车整编作业的区段站。
+5.2 有解编作业区段站 the district station with marshalling operation for break-up and make-up of
+train
+除供应列车机车及办理无调中转列车作业外，还担任区段、零摘列车和少量直通、直达列车改编作
+业的区段站。
+5.3
+横列式区段站 paralled arrangement district station
+上、下行客货列车到发场及调车场并行布置的区段站。
+5.4
+纵列式区段站 longitudinal arrangement district station
+上、下行两个货物列车到发场全部错开布置在正线的两侧，一般在作业量较大的一个方向设个
+共用的、并与到发场横列布置的调车场的区段站。
+5.5 客货纵列式区段站 passenger train and freight train yard longitudinal arrangement
+旅客列车到发场与货物列车到发场、调车场纵向排列布置的区段站。
+5.6机务设备
+
+GB/T 15165—94
+5. 6. 1
+机务段　depot
+有配属机车，担任机车的运转、整备和检修等作业的机务段。
+5. 6. 2
+机务折返段return depot
+一般无配属机车，仅担任机车的整备作业，不担任机车检修作业的机务段。
+5. 6. 3
+机务整雀所point of locomotive running preparation
+无配属机车，担任补机、调车机车、小运转机车等整备作业的地点。
+5. 6. 4
+机务折返所locomotive return point
+担任小运转机车、补机的部分整备作业的地点。
+5. 6. 5
+混合机务段combineddepot
+有两种及以上牵引种类的机车，担当运转、检修和整备作业的机务段。
+5. 6. 6
+机务线路
+5.6.6. 1
+机车走行线　locomotive running track
+一般设在车站和段内，专供机车走行的线路。
+5. 6. 6. 2
+机待线locomotive waiting track
+供本务机车摘挂调头或暂时停留用的线路。
+5. 6. 6. 3
+机车出入段线 track for going out and coming into the depot
+设在机务段与车站之间，供机车出入段走行用的线路。
+5. 6. 6. 4
+整备线servicing siding
+供机车进行整备作业停留用的线路。
+5. 6. 6. 5
+待班线waiting track on duty
+在机务段内，为待班机车等候出段而设的停留线。
+三角线
+5. 6. 6. 6
+turn-around wye
+在机务段内，由三边线路及相应的道岔尽头线组成的供机车转换方向的设备。
+5. 6. 6. 7
+回转线turri-around track
+在机务段内，由一条环形线路组成的供机车转换方向的设备。
+5.6.6.8
+转车盘　turning jack
+在机务段内由桥式旋转台车组成的供机车转换方向的设备。
+5.7车辆设备
+5. 7. 1
+车辆段vehicle depot
+承担客货车的段修、部分摘车临修，并负责维修保养段管范围内的检修设备、机具，供应所需的
+材料和配件等任务的场所。
+5. 7. 2
+列检所vehicle repair place
+承担各种货物列车的技术检查、制动试验及不摘车的一般检修任务的场所。
+5. 7. 3
+站修所 vehicle repair track at station
+承担辅修、摘车轴箱检查和摘车临修任务的场所。
+5.8作业进路
+foperation route
+机车车辆在车站上运行或调车时，所经由的进路。
+5.8.1
+平行进路　parallel route
+在车站咽喉区能同时平行进行两项及其以上作业的进路。
+5. 8. 2
+敌对进路
+cross route
+在车站咽喉区两项作业相互敌对，不能同时进行的进路。
+5.9 车站通过能力 carrying capacity of station
+车站在现有设备条件下，采用合理的技术作业过程一昼夜能够接、发各方向的货物列车数和旅客
+
+GB/T 15165---94
+列车数。
+车站通过能力包括咽喉通过能力和到发线通过能力。
+5. 9. 1
+咽喉通过能力carrying capacity of throat
+车站咽喉区在一叠夜内能够接、发各方向的货物列车数和旅客列车数，它为咽喉区各进路咽喉
+道岔（组)通过能力之和。
+5.9.1.1 车站咽喉区 throat of station
+在车场或整个车站两端道岔汇集的地段称车站咽喉区。
+5. 9. 1. 2
+咽喉道岔throat points
+在咽喉区，某方向接(发)车进路上，一昼夜各项作业总占用时间最多的繁忙道岔(组)称为咽
+喉道岔（组）。
+5. 9. 1. 3
+咽喉道岔（组）通过能力carrying capacity of throat points
+是指某方向接（发）车进路上的咽喉道岔（组）在一昼夜内能够接（发）该方向的货物列车数和
+旅客列车数。
+5.9.2到发线通过能力carrying capacity of arrival-departure track
+到达场、出发场、直通场或到发场中办理列车到发作业的线路在一昼夜内能够接、发各方向的货
+物列车数和旅客列车数。
+5.9.3
+车站最终通过能力station final capacity
+将计算出的咽喉、到发线通过能力进行综合分析或重新调整，最后按受控制的那项设备确定的
+能力称为最终通过能力。
+6编组站
+6.1路网性编组站
+network marshalling station
+位于路网三条以上主要铁路干线的汇合点，承担大量中转车流改编作业、编组大量远程技术直达
+和直通列车的车站。
+6.2 区域性编组站 regional marshalling station
+位于路网三条以上铁路的汇合点，承担较多中转车流改编作业，编组较多的技术直达列车和直通
+列车的车站。
+6.3地方性编组站local marshalling station
+位于铁路干支线的汇合地点，主要承担地方车流的改编作业，编组定数量的直通区段、摘挂及小
+运转列车的车站。
+6.4枢纽主要编组站terminal main marshalling station
+在一个铁路枢纽内设有两个及其以上编组站时，担当路网上有调中转车流的改编任务，以解编直
+达、直通列车为主的车站。
+6.5枢纽辅助编组站terminal auxiliary marshalling station
+在一个铁路枢纽内设有两个及其以上编组站时，辅助主要编组站的作业，以解编地区小运转车流
+为主，个别情况也编组少量的直达列车的车站。
+6.6 单向编组站 single direction marshalling station
+上、下行方向只设一套调车系统的编组站。
+6.6.1单向横列式编组站unidirectional transveral type marshalling station
+上、下行方向的到发场与共用调车场并列布置的编组站。
+6. 6.2
+单向纵列式编组站unidirectional longitudinal type marshalling station
+上、下行共用的到达场、调车场和出发场顺序排列的编组站。
+6.6.3单向混合式编组站
+ unidirectional combined type marshalling station
+
+GB/T 15165 --- 94
+上、下行共用的到达场与共用的调车场纵列布置，上、下行出发场与共用的调车场横列布置的编
+组站。
+6.7 双向编组站 double direction marshalling station
+上、下行方向各设一套调车系统的编组站。
+6.7.1 双向横列式编组站 bidirectional transversal type marshalling station
+上、下行两方向各自的到发场与调车场横列布置，两调车系统又并列配置的编组站。
+6. 7. 2
+双向纵列式编组站bidirectional longitudinal type marshalling station
+上、下行各有一套顺序布置的调车系统的编组站。
+6. 7. 3
+双向混合式编组站bidirectional combined type marshalling station
+上、下行方向各有一-套调车系统，其中个系统为纵列布置，另一个系统为混合布置或两个系统
+均为混合布置的车站。
+6.8车场
+6.8.1 到达场 receiving yard
+办理解体列车到达作业的车场。
+6. 8. 2
+出发场departure yard
+办理列车出发作业的车场。
+6. 8. 3
+到发场
+receiving and departure yard
+办理列车到达和出发作业的车场。
+6. 8. 4
+直通场　through yard
+办理无调中转列车作业的车场。
+6. 8. 5
+调车场marshalling yard
+办理解体、集结和编组有调中转车、地方作业车等的车场。
+6. 8.6
+辅助调车场auxiliaryyard
+专门办理相邻区段零摘列车和地区或枢纽小运转列车解编作业的车场。
+6. 8. 7
+编发场‘marshalling-departure yard
+由办理车列集结、编组作业及列车出发作业的调车线组成的车场。
+6.8.8
+交换车场　transferred yard
+存放由个调车系统转往另一个调车系统车辆的车场。
+6.9
+调车系统system of shunting
+由到达场（或推送线）、驼峰、调车场（或编发场）、牵出线及出发场（有的无出发场）等设备组成的作
+业系统。
+6.10接发车进路
+6.10.1反接opposite arrival
+反驼峰方向的到达解体列车经由峰前到达场的出口咽喉接入。
+6. 10. 2
+反发 opposite departure
+反驼峰方向的出发列车自出发场的入口咽喉发出。
+6. 10. 3
+环接circular receiving
+反驼峰方向的到达解体列车经由环线从峰前到达场的入口咽喉接入。
+6. 10. 4
+环发 circular departure
+反驼峰方向出发的列车经由出发场出口咽喉的环线发出。
+驼峰
+7.1驼峰类型
+! type of hump
+
+GB/T 15165—94
+驼峰按解体能力的大小，可分为：大能力驼峰、中能力驼峰和小能力驼峰三种。按驼峰技术设备现
+代化的水平高低，可分为：自动化驼峰、半自动化驼峰、机械化驼峰和非机械化驼峰四种。
+7.1.1大能力驼峰　big capacity of hump
+7. 1. 2
+中能力驼峰middle capacity of hump
+每昼夜解体能力在2000辆以上。调车线一般在20条以上，采用较先进的驼峰技术设备。
+7. 1. 3
+小能力驼峰small capacityof hump
+每昼夜解体能力在2000辆以下。调车线少于20条，采用较先进的或简易的驼峰技术设备。
+7. 1. 4
+自动化驼峰automatic hump
+钩车溜放进路自动控制，钩车溜放速度自动控制，机车推峰速度自动控制。
+7. 1. 5
+半自动化驼峰‧semi-automatic hump
+7. 1. 6
+机械化驼峰mechanized hump
+驼峰溜放部分设减速器制动位，道岔控制采用自动集中，调车线内采用铁鞋。
+7. 1. 7
+非机械化驼峰‧non-mechanized hump
+驼峰溜放部分不设减速器制动位，道岔控制采用自动集中或人工控制，调车线内采用铁鞋。
+7.2
+驼峰要素
+7.2. 1
+峰顶hump crest
+峰顶平台与加速坡的变坡点称为峰顶。
+7. 2. 2
+计算点calculate point of hump.
+度的地点。计算点的位置应根据调速制式来确定。
+7. 2. 3
+指经驼峰解体的车列，当第一钩车位于峰顶平台的始端时，车列全长所在的线路范围。
+7. 2. 4
+驼峰溜放部分　rolling section of hump
+从峰顶至计算点的线路范围称溜放部分。
+7. 2. 5
+峰顶平台platform of hump crest
+连接推送部分和溜放部分的一段平坡称为峰顶平台。不包括两端竖曲线的切线时称净平台。
+7. 2. 6
+脱钩点 seperation point
+驼峰解体车列时，钩车与车列分离，开始在自身重力的作用下，自由溜放的地点。
+7. 2. 7
+驼峰峰高hump height
+峰顶与计算点轨顶的标高差叫驼峰峰高。
+7.3驼峰线路
+7.3.1
+推送线pushing track
+由到达场出口咽喉最外方道岔的始端（或警冲标），到峰顶平台始端的线段称推送线。
+7. 3. 2
+溜放线　rolling track
+从峰顶至溜放部分第一分路道岔始端的线段称溜放线。
+7. 3. 3
+禁溜线no-humping car storage
+在峰顶处设置的暂时存放禁止溜放车辆的线路。
+7. 3. 4
+迁回线 around about line of hump
+将禁止过峰的车辆绕过驼峰送往调车场的线路。
+7.4溜车条件
+7.4.1溜车有利条件favorable condition for car rolling
+
+GB/T 15165-94
+溜车有利条件是指风向、风速和气温等外部环境有利于车辆溜放（单位总阻力小)的条件。
+7. 4. 2
+溜车不利条件unfavorable condition for car rolling
+溜车不利条件是指风向、风速和气温等外部环境不利于车辆溜放（单位总阻力大）的条件。
+7.5车辆溜放阻力
+7.5.11
+货车溜放基本阻力　basic resistance for car rolling
+本阻力与车辆轴承的类型（滑动轴承或滚动轴承）、货车重量、外界气温、车辆溜放速度等因素有
+关。
+7. 5. 2
+货车溜放风阻力 car rolling resistance due to wind effect
+货车溜放时，由于受空气和风的影响而产生的阻力叫溜放风阻力。该阻力与车辆重量、车辆溜放
+速度、车辆的受风面积、风向、风速等因素有关。
+7. 5. 3
+道岔阻力switch resistance
+车辆溜经道岔时，由于车轮与道岔尖轨和辙叉的撞击而产生的阻力叫道岔阻力。道岔阻力的大
+小与尖轨的形状、辙叉角度和辙叉的构造等因素有关。
+7. 5. 4
+曲线阻力curve resistance
+车辆溜经曲线时（包括道岔导曲线），由于离心力的作用，曲线内外轨长度不等，以及车辆心盘、
+旁承的转动摩擦等原因而产生的阻力叫曲线阻力。
+7.6
+驼峰计算车辆
+7. 6. 1
+难行车hard running car
+难行车是指经由驼峰溜放的车辆中，基本阻力与风阻力之和为最大的车辆。
+7. 6. 2
+中行车 middle running car
+中行车是指经由驼峰溜放的车辆中，基本阻力与风阻力之和较小的车辆。
+7. 6. 3
+易行车
+easy running car
+易行车是指经由驼峰溜放的车辆中，基本阻力与风阻力之和为最小的车辆。
+7.7
+驼峰纵断面
+7. 7. 1
+加速坡 accelerating grade
+驼峰溜放部分设有两个制动位时，从峰顶至第一制动位的入口处叫加速坡，加速坡可设计成两
+个坡段或三个坡段。
+7. 7. 2
+中间坡 intermediate grade
+从第一制动位入口至第二制动位出口处叫中间坡。中间坡可设计为两个坡段或一个坡段。
+7. 7. 3
+道岔区坡 gradient within the switching area
+从第二制动位入口至计算点（机械化驼峰）叫道岔区。
+7. 7. 4
+打靶区shot area
+打靶区是指点连式驼峰从车场减速位出口至打靶区末端的长度。
+7. 7. 5
+压钩坡coupler compression grade
+驼峰推送线与峰顶平台相连接的坡段叫压钩坡。设置压钩坡的主要目的是为了车列在接近峰顶
+时使车钩压紧以利提钩。
+7.8推送速度pushing speed
+驼峰解体作业时，机车推送车列的速度。
+7. 9
+连挂速度coupling speed
+车辆在调车线上溜放时，与前行车或停留车连挂的速度。
+7. 10
+“天窗”stop short
+同一条调车线上，两相邻钩车停留时所产生的空档叫“天窗”。
+10
+
+GB/T 15165—94
+7. 11
+测速设备speed measurement device
+驼峰上用来测量钩车溜放速度的设备。：
+7. 12
+测长设备，distance-to-coupling measurement device
+驼峰用来测量调车线空闲长度的设备。
+7. 13
+测重设备weight sensing device
+驼峰用来测量车辆重量的设备。
+7. 14
+测阻设备 rollability measurement device
+驼峰用来测量钩车溜放阻力的设备。
+7. 15
+调速设备
+7. 15. 1
+减速器
+retarder
+减速器是控制钩车溜放速度的减速设备。按制动力产生方式的不同可分为压力式和重力式两
+种。按其控制能源的不同，又可分为用压缩空气为控制能源的TJ.K系列和用液压为控制能源
+的TJ.Y系列。
+7. 15. 2
+减速顶retarder unit
+减速顶是一种无能源自动控制钩车溜放速度的减速设备。
+7. 15. 3
+加速顶accelerator unit :
+一种由外部能源控制的钩车加速设备。
+7. 15. 4
+牵引小车　pushing carriage
+安装在调车线两钢轨的中间，用绳索牵引沿调车线中心往返走行，保证钩车安全连挂的推送设
+备。
+7. 15. 5
+铁鞋 brake shoe
+一种鞋状的手动制动工具，借助车轮与钢轨的滑动摩擦对车辆产生制动力。
+7. 15. 6
+脱鞋道岔skate throw-off switch
+使铁鞋在车辆溜行途中自行撤离钢轨的设备。脱鞋道岔又叫脱鞋器。
+7. 16
+制动位braking location
+在驼峰溜放部分和调车线上，设置车辆减速器的线段叫制动位。
+7.16. 1
+间隔制动spacing braking
+为了使前后溜放的钩车，在分路道岔和减速器制动位处保持必要的距离而进行的调速叫间隔
+制动。
+7. 16. 2
+目的制动target braking
+为了使钩车溜到调车线的指定地点停车或安全连挂而进行的调速叫目的制动。
+7. 17
+调速系统
+7.17.1
+点式调速系统point type speed control system
+在驼峰溜放部分和调车线内，钩车溜放的调速设备全部采用减速器，制动位设在线路上的几处
+固定地点的调速系统。
+7. 17. 2.
+连续式调速系统continued speed control system
+在驼峰溜放部分和调车线内，钩车溜放的调速工具连续布置在线路上实现对钩车的连续调速。
+7. 17. 3
+点连式调速系统point-continued speed control system
+在驼峰的溜放部分和调车线的始端采用减速器，在调车场内采用连续式调速设备的调速系统。
+8客运站、客运设备和客车整备所
+8.1客运站站型
+8.1.1 通过式客运站 through-type passenger station
+11
+
+GB/T15165--94
+正线和到发线两端均连通区间的客运站。
+8. 1. 2
+尽头式客运站stub-end passenger station
+正线和到发线一端连通区间，一般另一端为尽头式，设有分配式站台的客运站。
+8. 1. 3
+混合式客运站combined-type passenger station
+部分到发线是通过式的，另-部分到发线是尽头式的客运站。
+8.2
+旅客乘降所passenger stop point
+按规定仅供旅客乘降的列车停车地点。
+8.3
+旅客最高聚集人数mostmencrowded
+人数的平均值（通勤、通学旅客除外）。
+8.41
+旅客站房passenger building
+供旅客办理各种旅行手续和候车的服务用房以及为运营管理所需的各种办公等用房的总称。
+8.4.1 小型站房 small passenger building
+旅客最高聚集人数在50～400的站房。
+8. 4. 2
+中型站房medium passenger building
+旅客最高聚集人数在400～2000的为中型站房。
+8. 4. 3
+大型站房larger passenger building
+旅客最高聚集人数在2000～10000的为大型站房。
+8. 4. 4
+特大型站房　especially big passengtr building
+旅客最高聚集人数在10000人以上的为特大型站房。
+8. 4. 5
+线下式站房 the passenger building is located below the platform
+客运站的站场线路标高高出站前广场地面较多、站房首层地面低于站台面且高差较大、分层布
+置的站房。
+8. 4. 6
+高架跨线候车室elevated track-crossing waiting room
+在客运站台和线路上空修建，且与站房相连，供旅客候车用的建筑物。
+8. 4.7
+广厅concourse
+在站房入口处与各种用房相连通并起通过和分配人流作用的大厅。
+8. 4.8
+候车厅
+waiting room
+是旅客候车休息和组织旅客排队进站的场所。
+8. 4. 9
+行包房　baggage office
+办理行李、包裹提取、托运和保管的场所。
+8.4. 10
+行包地道undergroud baggage passage-way
+为避免行包流与人流交叉及便利行包搬运而设置的供行包运送的专用通道。
+8.5售票厅（处）ticket office
+专门出售旅客车票的场所。
+8.6
+站前广场station square
+旅客、行包及各种车辆的集散地点。由站房平面、旅客车站专用场地和公交站点组成。
+8.7
+旅客站台passenger platform
+供旅客乘降和行包装卸的设施。由基本站台（尽头式客运站为分配站台）和中间站台组成。旅客站
+台面与相邻线路轨面高差一般为1100，500，300mm。
+8. 7. 1
+旅客基本站台main platform of passenger
+与站房相连接的站台。
+8. 7. 2
+旅客中间站台intermediate platform of passenger
+12
+
+GB/T 15165—94
+位于线路之间两侧均有正线或到发线的站台。
+8.7.3
+旅客分配站台distributedplatform of passenger
+设在尽头式客运站线路的端部连接其他各旅客中间站台，对上、下车进出站旅客起分配作用的
+站台。
+8.8跨线设备track-crossing facilities
+指站房与站台之间或站台之间往来的通道，如平过道、天桥、地道等。
+8.8.1 平过道 foot pass between platform
+与线路平面相交的跨线设备。
+8. 8. 2
+天桥 passenger foot-bridge
+与线路立体相交设在线路上空的跨线设备。
+8.8.3 地道 underground path
+与线路立体相交设在线路下面的跨线设备。
+8.9雨棚shed
+8.10客运导向设备lead facility
+引导旅客通向站内各种旅客服务设施及服务单位路线的设备。
+8.11 
+客车整备所passenger car servicing depot
+对旅客列车车底进行检查、修理、整备及停留的场所。主要办理旅客列车车底的取送、洗刷、清扫、
+技术检查、改编、修理、清毒、整备及停留等作业。
+8.11.1定位式客车整备所fixed stock depot for passenger car
+客车车底由客运站送到整备所以后，除改编调车外，车底的检修、整备和等待送往客运站等客
+运整备和客车技术整备作业都在同--地点进行的整备所。
+8. 11. 2
+移位式客车整备所moving stock depot for passenger car
+客车车底由客运站送到整备所以后，按照作业顺序，分别在不同车场进行整备作业的整备所。
+8.11.3客车洗刷设备wash facilities for passenger car
+设在客车整备所入口处或其他适当地点，专门洗刷客车外部尘土污泥的设备。
+9货运站、货场和货运设备
+9.1货运站
+9.1.1 综合性货运站 general freight station
+办理多种品类货运作业的车站。
+9. 1. 2
+专业性货运站specialized freight station
+专门办理某种品类（如煤、矿石、石油、木材、建材、粮食等)的大宗货物或危险货物货运作业的车
+站。
+9. 1. 3
+装车站loading station
+主要办理某种品类大宗货物的装车作业，装车大于卸车，需要送入大量空车的车站。
+9.1. 4
+卸车站　unloading station
+主要办理某种品类大宗货物的卸车作业，卸车大于装车，经常排出大量空车的车站。
+9. 1. 5
+通过式货运站through-type freight station
+到发场的两端都与正线相连通的货运站。
+9. 1. 6
+尽头式货运站stub-type freight station
+到发场仅端与正线相连通，另一端为尽头式的货运站。
+9.2货场
+13
+
+GB/T 15165--94
+9. 2. 1
+尽头式货场stub-type freight yard
+由端连接车站站线，另-一端设置车挡的-一组装卸线组成的货场。
+9. 2. 2
+通过式货场through-type freight yard
+由两端的连接车站站线的-一组装卸线组成的货场。
+9. 2. 3
+混合式货场mixed-type freight yard
+由尽头式和通过式装卸线共同组成的货场。
+9. 2. 4
+综合性货场general freight yard
+办理多种品类货物货运作业的货场。
+9. 2. 5
+零担中转货场part-load transit freightyard
+专门办理零担货物中转作业，即按货物流向或到站进行分类、整理、卸车、复装等作业的货场。
+9. 2. 6
+危险货物货场dangerous freightyard
+专门办理具有易燃、易爆、有毒等性质货物的货场。
+9. 2. 7
+液体货物货场liquid freightyard
+专门办理石油产品（原油、柴油、汽油、煤油、液化气体、沥青等）、液体化工产品（酸、碱等）及其他
+液体货物（植物油等）的货场。
+9. 2. 8
+集装箱货场freight containeryard
+专门办理使用集装箱运送货物的货场。
+9. 2. 9
+牲畜货场livestock freight yard
+专门受理发送、到达交付各种牲畜的赁场。
+9. 2. 10
+水铁联运货场combined freight yard of rail and water
+专门办理铁路和水路转运业务的货场。
+9.3 货区 freight area
+在综合性货运站或大的货场内，为便于管理，根据货运作业的性质，将装卸线和货运设备划定的货
+物作业区。可分为散堆装货区、成件包装货区、集装箱货区、零担货区、长大笨重货区、危险品货区
+等。
+9.4货运设备freight facilities
+在货运站或货场内，用来办理货运业务的设备。
+9.4.1 装卸线 loading-unloading track
+办理各类货物装车和卸车作业用的线路。
+9. 4. 2
+倒装线inverted loading track
+对货物装载状况不良车或故障车进行整理或卸后重新装车用的线路。
+9. 4. 3
+轨道衡线weigh bridge track
+装有轨道衡设备，用来称量重车和空车重量的线路。
+9. 4. 4
+堆场 storage yard
+用来存放散堆装货物、粗杂品、集装箱和阔大笨重货物的场地。
+9.4.5
+货物站台freight platform
+为便于装卸车作业和存放货物而修建高于线路轨面的台式建筑物，称为货物站台。其高度离轨
+面1.1m者为普通站台，大于1.1m者为高站台，可分为苹顶式高站台、滑坡式高站台、跨线漏
+斗式高站台等。
+9. 4. 6
+　仓库　warehouse
+在站台上具有顶盖和围墙为存放货物用的封闭式建筑物。
+9. 4. 7
+货棚 freight shed
+在站台上只有顶盖而无围墙为存放货物用的建筑物。
+14
+
+GB/T 15165—94
+9.4.8 货位 freight section
+在堆场上或仓库内装车前和卸车后暂时存放一辆货车装载的货物，或集结个到站或方向的货
+物所需要的地面面积称为-一个货位。
+9.4.8.1低货位lowfreight section
+地面低于线路路肩1.5m以上供卸车用的货位称为低货位。
+9.4.8.2 协作货位 cooperate freight section
+为便于铁路车辆与其他运输工具间倒装，利用装卸设备的高差或配置一定的机械，为协调装
+卸作业而设置的货位。
+9.4.9
+加冰所 reicing point
+对冰箱保温车进行加冰、加盐、通风和清洗等作业的场所。
+9.4.101
+货车消毒洗刷所 freight car disinfecting and washing point
+对装运危险货物、牲畜、鲜鱼介类及污移品等货物的车辆进行消毒和洗刷等作业的场所。
+10工业站、港湾站、换装站
+10.1
+工业站 industrial station
+设在工业企业专用线、专用铁道与国家或地方铁路的连接处，主要为工业企业铁路外部运输服
+务，其产权属铁路的车站。
+10. 2
+企业站 enterprise station
+设在工业站附近或工业企业原燃料入口或产品出口处附近企业内部，主要为工业企业铁路内部
+运输服务，其产权属于工业企业的车站。
+10.3
+路厂(矿)联合编组站railway-factory combined marshalling station
+铁路工业站和工厂（矿）企业站联合设在-一处，实行统一调度指挥，分权管理，担当进出厂（矿）列
+车接发、交接、解编、取送等作业，共同为工业企业运输服务的车站。
+10. 4
+集配站 accumulated and distributed car station
+设在工业站与各矿点装车站之间，担当配送空车、集结重车、选编车组等作业，为工矿企业运输服
+务，其产权属于企业的车站。
+10. 5
+交接场 dilivered and received car yard
+设在工业站或企业站上，或其他适当地点，为办理路厂（矿)车辆和货物交接而设置的车场。
+10. 6
+港湾站harbour station
+设在港口附近，主要办理港口铁路外部运输，进行列车接发、交接、解编、车辆取送等作业，其产权
+属铁路的车站。
+10. 7
+港口站port station
+设在港口附近，办理港口铁路内部运输，进行列车接发、解编、取送、装卸车等作业，其产权属港口
+的车站。
+10.8
+路港联合编组站railway-port combined marshalling station
+铁路港湾站和企业港口站联合设在-一处，实行统一调度指挥，分权管理，担当进出港列车接发、解
+编、取送、装卸车等作业，共同为港口运输服务的车站。
+10. 9
+港区车场　port area yard
+设在港湾（口)站与码头之间，担当某一一港区内的车辆集结、选编、取送等作业的车场。
+10. 10
+码头线wharf track
+设在码头前沿，担当车船间货物装卸作业的铁路线路。
+10.11
+换装站’transhipment station
+专门办理不同铁路轨距之间货物换装交接作业的车站。可分为国境换装站、国内换装站。
+15
+
+GB/T 15165-94
+10. 12
+混轨线mixed track
+将两种不同铁路轨距的钢轨铺设在同一轨枕上，以便于两种轨距的机车车辆运行或停留的线
+路。可分为三轨式（准轨与米轨)和四轨式（准轨与宽轨）。
+10. 13
+换装线transhipment track
+专门办理两种不同铁路轨距之间货物换装作业的线路。可分为直接换装线、落地换装线、高低换
+装线。
+10. 14
+换轮线transpose wheel track
+专门为不同铁路轨距车辆过轨行驶更换轮对的线路。
+10. 15
+换装站台transhipment platform
+两种不同轨距车辆换装时堆存货物所用的站台。
+11铁路枢纽
+11.1钅
+铁路枢纽
+11.1.1 一站铁路枢纽 railway terminal with one station
+在几条干、支线汇合处，设置一个共用车站，兼办客、货运输及解编作业的铁路枢纽。
+11. 1. 2
+三角形铁路枢纽triangle railway junction terminal
+引入的干线汇集于枢纽内三个地点，构成三角形。一般在运量较大的干线上设一个客货运共用
+的车站，并在三个点之间修建相应的联络线所形成的铁路枢纽。
+11. 1. 3
+十字形铁路枢纽 cross-type railway terminal
+引入的两条主要干线呈十字形交叉，在各引入线上设有几个专业车站及相应的联络线所形成
+的铁路枢纽。
+11.1.4
+顺列式铁路枢纽longitudinai arrangement-type railway terminal
+几条干线分别在枢纽两端汇合引入，主要客运站与编组站顺序排列布置在枢纽内同一条伸长
+的主要通道上所形成的铁路枢纽。
+11.1.5
+并列式铁路枢纽parallel arrangement-type railway terminal
+儿条于线分别在枢纽两端汇合引入，主要客运站与编组站平行布置在枢纽内两条并行的通道
+上所形成的铁路枢纽。
+11.1.6环形、半环形铁路枢纽loup,halfloop railway terminal
+多条干、支线在城市外围分散引入，用环线或半环线将引入线路连接成一整体，专业站设在环
+线上或引入城市中心附近，利用联络线、迁回线将专业站与环线或半环线连接起来所形成的铁
+路枢纽。
+11. 1. 7
+尽端铁路枢纽stub-end type railway terminal
+位于滨海或内陆铁路网的尽端，仅有一端与铁路网相衔接的铁路枢纽。
+11. 1.8
+混合铁路枢纽（
+combined railway terminal
+由儿种不同枢纽结构图型组合而成的铁路枢纽。
+11.2铁路枢纽线路railway terminal track
+11.2.1 引线lead line
+在枢纽内将衔接各方向的干线、支线分别引向各专业车站的线路。
+11. 2. 2
+联络线
+connecting line
+为消除列车折角迁回运行，缩短列车走行距离，增强枢纽通过能力，将引入线、专业车站相互连
+接起来而设置的线路。
+11. 2. 3
+直径线diameterical line
+为提高枢纽通过能力和作业机动性、灵活性，便利客货运输组织，在特大或大城市专业站间修
+16
+
+GB/T 15165-94
+建的贯穿城市中心的线路。
+11. 2. 4
+环线、半环线loop，half-loop
+为便于多个衔接线路方向分散引入枢纽，各方向间直通客、货列车运行，以及枢纽内各专业站
+的作业联系，在特大或大城市外围修建全环绕或部分环绕城市的线路。
+11.3 乡
+线路疏解
+11.3.1平面疏解plane-untwining
+在同一高程线路的平面上采用时间间隔、分散交叉点、闻站或平行进路，以分散进路交叉位置，
+称为平面疏蔬解。
+11. 3. 2
+立体疏解
+vertical-untwining
+11. 3. 3
+方向别疏蔬解
+untwine of direction
+各衔接线路引入枢纽或车站后，按衔接线路上行和下行方向分并固定使用到发线（场）接发列
+车而设置的进出站线路的疏解方式。
+11. 3. 4
+线路别疏解
+untwine of main line
+各衔接线路引入枢纽或车站后，按衔接线路上行和下行方向共同使用到发线（场）接发列车而
+设置的进出站线路的疏解方式。
+11. 3. 5
+列车别疏解
+untwine of train
+在铁路枢纽中，根据专业站的相互位置，将各衔接方向的旅客列车和货物列车或不同类别的旅
+客列车、不同类别的货物列车进路分开而设置的进出站线路的蔬解方式。
+
+GB/T
+1516594
+附录A
+按汉语拼音字母顺序排列的索引
+(补充件)
+道岔导曲线
+3. 11. 9
+道岔号数
+3. 11. 6
+安全线
+4.11
+道岔区坡
+7. 7. 3
+道岔主线
+3. 11. 7
+道岔中心·
+3. 11.10
+半自动化驼峰
+7. 1. 5
+道岔中心线表示法
+3. 11. 5
+半纵列式中间站
+4. 8. 3
+道岔阻力·
+7. 5. 3
+避难线
+4. 12
+到发线
+3. 6. 3
+编发场
+6. 8. 7
+大型站房
+8. 4. 3
+编组站·
+3. 2. 3
+地道
+8. 8. 3
+并列式铁路枢纽
+11. 1. 5
+点连式调速系统
+7. 17. 3
+补机摘挂站
+4.5
+点式调速系统
+7. 17. 1
+调车场·
+6. 8. 5
+调车线·
+3. 6. 4
+仓库
+9. 4. 6
+低货位
+9. 4. 8. 1
+测长设备
+7. 12
+定位式客车整备所
+8. 11. 1
+车辆段
+5. 7. 1
+调车系统
+6. 9
+车站通过能力·
+5. 9
+地方性编组站
+6. 3
+测重设备
+7.13
+堆场
+9. 4. 4
+测阻设备
+7.14
+对开道岔
+3. 11. 2
+车场
+3.15
+车挡
+3. 10
+测速设备
+7. 11
+反接
+6. 10. 1
+车站咽喉区·
+5. 9.1. 1
+反发
+6. 10. 2
+车站最终通过能力
+5. 9. 3
+非机械化驼峰
+7. 1. 7
+出发场
+6. 8. 2
+峰顶
+7. 2. 1
+蜂顶平面·
+7. 2. 5
+分界点
+3.1
+打靶区·
+7. 7. 4
+辅助所
+3. 4
+大能力驼峰
+7. 1. 1
+单进路·
+4. 9
+待班线·
+5. 6. 6. 5
+港口站
+10. 7
+单开道岔
+3. 11. 1
+港口车场
+10. 9
+单向编组站…·
+6.6
+港湾站
+10. 6
+单向横列式编组站
+6. 6. 1
+给水站·
+4. 3
+单向混合式编组站·
+6. 6. 3
+高架跨线候车室··
+8. 4. 6
+单向纵列式编组站·
+6. 6. 2
+工业站
+10.1
+道岔侧线
+3. 11. 8
+广厅
+8. 4. 7
+18
+
+GB/T 15165-94
+轨道衡线
+9. 4. 3
+机车出入段线
+5. 6. 6. 3
+辅助调车场
+6. 8. 6
+机车走行线
+5. 6. 6. 1
+机械化驼峰·
+7.1. 6
+尽端铁路枢纽
+11.1.7
+横列式区段站
+5. 3
+警冲标
+3.8
+横列式中间站
+4. 8. 1
+禁溜线
+7. 3. 3
+候车厅·
+尽头式货场·
+8. 4.8
+9. 2. 1
+环发
+6. 10. 4
+尽头式货运站
+9.1. 6
+环接
+6. 10. 3
+尽头式客运站
+8. 1. 2
+换轮线·
+10. 14
+集配站
+10. 4
+换装线·
+10.13
+计算点…·
+7. 2. 2
+环线、半环线·
+11. 2. 4
+集装箱货场·
+9. 2. 8
+环形、半环形铁路枢纽
+11. 1. 6
+机务段
+5. 6. 1
+换装站
+10. 11
+机务折返段·
+5. 6. 2
+换装站台
+10.15
+机务折返所·
+5. 6. 4
+会让站
+4.1
+机务整备所
+5. 6. 3
+回转线
+5. 6. 6..7
+混合机务段
+5. 6. 5
+混合式货场
+9. 2. 3
+客车洗刷设备
+8. 11. 3
+混合式客运站
+8. 1. 3
+客车整备所
+8. 11
+混轨线
+10. 12
+客货纵列式区段站·
+5. 5
+混合铁路枢纽
+11.1.8
+客运导向设备
+8. 10
+货车消毒洗刷所
+客运站·
+9. 4. 10
+3. 2. 4
+货区·
+9. 3
+跨线设备
+8.8
+货棚
+9. 4. 7
+货位..
+9. 4. 8
+货物站台
+9. 4. 5
+列车技术检查站
+4. 6
+货运设备
+9. 4
+连续式调速系统
+7. 17. 2
+货运站·
+3. 2. 5
+凉闸站
+4. 7
+连挂速度
+7. 9
+列车别疏解
+11. 3. 5
+加冰所·
+9. 4. 9
+列检所·
+5. 7. 2
+间隔制动
+7. 16. 1
+零担中转货场
+9. 2. 5
+减速顶
+7.15. 2
+立体疏解
+11. 3. 2
+减速器
+7. 15. 1
+溜车不利条件
+7. 4. 2
+建筑接近限界
+3. 7. 2
+溜车有利条件.
+7. 4. 1
+交叉
+3. 14
+溜放线·
+7. 3. 2
+交分道岔
+3. 11. 4
+路厂(矿)联合编组站
+10. 3
+交换车场
+6.8. 8
+路港联合编组站
+10.8
+交接场
+10.5
+路基顶面
+3. 18.1
+加速顶
+7. 15. 3
+旅客分配站台
+8. 7. 3
+加速坡
+7. 7. 1
+旅客基本站台
+8. 7.1
+机车车辆限界
+3. 7. 1
+旅客乘降所·
+8.2
+19
+
+GB/T 15165--94
+8. 4
+枢纽辅助编组站
+旅客站房·
+6. 5
+8.7
+枢纽主要编组站
+旅客站台·
+6. 4
+8. 7. 2
+旅客中间站台·
+顺列式铁路枢纽
+11. 1. 4
+旅客最高聚集人数·
+8.3
+联络线
+11. 2. 2
+路网性编组站·
+6. 1
+特大型站房·
+8. 4. 4
+铁鞋
+7. 15. 5
+“天窗”
+7. 10
+码头线
+10. 10
+铁路枢纽·
+3. 5
+目的制动
+7. 16. 2
+梯线
+3. 12. 3
+驼峰峰高··
+7. 2. 7
+驼峰类型·
+7.1
+难行车
+7. 6. 1
+驼峰溜放部分·
+7. 2. 4
+驼峰推送部分·
+7. 2. 3
+通过式货场
+9. 2. 2
+平过道
+8. 8. 1
+通过式货运站
+9. 1. 5
+平面疏解
+11. 3. 1
+通过式客运站·
+8. 1. 1
+平行进路··
+5. 8. 1
+推送速度··
+7.8
+铺轨长度
+3. 6. 12
+推送线··
+7. 3. 1
+脱钩点
+7. 2. 6
+脱鞋道岔
+7. 15. 6
+牵出线
+3. 6. 5
+牵引小车
+7. 15. 4
+企业站
+10.2
+危险货物货场·
+9. 2. 6
+区段站·
+3. 2. 2
+无解编作业区段站
+5.1
+曲线阻力·
+7. 5. 4
+区域性编组站·
+6. 2
+线间距离·
+3. 6. 9
+线路别疏解
+11. 3. 4
+三角线
+5. 6. 6. 6
+线路全长
+3. 6. 10
+三角形铁路枢纽
+11. 1. 2
+线路平行错移
+三开道岔
+3. 13
+3. 11. 3
+线路所·
+3. 3
+牲畜货场··
+9. 2. 9
+线路终端连接
+11. 1. 3
+3. 12. 1
+十字形铁路枢纽
+线路有效长
+售票厅（处)
+8. 5
+3. 6. 11
+线路中心线
+双进路
+4. 10
+3. 6. 8
+线下式站房
+双向编组站
+6.7
+8. 4. 5
+小能力驼峰
+双向横列式编组站·
+6. 7.1
+7.1. 3
+小型站房
+双向混合式编组站·
+6. 7. 3
+8. 4. 1
+6. 7. 2
+卸车站.
+双向纵列式编组站·
+9. 1. 4
+水鹤
+3. 9
+协作货位··
+9. 4. 8. 2
+水铁联运货场
+9. 2. 10
+行包地道
+8. 4. 10
+枢纽前方站
+4. 4
+行包房·
+8. 4. 9
+20
+
+GB/T 15165—94
+站修所.
+5. 7. 3
+整备线
+5. 6.6.4
+压钩坡
+正线
+7. 7. 5
+3. 6. 1
+咽喉道岔
+5. 9. 1. 2
+制动位
+7.16
+5. 9.13
+咽喉道岔(组)通过能力
+直径线
+11. 2. 3
+咽喉通过能力
+5. 9. 1
+直通场
+6. 8. 4
+越行站…
+4.2
+中间坡
+7. 7. 2
+液体货物货场
+9. 2. 7
+中间站·
+3. 2. 1
+引入线
+11. 2.1
+中能力驼峰
+7.1. 2
+移位式客车整备所
+8. 11. 2
+中行车·
+7. 6. 2
+易行车
+7. 6. 3
+中型站房
+8. 4. 3
+一站铁路枢纽
+11. 1. 1
+转车盘·
+5. 6. 6.8
+有解编作业区段站
+5.2
+装车站·
+9. 1. 3
+迁回线·
+7. 3. 4
+装卸线
+9. 4. 1
+专业性货运站
+9. 1. 2
+专用线·
+3. 6. 7
+站场路基
+3.18
+自动化驼峰
+7. 1. 4
+站场路基高程
+3. 18. 2
+综合性货场·
+9. 2. 4
+站场排水设备
+3.19
+纵列式区段站·
+5. 4
+站前广场
+8.6
+纵列式中间站·
+4. 8. 2
+站坪长度
+3.17
+作业进路·
+5.8
+站线
+3. 6. 2
+附录B
+按英文字母顺序排列的索引
+(补充件）
+accelerating grade
+7. 7. 1
+accelerator unit
+7. 15. 3
+accumulated and distributed car station
+10.4
+approaching clearance
+3. 7. 2
+around about line of hump
+7. 3. 4
+arrival-departure track
+3. 6. 3
+automatic hump
+7. 1. 4
+auxiliary block post
+3. 4
+auxiliary yard
+6.8. 6
+baggage office
+8. 4. 9
+basic resistance for car rolling
+7. 5. 1
+21
+
+GB/T 15165—94
+bidirectional combined type marshalling station
+6. 7. 3
+bidirectional longitudinal type marshalling station
+6. 7. 2
+bidirectional transversal type marshalling station
+6. 7.1
+big capacity of hump
+7. 1. 1
+block post :
+3. 3
+brake shoe
+7.15. 5
+braking location
+7.16
+bumper post
+3.10
+calculate point of hump
+7. 2. 2
+car rolling resistance due to wind effect
+7. 5. 2
+carrying capacity of arrival-departure track
+5. 9. 2
+carrying capacity of station :
+5. 9
+carrying capacity of throat
+5. 9. 1
+carrying capacity of throat points
+5. 9. 13
+catch siding .....
+4. 11
+center line of track
+3. 6.8
+center of turnout
+3. 11. 10
+circular departure
+6. 10. 4
+circular receiving
+6.10.3
+clearance of locomotives and vehicles
+3. 7.1
+combined depot ...
+5. 6. 5
+combined freight yard of rail and water
+9. 2. 10
+combined railway terminal
+11. 1. 8
+combined-type passenger station
+8. 1. 3
+concourse
+8. 4. 7
+connecting line
+11. 2. 2
+connection at ends of tracks
+3. 12.1
+continued speed control system
+7.17. 2
+cooperate freight section
+9.4.8.2
+crossing
+3. 14
+crossover
+3. 12. 2
+cross route :
+5. 8. 2
+cross-type railway terminal
+11. 1. 3
+coupler compression grade
+7. 7. 5
+coupling speed
+7. 9
+curve resistance
+7. 5. 4
+dangerous freight yard
+9. 2. 6
+departure yard
+6. 8. 2
+depot ....
+5. 6. 1
+22
+
+GB/T 15165—94
+depot siding
+3. 6. 6
+diameterical line :
+11.2.3
+dilivered and received car yard
+10. 5
+distance between tracks
+3. 6. 9
+distributed platform of passenger
+8. 7. 3
+district station
+3. 2. 2
+double direction marshalling station
+6.7
+double routes
+4. 10
+drainage facilities of yards
+3. 19
+easy running car
+7. 6. 3
+effective length of track
+3. 6. 11
+elevated track-crossing waiting room
+8. 4. 6
+elevation of yard subgrade
+3.18.2
+enterprise staticn
+10.2
+especially big passenger building
+8. 4. 4
+favorable condition for car rolling
+7. 4. 1
+fixed stock depot for passenger car
+8.11.1
+foot pass between platform .....
+8. 8.1
+fouling post
+3.8
+freight facilities
+9. 4
+freight platform
+9. 4. 5
+freight section
+9. 4. 8
+freight shed
+9. 4. 7
+freight station
+3. 2. 5
+front station terminal
+4.4
+general freight station 
+9. 1. 1
+general freight yard
+9. 2. 4
+gradient within the switching area
+7. 7. 3
+harbour station
+10.6
+hard running car
+7. 6. 1
+hump crest
+7. 2. 1
+hump height
+7. 2. 7
+industrial siding
+3. 6. 7
+23
+
+GB/T 15165—94
+industrial station
+10. 1
+intermediate grade
+7. 7. 2
+intermediate platform of passenger
+8. 7. 2
+intermediate station :
+3. 2. 1
+intermediate station with half longitudinal arrangement
+4. 8. 3
+intermediate station with longitudinal arrangement
+4. 8. 2
+intermediate station with paralled arrangement
+4. 8. 1
+intermediate traindistancing point :
+3. 1
+ladder track
+3.12.3
+larger passenger building
+8. 4. 3
+lead curve of turnout
+3. 11. 9
+lead facility
+8. 10
+lead line
+11. 2.1
+length of station site
+3.17
+length of track laid out
+3. 6. 12
+liquid freight yard
+9. 2. 7
+livestock freight yard
+9. 2. 9
+loading station
+9. 1. 3
+loading-unloading track
+9. 4. 1
+local marshalling station
+6. 3
+locomotive return point
+5. 6. 4
+locomotive running track
+5. 6. 6. 1
+locomotive waiting track
+5.6.6.2
+longitudinal arrangement district station
+5. 4
+longitudinal arrangement-type railway terminal
+11. 1. 4
+loop ,half-loop ..
+11. 2. 4
+main line
+3. 6. 1
+main platform of passenger
+8. 7.1
+marshalling-departure yard
+6. 8. 7
+marshalling station
+3. 2. 3
+marshalling yard
+6. 8. 5
+mechanized hump
+7.1. 6
+medium passenger building
+8. 4. 2
+method of indicating the center line of turnout
+3. 11. 5
+middle capacity of hump
+7.1. 2
+passenger platform
+8.7
+passenger station
+3. 2. 4
+passenger stop point
+8. 2
+passenger train and freight train yard longitudinal arrangement
+5. 5
+24
+
+GB/T 15165—94
+passing station
+4.1
+picking up and ditaking station for auxiliary locomotive
+4.5
+plane-untwining
+11. 3. 1
+ platform of hump crest
+7. 2. 5
+point type speed control system
+7. 17. 1
+port area yard
+10. 9
+port station :
+10. 7
+pushing carriage
+7. 15. 4
+pushing section of hump
+7. 2. 3
+pushing speed
+7.8
+pushing track
+7. 3. 1
+railway-factory combined marshalling station
+10.3
+railway junction terminal
+3.5
+railway terminal with one station
+11. 1. 1
+raiiway-port combined marshalling station
+10.8
+receiving and departure yard
+6. 8. 3
+receiving yard
+6. 8. 1
+refuge siding
+4. 12
+regional mashalling station
+6. 2
+reicing point
+9. 4. 9
+retarder
+7. 15. 1
+retarder unit
+7. 15. 2
+return depot
+5: 6. 2
+rollability measurement device
+7.14
+rolling section of hump
+7. 2. 4
+rolling track
+7. 3. 2
+semi-automatic hump
+7. 1. 5
+seperation point
+7. 2. 6
+servicing siding
+5. 6.6.4
+shed
+8.9
+shot area
+7. 7. 4
+shunting neck
+3. 6. 5
+shunting track
+3. 6. 4
+siding of turnout
+3. 11.8
+single direction marshalling station
+6.6
+single routes
+4.9
+simple turnout
+3. 11. 1
+skate throw-off switch
+7.15. 6
+small capacity of hump
+7.1. 3
+25
+
+GB/T 15165—94
+small passenger building
+8. 4.1
+spacing braking
+7. 16. 1
+specialized freight station
+9. 1. 2
+speed measurement device
+7.11
+station final capacity
+5. 9. 3
+station for cool brake
+4. 7
+station site
+3.16
+station square
+8. 6
+station track
+3. 6. 2
+stop short
+7.10
+storage yard
+9. 4. 4
+stub-end passenger station
+8. 1. 2
+stub-end type railway terminal
+11.1.7
+stub-type freight station
+9. 1. 6
+stub-type freight yard
+9. 2. 1
+subgrade surface :
+3. 18. 1
+switch resistance
+7. 5. 3
+symmetrical turnout
+3. 11. 2
+system of shunting
+6. 9
+target braking
+7. 16. 2
+terminal auxiliary marshalling station
+6. 5
+terminal main marshalling station 
+6. 4
+the district station with marshalling operation for break-up and make-up of train
+5. 2
+the district station without marshalling operation for break-up and make-up of train
+5.1
+the passenger building located below the platform
+8. 4. 5
+three-throw turnout
+3. 11. 3
+throat of station
+5. 9.1.1
+throat points 
+5. 9. 1. 2
+through-type freight station
+9. 1. 5
+through-type freight yard
+9. 2. 2
+through-type passenger station
+8. 1. 1
+through yard ...
+6. 8. 4
+ticket office
+8. 5
+track by paralled shifting apart
+3.13
+track-crossing facilities
+8.8
+track for going out and coming into the depot
+5. 6. 6. 3
+train technical inspection station
+4. 6
+transferred yard
+6. 8. 8
+transhipment platform
+10.15
+transhipment station
+10. 11
+transhipment track
+10. 13
+26
+
+GB/T 15165—94
+transpose wheel track
+10.14
+triangle railway junction terminal
+11. 1. 2
+turn-around track
+5. 6. 6. 7
+turn-around wye
+5. 6. 6. 6
+turning jack
+5. 6. 6. 8
+underground baggage passage-way
+8. 4. 10
+underground path ....
+8. 8. 3
+unfavorable condition for car rolling
+7. 4. 2
+unidirectional combined type marshalling station
+6. 6. 3
+unidirectional longitudinal type marshalling station
+6. 6. 2
+unidirectional transveral type marshalling station
+6. 6. 1
+unloading station
+9. 1. 4
+untwine of direction
+11. 3. 3
+untwine of main line
+11.3.4
+untwine of train
+11. 3. 5
+vehicle depot
+5. 7. 1*
+vehicle repair place
+5. 7. 2
+vehicle repair track at station
+5. 7. 3
+vertical-untwining
+11. 3. 2
+wash facilities for passenger car
+8. 11. 3
+waiting room ...
+8. 4.8
+waiting track on duty
+5. 6. 6. 5
+warehouse
+9. 4. 6
+water crane
+3.9
+water supply station
+4. 3
+weigh bridge track
+9. 4. 3
+weight sensing device
+7.13
+wharf track
+10. 10
+yard
+3. 15
+yard subgrade
+3.18
+
+GB/T 15165—94
+附加说明：
+本标准由中华人民共和国铁道部提出。
+本标准由铁道部标准计量研究所归口。
+本标准由北方交通大学、铁道部标准计量研究所起草。
+本标准主要起草人刘其斌、刘彦邦、王能豪、黄银霞。
+28

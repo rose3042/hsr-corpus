@@ -1,0 +1,175 @@
+COMMISSION REGULATION (EU) 2024/1317 
+of 15 May 2024
+amending Regulation (EU) 2023/1803 as regards International Accounting Standard 7 and 
+International Financial Reporting Standard 7 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the 
+application of international accounting standards (1), and in particular Article 3(1) thereof,
+Whereas:
+(1) 
+By Commission Regulation (EU) 2023/1803 (2) certain international accounting standards and interpretations that 
+were in existence on 8 September 2022 were adopted.
+(2) 
+On 25 May 2023, the International Accounting Standards Board issued certain amendments to International 
+Accounting Standard 7 Statement of Cash Flows (‘IAS 7’) and International Financial Reporting Standard 7 Financial 
+Instruments: Disclosures (‘IFRS 7’). The amendments introduced disclosure requirements about a company’s supplier 
+finance arrangements.
+(3) 
+These new requirements are to provide users of financial statements with information enabling them to assess the 
+impact of supplier finance arrangements on a company’s liabilities and cash flows, and to understand the effect of 
+supplier finance arrangements on a company’s exposure to liquidity risk and how the company might be affected if 
+the arrangements were no longer available to it.
+(4) 
+Following a consultation of the European financial reporting advisory group EFRAG, the Commission concludes 
+that the amendments to IAS 7 and IFRS 7 meet the conditions for adoption set out in Article 3(2) of Regulation 
+(EC) No 1606/2002.
+(5) 
+Regulation (EU) 2023/1803 should therefore be amended accordingly.
+(6) 
+The measures provided for in this Regulation are in accordance with the opinion of the Accounting Regulatory 
+Committee,
+HAS ADOPTED THIS REGULATION:
+Article 1
+In the Annex to Regulation (EU) 2023/1803, International Accounting Standard 7 Statement of Cash Flows and International 
+Financial Reporting Standard 7 Financial Instruments: Disclosures are amended as set out in the Annex to this Regulation.
+Article 2
+Each company shall apply the amendments referred to in Article 1, at the latest, as from the commencement date of its first 
+financial year starting on or after 1 January 2024.
+Official Journal 
+of the European Union 
+EN 
+L series 
+2024/1317 
+16.5.2024
+ELI: http://data.europa.eu/eli/reg/2024/1317/oj 
+1/5
+(1) OJ L 243, 11.9.2002, p. 1, ELI: http://data.europa.eu/eli/reg/2002/1606/2008-04-10.
+(2) OJ L 237, 26.9.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1803/oj.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 15 May 2024.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN 
+OJ L, 16.5.2024 
+2/5 
+ELI: http://data.europa.eu/eli/reg/2024/1317/oj
+ANNEX 
+Supplier Finance Arrangements 
+Amendments to IAS 7 and IFRS 7 
+Amendments to IAS 7 Statement of Cash Flows
+Paragraphs 44F–44H and their related heading and paragraphs 62–63 are added. For ease of reading, these paragraphs and 
+their headings have not been underlined. The heading before paragraph 53 is amended.
+SUPPLIER FINANCE ARRANGEMENTS
+44F 
+An entity shall disclose information about its supplier finance arrangements (as described in paragraph 
+44G) that enables users of financial statements to assess the effects of those arrangements on the entity’s 
+liabilities and cash flows and on the entity’s exposure to liquidity risk.
+44G Supplier finance arrangements are characterised by one or more finance providers offering to pay amounts an entity 
+owes its suppliers and the entity agreeing to pay according to the terms and conditions of the arrangements at the 
+same date as, or a date later than, suppliers are paid. These arrangements provide the entity with extended payment 
+terms, or the entity’s suppliers with early payment terms, compared to the related invoice payment due date. 
+Supplier finance arrangements are often referred to as supply chain finance, payables finance or reverse factoring 
+arrangements. Arrangements that are solely credit enhancements for the entity (for example, financial guarantees 
+including letters of credit used as guarantees) or instruments used by the entity to settle directly with a supplier the 
+amounts owed (for example, credit cards) are not supplier finance arrangements.
+44H To meet the objectives in paragraph 44F, an entity shall disclose in aggregate for its supplier finance arrangements:
+(a) 
+the terms and conditions of the arrangements (for example, extended payment terms and security or 
+guarantees provided). However, an entity shall disclose separately the terms and conditions of arrangements 
+that have dissimilar terms and conditions.
+(b) 
+as at the beginning and end of the reporting period:
+(i) 
+the carrying amounts, and associated line items presented in the entity’s statement of financial 
+position, of the financial liabilities that are part of a supplier finance arrangement.
+(ii) 
+the carrying amounts, and associated line items, of the financial liabilities disclosed under (i) for which 
+suppliers have already received payment from the finance providers.
+(iii) 
+the range of payment due dates (for example, 30–40 days after the invoice date) for both the financial 
+liabilities disclosed under (i) and comparable trade payables that are not part of a supplier finance 
+arrangement. Comparable trade payables are, for example, trade payables of the entity within the same 
+line of business or jurisdiction as the financial liabilities disclosed under (i). If ranges of payment due 
+dates are wide, an entity shall disclose explanatory information about those ranges or disclose 
+additional ranges (for example, stratified ranges).
+(c) 
+the type and effect of non-cash changes in the carrying amounts of the financial liabilities disclosed under (b) 
+(i). Examples of non-cash changes include the effect of business combinations, exchange differences or other 
+transactions that do not require the use of cash or cash equivalents (see paragraph 43).
+...
+OJ L, 16.5.2024 
+EN 
+ELI: http://data.europa.eu/eli/reg/2024/1317/oj 
+3/5
+EFFECTIVE DATE AND TRANSITION
+...
+62 
+Supplier Finance Arrangements, issued in May 2023, added paragraphs 44F–44H. An entity shall apply those 
+amendments for annual reporting periods beginning on or after 1 January 2024. Earlier application is permitted. If 
+an entity applies those amendments for an earlier period, it shall disclose that fact.
+63 
+In applying Supplier Finance Arrangements, an entity is not required to disclose:
+(a) 
+comparative information for any reporting periods presented before the beginning of the annual reporting 
+period in which the entity first applies those amendments.
+(b) 
+the information otherwise required by paragraph 44H(b)(ii)–(iii) as at the beginning of the annual reporting 
+period in which the entity first applies those amendments.
+(c) 
+the information otherwise required by paragraphs 44F–44H for any interim period presented within the 
+annual reporting period in which the entity first applies those amendments.
+Amendments to IFRS 7 Financial Instruments: Disclosures
+Paragraph 44JJ is added. In Appendix B, paragraph B11F is amended.
+EFFECTIVE DATE AND TRANSITION
+...
+44JJ 
+Supplier Finance Arrangements, issued in May 2023, which also amended IAS 7, amended paragraph B11F. An entity 
+shall apply that amendment when it applies the amendments to IAS 7.
+...
+EN 
+OJ L, 16.5.2024 
+4/5 
+ELI: http://data.europa.eu/eli/reg/2024/1317/oj
+Appendix B 
+Application guidance 
+...
+NATURE AND EXTENT OF RISKS ARISING FROM FINANCIAL INSTRUMENTS (PARAGRAPHS 31–42)
+...
+Quantitative liquidity risk disclosures (paragraphs 34(a) and 39(a) and (b))
+...
+B11F Other factors that an entity might consider in providing the disclosure required in paragraph 39(c) include, but are 
+not limited to, whether the entity:
+(a) 
+has committed borrowing facilities (eg commercial paper facilities) or other lines of credit (eg stand-by credit 
+facilities) that it can access to meet liquidity needs;
+(b) 
+holds deposits at central banks to meet liquidity needs;
+(c) 
+has very diverse funding sources;
+(d) 
+has significant concentrations of liquidity risk in either its assets or its funding sources;
+(e) 
+has internal control processes and contingency plans for managing liquidity risk;
+(f) 
+has instruments that include accelerated repayment terms (eg on the downgrade of the entity’s credit rating);
+(g) 
+has instruments that could require the posting of collateral (eg margin calls for derivatives);
+(h) 
+has instruments that allow the entity to choose whether it settles its financial liabilities by delivering cash (or 
+another financial asset) or by delivering its own shares;
+(i) 
+has instruments that are subject to master netting agreements; or
+(j) 
+has accessed, or has access to, facilities under supplier finance arrangements (as described in paragraph 44G 
+of IAS 7) that provide the entity with extended payment terms or the entity’s suppliers with early payment 
+terms.
+OJ L, 16.5.2024 
+EN 
+ELI: http://data.europa.eu/eli/reg/2024/1317/oj 
+5/5

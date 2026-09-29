@@ -1,0 +1,187 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/653 
+of 14 May 2020 
+correcting Implementing Regulations (EU) No 540/2011 and (EU) 2019/706 as regards the CAS 
+number of the active substance carvone 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 
+concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC 
+and 91/414/EEC (1), and in particular Article 20(1) thereof, 
+Whereas: 
+(1) 
+Commission Implementing Regulation (EU) 2019/706 (2) renewed the approval of the active substance carvone and 
+included it in the Annex to Commission Implementing Regulation (EU) No 540/2011 (3). 
+(2) 
+After Implementing Regulation (EU) 2019/706 entered into force, an error was noted concerning the CAS number 
+(Chemical Abstracts Number of the American Chemical Society) used for the active substance carvone in the 
+Annexes to Implementing Regulation (EU) 2019/706. 
+(3) 
+The CAS number is a unique chemical substance identifier, which is also used for an active substance contained in 
+plant protection products; it is used as reference for the purpose of trade and regulatory activities for chemicals 
+globally and not limited to pesticidal substances. The column on common name and identification numbers 
+erroneously mention ‘carvone 244-16-8’. This specification should be replaced by ‘carvone 2244-16-8’. 
+(4) 
+The active substance Carvone has several CAS numbers. However, only one has been granted the approval as a plant 
+protection product. The CAS numbers as mentioned in Union implementing acts authorising active substances are 
+taken over in international databases and references are used for the purpose of subsequent authorisation of plant 
+protection products in Member States and outside the Union. CAS number 244-16-8 does not correspond to any 
+existing registered chemical substance; the active substance therefore would not be properly identified for the 
+purpose of the approval of the plant protection products. Therefore, as confusion about the substance identity may 
+arise in chemicals management and trade, a correction of the CAS number mentioned in the Annexes to 
+Implementing Regulation (EU) 2019/706 and consequently in Implementing Regulation (EU) No 540/2011 is 
+necessary. 
+(5) 
+For reasons of clarity, it is appropriate to replace Annex I to Implementing Regulation (EU) 2019/706 and the 
+relevant entry 135 in the Annex to Implementing Regulation (EU) No 540/2011. 
+(1) OJ L 309, 24.11.2009, p. 1. 
+(2) Commission Implementing Regulation (EU) 2019/706 of 7 May 2019 renewing the approval of the active substance carvone in 
+accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant 
+protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (OJ L 120, 
+8.5.2019, p. 11). 
+(3) Commission Implementing Regulation (EU) No 540/2011 of 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European 
+Parliament and of the Council as regards the list of approved active substances (OJ L 153, 11.6.2011, p. 1). 
+EN
+Official Journal of the European Union 
+15.5.2020                                                                                                                                           
+L 152/1   
+
+(6) 
+In the interest of clarity and legal certainty for economic operators and enforcement authorities, this Regulation 
+should enter into force as a matter of urgency. 
+(7) 
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Correction to Implementing Regulation (EU) 2019/706 
+Annex I to Implementing Regulation (EU) 2019/706 is corrected in accordance with Annex I to this Regulation. 
+Article 2 
+Correction to Implementing Regulation (EU) No 540/2011 
+The Annex to Implementing Regulation (EU) No 540/2011 is corrected in accordance with Annex II to this Regulation. 
+Article 3 
+Entry into force 
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 14 May 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 152/2                                                                                                                                           
+15.5.2020   
+
+ANNEX I 
+Annex I to Implementing Regulation (EU) 2019/706 is replaced by the following:                                                                
+‘Common Name, Identification 
+Numbers 
+IUPAC Name 
+Purity (1) 
+Date of approval 
+Expiration of approval 
+Specific provisions 
+carvone 
+2244-16-8 (d-carvone = S-car­
+vone = (+)-carvone) 
+Carvone: 602 
+d-carvone: not allocated 
+(S)-5-isopropenyl-2- 
+methylcyclohex-2-en-1- 
+one 
+or 
+(S)-p-mentha-6,8-dien- 
+2-one 
+923 g/kg d-carvone 
+1 August 2019 
+31 July 2034 
+For the implementation of the uniform principles, as referred 
+to in Article 29(6) of Regulation (EC) No 1107/2009, the con­
+clusions of the renewal report on carvone, and in particular 
+Appendices I and II thereto, shall be taken into account. 
+In this overall assessment Member States shall pay particular 
+attention to: 
+— the protection of operators, ensuring that conditions of 
+use include the application of adequate personal protec­
+tive equipment. 
+Conditions of use shall include risk mitigation measures, 
+where appropriate. In particular, consideration should be gi­
+ven to the necessary time period before entry into storage 
+rooms after the application of plant protection products con­
+taining carvone. 
+The applicant shall submit to the Commission, the Member 
+States and the Authority confirmatory information as regards: 
+— the effect of water treatment processes on the nature of 
+residues present in surface and groundwater, when surface 
+water is abstracted for drinking water. 
+The applicant shall submit that information within two years 
+from the date of publication, by the Commission, of a gui­
+dance document on evaluation of the effect of water treatment 
+processes on the nature of residues present in surface and 
+groundwater. 
+(1) Further details on the identity and the specification of the active substance are provided in the renewal report.’   
+EN
+Official Journal of the European Union 
+15.5.2020                                                                                                                                           
+L 152/3   
+
+ANNEX II 
+In Part B of the Annex to Implementing Regulation (EU) No 540/2011, entry 135 on carvone is replaced by the following entry:                                                                
+No 
+Common Name, 
+Identification Numbers 
+IUPAC Name 
+Purity (1) 
+Date of approval 
+Expiration of approval 
+Specific provisions 
+‘135 
+carvone 
+2244-16-8 (d-carvone = 
+S-carvone = (+)-carvone) 
+Carvone: 602 
+d-carvone: not allocated 
+(S)-5-isopropenyl-2- 
+methylcyclohex-2-en-1- 
+one 
+Or 
+(S)-p-mentha-6,8-dien-2- 
+one 
+923 g/kg d-carvone 
+1 August 2019 
+31 July 2034 
+For the implementation of the uniform principles, as 
+referred to in Article 29(6) of Regulation (EC) 
+No 1107/2009, the conclusions of the renewal report 
+on carvone, and in particular Appendices I and II there­
+to, shall be taken into account. 
+In this overall assessment Member States shall pay par­
+ticular attention to: 
+— the protection of operators, ensuring that condi­
+tions of use include the application of adequate 
+personal protective equipment. 
+Conditions of use shall include risk mitigation mea­
+sures, where appropriate. In particular, consideration 
+should be given to the necessary time period before 
+entry into storage rooms after the application of plant 
+protection products containing carvone. 
+The applicant shall submit to the Commission, the 
+Member States and the Authority confirmatory infor­
+mation as regards: 
+— the effect of water treatment processes on the nat­
+ure of residues present in surface and groundwater, 
+when surface water is abstracted for drinking 
+water. 
+The applicant shall submit that information within 
+two years from the date of publication, by the Com­
+mission, of a guidance document on evaluation of the 
+effect of water treatment processes on the nature of 
+residues present in surface and groundwater.’ 
+(1) Further details on the identity and the specification of the active substance are provided in the renewal report.   
+EN
+Official Journal of the European Union 
+L 152/4                                                                                                                                           
+15.5.2020

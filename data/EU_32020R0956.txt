@@ -1,0 +1,118 @@
+II 
+(Non-legislative acts) 
+REGULATIONS 
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/956 
+of 26 June 2020 
+concerning the classification of certain goods in the Combined Nomenclature 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying 
+down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof, 
+Whereas: 
+(1) 
+In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) 
+No 2658/87 (2), it is necessary to adopt measures concerning the classification of the goods referred to in the 
+Annex to this Regulation. 
+(2) 
+Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. 
+Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional 
+subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff 
+and other measures relating to trade in goods. 
+(3) 
+Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be 
+classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table. 
+(4) 
+It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this 
+Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the 
+holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months. 
+(5) 
+The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature 
+under the CN code indicated in column (2) of that table. 
+Article 2 
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with 
+Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this 
+Regulation. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+(1) OJ L 269, 10.10.2013, p. 1. 
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff 
+(OJ L 256, 7.9.1987, p. 1). 
+EN
+Official Journal of the European Union 
+3.7.2020                                                                                                                                            
+L 211/1   
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 26 June 2020.  
+For the Commission, 
+On behalf of the President, 
+Philip KERMODE 
+Acting Director-General 
+Directorate-General for Taxation and Customs Union     
+EN
+Official Journal of the European Union 
+L 211/2                                                                                                                                             
+3.7.2020   
+
+ANNEX 
+Description of the goods 
+Classification 
+(CN code) 
+Reasons 
+(1) 
+(2) 
+(3) 
+A cuboid shaped article made of an aluminium 
+alloy with dimensions of approximately 370 × 
+194 × 42 mm. It is equipped with cooling fins 
+and two connections, an inlet and an outlet, for 
+cooling liquid on one side. 
+The article is designed to be placed in the cool­
+ing system of the engine (in the so-called short 
+cooling circuit) under the dashboard of motor 
+vehicles of headings 8701 to 8705 with internal 
+combustion piston engines. 
+The article transfers the heat absorbed by the 
+cooling liquid (coming from the engine of the 
+vehicle) to the air. The heated air is subsequently 
+transferred to the interior cabin of the vehicle by 
+means of additional devices which are not in­
+cluded upon presentation. 
+The article also enables the engine to reach its 
+optimum operating temperature in the warm- 
+up phase. 
+8708 91 35 
+Classification is determined by general rules 1 
+and 6 for the interpretation of the Combined 
+Nomenclature, note 2 (e) to Section XVII, note 
+3 to Section XVII and by the wording of CN 
+codes 8708, 8708 91 and 8708 91 35. 
+Classification under subheading 8419 50 as a 
+heat-exchange unit is excluded because, on the 
+basis of its objective characteristics, by transfer­
+ring the heat absorbed by the cooling liquid to 
+the air, the article performs the function of a 
+radiator for articles of Section XVII (see note 1 
+(l) to Section XVI, note 2 (e) to Section XVII and 
+note 1 (g) to Chapter 84). 
+Classification under subheading 8708 29 as 
+other parts and accessories of bodies (as a 
+non-electric heating and defrosting appliance 
+which uses the heat produced by the engine of 
+the vehicle as referred to in the Harmonised Sys­
+tem Explanatory Notes to heading 8708 (B)) is 
+excluded because the article is not using the heat 
+directly for heating or defrosting but merely 
+transfers the heat absorbed by the cooling liquid 
+to the air. 
+The article is therefore to be classified under CN 
+code 8708 91 35 as radiators for motor vehicles 
+of headings 8701 to 8705.   
+EN
+Official Journal of the European Union 
+3.7.2020                                                                                                                                            
+L 211/3

@@ -1,0 +1,2342 @@
+ICS 01. 040. 45
+S 04
+
+National Standard of the People’s Republic of China
+
+GB/T 16566—2018
+Replace GB/T 16566—1996
+
+Terms for railway tunnel
+
+(English Translation )
+
+Issue date: 2018-07-13 Implementation date: 2019-02-01
+
+Issued by State Administration for Market Regulation
+Standardization Administration of the People’s Republic of China
+
+
+Contents
+
+1 Scope
+General terms for tunnel
+
+Surrounding rock
+
+Oo won oo F&F WwW DN
+
+Ventilation. lighting. drainage
+
+10 Tunnel operation ANA MAINTENANCE cessercesscecee cesses cesses cesses cesses cesses cesses esas senses cesses cen ses
+
+Index
+
+Survey and design «s++r+cesessseeceeseseseseeceeceseneneeses cnn ensaeeces ens eee cesses ene aeeces cee ensaeeces ene eaeaeeees
+Tunnel construction machinery <s+:s+sessereeeeseeee eee eee eee nee aee cee cee cee cee senses ces ces ces ce ene ene ene eens
+
+Tunnel Support and Lining ss+ssssssseeesessese cesses ee aeece cece seeees ces ese cesses ene nesses ces eneaeeees cneees
+
+GB/T 16566—2018
+
+
+
+GB/T 16566—2018
+
+Foreword
+
+National Railway Administration of the People’s Republic of China is in charge of this English transla-
+tion. In case of any doubt about the contents of English translation, the Chinese original shall be con-
+sidered authoritative.
+
+This standard is drafted in accordance with the rules given in GB/T 1. 1—2009 Directives for stand-
+ardization—Part 1: Structure and drafting of standards.
+
+This standard replaces GB/T 16566—1996 Terms for railway tunnel . In addition to a number of edi-
+torial changes, the following technical deviations have been made with respect to the GB/T 16566—
+1996:
+
+—Terms related to “Surrounding Rock” (see Clause 3) were added;
+
+—The original Clause 3 “Tunnel Survey” and the original Clause 4 “Tunnel Design” are merged into
+Clause 4 “Survey and Design” (see Clause 4; Clause 3 and Clause 4 of 1996 Edition) ;
+
+—Terms related to “Tunnel Construction Machinery” were added (see Clause 6) ;
+
+—Terms related to “Tunnel Support and Lining” in Clause 7, and merged terms related to tunnel lin-
+ing from Clause 4 “Tunnel Design” into Clause 7 were added (see Clause 7; Clause 4 of 1996 Edi-
+tion) ;
+
+—Terms related to “Inspection and Monitoring” were added (see Clause 8) ;
+
+—Terms related to “Ventilation, Lighting, Drainage” were added (see Clause 9).
+
+This part was proposed and prepared by the National Railway Administration of the People’s Repub-
+lic of China.
+
+The previous edition of this standard is as follows:
+
+—GB/T 16566—1996.
+
+
+GB/T 16566—2018
+
+Terms for railway tunnel
+
+1 Scope
+
+This standard specifies the basic terms and definitions for railway tunnels.
+This standard is applicable to the planning. survey. design. construction. operation, research, train-
+
+ing and other aspects of railway tunnel engineering, and may also be referenced by other under-
+ground projects.
+
+2 General terms for tunnel
+
+2.1
+railway tunnel
+
+structure built underground or underwater, with tracks laid for the railway rolling stock as well as the
+machines and tools that can move on the tracks to pass through
+
+2.2
+extra-long tunnel
+
+tunnel with a total length of more than 10 000 m
+
+2.3
+long tunnel
+
+tunnel with a total length within the range of 3 000 m to 10 000 m
+
+2.4
+medium length tunnel
+
+tunnel with a total length within the range of 500 m to 3 000 m
+
+2.5
+short length tunnel
+
+tunnel with a total length of 500 m or less
+
+GB/T 16566—2018
+
+2.6
+circular tunnel
+
+tunnel with a circular excavating cross section
+
+2.7
+horseshoe-shaped tunnel
+
+tunnel with the cross section shaped by several arcs or arcs connected with straight lines, resemb-
+ling a horseshoe
+
+2.8
+single-track tunnel
+
+tunnel with one track laid
+
+2.9
+double-track tunnel
+
+tunnel with two tracks laid
+
+2. 10
+multi-track tunnel
+
+tunnel with more than two tracks laid
+
+2.11
+multi-arch tunnel
+
+tunnel consisting of two arches seperated by a partitional wall
+
+2.12
+neighboring tunnels
+
+two tunnels with small distance in between that cannot be considered as independent tunnels
+
+2.13
+shallow tunnel
+
+tunnel with a smaller buried depth and of which the excavation affects the surface
+
+te
+
+2.14
+deep tunnel
+
+GB/T 16566—2018
+
+tunnel with a larger buried depth and of which the excavation generally does not affect the surface
+
+2.15
+one way gradient tunnel
+
+tunnel with a one-way longitudinal gradient
+
+2.16
+double way gradient tunnel
+
+tunnel with a double-way longitudinal gradient
+
+2.17
+mountain tunnel
+
+tunnel crossing mountains to overcome the high-elevation obstacles
+
+2.18
+earth tunnel; tunnel in earth
+
+tunnel built in the layer of soil such as gravel, sand. sand. silt. or clay
+
+2.19
+rock tunnel
+
+tunnel built in a rocky surrounding rock
+
+2. 20
+
+unsymmetrically loaded tunnel
+
+tunnel of which the structure bears significantly asymmetric loads
+
+2.21
+
+tunnel in unfavourable geological conditions
+
+tunnel built in unfavorable geological conditions or prone to induce geological disasters during con-
+
+struction, which mainly includes tunnel in fault fracture zone. high in-situ stress tunnel. soft rock
+
+tunnel, tunnel with gas, karst tunnel, tunnel in seismic prone zone, permafrost tunnel, loess tunnel
+
+and expansive surrounding rock tunnel
+
+GB/T 16566—2018
+
+2. 22
+underwater tunnel
+
+tunnel built underneath straits, rivers, lakes. etc.
+
+NOTE Underwater tunnel is also called subaqueous tunnel.
+
+3 Surrounding rock
+
+3.1
+
+tunnel surrounding rock
+rock and soil mass affecting the tunnel trunk within a certain range around the tunnel
+
+3.2
+rock quality designation; R.Q.D
+
+ratio of the sum of the lengths of over-10 cm rock core sections that are taken continuously in the
+borehole in the same layer by using a 75 mm diameter diamond bit to the total drilling footage of the
+rock stratum, which is expressed in percentage
+
+3.3
+integration coefficient of rock mass
+
+ratio of the square of the longitudinal wave velocity in the rock mass to the square of the longitudinal
+wave velocity in the rock block that constitutes such rock mass; the larger the integration coeffi-
+cient, the more integrated the rock mass is. that is. the fewer the cracks
+
+3.4
+tunnel surrounding rock classification
+
+classification of surrounding rock by stability according to the main indexes such as the integrity of
+rock and soil mass and the hardness of rock
+
+3.5
+pressure of surrounding rock
+
+pressure exerted on the supporting or lining structure due to deformation or relaxation of surround-
+ing rock after tunnel excavation, also called formation pressure
+
+GB/T 16566—2018
+
+3.6
+loosening pressure
+
+pressure exerted on the supporting or lining structure by the weight of the surrounding rock at a cer-
+tain height due to the loosening of the surrounding rock above the tunnel after tunnel excavation
+
+3.7
+deformation pressure
+
+pressure exerted on the supporting structure due to the deformation of surrounding rock after tunnel
+excavation
+
+3.8
+rock-self stability time
+
+time for the surrounding rock itself to reach continuous stability without any support after excava-
+tion and exposure
+
+3.9
+surrounding rock reinforcement; ground stabilization
+
+engineering measure to improve the engineering characteristics of surrounding rock. increase its
+overall strength and stability or reduce its permeability
+
+3.10
+initial in-situ stress field
+
+in-situ stress formed in rock mass due to self-weight and tectonic movement of rock under natural
+conditions
+
+3.11
+elastic rebound resistance
+
+formation reaction force caused by lining deformation towards surrounding rock
+
+3.12
+natural arch
+
+self-supporting arch formed by surrounding rock above the tunnel to maintain stability of rock and
+soil after excavation of the tunnel on the assumption that the surrounding rock pressure is independ-
+ent of the buried depth of the stratum
+
+GB/T 16566—2018
+
+3. 13
+heading slope
+
+cut slope above the tunnel portal
+
+4 Survey and design
+
+4.1
+survey outside the tunnel; surface survey
+
+general term for survey conducted outside the tunnel. including large scale ground topographic map-
+ping in the design stage, and ground plane and elevation control survey. tunnel portal alignment sur-
+vey, ground and underground connection survey in the construction stage
+
+4.2
+survey inside the tunnel; tunnel survey
+
+general term for survey conducted in the tunnel, including the elevation control survey of the ground
+plane, the traverse and leveling survey in the tunnel, the connection survey between the ground and
+the tunnel. the construction setting out of the portal structures in the construction stage. and the
+setting out survey of the centerline. elevation and tunnel cross section during excavation
+
+4.3
+through survey
+
+survey to ensure that different excavation faces at each construction portal are connected with pre-
+determined accuracy and that each construction structure has the specified accuracy
+
+4.4
+setting horizontal point at portal
+
+horizontal control point set near the portal for controlling the traverse survey in the tunnel during
+tunnel survey
+
+4.5
+environmental survey
+
+survey on the impact of tunnel construction on the environment along the line
+
+GB/T 16566—2018
+
+4.6
+hydrological survey
+
+survey on surface water and groundwater that may affect the surrounding environment of the tunnel
+project
+
+4.7
+engineering exploration
+
+general term for various exploration methods to reveal the stratigraphic sequence and geotechnical
+engineering characteristics. including geophysical exploration, simple exploration (excavation pros-
+pecting, Luoyang shovel exploration, small spiral drilling, light dynamic penetration, etc. ), static
+cone penetration and drilling
+
+4.8
+special rock and soil
+
+rock and soil mass with special mineral composition and structure. special physical, mechanical and
+chemical properties and affecting engineering geological conditions, which mainly includes loess, ex-
+pansive soil, expansive rock, red clay. soft soil and mollisol, saline soil, permafrost, artificial fill,
+salt rock (gypsum, anhydrite. rock salt, natural alkali. mirabilite) , etc.
+
+4.9
+geophysical prospecting; geophysical exploration
+
+exploration method using physical principles. methods and special instruments to observe and com-
+prehensively analyze the distribution characteristics of natural or artificial physical fields, and to de-
+tect the geological body or geological structure
+
+4.10
+tunnel length
+
+distance between the intersection point of the intersection line of tunnel entrance/exit end wall sur-
+face and inner rail top surface and the centerline of the track. which shall be determined based on the
+downward track for double-track tunnel, the main track for the tunnel located on the station, and the
+starting point of the buffer structure for tunnel with buffer structure
+
+4.11
+buried depth; depth of tunnel
+
+vertical distance from the rail top to the ground surface in the tunnel
+
+_
+
+GB/T 16566—2018
+
+4.12
+overburden of tunnel; covering depth
+
+vertical distance from the top of the tunnel lining to the ground surface
+
+4.13
+structure gauge of tunnel
+
+minimum space required to be reserved in the tunnel under the condition of ensuring the safe running
+of rolling stock, without damage to the lining structure and various equipment. and considering ven-
+tilation. installation of catenary. reservation of safe space or rescue passage, etc.
+
+4.14
+theoretic line; A line
+
+boundary between the excavation surface and surrounding rock obtained by adding the design thick-
+ness of lining to the tunnel design internal clearance contour
+
+4.15
+pay line; B line
+
+tunnel excavation contour specified to ensure the design thickness of lining, taking into account rea-
+sonable overbreak, reserved surrounding rock deformation, construction deviation and other factors
+during construction
+
+4.16
+tunnel profile
+
+projection map of mountain tunnel on the vertical plane after straightening along the tunnel center-
+line, which is drawn with the distance as the horizontal coordinate and the elevation as the longitudi-
+nal coordinate in the scale of 1/500 to 1/5 000 in the horizontal direction and 1/200-1/2 000 in the
+vertical direction according to tunnel lengths
+
+4.17
+tunnel contour
+
+cross section outline of the tunnel perpendicular to the line direction
+
+4.18
+cross section of excavated tunnel
+
+section enclosed by the tunnel excavation contour line, including theoretical excavating range and
+design excavating range
+8
+
+GB/T 16566—2018
+
+4.19
+inside cross section of tunnel
+
+section enclosed by the inner contour line of the tunnel lining
+
+4.20
+tunnel clearance; tunnel inside section
+
+part above the rail surface line of the section enclosed by the tunnel lining inner contour line
+
+4.21
+springing line
+
+line connecting the center of the arch spring section of the tunnel lining
+
+4.22
+reserved deformation; prearranged deformation
+
+reserved deformation for appropriate expansion of the design excavation line in order to give full
+play to the self-supporting capacity of the surrounding rock and allow a certain amount of deforma-
+
+tion for the primary support and surrounding rock
+
+4.23
+
+main tunnel
+tunnel that forms the main object of the project
+
+4,24
+tunnel portal
+
+portal structure built to maintain the stability of the side and heading slopes of the portal, divert wa-
+ter from the slope and decorate the tunnel end
+
+4,25
+skew portal; inclined portal
+
+portal set on the end wall according to the terrain contour line when the terrain contour line at the
+tunnel portal is oblique to the centerline of the line
+
+4,26
+open-cut tunnel
+
+earth covering structure built by open-cut method at the tunnel portal or cutting section to prevent
+9
+
+GB/T 16566—2018
+
+landslides, rockfalls, avalanches, etc. from affecting the train operation
+
+4.27
+tunnel shed; hangar tunnel
+
+shed structure built in the half cutting section to prevent collapse, rockfall, etc.
+
+4. 28
+
+transition zone
+zonebetween the track inside a tunnel and the track outside the tunnel (especially in terms of ballas-
+ted track). which employs measures to eliminate the difference in vertical rigidity. so that the dif-
+
+ferential settlement and angle between the two track sections fall within the allowable range
+
+4.29
+refuge recess
+
+chambers set on both side walls of a tunnel at a certain interval for personnel to avoid trains or for
+temporary storage of equipment
+
+4. 30
+cable trough in tunnel
+
+trough set longitudinally along the railway track for cable laying in tunnel
+
+4.31
+monolithic track-bed
+
+track bed integrally poured with plain concrete or reinforced concrete
+
+4. 32
+waterproofing of tunnel
+
+engineering measures taken to prevent water leakage in tunnel
+
+4. 33
+classification of waterproof
+
+grade standard of the allowable leakage amount of the structure determined according to the water-
+proof requirements of the project
+
+10
+
+GB/T 16566—2018
+
+4.34
+deformation joint
+
+joint set to prevent expansion of tunnel structure due to temperature change or uneven settlement
+due to ground influence, including expansion joint and settlement joint
+
+4,35
+waterproof board
+
+waterproof roll placed between support and lining to prevent underground water in surrounding rock
+from entering the tunnel
+
+4. 36
+composite waterproof board
+
+composite waterproof material that bonds the buffer layer (geotextile) with the waterproof board
+
+4.37
+dynamic action
+
+action that causes a structure or member to produce a nonnegligible acceleration
+
+4, 38
+static action
+
+action that does not cause a structure or member to produce a nonnegligible acceleration
+
+4. 39
+ground-tunnel structure interaction
+
+interaction between the ground and the tunnel structure in which the ground not only exerts load on
+the structure, but also helps the structure to bear load in the form of elastic rebound resistance, or
+adjusts the internal force of the structure. depending on the relative rigidity ratio between the
+ground and the structure
+
+4.40
+aseismatic design of tunnel
+
+tunnel engineering design for resisting earthquake disasters. including anti-seismic checking calcula-
+tion and anti-seismic measures
+
+11
+
+GB/T 16566—2018
+
+4.41
+seismic ground motion parameter
+
+dynamic characteristic parameters describing the earthquake. which mainly include the earthquake
+peak ground acceleration and characteristic period of the seismic response spectrum
+
+4.42
+earthquake peak ground acceleration
+
+horizontal acceleration corresponding to the maximum seismic acceleration response spectrum
+
+4. 43
+characteristic period of the seismic response spectrum
+
+period during which the seismic acceleration response spectrum begins to decline
+
+4.44
+ride comfort
+
+passener comfort influenced by the vertical and horizontal acceleration of the train at high speed, as
+well as the noise. temperature and air pressure changes in the compartment on the comfort of pas-
+sengers
+
+4.45
+blockage ratio
+
+ratio of the cross sectional area of the train to the clearance area above the rail surface in tunnel
+
+4. 46
+
+transient pressure
+complex transient pressure generated in tunnel due to the pressure wave generated by the com-
+pressed air in front of the train entering the tunnel at high speed and transmitted back and forth in the
+
+tunnel
+
+4.47
+micro pressure wave
+
+low-frequency pulse wave radiated from the tunnel when the compression wave generated by the
+train entering the tunnel at high speed reaches the tunnel exit
+
+12
+
+GB/T 16566—2018
+
+4.48
+buffer structure of tunnel portal
+
+structure set at the tunnel portal to mitigate the damage to the carbody structure, tunnel structure
+and portal environment caused by the impact pressure and micro pressure wave generated by the
+train entering/exiting the tunnel
+
+4.49
+disaster prevention facility of tunnel
+
+disaster prevention facility set for long and large tunnels through which high-speed trains pass based
+on domestic and foreign experience, which mainly includes earthquake and fire detection, automatic
+alarm equipment; fixed fire extinguishing and smoke exhaust equipment; water supply and drainage
+facilities for fire protection; emergency refuge. evacuation and designated treatment facilities;
+guidance facilities; facilities to prevent train derailment and collision; auxiliary cavern; emergency
+multiple power supply. communication and lighting equipment; special accident rescue facilities,
+etc.
+
+4.50
+safety space
+
+space reserved for railway maintenance personnel or professionals entering the tunnel under special
+circumstances
+
+4.51
+rescue gallery
+
+through type passage provided for the access of rescue personnel and the evacuation of passengers
+in case of disasters
+
+4.52
+techno-engineering operational space
+
+space set in the circumferential direction along the inner contour of tunnel lining for equipment in-
+stallation or lining reinforcement and installation of noise reducing wall panels
+
+4.53
+auxiliary cavern
+
+cavern provided in a high-speed railway tunnel for storing maintenance and disaster prevention tools
+and other special equipment and materials
+
+13
+
+GB/T 16566—2018
+
+4.54
+structure reliability
+
+ability of a structure measured by probability to fulfill its design function within a specified time
+frame and under normal conditions as specified, including safety, applicability and durability
+
+4.55
+probability limit states design method
+
+structural design method based on probability theory to prevent the structure or member from reac-
+hing the limit state of certain functional requirements
+
+4.56
+safety classes
+
+design classes based on the severity of the consequences resulting from the failure of engineering
+structures to ensure reasonable safety of the structures
+
+4.57
+ultimate limit states
+
+limit states in which a structure or member reaches its maximum bearing capacity or develops a large
+deformation that makes it unsuitable for further bearing
+
+4.58
+service-ability limit states
+
+states in which the structure or member reaches a certain limit value allowed in use
+
+4.59
+reliability index
+
+index for measuring structure reliability. which is the inverse function of standard normal distribu-
+tion of structural reliability probability
+
+4.60
+probability of structural failure
+
+probability that a structure or member cannot perform its intended function
+
+14
+
+GB/T 16566—2018
+
+4.61
+effects of actions
+
+internal force, deformation and displacement of structure or member caused by action
+
+4.62
+partial coefficient
+
+coefficient used in the limit state design expression of the structure to ensure that the designed
+structure or member has the specified reliability. which is classified into action partial coefficient.
+resistance partial coefficient and material performance partial coefficient etc.
+
+4.63
+structure durability
+
+ability of a structure and its components to maintain its due performance for a long time under the
+action of various external factors that may cause material performance degradation, which is often
+defined as the ability of a structure and its components to maintain its required minimum perform-
+ance within a predetermined period of time under predetermined actions and expected maintenance
+and use conditions in structural design
+
+5 Railway tunnel construction method
+
+5.1
+
+under-cutting method; tunnelling method
+
+tunnel construction method in which excavation and lining installation are performed entirely under-
+ground, mainly including shield method, tunnel boring machine method, drilling and blasting meth-
+od, etc.
+
+5.2
+
+cut and cover method; open-cut method
+
+tunnel construction method in which the ground surface is excavated first. then the tunnel lining
+structure is built, and finally the earth and rock are backfilled and the ground is restored
+
+5.3
+shield method
+
+tunnelling method for tunnel construction by using shield machine for excavation, mucking. lining
+and other operations
+
+GB/T 16566—2018
+
+5.4
+tunnel-boring machine method; TBM method
+
+method of tunnel excavation using large and efficient tunnel construction machinery with multiple
+functions. such as tunnelling (mechanical cutting of rock), mucking and support
+
+5.5
+immersed tunnelling method
+
+construction method in which a structural frame is constructed in sections on the ground and then
+gradually sunk by its own weight to form an underground structure
+
+5.6
+freezing method
+
+construction method in which the surrounding rock is frozen to reach a certain strength before exca-
+vation and then thawed after support is made in case it is difficult to form the tunnel due to poor
+surrounding rock conditions (such as weak ground or water bearing sand layer) during tunnel excava-
+tion
+
+5.7
+new austrian tunnelling method; NATM
+
+tunnel construction method that adopts rock bolt, shotcrete and other surrounding rock support and
+reinforcement means as well as reasonable excavation method, and guides the design and construc-
+tion and controls the deformation of surrounding rock by monitoring measurement. so that the sur-
+rounding rock becomes a part of the supporting system to give full play to its self-supporting ability
+and maintain its stability
+
+5.8
+drilling and blasting method
+
+tunnel construction method of drilling holes in rock and soil and loading explosives for blasting exca-
+vation
+
+5.9
+short hole blasting
+
+blasting construction method in which the drilling depth is less than 1.5 m during excavation
+
+16
+
+GB/T 16566—2018
+
+5. 10
+long hole blasting
+
+blasting construction method in which the drilling depth is more than 3.5 m during excavation
+
+5.11
+cut hole
+
+blast hole made to add free face to other blast holes to improve the blasting effect
+
+5.12
+easer; relief hole
+
+blast hole arranged on the same vertical plane with the bottom face of trim hole to expand the vol-
+ume of the cut and make the excavation surface smooth
+
+5. 13
+
+trimmer; trim hole
+
+blast holes arranged along the excavation contour line on the same vertical line with the bottom face
+of relief hole to ensure that the tunnel excavation contour line after blasting meets the design re-
+quirements. and to smoothen the excavation surface
+
+5. 14
+smooth blasting
+
+blasting method in which the blasting is sequentially initiated from the middle of the excavation sur-
+face to the outside in order to form a smooth excavation surface and reduce overbreak
+
+5.15
+presplit blasting
+
+blasting method in which the trim holes are blasted to form cracks along the excavation contour line
+before the blasting of the central part during the excavation of hard rock tunnel
+
+5. 16
+delay blasting
+
+blasting in which delay explosive is placed between the ignition device and the primary explosive to
+achieve an appropriate delay in initiation
+
+17
+
+GB/T 16566—2018
+
+5. 17
+blast depth; length of round
+
+length of excavation for one blasting
+
+5. 18
+top cleaning; scalping
+
+removing dangerous rocks prone to falling off from the surrounding rock surface after blasting exca-
+vation of a tunnel
+
+5.19
+full face method
+
+construction method of excavating the whole tunnel section at one time
+
+5. 20
+bench cut method
+
+tunnel construction method in which the tunnel section is stratified and the excavation and lining of
+each layer are staggered along the longitudinal axis of the tunnel
+
+5.21
+sequential excavation method
+
+construction method of excavating heading in advance and then enlarging the heading to half or full
+section
+
+5. 22
+side heading method; side drift method
+
+tunnel construction method of excavating side heading in advance when building large section tunnel
+in soft ground
+
+5. 23
+ring cut method
+
+construction method of initially excavating the upper heading into a ring, followed by support instal-
+lation, and then excavating the central core soil and both side walls by sections
+
+GB/T 16566—2018
+
+5. 24
+cross diagram method(CD method); block-diagram method
+
+tunnel construction method of dividing the tunnel cross section into four equal parts in a crosswise
+manner and excavating in sequence, forming each part in a timely manner into a closed support
+structure with anchor bolts. shotcrete and lattice frame after excavation, and removing the middle
+partition after the full section is formed
+
+5. 25
+center cross diagram method(CRD method)
+
+construction method of excavating one or two parts on one side of a tunnel, then constructing part
+of the temporary middle partition, cross partition, and temporary invert, excavating one or two
+parts on the other side of the tunnel, excavating the last part on the side constructed first, exten-
+ding the middle partition. and finally excavating the rest of the tunnel for large-span tunnel in soft
+surrounding rock
+
+5. 26
+center drift excavation method
+
+construction method of excavating the middle partition between the two tunnels in the bell section
+of a multi-arch tunnel or a single-track tunnel, and then excavating the left and right tunnels after
+completing the concrete pouring of the middle partition
+
+5.27
+mechanical pre-cutting method
+
+construction method of excavating the core soil by digging a trench with a certain depth using a pre-
+cutting machine according to the tunnel contour line and pouring concrete in the trench to form an ad-
+
+vanced lining for protection. suitable for soft surrounding rock tunnel
+
+5. 28
+
+excavation surface
+
+excavation working surface at the foremost end of the tunnelling direction
+
+5.29
+overbreak
+
+surplus breakage of rock in case the actual contour line of excavation is beyond the designed excava-
+ting range of tunnel
+
+19
+
+GB/T 16566—2018
+
+5. 30
+underbreak
+
+unremoved rock in case the actual contour line of excavation is within the design excavating range of
+tunnel
+
+5. 31
+hole through; holing through
+
+process of excavation in opposite directions for tunnelling
+
+5. 32
+pre-grouting
+
+grouting to fill the cracks of surrounding rock in advance before excavation so as to block the water
+flow and strengthen the surrounding rock
+
+5. 33
+full-closed grouting
+
+curtain grouting
+
+advanced pre-grouting in which a certain slurry (such as cement slurry) is injected into the hole at a
+certain distance, aperture and depth along the excavation contour and excavation surface. and the
+diffused slurry squeezes away the water in the rock joints within a certain range around the hole and
+consolidates with the slurry of adjacent holes and the surrounding rock mass. so as to consolidate
+the surrounding rock and stop the water
+
+5. 34
+drain boring
+
+method of drilling from the excavation surface to depth of the surrounding rock to discharge the
+groundwater in the surrounding rock or deal with the gushing water
+
+5. 35
+backfill grouting
+
+grouting to fill the gap between lining and surrounding rock after the lining is completed
+
+5. 36
+surrounding rock grouting before lining
+
+grouting for surrounding rock after primary support to block water leakage
+20
+
+GB/T 16566—2018
+
+5. 37
+lining grouting
+
+grouting in the lining in case of water leakage due to lining defects
+
+5. 38
+
+water proofing by section
+
+water proofing operation of pasting the circumferential back stick waterstop on the waterproof board
+by sections of a certain length after the waterproof board is constructed, so that after the lining con-
+crete is poured, if there is water leakage between two adjacent rings. the water is not prone to
+flow. and it is convenient to take corresponding measures for a certain section
+
+5. 39
+key packing; closing the top of lining
+
+blocking at the concrete closure at the top of arch ring
+
+5. 40
+shotcrete
+
+concrete formed by the continuous impact of cement and aggregate in the process of spraying con-
+crete mixture at a high speed vertically on the sprayed surface by the use of compressed air or other
+power
+
+5.41
+dry shotcreting
+
+shotcreting method in which cement and aggregate are dry mixed and pressed to a nozzle, and then
+merged with water at the front of the nozzle
+
+5. 42
+wet shotcreting
+
+shotcreting method in which cement. aggregate and water are mixed in the mixer and then pressed
+to the nozzle for spraying
+
+5. 43
+
+half wet shotcreting
+
+shotcreting method in which a small amount of water is added in advance to reduce dust during or
+before mixing
+21
+
+GB/T 16566—2018
+
+5. 44
+rebound of shotcrete
+
+general term for the concrete mixture that falls off during shotcreting
+
+5. 45
+fiber shotcrete
+
+shotcrete mixed with uniformly distributed short fibers to improve its physical properties
+
+5. 46
+
+construction joint
+
+joint between adjacent units when tunnel concrete is poured in several units due to construction re-
+quirements
+
+5. 47
+mucking out
+
+general term for the construction operations of loading, transporting and unloading the debris exca-
+vated from the tunnel to the outside of the tunnel
+
+5. 48
+rail haulage
+
+haulage operation of laying tracks in tunnel for feeding and mucking
+
+5. 49
+road haulage; trackless haulage
+
+haulage operation of feeding and mucking in tunnel with tire type or crawler type transport machinery
+
+5. 50
+collapse
+
+sudden fall of rock and soil during tunnel excavation, also called roof fall or landslide
+
+5.51
+rock burst
+
+phenomenon that rocks burst at the tunnel face, the arch crown and the side wall. etc. and shoot in-
+to the tunnel with a loud sound made because elastic strain energy of surrounding rock is suddenly
+released, when excavating a tunnel in hard rock with high geostress and integrity
+
+22
+
+GB/T 16566—2018
+
+5. 52
+floor heave
+
+bulging of of tunnel floor
+
+5. 53
+fault zone
+
+zone where the rock affected by the fault breaks within a certain width on both sides of the fault
+plane
+
+5. 54
+gas outburst
+
+sudden ejection of a large amount of gas, coal dust and rock powder during tunnelling
+
+5, 55
+rock cross-cut
+
+rock pillar between the excavation surface and the coal stratum when the tunnel axis is orthogonal or
+oblique to the coal seam strike, which is generally 1.5 m to 2.0 m thick, and appropriately thicker if
+the rock stratum is loose and broken
+
+5. 56
+coal mining at the rock cross-cut
+
+whole process of tunnelling the rock cross-cut and coal seam, including mining the rock cross-cut,
+tunnelling in half coal and half rock, tunnelling in full coal seam, and passing through the coal seam
+
+5. 57
+heading
+
+small section gallery that is first excavated when a tunnel is excavated by sections
+
+5. 58
+service gallery (adit)
+
+gallery connected to the tunnel to improve the construction conditions such as drainage, ventilation
+
+and transportation in the tunnel and increase the excavation surface. which mainly includes horizon-
+tal adit, parallel heading. inclined shaft and vertical shaft
+
+23
+
+GB/T 16566—2018
+
+5. 59
+horizontal adit
+
+service gallery intersecting with the connection of tunnel centerlines at an angle of 40°to 45’and hav-
+ing a downward slope of not less than 37° outside the tunnel
+
+5. 60
+parallel heading
+
+service gallery parallel to the main tunnel and connected through the cross passage for construction,
+drainage, ventilation and rescue evacuation of the main tunnel
+
+5.61
+inclined shaft
+
+service gallery constructed obliquely from the ground and at an angle to the tunnel plane
+
+5. 62
+vertical shaft; shaft
+
+cylindrical service gallery built vertically from the ground
+
+6 Tunnel construction machinery
+
+6.1
+shield
+
+construction machine with a steel shell containing excavation and lining segment assembly equip-
+ment, capable of performing main operations such as ground tunnelling, mucking. lining assembly,
+joint waterproofing and shield tail gap grouting and filling under the protection of the steel shell
+
+6.2
+slurry shield; mud shield
+
+shield that uses pressured slurry to keep the excavation surface stable and causes slight disturbance
+to the soil mass during construction, and transports muck by recyclable slurry fluid without a screw
+conveyor and other mucking machinery
+
+6.3
+earth pressure balanced shield; EPBS
+
+shield that keeps the excavation surface stable by the soil cut by the cutterhead when advancing, in
+24
+
+GB/T 16566—2018
+
+the process that the front end cutterhead rotates to cut the soil layer when the shield is advancing.
+and the cut soil enters a sealed soil chamber set at the front end close to the cutterhead to resist the
+soil and water pressure on the excavation surface if the soil is adequate in the soil chamber. so that
+the excavation surface ground is kept in balance
+
+6.4
+air pressed shield; shield with air pressure
+
+shield that uses compressed air to keep the working face dry and stable, which usually includes the
+gate wall separating the air pressed operation area from the atmospheric operation area, the pedes-
+trian gate and material gate for passing of personnel and materials (with a medical gate added if nec-
+
+essary), and the ground air compressor station and its auxiliary equipment
+
+6.5
+tunnel boring machine; TBM
+
+mechanized tunnel boring machine which uses a rotating and propelling cutterhead to crush rocks
+through a hob to form the whole cross section of a tunnel at one time
+
+6.6
+
+single cantilever tunnelling machine
+
+machine that can rotate up, down, left and right while excavating part of the section
+
+6.7
+drill jumbo
+
+movable construction equipment with several rock drills for drilling operation. also called drilling
+jumbo
+
+6.8
+rock drill
+
+machine for drilling the surrounding rock of a tunnel, which can be categorized into pneumatic, elec-
+tric and hydraulic modes according to the power source, rotary and impact modes according to the
+
+drilling method, and wet and dry modes according to the water use
+
+6.9
+shotcrete machine; concrete sprayers
+
+machine that sprays concrete onto the surface
+
+GB/T 16566—2018
+
+6. 10
+grouting machine
+
+machine for pouring cement slurry, mortar and other fluid materials
+
+6.11
+muck loader
+
+muck loading equipment used in tunnel construction, categorized into bucket back dumping muck
+loader, bucket back dumping muck loader with conveyor, main claw loader, rake loader, etc. ac-
+cording to different construction conditions and methods.and track type. tire type and crawler type
+according to traveling modes
+
+6.12
+shuttle car
+
+rail vehicle suitable for short distance transportation during tunnel construction, which is mainly
+composed of carriage, transmission mechanism, body bogie and other parts, and the conveyor in it
+is of scraper type and is equipped with a moving baffle that is pushed forward for muck loading, and
+returns back to the loading end after unloading muck in front of or at one side of the track
+
+6. 13
+bunker train
+
+rail transport vehicle composed of several trolley units in series, each of which is only provided with
+two side plates but no front and rear baffles, and it receives muck at the front end and unloads muck
+at the rear end, and is equipped with a pneumatic chain plate conveyor located at the bottom of the
+train so that the whole train can be filled with muck during receiving and the stone muck can be un-
+loaded from the rear of the train when unloading muck
+
+6. 14
+operation frame
+
+mobile (wheel type. rail type or skid type) or assembled operation frame manufactured to facilitate
+excavation, support, waterproof board installation and other constructions, which is generally com-
+posed of gantry, telescopic (folding) operation platform, wind, water and electricity interface, lift-
+ing equipment, traveling mechanism, etc.
+
+6.15
+formwork jumbo; lining form jumbo
+
+integral mobile equipment for pouring tunnel lining concrete, which is composed of portal structure,
+large formwork, adjusting mechanism (hydraulic or screw), traveling mechanism, etc. . and assem-
+
+26
+
+GB/T 16566—2018
+
+bled with combined formwork if no large formwork is set
+
+7 Tunnel Support and Lining
+
+7.1
+cementitious material; binder
+
+general term of cement, fly ash, ground muck, silica fume and other mineral admixtures used to pre-
+pare concrete
+
+7.2
+rock bolt; anchor bolt
+
+bar shaped member made of solid or hollow metal or other materials with high tensile properties and
+anchored into the surrounding rock mass to strengthen the surrounding rock
+
+7.3
+anchor
+
+anchorage facility using steel strand for tensile resistance
+
+7.4
+systematic bolt
+
+anchor bolt group for overall reinforcement of surrounding rock according to a certain layout pattern
+
+7.5
+local bolt
+
+anchor bolt installed to reinforce local unstable rocks in tunnel
+
+7.6
+advance anchor bolt
+
+anchor bolt set at a certain camber along the excavation direction at the outer edge of the tunnel arch
+before excavation in order to reinforce the surrounding rock
+
+7.7
+tip anchoring type rock bolt
+
+anchor bolt of which the rod body is anchored in the rock mass by the anchor head at the tip. while at
+the other end of the rod body the base plate is pressed into the rock wall with a nut
+27
+
+GB/T 16566—2018
+
+7.8
+full-length adhesive type rock bolt; completely grouted bolt
+
+anchor bolt of which the entire anchor tendon is cemented in the anchor hole using a cementitious
+agent (cement mortar. resin, etc. )
+
+7.9
+rock bolt support
+
+rock bolt supporting structure that can bear load and prevent deformation of surrounding rock by
+quickly using self advancing bolt or drilling and inserting bolt in the drilling hole and anchoring the
+bolt in the surrounding rock by mechanical anchoring or bonding materials after the tunnel excavation
+
+7.10
+shotcrete and rock bolt support
+
+support structure composed of shotcrete, anchor bolt and wiremesh
+
+7.11
+wiremesh-shotcrete-lattice support
+
+support structure composed of wiremesh, shotcrete and lattice
+
+7.12
+poling plate
+
+auxiliary method of tunnel construction in which the steel plate is inserted into the excavation sur-
+face from the support side of the final erection while inserting. so as to prevent the collapse of the
+excavation surface
+
+7.13
+pipe roof support; pipe shed
+
+roof support structure formed by inserting steel pipes at a certain distance and camber along the ex-
+cavation contour of the tunnel and grouting the pipes
+
+7.14
+pre-grouting with micropipe
+
+support made by inserting a steel pipe with a diameter of 38 mm to 70 mm along the periphery of the
+arch of the excavation surface at a certain angle and grouting to consolidate the surrounding rock be-
+fore the tunnel excavation and supporting the steel pipe with the steel frame support during excava-
+tion
+
+28
+
+GB/T 16566—2018
+
+7.15
+advance support
+
+support structure to pre-reinforce the surrounding rock of the tunnel excavation surface before exca-
+vation
+
+7.16
+primary support
+
+support structure constructed immediately after excavation
+
+7.17
+sliding support; yielding support
+
+support structure that adapts to the change when the axial force borne by the primary support of the
+tunnel is greater than its bearing capacity based on expansion and contraction of the sliding connec-
+tion mechanism, and that can be used to adapt to the formation deformation when encountering very
+large expansive soil pressure in tunnel excavation that will cause ordinary support to be bent or bro-
+ken
+
+7.18
+secondary lining
+
+lining constructed according to the deformation of the tunnel chamber after the completion of the
+primary support for tunnels with composite lining
+
+7.19
+steel arch
+
+steel arch, which is generally divided into lattice girder welded with steel bars and arch girder made
+of section steel. rail or steel pipe
+
+7.20
+tunnel lining
+
+permanent support structure built along the periphery of a tunnel trunk
+
+7.21
+tunnel arch
+
+arch lining structure above tunnel spring line
+
+29
+
+GB/T 16566—2018
+
+7.22
+tunnel sidewall
+
+lining structure on both sides below the tunnel arch
+
+7.23
+
+tunnel invert
+
+lining part of the inverted arch at the bottom of the tunnel
+
+7.24
+
+arch crown
+
+uppermost part of the tunnel excavation cross section or tunnel lining cross section
+
+7.25
+base slab of tunnel
+
+slab lining structure built at the tunnel bottom with favorable surrounding rock conditions
+
+7. 26
+monolithic lining
+
+lining made of molded concrete or masonry
+
+7.27
+precast lining; prefabricated tunnel lining
+
+lining assembled in the tunnel by prefabricated members
+
+7. 28
+reinforced concrete segment
+
+lining assembled in the shield tail and used as the counter force support of the shield jack and also the
+
+tunnel lining supporting the surrounding rock when the shield tunnelling method is used, which is
+
+generally composed of prefabricated reinforced concrete components divided into several blocks, al-
+
+so known as reinforced concrete block
+
+7.29
+composite lining
+
+lining that allows certain deformation of surrounding rock to produce and gives full play to the self-
+
+bearing capacity of the surrounding rock, which is composed of primary support, waterproof layer
+
+30
+
+GB/T 16566—2018
+
+and secondary lining
+
+7.30
+anchor section lining
+
+lining section set at a certain distance in the electrified railway tunnel for catenary compensation and
+anchoring, also called catenary anchoring section lining
+
+8 Inspection and monitoring
+
+8.1
+tunnel monitoring measurement
+
+regular observation and measurement of surrounding rock and support changes during tunnel con-
+struction
+
+8.2
+arch crown settlement measurement
+
+vertical displacement measurement of arch crown
+
+8.3
+
+convergence measurement
+measurement of relative position change of two points around the tunnel
+
+8.4
+surface settlement measurement
+
+measurement of the vertical displacement of the ground at the top of the tunnel caused by the de-
+formation of the surrounding rock around the tunnel towards the tunnel due to the unloading of the
+surrounding rock when using tunnelling method
+
+8.5
+pull-out test of rock bolt
+
+pull-out test conducted by sampling for the installed anchor bolts according to the specification re-
+quirements to check whether their anchoring force meets the design requirements. for which the
+commonly used instruments and equipment are pull-out devices and dynamometers
+
+GB/T 16566—2018
+
+8.6
+surrounding rock displacement measurement
+
+measurement carried out to ascertain the stability of surrounding rock. the scope of loosening zone
+and the slip of ground, in which the instrument used is a relative displacement meter that is divided
+
+into single point and multi-point displacement meters according to the number of measuring points
+
+8.7
+
+earth pressure measurement
+
+measurement carried out with an earth pressure box which is placed at the interface between the
+tunnel lining or portal retaining wall and the ground to measure the earth pressure acting on the
+structure
+
+8.8
+ground inclination measurement
+
+measurement of the horizontal inclination of the structure due to uneven subsidence and ground dis-
+placement
+
+8.9
+non-destructive investigation of tunnel
+
+technology of inspecting and measuring the surface and internal conditions of the tunnel lining and
+the surrounding rock conditions behind the lining without damaging the tunnel lining. which includes
+ground penetrating radar detection using electromagnetic wave technology, ultrasonic and seismic
+wave detection using wave theory. and thermal infrared detection using optical technology
+
+8.10
+ground penetrating radar method
+
+method to check the structure and detect defects (or other heterogeneities) in the medium according
+to the reflection characteristics of the medium to electromagnetic waves. which can be used to
+check the lining thickness, quality and the state of surrounding rock behind the lining in tunnel engi-
+neering
+
+8.11
+acoustical wave method
+
+method to detect the characteristics. internal structures and defects of the medium according to the
+propagation characteristics and relevant parameters of sound waves in the medium
+
+32
+
+GB/T 16566—2018
+
+8.12
+tunnel clearance inspection
+
+inspection of tunnel clearance that is divided into contact type and non-contact type, of which the
+former mainly includes cross section method and tentacle type comprehensive gauge inspection
+method, the latter mainly includes photographic inspection vehicle method, camera inspection vehi-
+cle method and laser tunnel detector method
+
+8. 13
+lining surface digital image system
+
+continuous recording and processing system of lining surface image for inspection and evaluation of
+tunnel lining structure status, which includes hardware composing of image capture equipment (such
+as CCD camera, infrared camera. laser camera, etc. ). host (control system execution), input and
+output equipment (image input and output) and software consisting of two parts: image processing
+(digital image input. storage, transmission and display) and evaluation analysis (obtaining tunnel re-
+lated disease parameters, interpretation and evaluation)
+
+9 Ventilation, lighting, drainage
+
+9.1
+tunnel ventilation
+
+measures to discharge various harmful gases in the tunnel, renew the air, and maintain a good con-
+struction and operation environment. including ventilation during construction and operation
+
+9.2
+natural ventilation
+
+ventilation method that uses the air convection resulting from the differences in elevations at the
+tunnel entrance and exit, the natural wind pressure head outside tunnel, thermal potential difference
+between the interior and exterior of tunnel and the piston wind generated by train operation to dis-
+charge the harmful gases and heat from tunnel
+
+9.3
+mechanical ventilation
+
+ventilation method of feeding fresh air or discharging harmful gases with ventilation machinery
+
+GB/T 16566—2018
+
+9.4
+ventilation during construction
+
+ventilation in tunnel construction to meet the requirements of health standards for the working envi-
+ronment
+
+9.5
+permanent ventilation of tunnel; operation ventilation
+
+ventilation during tunnel operation in order to make the air and temperature in the tunnel meet the
+national health standards within a specified time
+
+9.6
+ventilation equipment
+
+equipment used in the tunnel to exchange fresh air and discharge harmful gases in the tunnel, inclu-
+ding the fans for railway tunnel. which are generally divided into centrifugal and axial flow fans ac-
+cording to the structure. while the axial flow fans with large air volume. low wind pressure, high
+efficiency and light weight are mostly used
+
+9.7
+longitudinal ventilation
+
+ventilation mode in which the air flows along the longitudinal axis of the tunnel under the action of a
+fan
+
+9.8
+longitudinal ventilation with jet fan
+
+tunnel longitudinal ventilation using jet fans, which are axial flow fans that can eject the longitudinal
+flow of air as the wind speed at the fan outlet is high, and are therefore called jet fans
+
+9.9
+piston action of train
+
+forming of positive pressure at the front end and negative pressure at the rear end by thin air of a
+train running at a high speed; the difference between the two pressures. known as piston pressure,
+will increase train running resistance, and generate train wind that improves the tunnel ventilation
+
+9. 10
+tunnel lighting
+
+general term that refers to the operation lighting at tunnel construction site, the indication lighting
+34
+
+GB/T 16566—2018
+
+for tunnel operation, and the emergency lighting for urgent needs
+
+9.11
+tunnel drainage
+
+engineering measures such as setting drainage ditches, blind ditches and other drainage facilities in
+
+the main tunnel to eliminate. dredge or mitigate groundwater hazards in the tunnel
+
+9. 12
+French drain
+
+blind drain
+
+drainage facility set around the tunnel to dredge and prevent ponding behind the lining, avoid water
+
+leakage into the tunnel, reduce the hydrostatic pressure and lower the groundwater level
+
+10 Tunnel operation and maintenance
+
+10.1
+
+tunnel reconstruction
+
+technical transformation measures for existing tunnels on the line
+
+10.2
+under cutting; cutting-down of tunnel bed
+
+tunnel reconstruction operation to reduce the tunnel bottom elevation
+
+10.3
+top picking; brushing of tunnel top
+
+tunnel reconstruction operation to extend tunnel arch
+
+10.4
+
+cover arch
+
+arch structure built inside the original lining of the tunnel
+
+10.5
+tunnel deterioration; tunnel disease
+
+tunnel conditions that may hinder the normal operation of trains during tunnel operation, such as lin-
+
+35
+
+GB/T 16566—2018
+
+ing crack, floor heave, internal water leakage, frost damage, water damage, mud pumping at the
+floor
+
+10.6
+lining split
+
+defective condition of lining, such as cracks, large-area or partial peeling, spalling. and corrosion
+
+10.7
+water leakage in tunnel
+
+defective condition of tunnel structure such as water leakage due to groundwater activities
+
+10.8
+freezing damage in tunnel
+
+defective condition of tunnel structure caused by repeated freezing and thawing
+
+10.9
+gushing water
+
+engineering geological phenomenon that groundwater under pressure floods suddenly into tunnel
+from the surroundings. also called water inrush
+
+10. 10
+leakage protection
+
+general term for water leakage treatment in tunnel by means of prevention and drainage, among
+which the methods of water diversion (construction of water diversion channel and ditch) and water
+interception can be used for linear leakage. spraying and applying waterproof coating, or waterproof
+board and waterproof cloth can be used for surface leakage, and grouting at the back of lining can be
+used to block water and reduce water level
+
+10. 11
+tunnel fire hazard
+
+major disasters caused by inflammable and explosive materials and traffic accidents during tunnel
+construction or operation
+
+10. 12
+consolidation grouting
+
+grouting of loose strata and cavities in the surrounding rock behind the tunnel lining to increase its
+36
+
+GB/T 16566—2018
+
+strength, stability and impermeability
+
+10. 13
+fracture grouting
+
+grouting in which the pressurized grout overcomes the initial stress and tensile strength of the for-
+mation, causing damage and disturbance to the rock or soil structure, and splits along the plane per-
+pendicular to the minimal principal stress of the rock soil mass, increasing the original cracks and
+pores in the formation and the groutability and diffusion distance of the grout
+
+10. 14
+compaction grouting
+
+grouting in which extremely thick grout is injected into the soil through drilling holes so that the soil
+
+is compacted at the grouting point and grout bubbles are formed near the end of the grouting pipe
+
+10. 15
+
+condition assessment
+
+assessment of the status of individual facilities or the overall status of facilities in tunnel according
+to the inspection and testing results, serving as the basis for determining the level of maintenance
+and repair for these facilities
+
+a
+
+GB/T 16566—2018
+
+Index
+
+A iN veetee tee ceeceeceeeeeeseceecseaesaescsceeceecsscescessessssasssssscessesssssesssscessescesseccessessessesserses A TA
+ACOUStICal WAVE MEthOd creeeseeeeesceecee cee eee ees ceeceeceeeee ees cesseeseeens ees sessesssscseesseeseeeesesseess BY]
+Ait cceteeeee see eeeeee + 5.58
++ 7.6
+
+advance rock bolt
+
+air pressed Shield versessessesseeeeseee tenses eases see cse nee aeeaeeseeseecescesseseeseessessesesstssesseseeseessees 6 4
+ANCHO cecceesesceecceeeeasececcesees see ceecenaee sec ees sae asececeee ae seesessenasssscses ses seeseetenaeesesssssesasssscees 73
+ANCHOr Olt veeeeeeeeeeeeeeeeeceeeeceeaeaaeaaeaaeasecea aaa caa cae ene saa saa sae cas cee ces ceases eee ses cesses ses sesseeseeeee 7D
+anchor section lining ssresseresssrsssseeceese ene seeseseesasesessn ens seesesersasssessesessatesesessessasecesees 7, 30
+ALCH CLOWN sirctecte cee eee eee cee cence aeecaa cee cee cee cae cea caa saa sea saa caa cae cea sea cee ceases cesses ceccssseccessssseseee 7 OA
+arch crown settlement MeaSUreEMENt cercer cee cee cress tee cee eee cee eceseeesceeeesees cesses sesseesssssseseees QD
+- 4.40
+
+AUXiliary CAVE vseceeeseeee teste ce seeceseecee see ceeaeesne nesses aeesesusesetesseteasenssasesssssessisesseeee 453
+
+aseismatic design of tunnel -
+
+backfill grouting seecersseses cesses see ses eeecee tee aee cee eeeaenees cre seeeectetseeecreseitesseeatecseeeseers B35
+base slab of tunnel crrcssceeceeceeceeseeescesceeseeaseeeseesceesee assess eesceeseeasessesscesseeesecssessessseeses 7, 25
+bench CUt Method cvressersceeceectesseescesceeceeaeeesseesceeseecssssseessesseessssesssessssesessesssesssesss 5 20
+binder ceeceecseessesseesceeceecneeescesceesee nae ensensceeseecesess ees seeseesssaasesssesseeasesssesssesseessessesseeseee J]
+blind ditch -: - 9.12
+DIN Crain cecceeeseceeceeceseee cen cenasececceecnsceececeescseseesescesasesesecs cases sessesasssessescsesesesesssesees Q 12
+blockage ratio ssrsssssssesesecssseeessesesaeecsesesaeseeesesenees cesses esecsteeseescessisecsceateceeeseeees AAR
+block-diagram method(CD method) verse tesseseesee cesses cesses tess ses eee ceseaseciesesatetsseseesers 5B D4
+brushing of tunnel top cserrscesssesseseseecse tes aee eee eeeaenees cesses eeecateesaeecssssatessseesatetssessessers 10,3
+bunker train cescescseeseeeseesceeceectesse ens cesceeceeaes ess eessesses cesses eessessessssassssssestesesssssesssesssesss 13
+buffer structure of tunnel portal ssrceseseceseseceseseceeeeeceseee ces cesses teseeesssesesssesssseesseeeees AR
+
+center cross diagram method(CRD method) srsstssssssseeesesereee cesses senses cessseceseeeeseteeeseseees B25
+Center drift Excavation MEthOd cvvrcrrsrrcrecerccrecesceeeeeseecees cesses cee ceecsecsescesseeeseesseseessecees BIG
+38
+
+GB/T 16566—2018
+
+4. 43
+
+characteristic period of the seismic response spectrum -
+
+classification of Waterproof sees ceste crete cee tesceeeeeceseeeseeeteseecessascnsaeecneessseessserssseeees A 33
+closing the top of liming ss+rrrssseseseseeesecenese sen eee see cneseeene aes cneaee see aeesesateseteeesereeseeeees B39
+coal mining at the rock CroSsS-CUt crrrrrcee cee cee cet cee cee tee cee see ten seeeseeeseecseseesseseestesssessssseess 5 BG
+COllAPSE seeceseeeeee eee ceeceeees cesses cee eeeseesee cee ees cesses seeeseseeseestssseeeessesssssseeseresssssserertesessees BBO
+COMPACTION Grouting ssrrersereereeteteeee eee ete cesses ste ceeceesetseseeseesetseeserseesesettesteeteeeeseseeeereres 10.14
+completely grouted bolt crrrssseceseessteeeecetesssteseecesct see cesees ees aeesesetstisatecesessesaeseeserstesese 7,8
+7.29
+4. 36
+
+composite lining
+
+composite waterproof board -
+
+CONItION ASSESSMENT crreeeree eee eeecee cesses eestee eee ceecesceeseecesseessteeessseessetessseessseeessesesseeee 10, 15
+Consolidation grouting --++++s++seses cesses serteteeeeee cee cee cesses ses ae estes csecesstssesaesaereseescsseseees 10,12
+CONStFUCTION jOiMt vereeeeseseeeseee eee tee eee tae ees tae ce tee steers seeeteaeecttaeectsasecnatesttteessteeseeees BAG
+CONVErgence MeaSUrEMENt vsrrrereresces ses eteeee eee cse eee cee eee ses eee tee ese tne eee seeaesnetteeeeeesecteeeeers BB
+COVEr APCh cerereteeeeeseecseseeseeeeeceeeeseeeseeseecue cesses esesesensseecesseessscesssscsstseessserssssessseessseeess 10,4
+Covering depth vsseeresseessecesseseeecsesereeeces ses seecsecesseeesesesseessesessereescssseseeecssseseesescssaseess A 1D
+4.18
+CUT ANd COVEr MEthOd cerssseeeesseeeseeeseceeeesceeeesceeass cesses esesseeesseeessseesseeesseessssseesseeeesseeesee BOD
+CUt Hole ceeceeeesteeesceeens cesses eeeceeeeseeeaasseease cesses eesseenssceeass cesses essssecssteecsseesssssessseesseseees BY]
+
+excavation line section :-
+
+cutting-down of tunnel bed vrrresesecseeeesereeeceeceteteaeeceestetteaeecesceeeeceseesseetssseterscsteecesees 10,2
+
+deep tunmel cereesereceseseceeese cee eee cesses cesses cesses ces cesses esses cnssescseeesceseescseeessssessseseeessseees 2.14
+deformation joint s+rerescereseceesseceeeseceeesecencse cence ses cnesescnesescneaes cesses csseeesstseessreecsrereees A 34
++ 3.7
+delay blasting --++++- 5. 16
+depth of tunmel csrreseseceseseceseee ces cesses cesses cece cee eeecneeeesneeeesseeeesseseecesssseessseessseessssers AY]
+
+deformation pressure
+
+disaster prevention facility of tunmel cvcrsssreeeceeseeese cesses tee cee sereee cs eeseeecrseeseerersesssseess AAG
+double-track tunnel csereeceeserececeeceneseacecenceeseaeecesceeanecescescesaseseseeseesasecescsssseasecescssttsere DQ
+double way gradient tunel <++s+seescesceseersersee eee cee cee cne cesses se ses see ceecsecseeesserseesersescsscssees 2.16
+rain boring ssscestescessesseeeee cesses cee cee eee ses se sesceecaeseeeee cesses sesssesescaecrsessssietsesescscscssees BL 34
+UriIL JUDO vos ees ee cee cee se ese senses cnecon ses sce senses see cesses ses cesses ses cnscnn ses casscsesasecnsesesscsssessesers G7
+drilling and blasting method ++esesessesesseeeeeeeeceecee ces eeeeeeaesseeseeceecnecsseseessesserseesecreessens 5B
+5.41
+
+dynamic action vessrsesesecesesesesese ce cee ceesee cesses cesses ses essesenesescssasscessescsseessssseesssessssseees A 37
+
+dry shotcreting
+
+earth pressure balanced shield -sssssessssseseseees eee ses eee ses eee sn nesses neeseeteenetsseessseeeseneesane 63
+
+GB/T 16566—2018
+
++ 4,42
+Carth tunnel csceecsceeceecesceeessceesesececeeeeeceeeesteeeesceeses cesses eesseeesstesessseesseeessseeesteesseseses 2.18
+
+earthquake peak ground acceleration --
+
+CASCL wee tee eee cee cee eee cee cee eee nee cae cee een sae eee eee eeeeee eee aeeaee see ese sas eeseeeaes sss seessssssseseessssssessessees 51D
+effects Of ACTIONS verter ere cseteeteeeecee tee eee css eeeceeenscseeeeesesseesecessssssesessssssteetessetsreeesssees AG]
+Elastic reDOUNd resistanCe crrttrsessee eee eeeeeecee cesses ase eee eee cesses cesses ses eeeesssssseseessssssseesesses 3.7]
+engineering exploration sererrerereceeeeeseeceeaeecee nesses ateceeaeeceeaeecesssecesceeeteeseestesessesesseseees AT
+environmental SUrVey strtetetsceetee tet ese cee ce treats cesses eee neeeesseseaseeesesseeseaeeeeeesetsensesseseetsens AB
+
+excavation surface --
+
+extra-long tunnel
+
+FaUlt ZOMG veecee eee eeeceecee eee teecee cesses cee eee eee sseceeeeeensseeeeeesssee cee eeeasssseeeessssssseeeessseseeeeetseees 553
+Fiber SHOtCrete crrceeceeter eee ssceeceeeeceaeeeeresee eee ceeessseeeeceessseeeseessssssesessssseteetessetereresseess 5 AB
+FlOOL HEAVE verses tee eee cee tee eee neeseeceeeee ceases cesses see seen sss eeeeeesss eee seeessseseseessssseeeeesseteresesseee 5 5D
+FOrMWOrk JUMDO verses eee ese ceeees tse eee cesses eee neeces cesses seeses cesses ceeses eee sesesssssssasecesssereeeseesees 6. 15
+Fracture Grouting crressreceseseceeete senescence sence eeeeneaeseseaeecneaescnsasecsaseceesecestesseseseesers 10, 13
+- 10.8
+Freezing Method serescesssecesseeceeete senescence seeene cesses assess assess aeecssaeecseeecesesesestsecessseesereees 5G
+
+freezing damage in tunnel -
+
+full-closed grouting sssstsessessrsseseseeesessee senses censsecenssecenesesescaesescesescsssessesaesessaeeeeeeeees 5, 33
+FUIL Face MEtThOd eecsstereceeeceeceeeee cee eeeeeeseeeeeceeenesseeeeeeesss see eeessssssesesssssssseeessseteeesessees BQ
+full-length adhesive type rock bolt ssssssssssseseeeseseesee assess aeesns eee cnteeseseeesessseeesssseesessees 7.
+
+geophysical exploration
+
+geophysical prospecting --
+
+ground inclination measurement —verserescesesesseses see cse ces aeecaeeeeaeeeesees se esecttesteeretseseeecseees BB
+ground penetrating radar method vvrsssessseeeeeeeseeeseseeeeeceeee cesses cesssesessseceserseesereeeseseees B10
+ground-tunnel STFUCTULE INTEFACTION cerrrrrereee cer cee cte cesses cee ceecerereecescsereesesctesseeseecrsceeess A 39
+Grouting machine vs-resescesessseseseseeceeseeceeaeeceeaeesneaeesneaeesesaeecesssesesssecesssesessssesseecesessees 6. 10
+
+Qushing Water csrrrcerssecescerseecse cesses cee ees ses eee seeseneeecs ses eeecsesessteciseesseessesesatecsseesasseseess 10,9
+
+half wet shotcreting -cressseesecse cress see serseeteecencaeceses cesses eesseetereaesssesesseseserercrceees 5B 43
+hangar tunnel vsseesses cesses seeeeeceecee cesses cesses eee secenceecessescnsaes ses sessercsessseescssessessessescseees ADT
+heading serssssssssecssses cesses seeesscencaeceeses cesses eee sessenceecesseeceseee sess rercssssssescsseeeesesescesceees 557
+heading slope ssscrssescessesseeeeeeeecaecse see cee assess essen caeceesessnsaes sees rercisssssesensesesererserceees 3. 13
+
+Hole through ssrsssssssssssseseseseeseeece cesses cesses eee ceesesaescassesaecsssessssseesssasserscssessesecstesseeeess 53]
+40
+
+GB/T 16566—2018
+
+holing through 5. 31
+Horizontal adit ccecceeescesseeceeceecee eee cesceecee cues cesseesee see eeeesseessesssesssessessssssseseesssessseeseees 5B, 5Q
+
+horseshoe-shaped tunnel seseessscesseecesee ses eee cee eee see eeesne nesses nesses nescesssseesssscesssseescssesessane 2.7
+
+hydrological Survey strsseersceseseeseseeeeeeee ces eeeeee see eee ees cs cesses ces seeeecsssesssesseeststseseeeees AG
+
+length Of round ssrreseseseseseeeseseceeese cence cenese senses sence sescnsaeseasaesenseescssesecessecestsscesssscesses B17
+lining form jumbo «++esseseeseses cesses eee eeeeee cee cae se ces cesses eee sescencaess ses eneaesesteerereressseserseesees 615
+» 5.5
+inclined portal 4,25
+INnClined Shaft <srceeseeceeceeeeecesceeceeseeeeeceseesceesee cee eesceeseeasessesssesseessssssesssesssessseseessesseee 5B]
+
+initial ground-stress field sesssrereeceeesceeese sence eeeceeateceeateceeaeecssseecsseesetseesersessesseseesess 3.10
+
+immersed tunnelling method
+
+inside Cross SECTION OF tUNNEl cerree reece tee ete eee eee eee eee eee cee eee ces tee see seeceesssecsescesseesssssessesses AQ
+
+integration coefficient of rock Mass cesses cesses tee tees tee ees eee tee teense eeetesaeeteeetsaseteesseeeees 3.3
+
+Key packing ssrersseesseessseseseeseecsesee see sseceesenesecee ses eeeseeses esses seeescstesatecseseescseessaeeess BL 39
+
+lining grouting se+sesssessessecesses ces eeeeeese cee ceecse ces cneeee eee ses cenceecessescnsaseaesesrerssscssesesserees 5. 37
+lining surface digital image system -v+rresecssces ees seeeeeee tee cee cesses ene aeeeesseerereseereeseneensees B13
+local bolt ssstesseeceecse css cescesceeseeceeeescesseeceesseenscesseeseeaee css eesseeseeaeenseenssesseessesseesseesseeseeeee 75
+long hole blasting -s+s+sssesssessesseeseesee cee ceecne cesses eeeaee se seecseces css erseseaseressercsecssessesseesees 5.10
+9.7
+- 9.8
+
+Trevato Wa 01a ls1-] RRR EER EERE OOEECESESSSESOOSEEOOESOESOOCOEOOSOOOOROOOSOOOSCOOOSOSOOOOOSOOOSSOOOSOOSESOSOSOOSOROOOSOOSORY 2
+
+longitudinal ventilation
+
+longitudinal ventilation with jetblower
+
+IOOSENING PreSSULE seers teseeeeseeeeeeeeee cee ees eee cee ces ee ene cee eee taeeesatecastesnesseessraseteetssasetsessseerers 3. G
+
+mechanical pre-cutting Method vvrrersseerscesseesseceeseeese cesses eeeeee senses cessssesecsteeseeecrsesaserss BL D7
+-2.4
+
+MICTO PrESSUTE WAVE sieresesesesese cee tee eee tee ce tes ce eeeceseeseeensaeestsessceseescnsaeessssesssessssesens AAT
+
+medium length tunnel
+
+41
+
+GB/T 16566—2018
+
+mucking out
+mud shield
+
+MUulti-arch tunnel serceecseeeeceeeescee eee eee cee eeeceeeesseeens cesses cesses eesseeesssesessseesseeessseeestesesseeeess 27]
+
+Natural arch cercereeecsecerececssceeceeeescueeeeeeesse eee ceeensseeeeeceeseeeseeeeasssesesesssseeseseessseteresesssees 3. 12
+9.2
++ 2.12
+
+New austrian tunnelling method ssrssssscesceseeeese cesses cee ene aseesecee assess ceeseeseecessessescssesseeeess 57
+
+natural ventilation
+
+neighboring tunnels ---
+
+non-destructive investigation OF LUNE cee ceecee cee cer eee cee see tee cenceeeee cee cererereressessseceseeeesesees BQ
+
+- 6.14
+OVErbreak ceecesceeececeeessceeeeeessceeeeeesecee cee eeeasseeeeeessssesceeeesaseeeeeeetsssesseessssssceetesessseseseess BOQ
+OVErbUrden OF TUNNE] «esesteeeeeceeceecee cee cee cee cne cae sae ene saa saa caa ceases ceases cesses ses sessessscsessescescee A YD
+
+operation frame
+
+parallel heading —ssrerstessesereeeeeereee crest eee sects eee cece eee ciesesaeecseesaeecreseraseesessaesceeeseerere 5B GO
+Partial COEFFICIENT vvreeceeeesese see cee cee ese see ces cne ese seeses eee esesesses te ssecersrtssssesescsssseseseecseees A GD
++ 4.15
++95
+Pipe rOOF SUPPOFt sees ceeeseceeeseceeese cee eee cee cesses cease cesassceeae cee seesseneesseesessessssssseessseesees 713
+
+pay line
+
+permanent ventilation of tunnel
+
+PISTON ACTION OF tral csrereceeeeseeeteecescesese sesso ces ese aeecee ces sssaeese ete eseseecesceeaeesersrstsaseserces OQ
+poling plate srcesssseseteseeeseceeseseseces ses esecesesseeceeseseeecassesaeecesessaescsssesasecsseesaessesessaeses 712
+prearranged deformation vsrrrrsrsreesssesesecse ses eeecne cesses cseses see ceeersaeecsesssasecsseesasesesesssesere ADD
+precast lining; prefabricated tunnel lining -srsseessersessssestecee ses eeecsesesaecseeesaeesesesssenees 7,27
+prefabricated tunnel liming sersrerscessereseces cesses ene ces see cae ses aes ceseesaeecresesaeceseesaescssesssesere 7,27
+pre -grouting with micropipe vsrsrstrsseseseseeseeeeecee ses eeecseses ate caseesneecsesesatetaseesaeetssessaesers TZ 14
++ 5.32
+presplit blasting sssetessssssesesseeesecesseneseceeseseeece cesses ciesesatecesessaeecsesesaeetsseesaeeteseseeesers BL 15
+
+pre -grouting sssresseee teeters
+
+pressure of SUrroUNding rock se sereseesecsesee tee cee eee ee ee cee ceecne ces cne aes neeseetenciecsesseresseseeeees 35
+Primary SUPPOrt sereseeeeeetee eee seseee cesses eee cae ees aeeceectsneecassesaescasereaeetassesasetesstsaesteeeraesers 7.16
+
+probability of structural failure ss+ce+sssceseee cee cee cee cee ase cee eee ceeeeesreeeestetessnetssssssessseeesees 4 60
+42
+
+pull-out test of rock bolt
+
+rail haulage
+
+railway tunnel
+
+refuge recess
+
+reliability index
+
+reinforced concrete segment
+
+rescue gallery
+
+ride comfort
+
+ting cut method
+
+road Haulage crrrsrcrsseeseeceseeseeeaceceeseseteaeecescn ene ceeeee ene aeeseeeeseneaeecesce eee aee ce ene ne nance eneeee
+
+rock bolt
+
+rock bolt support
+rock burst
+rock cross-cut
+
+rock drill
+
+rock-self stability time
+rock tunnel
+R.Q.D
+
+safety Classes certreceeseeeeeces ce eee cesses nee cae ces aeecae ces aee cae cesaeecaesneaee eee ces aes eeseeaes eee caeeeaate cas
+Safety SPACE crsereereeseeeseceeseseee cee se eee ce ees eee cesses ae cesses eee tae see aee esses aes eeseeaes eee ees eee eee gs
+
+SCAIPING corse see see eee cee cse cee eee eee ses see ceecne ces ceeeesaes ses ses cesses ces ceeeee aes sen ses cesses see ceeeeeaes eee ses ees
+
+secondary lining
+
+seismic ground motion parameter
+
+sequential excavation Method vsrersseeseessess eee eee ese eee eee ceeseeceeceeceesesces ces ces ceeeee cee ene eee eee ees
+
+service-ability limit states
+
+SOFVICE Gallery cerssecsecesseesseees se eseseeseeeeecee cease cesses ane ceeees nee eaecesaee ese sesaessaeceeaenene ceeaeeens
+
+setting horizontal point at portal -
+shaft
+
+shield
+
+Shield Method crrceesesceecee eee cesses cee sen ences eee senses eee eee eee eee eee EEE Eee EEE EEE Eee EEE GEE Eee EEE DHE EEE EEE EE EEE
+
+shield with air pressure
+
+GB/T 16566—2018
+
+8.5
+
++ 5.48
+
+2.1
+44
+29
+59
+12
+28
+51
+22
+44
+23
+49
+7.2
+-7.9
+5.51
+* 5.55
+
+- 6.8
+3.2
+
++ 3.8
++ 2.19
+
++ 3.2
+
+soo peseen op Pm
+
+56
+50
+18
+18
+rs
+21
+58
+58
+44
+- 5.62
+2.13
+- 6.1
+5.3
+- 6.4
+43
+
+OP esen op Pp
+
+GB/T 16566—2018
+
+short hole blasting
+
+short length tunnel ssrersseserscesereceeeeeseeee see cne eee ces ate ceeaeeces assess essere sesereesetstseesseseeesereees 2.5
+SHOLCETS veecee eee tee cee eee eee neecee cesses cae eee eee eeeeeseeussaseeeeessses ses eeeasssssseesssssssssessssssseeesssses 5B AQ
+shotcrete and rock bolt SUPPOrt «srreeeeseee see cee settee atest cee neeceece ene eeecessssssesecesssesseeseesees 7.10
+SHOtCrEte MACHINE «secre see eee cee tee eee eee cee cee eee cea eee eee cesses cess ses eee eseses see eescse ses eeenssssssesesssseees 6.9
+SHUttIe Car cercer tee cesses tee eee sssceeceeeecaeeeeeee cesses ceeesssseeeceeseseeeeeeasssssesessssseseetesssstereseseses 6. 12
+Side rift Method sess see eee esecee cee eee cae cee eee neesee cee escee eee eeesas ees eeeaes ses seessssssssseesssssesesesssess BOD
+Side heading Method vsrssssssseseseesecssseeeseceeseessecse senses cesses eeecsseseescsscsssescseessaeessseseseeses BL DD
+- 6.6
++ 2.8
+SKEW POrtal cerececesceeceseee cesses eee eee ceeceeee eee cee ce sss sesso cesses cesses ene sessassssstsesssesssesesesseeeees A OB
+
+single cantilever tunnelling machine
+
+single-track tunnel
+
+Sliding SUPPOrt ssr++eeresese eects eee ses eee tes eee ceseeeces eee ceseaeseeasseecatses casas casas cssaeecesaeecesaneees ZY
+SMOOth blasting ssrcrrseeeresesereeetes eee ces sete ese cesses ceeeseseseae se catseecrtaeectsaeecssaescesaeesseeees BL 1G
+Special rock and Soil «+++e+cesese cesses cee ese see ses eee eee cence eee eeecessssessssesesssessssseeeeetetssssssterseeeee AB
+SPringing lime ss+sreeesseseeeseeceneeseecesseececes assesses seessecssseeeseseeseessesssseseescesseseecssesseesess AD]
+Static ACTION crrcceeeeceecee cee teeceeeeeeescee cee eeessceeeeesscseeeeesssseceseeessssseseetsssessessessssesessetseees A 3Q
++ 7.19
+
+structure gauge Of tunnel cvrrsssersserseeese tes seetsecee senses cesses eeecsseseeecsesssasecseetsaeesssessserere A 13
+
+steel arch
+
+Structure durability scrcesseeseseeseesceseeseetereneeteese ne aee cesses ase ssessessesessessessessessssessessessens A G3
+structure reliability ccsccsceeseeceeces testes ees cece eee ee eee eee see aseaeeeeeseeseseesseseeseeseeseeseesessessens ABA
+surface SettleMENt MEASUFEMENt cerreerersrecee see eee cence cee cceeesseeasseesssseesceeesceesssssssssesesseeses BoA
+SUIFACE SUIVEY cerereceeesecee ese eee cents ene eeecne nesses eee ceseeeseseseseeseceneseseseseseectsesctsaeecssaescssees ALY
+surrounding rock enforcement —ssrresrersseesssesseecsesesatecaeeesseecaesesaeeeetesseeeeeerseeenecsesseserss 3.9
+
+surrounding rock displacement MeasUreEMeENt vrrerrrre eee eee eee tee tte tte ete tee ete ete teat te eteeeeeeeeeeeee BOG
+
+surrounding rock grouting before lining -
+survey inside the tunnel crrrrrssrser eee ees
+survey outside the tunnel vsrrrsrescsrsreceeseseseaseceeces eae aeecescneseseesesesssseseeseseseseeesessssseseees AL
+
+SYStEMaAtic bolt ceeeecesereceseeeceeeee see eee secs senses cesses eee ceeaeeceeaeecseeesceseecesseseessescesssceseesees 7A
+
+TBM method cvrcerseeseeeseeescesceeseeaseeseessesceeans seen sesteeatesssesseessessescssesssessessssssssssesssesess 5A
+techno -engineering operational space <s+rrrrersssersserseecsesesetecee ees aeecsesesaeetseetsaeetesessaesers 45D
+
+temporary ventilation
+
+theoretic line <s+cesceseeseeseessseessese eee eee ase aeeaseseeseeceeeesseesessessessesseseeseesssssssssssssesesteeeses ATG
+through survey -s+rsresecssses cesses see eescencee cesses ene aee nesses ceecseceesnsenseesaeesestersiscrssseressesseeeees A 3
+tip anchoring type rock bolt ssrssssssssecsesessee cesses eee seceeceeces see cnsass ne sesceecsscsssssersaesessessees 77
+top Cleaning sessseseeseceeses cee ees senses eeesee cesses ere eee ses eessesces cases snsessseresetersercssssseressecsesees 518
+
+TOP PICKING —vreeereeeesetes eee eeecee cece cece eseceseseeecee ces eeessesesatecsseesaeecsssesssecsseesaeetseessesees 10,3
+44
+
+trackless haulage ---
+
+transient pressure
+
+trimmer
+
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+tunne
+
+tunne
+
+arch
+
+boring machine ssrressseseseseseseseseseseceeeseceneee sen eee se eee se eee cee eae ce cae aee cae aee cee nee cee nance
+* 5.4
+
+-boring machine method
+
+clearance testing
+
+clearance
+
+deterioration
+
+ISCAS] cer eeeeeecee cee eee nee cee eee eee eee eee eee nea Eee eee EEE EEE EEE EEE EEE EOE EEE EEE EEE EEE HE EEE ECE REE EGE EEE EEE EEE
+Araimage vvrsresersseceseeces eee see eee ces eee ces eee ces ese ses ene ses ene ses cae aes cae aee ce anecee ane cee ane cee ene ees
+- 10.11
++ 4.10
+
+fire hazard
+
+length
+
+ling method --
+
++ 2.21
+
+in unfavourable geological conditions
+
+lal’d:) @ Meee ee eee
+
+monitoring measurement
+
+ote) a ¢-] MEER SR SEETSESEROSESERTOSIOROIESERTOSIORSIETIOSOSOOESIETESOSOSESSOTISOSOLOSSOTONSOSOTETESTONSOOOTINSS
+
+profile s+
+reconstruction
+
+shed
+
+surrounding rock
+
+surrounding rock classification
+
+SUIVEY crrtersescee cesses cee ceseecssscssces ses cesees cesses cesses cescesceeceeaeeneeaseaseascsesesaeese ene aenens
+
+under cutting
+
+under-cutting method
+
+underwater tunnel
+
+GB/T 16566—2018
+
+5. 49
+
+- 4.46
+
+4. 28
+5. 13
+
++ 5.13
++ 7.21
+
+6.5
+
+8. 12
+4.20
+4.17
+
++ 10.5
+
+10.5
+9.11
+
+9. 10
+
+* 5.1
+
+7.20
+2. 18
+4.20
+
+7.23
+
+- 8.1
+
+4.24
+4.16
+10.1
+
++ 4.27
+
+7.22
+
+3.1
++ 3.4
+
+4.2
+9.1
+
+4.57
+
++ 10.2
+
+5. 30
+
+5.1
++ 2.22
+
+GB/T 16566—2018
+
+unsymmetrically loaded tunmel sessssceseseseseseceseseceseeeseeeee cece see se aeecesanesssaeesssenesseeseees 220)
+
+Vertical shaft csssecssssecesseecesseeceseeeceseeeceeseceseaeceseseseseaeses cases cassescssasecsssescsssescesseeses 5 6D
+Ventilation during Construction :+:s:ssteeseeessesteeses eee eee cesses secee cee ceeteeterteteeteteseeseees OA
+
+Ventilation Equipment vsereseecesees cee tte cee ces eee ces cesses eee see eee see nesses eessnesesseeteseretsensssenseesens OG
+
+water leakage in tunnel sree cesesecee cesses cesses eee cesses see ses cesses eee ceeessescessssasscsseeeeecsseeeseees 10,7
+Waterproof board sessrsesseseseesesesesee cence ee seesescesssseeseceesssseeses ess sesessssssssasscsscssreeeseesees A 35
+water proofing by Section svrrrssssssessseesetesseesee eee aenees cess etecteesseecesesaeesssesasesssessassere 5B. 38
+waterproofing of tunnel ss+seceseseceecesee cee ces eee cee see aeeees cess eee ceeesaescesessasscssessaeecseseseses A 3D
+Wet Shotcreting ssrssrerssecessereeececee see ese see neecseceeseneescesseseeecsseseescsscesasecsecesatecssessserere BAD
+
+wiremech-shotcrete-lattice EN) o) o\e) g occ coo 7.11
+
+Yielding SUPPOrt ss+rereseeesceseeecse ces eee cee tes se ese cesses eeecs ses eeecsesesatecsssesseesassesaeecsseeseeseseees ZY
+
+46
+
+
+

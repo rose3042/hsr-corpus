@@ -1,0 +1,51 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/420 
+of 16 March 2020 
+correcting the German language version of Regulation (EU) 2016/919 on the technical specification 
+for interoperability relating to the ‘control-command and signalling’ subsystems of the rail system in 
+the European Union 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the 
+interoperability of the rail system within the European Union (1), and in particular Article 5(11) thereof, 
+Whereas: 
+(1) 
+The German language version of Commission Regulation (EU) 2016/919 (2) contains an error in paragraph 2 of 
+section 7.4.2.3 of the Annex as regards the conditions for the application of a transition phase. 
+(2) 
+The German language version of Regulation (EU) 2016/919 should therefore be corrected accordingly. The other 
+language versions are not affected. 
+(3) 
+Due to the error in paragraph 2 of section 7.4.2.3 of the Annex, economic operators undergo unnecessary restrictive 
+requirements on the placing on the market of railway vehicles. From 16 June 2019 to 31 December 2020, it should 
+be possible, under specific conditions, to issue authorisations for the placing on the market of vehicles in conformity 
+to set of specifications #1 referred to in Table A 2 of Annex A to the Annex to Regulation (EU) 2016/919. The 
+conditions to be met should be that the vehicles are authorised in conformity to a vehicle type that was authorised 
+before 1 January 2019 in conformity to set of specifications #1 referred to in Table A 2 of Annex A to the Annex to 
+Regulation (EU) 2016/919. Therefore, the German language version should be corrected with retroactivity. 
+(4) 
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established in 
+accordance with Article 51(1) of Directive (EU) 2016/797, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+(does not concern the English language) 
+(1) OJ L 138, 26.5.2016, p. 44. 
+(2) Commission Regulation (EU) 2016/919 of 27 May 2016 on the technical specification for interoperability relating to the ‘control- 
+command and signalling’ subsystems of the rail system in the European Union (OJ L 158, 15.6.2016, p. 1). 
+EN
+Official Journal of the European Union 
+20.3.2020                                                                                                                                            
+L 84/5   
+
+Article 2 
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union. 
+It shall apply with effect from 16 June 2019. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 March 2020.  
+For the Commission 
+The President 
+Ursula VON DER LEYEN     
+EN
+Official Journal of the European Union 
+L 84/6                                                                                                                                            
+20.3.2020

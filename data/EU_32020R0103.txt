@@ -1,0 +1,160 @@
+24.1.2020
+EN
+Official Journal of the European Union
+L 19/1
+(Non-legislative acts)
+REGULATIONS
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/103
+of 17 January 2020
+amending Implementing Regulation (EU) No 844/2012 as regards the harmonised classification of
+active substances
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009
+91/414/EEC ("), and in particular Article 19 and Article 78(2) thereof,
+Whereas:
+(1)
+Commission Implementing Regulation (EU) No 844/2012 () sets out the provisions necessary for the
+implementation of the renewal procedure for active substances under Regulation (EC) No 1107/2009.
+(2)
+Council (3), active substances within the meaning of Regulation (EC) No 1107/2009 are normally to be subject to
+harmonised classification and labelling. It is therefore appropriate to set detaied rules of procedure regarding the
+submission of proposals to the European Chemicals Agency (the Agency) in accordance with Articie 37(i) of
+substances pursuant to Article 14 of Regulation (EC) No 1107/2009.
+(3)
+Additional time in the framework of the procedure for renewal should be made available to the rapporteur Member
+State for preparing the draft renewal assessment report and the dossier submitted to the Agency, and to the
+European Food Safety Authority ('the Authority') for preparing its conclusion. The period available to the applicants
+between the submission of the application for renewal and the submission of the supplementary dossiers should
+therefore be reduced by three months and that period of three months should be reallocated to the periods available
+to the rapporteur Member State and the Authority.
+(4)
+It is appropriate that, in general, the rapporteur Member State submits a dossier in accordance with Article 37(1) of
+Regulation (EC) No 1272/2008 for at least those hazard classes that are relevant to identify whether an active
+substance can be considered as a low-risk active substance according to Article 22 of Regulation (EC)
+No 1107/2009 in conjunction with point 5.1.1 of Annex I to that Regulation, which also include the hazard
+classes relevant for the cut-off criteria set in points 3.6.2 to 3.6.4 and 3.7 of Annex II to Regulation (EC)
+No 1107/2009. The rapporteur Member State should duly justify why no harmonised classification and labelling is
+warranted for hazard classes for which it considers that the criteria for harmonised classification and labelling set by
+Regulation (EC) No 1272/2008 are not fulfilled.
+(1) OJ L309, 24.11.2009,p.1.
+(2) Commission Implementing Regulation (EU) No 844/2012 of 18 September 2012 setting out the provisions necessary for the
+implementation of the renewal procedure for active substances, as provided for in Regulation (EC) No 1107/2009 of the European
+Parliament and the Council concerning the placing of plant protection products on the market (OJ L 252, 19.9.2012, p. 26).
+Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and
+packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation
+(EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).
+
+L 19/2
+EN
+Official Journal of the European Union
+24.1.2020
+(5)
+However, where a proposal has already been submitted to the Agency and its assessment is ongoing, the rapporteur
+Member State should limit the proposal to any of those hazard classes that are not covered by the pending proposal,
+unless it considers that new information is available that was not part of the pending dossier.
+(6)
+Moreover, for those of the hazard classes listed in point 5.1.1 of Annex II to Regulation (EC) No 1107/2009, which
+are already covered by an existing opinion of the Committee for Risk Assessment of the Agency, it is sufficient that
+the rapporteur Member State duly justifies that the existing opinion of the Committee for Risk Assessment remains
+valid. The Agency may provide its views regarding the rapporteur Member State's submission.
+(7)
+Indicative timelines should be defined to ensure that the opinion of the Committee for Risk Assessment of the
+Agency is available to the Authority prior to the adoption of its conclusion under Article 13 of Regulation (EU)
+No 844/2012.
+(8)
+A transitional period should be provided for so that applicants can take account of the reduced period for dossier
+preparation between the application for renewal and the submission of the supplementary dossiers. Procedures for
+which supplementary dossiers have already been submitted should not be affected.
+(9)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on
+Plants, Animals, Food and Feed.
+HAS ADOPTED THIS REGULATION:
+Article 1
+Regulation (EU) No 844/2012 is amended as follows:
+(1) in Article 6, paragraph 3 is replaced by the following:
+3.
+ The supplementary dossiers shall be submitted no later than 33 months before the expiry of the approval';
+(2) in Article 7(1), point (i) is replaced by the following:
+accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council (*);
+(*) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on
+classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC
+and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1.);
+(3) Article 11 is amended as follows:
+(a) in paragraph 1, ‘12 months' is replaced by'1 3 months’;
+(b) in paragraph 2, point (e) is replaced by the following:
+‘(e) a suggestion for the classification, or its confirmation, where applicable, or reclassification of the active
+substance in accordance with the criteria of Regulation (EC) No 1272/2008, as specified in and consistent
+with the dossier to be submitted pursuant to paragraph 9;';
+(c) in paragraph 5, second sentence, ‘12 months' is replaced by'13 months';
+(d) in paragraph 6, second sentence, ‘12 months' is replaced by'13 months';
+(e)  the following paragraph 9 is added:
+“9.
+The rapporteur Member State shall at the latest at the time of submission of the draft renewal assessment
+Regulation (EC) No 1272/2008 and in accordance with the Agency's requirements to obtain an opinion on a
+harmonised classification of the active substance at least for the following hazard classes:
+- explosives,
+ acute toxicity,
+- skin corrosion/irritation,
+- serious eye damage/eye irritation,
+
+24.1.2020
+EN
+Official Journal of the European Union
+L 19/3
+- respiratory or skin sensitisation,
+ germ cell mutagenicity,
+- carcinogenicity,
+- reproductive toxicity,
+- specific target organ toxicity - single exposure,
+- specific target organ toxicity - repeated exposure;
+- hazardous to the aquatic environment.
+The rapporteur Member State shall duly justify its view that the criteria for classification for one or more of these
+hazard classes are not fulfilled.
+Where a proposal for classification of an active substance has already been submitted to the Agency and its
+assessment is ongoing, the rapporteur Member State shall submit an additional proposal for classification, limited
+to any hazard classes listed above that are not covered by the pending proposal unless new information has
+become available that was not part of the pending dossier as regards the hazard classes listed above.
+For the hazard classes, which are already covered by an existing opinion of the Committee for Risk Assessment of
+the Agency set up pursuant to Article 76(1)(c) of Regulation (EC) No 1907/2006, whether or not this opinion has
+formed the basis of a decision concerning an entry for harmonised classification and labelling of a substance in
+Annex VI of Regulation (EC) No 1272/2008, it is sufficient that the rapporteur Member State duly justifies in its
+submission to the Agency that the existing opinion, or where it has already formed the basis of a decision
+concerning the inclusion in Annex VI, the existing classification remains valid as regards the hazard classes listed
+in the first subparagraph. The Agency may provide its views regarding the rapporteur Member State's submission.';
+(4) the following Article 11b is inserted after Article 1la:
+'Article 11b
+The Committee for Risk Assessment shall endeavour to adopt the opinion referred to in Article 37(4) of Regulation
+(EC) No 1272/2008 within 13 months from the submission referred to in Article 11(9):;
+(5) in Article 12, paragraph 1 is replaced by the following:
+‘1.The Authority shall examine whether the draft renewal assessment report received from the rapporteur Member
+State contains all the relevant information in the agreed format and circulate it to the applicant and to the other
+Member States at the latest three months after its receipt.'
+(6) in Article 13(1), the first sentence is replaced by the following:
+Within five months from the expiry of the period referred to in Article 12(3), or within two weeks from the adoption
+of the opinion of the Committee for Risk Assessment referred to in Article 37(4) of Regulation (EC) No 1272/2008, if
+any adopted, whichever occurs later, the Authority shall adopt a conclusion in the light of current scientific and
+technical knowledge using guidance documents applicable at the date of the submission of the supplementary dossiers
+and in the light of the opinion of the Committee for Risk Assessment on whether the active substance can be expected
+to meet the approval criteria provided for in Article 4 of Regulation (EC) No 1107/2009.;
+(7) in Article 14(1), the second subparagraph is replaced by the following:
+rapporteur Member State, the comments referred to in Article 12(3) of this Regulation and the conclusion of the
+Authority, where such a conclusion has been submitted, and the opinion of the Committee for Risk Assessment, if
+any, referred to in Article 37(4) of Regulation (EC) No 1272/2008.
+
+L 19/4
+EN
+Official Journal of the European Union
+24.1.2020
+Article 2
+European Union.
+It shall apply to renewal procedures of those active substances for which the approval period expires on or after
+13 May 2023.
+It shall, however, not apply to renewal procedures of such active substances for which supplementary dossiers have already
+been submitted before the date of adoption of this Regulation.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 17 January 2020.
+For the Commission
+The President
+Ursula VON DER LEYEN

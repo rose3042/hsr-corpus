@@ -1,0 +1,251 @@
+II
+(Non-legislative acts)
+REGULATIONS
+COMMISSION DELEGATED REGULATION (EU) 2023/56 
+of 19 July 2022
+amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards 
+specific technical measures for red seabream (Pagellus bogaraveo) in ICES subareas 6 to 8 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the 
+conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending 
+Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) No 2016/1139, 
+(EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing 
+Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) 
+No 2187/2005 (1), and in particular Article 2(2) and Article 15(2) thereof,
+Whereas:
+(1)
+Regulation (EU) 2019/1241 (the ‘Technical Measures Regulation’) on the conservation measures of fisheries 
+resources and the protection of marine ecosystems through technical measures entered into force on 14 August 
+2019. Annex VI and VII of that Regulation lay down specific regional technical measures for the North Western 
+Waters and the South Western Waters of Union waters.
+(2)
+Belgium, Spain, France, Ireland and the Netherlands (the ‘North Western Waters Member States’) have a direct 
+fisheries management interest in the North Western Waters; Belgium, Spain, France, the Netherlands and Portugal 
+(the ‘South Western Waters Member States’) have a direct fisheries management interest in the South Western 
+Waters. On 5 March 2021, the two regional groups submitted two joint recommendations proposing measures to 
+improve the conservation status of red seabream (Pagellus bogaraveo) that the International Council for the 
+Exploration of the Sea (ICES) assessed with a zero-catch advice in ICES subareas 6 to 8 for the period 
+2021-2022 (2). In March 2022, Member States submitted updated versions of these joint recommendations 
+suggesting an extension of the proposed end date of certain measures.
+(3)
+The North Western Waters Advisory Council and the South Western Waters Advisory Council were consulted on 
+these joint recommendations in March 2021 and in February 2021, respectively.
+(1) OJ L 198, 25.7.2019, p. 105.
+(2) https://www.ices.dk/sites/pub/Publication%20Reports/Advice/2020/2020/sbr.27.6-8.pdf
+EN
+Official Journal of the European Union 
+6.1.2023 
+L 5/1  
+
+(4)
+The Scientific, Technical and Economic Committee for Fisheries (STECF) assessed the joint recommendations and the 
+evidence provided by the North Western Waters Member States and the South Western Waters Member States in the 
+Plenary of May 2021 (3). These joint recommendations propose to extend the type of the technical measures that 
+were previously taken by France and Spain at national level, and were assessed by the STECF in the Plenaries of 
+April 2019 (4) and June 2019 (5) to make them applicable in the NWW and SWW sea basins.
+(5)
+The Fisheries and Aquaculture Expert Group (EGFA) was consulted on the joint recommendations by written 
+procedure in May 2022.
+(6)
+The North Western Waters Member States’ joint recommendation proposes a spatio-temporal closure for vessels 
+flying the French flag to fish for red seabream in ICES subareas 6 and 7. The STECF (6) concluded that the 
+management measure has the potential to reduce catches of red seabream and that the spatio-temporal closure for 
+commercial fisheries coincides with the spawning period for this species. The proposed measure should therefore 
+be included in Regulation (EU) 2019/1241.
+(7)
+The South Western Waters Member States’ joint recommendation proposes a seasonal spatio-temporal closure for 
+commercial fisheries and a year-round closure for recreational fisheries in several areas. The joint recommendation 
+also includes an additional seasonal closure for vessels flying the French flag to fish for red seabream in ICES 
+subarea 8. The STECF (7) concluded that the closures for commercial fisheries are in the area where spawning is 
+likely to take place and that the closure for recreational fisheries appears to be in areas where juvenile red seabream 
+aggregate. The proposed measures should therefore be included in Regulation (EU) 2019/1241.
+(8)
+Both joint recommendations propose in addition setting minimum conservation reference sizes (MCRS) of 36 cm 
+and 40 cm for the catches of red seabream in commercial and recreational fisheries, respectively. In the North 
+Western Waters, this Regulation proposes amending Annex VI to increase the Minimum Conservation Reference 
+Sizes (MCRS) to 36 cm for commercial fisheries and to 40 cm for recreational fisheries. In the South Western 
+Waters, this Regulation proposes amending Annex VII to include the MCRS of 36 cm for commercial fisheries. The 
+MCRS of 40 cm for recreational fisheries is already a legal obligation in accordance with Commission Delegated 
+Regulation (EU) 2020/2013 (8).
+(9)
+The STECF (9) concluded that the joint recommendation contains positive elements that will improve the 
+management of the stocks, but due to lack of supporting data it is not possible to fully assess the impact of these 
+measures on the respective stocks. Member States will review these measures by 31 December 2023 in light of the 
+ongoing scientific studies and pending the new advice on red seabream to be released by ICES in 2023. Given that 
+both commercial and recreational fisheries contribute to the overall fishing mortality of a stock for which data is 
+scarce and with a zero-catch advice, the proposed MCRS should be included in Annexes VI and VII of Regulation 
+(EU) 2019/1241, except for recreational fisheries in Annex VII, which is already a legal obligation.
+(10)
+Overall, although the STECF (10) cannot assess whether the catches of red seabream will be reduced, these 
+management measures represent an improvement as compared to those presented in 2019 and have the potential 
+to reduce catches of red seabream as compared to the baseline measures provided in Regulation (EU) 2019/1241. 
+Therefore, Annexes VI and VII of Regulation (EU) 2019/1241 should be amended to include these measures.
+(3) https://stecf.jrc.ec.europa.eu/documents/43805/2874177/STECF+21-05+-+Eval+JRs+LO+and+TM+Reg.pdf
+(4) https://stecf.jrc.ec.europa.eu/documents/43805/2485362/STECF+PLEN+19-01.pdf
+(5) https://stecf.jrc.ec.europa.eu/documents/43805/2620849/STECF+PLEN+19-03.pdf
+(6) https://stecf.jrc.ec.europa.eu/documents/43805/2874177/STECF+21-05+-+Eval+JRs+LO+and+TM+Reg.pdf
+(7) https://stecf.jrc.ec.europa.eu/documents/43805/2874177/STECF+21-05+-+Eval+JRs+LO+and+TM+Reg.pdf
+(8) Commission Delegated Regulation (EU) 2020/2013 of 21 August 2020 amending Regulation (EU) 2019/1241 of the European 
+Parliament and of the Council as regards technical measures for certain demersal and pelagic fisheries in the North Sea and in the 
+South Western Waters (OJ L 415, 10.12.2020, p. 3).
+(9) https://stecf.jrc.ec.europa.eu/documents/43805/2874177/STECF+21-05+-+Eval+JRs+LO+and+TM+Reg.pdf
+(10) https://stecf.jrc.ec.europa.eu/documents/43805/2874177/STECF+21-05+-+Eval+JRs+LO+and+TM+Reg.pdf
+EN
+Official Journal of the European Union 
+L 5/2 
+6.1.2023  
+
+(11)
+As the measures provided for in this Regulation have a direct impact on the planning of the fishing season of Union 
+vessels and on related economic activities, this Regulation should enter into force on the day following that of its 
+publication.
+(12)
+The measures in this Regulation applicable to Union waters are in pursuit of the objectives set out in Article 494(1) 
+and (2) of the Trade and Cooperation Agreement between the European Union and the European Atomic Energy 
+Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (11), 
+and have regard to the principles referred to in Article 494(3) of that agreement. They are without prejudice to any 
+measures applicable in waters of the United Kingdom of Great Britain and Northern Ireland,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes VI and VII to Regulation (EU) 2019/1241 are amended in accordance with the Annex to this Regulation.
+Article 2
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+It shall apply until 31 December 2023.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 19 July 2022.
+For the Commission
+The President
+Ursula VON DER LEYEN
+(11) OJ L 149, 30.4.2021, p. 10.
+EN
+Official Journal of the European Union 
+6.1.2023 
+L 5/3  
+
+ANNEX 
+Annexes VI and VII to Regulation (EU) 2019/1241 are amended as follows:
+(1) In Annex VI, Part A is amended as follows:
+(a) The nineteenth entry of table is replaced as follows:
+‘Red seabream (Pagellus bogaraveo)
+36 cm (1) (2) (3)
+(1) This minimum conservation reference size shall apply until 31 December 2023.
+(2) In ICES sub-areas 6 and 7 a minimum conservation reference size of 40 cm shall apply for the catches of red sea-bream in 
+recreational fisheries.
+(3) In the absence of new rules adopted before 31 December 2023, as of 1 January 2024 the applicable MCRS shall be 33 cm.’
+(b) The text in point 1 below the table is replaced as follows:
+‘1. The minimum conservation reference sizes specified in this Part for cod (Gadus morhua), haddock 
+(Melanogrammus aeglefinus), saithe (Pollachius virens), pollack (Pollachius pollachius), hake (Merluccius merluccius), 
+megrim (Lepidorhombus spp.), sole (Solea spp.), plaice (Pleuronectes platessa), whiting (Merlangius merlangus), ling 
+(Molva molva), blue ling (Molva dypterygia), mackerel (Scomber spp.), herring (Clupea harengus), horse mackerel 
+(Trachurus spp.), anchovy (Engraulis encrasicolus), bass (Dicentrarchus labrax) and sardine (Sardina pilchardus) shall 
+apply to recreational fisheries in the North Western Waters, except for red seabream (Pagellus bogaraveo), for 
+which a minimum conservation reference size (MCRS) of 40 cm shall apply in ICES sub-areas 6 and 7 until 
+31 December 2023(1).
+(1)
+In the absence of new rules adopted before 31 December 2023, as of 1 January 2024 the applicable 
+MCRS for red seabream shall be 33 cm.’
+(2) In Annex VI, the following point is added to Part C:
+‘11. Closed areas for the conservation of red seabream in ICES sub-areas 6 and 7
+11.1. From 1 January to 30 June 2023, all fishing for red seabream in ICES sub-areas 6 and 7 shall be prohibited 
+to vessels flying the French flag.’
+(3) In Annex VII, Part A, the twentieth entry of the table is replaced as follows:
+‘Red sea-bream (Pagellus bogaraveo)
+36 cm (1) (2)
+(1) This minimum conservation reference size shall apply until 31 December 2023.
+(2) In the absence of new rules adopted before 31 December 2023, as of 1 January 2024 the applicable MCRS shall be 33 cm.’
+(4) In Annex VII, the following point is added to Part C:
+‘5. Closed areas for the conservation of red seabream in ICES sub-area 8
+5.1. From 1 February to 30 September each year, fishing with bottom set longlines (LLS) and bottom trawls (OTB) 
+in the western area of the Cantabrian Sea, opposite to Asturias and Galicia, shall be prohibited within the 
+geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall 
+be measured according to the WGS84 system:
+— 43°47'00'' N, 005°15'00'' W
+— 43°47'00'' N, 005°12'00'' W
+— 43°43'00'' N, 005°12'00'' W
+— 43°43'00'' N, 005°15'00'' W
+— 43°55'00'' N, 006°46'00'' W
+— 43°55'00'' N, 006°37'00'' W
+— 43°53'00'' N, 006°46'00'' W
+— 43°53'00'' N, 006°37'00'' W
+EN
+Official Journal of the European Union 
+L 5/4 
+6.1.2023  
+
+— 44°00'49'' N, 007°01'12'' W
+— 44°00'49'' N, 006°57'26'' W
+— 43°58'32'' N, 006°57'26'' W
+— 43°58'32'' N, 007°01'12'' W
+— 44°02'48'' N, 007°13'49'' W
+— 44°00'15'' N, 007°10'03'' W
+— 44°00'15'' N, 007°10'03'' W
+— 44°00'15'' N, 007°13'49'' W.
+— 44°10'00'' N, 008°18'00'' W
+— 44°10'00'' N, 008°14'00'' W
+— 44°07'00'' N, 008°14'00'' W
+— 44°07'00'' N, 008°18'00'' W
+— 43°34'00'' N, 004°44'00'' W
+— 43°34'00'' N, 004°39'00'' W
+— 43°32'00'' N, 004°39'00'' W
+— 43°32'00'' N, 004°44'00'' W
+— 44°07'00'' N, 007°50'00'' W
+— 44°07'00'' N, 007°45'00'' W
+— 44°05'00'' N, 007°45'00'' W
+— 44°05'00'' N, 007°50'00'' W
+5.2. From 1 January to 30 June each year, fishing for red seabream in ICES subarea 8 shall be prohibited to vessels 
+flying the French flag.
+5.3. For recreational fisheries, fishing for red seabream shall be prohibited within the geographical areas enclosed 
+by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the 
+WGS84 system:
+Area RF 1 (Cariño/Celeiro)
+— 43°46'23'' N, 007°52'04'' W
+— 43°48'30'' N, 007°52'04'' W
+— 43°49'26'' N, 007°41'17'' W
+— 43°45'44'' N, 007°33'21'' W
+— 43°43'49'' N, 007°33'21'' W
+Area RF 2 (Ribadeo)
+— 43°33'26'' N, 007°02'58'' W
+— 43°35'27'' N, 007°02'58'' W
+— 43°35'29'' N, 007°01'20'' W
+— 43°33'33'' N, 007°01'20'' W
+Area RF 3 (Navia):
+— 43°33'51'' N, 006°44'02'' W
+— 43°35'52'' N, 006°44'02'' W
+— 43°35'52'' N, 006°42'32'' W
+— 43°33'52'' N, 006°42'32'' W
+Area RF 4 (Ensenada Canero)
+— 43°33'10'' N, 006°28'55'' W
+— 43°34'53'' N, 006°30'17'' W
+EN
+Official Journal of the European Union 
+6.1.2023 
+L 5/5  
+
+— 43°36'14'' N, 006°28'13'' W
+— 43°34'18'' N, 006°28'13'' W
+Area RF 5 (Ensenada de Cabrera/Ría San Martín de la Arena)
+— 43°26'18'' N, 004°04'51'' W
+— 43°28'22'' N, 004°04'51'' W
+— 43°28'55'' N, 004°01'17'' W
+— 43°26'56'' N, 004°01'17'' W
+Area RF 6 (Ría de Treto)
+— 43°27'49'' N, 003°25'58'' W
+— 43°28'59'' N, 003°23'36'' W
+— 43°26'16'' N, 003°22'27'' W
+— 43°25'09'' N, 003°24'41'' W
+Area RF 7 (Bilbao/Plentzia)
+— 43°21'18'' N, 003°07'47'' W
+— 43°23'18'' N, 003°07'47'' W
+— 43°28'13'' N, 002°56'42'' W
+— 43°26'08'' N, 002°56'42'' W
+Area RF 8 (Bermeo/Mundaka)
+— 43°25'36'' N, 002°43'23'' W
+— 43°27'35'' N, 002°43'23'' W
+— 43°26'57'' N, 002°38'45'' W
+— 43°24'57'' N, 002°38'45'' W
+5.4. The measures listed in points 5.1 to 5.3 shall apply until 31 December 2023.’
+EN
+Official Journal of the European Union 
+L 5/6 
+6.1.2023

@@ -1,0 +1,1616 @@
+ICS 01.040. 45
+S 04
+
+National Standard of the People’s Republic of China
+
+GB/T 36505—2018
+
+Terms for railway permanent way
+
+$A BS Be BS ial iL
+
+(English Translation)
+
+Issue date: 2018-07-13 Implementation date: 2019-02-01
+
+Issued by State Administration for Market Regulation
+Standardization Administration of the People’s Republic of China
+
+
+Contents
+
+me) a2)'\).0) 00 MARR SE REE eee es
+
+1
+
+2
+3
+4
+5
+6
+7
+
+Scope
+
+GeNEral CErMs crrcrrcercceceecse cee cer eee ces cesses cesses eee ses cerns cee eee see eee see eee eee eee ses eee ees see ee ne nee eee wee
+
+Railway alignment s++essssseseseseseee see eee see eee eee nee eee nee ces nee ces nee ces eee ceeeesceecea cee cee eeeceseuecneene ees
+
+Track structure and component
+
+CONTINUOUS Welded rail (CWR) cercerrrsccrceeseeees cee ces cee cen cesses scene ees cee cesses renee ten caseen aes see ees
+
+Track inspection
+
+Track work
+
+Index
+
+GB/T 36505—2018
+
+14
+17
++ 20
++ 23
+
+
+GB/T 36505—2018
+
+Foreword
+
+National Railway Administration of the People’s Republic of China is in charge of this English transla-
+tion. In case of any doubt about the contents of English translation, the Chinese original shall be con-
+sidered authoritative.
+
+This standard is drafted in accordance with the rules given in the GB/T 1. 1—2009 Directives for
+standardization—Part 1: Structure and drafting of standards .
+
+This standard was proposed and prepared by the National Railway Administration of the People’s
+Republic of China.
+
+
+GB/T 36505—2018
+
+Terms for railway permanent way
+
+1 Scope
+
+This standard specifies the basic terms and definitions for railway permanent way.
+
+This standard is applicable to the engineering survey. design. construction and maintenance of rail-
+way permanent way, as well as related research and training.
+
+2 General terms
+
+2.1
+permanent way
+
+railway line for train to travel at a specified speed, composed of track, land-base, bridge, culvert,
+tunnel and other structure
+
+2.2
+standard gauge railway
+
+railway with a gauge of 1 435 mm in straight section
+
+2.3
+broad gauge railway
+
+railway with a gauge greater than the standard one in straight section
+
+2.4
+narrow gauge railway
+
+railway with a gauge less than the standard one in straight section
+
+2.5
+passenger-freight line
+
+railway for both passengers and freight transport
+
+GB/T 36505—2018
+
+2.6
+dedicated freight line
+
+railway mainly for freight transport
+
+2.7
+main line
+
+line connecting and running through a station or extending into a station by a switch
+
+2.8
+station track
+
+tracks in the station other than the main line. including arrival-departure track, formation track,
+goods track, shunting neck and other lines designated for use within the station
+
+2.9
+connecting line
+
+line connecting two stations (yards). station (yard) and main line or two main lines
+
+2. 10
+single line
+single track
+
+railway with only one main line, usually for bidirectional train operation
+2.11
+
+double line
+double tracks
+
+railway with two main lines, usually for unidirectional train operation
+
+2.12
+centre line of track
+
+bisector of track gauge(Regardless of gauge widening value)
+
+2.13
+distance between centres of tracks
+
+distance between the centre lines of two neighboring tracks
+2
+
+GB/T 36505—2018
+
+2.14
+structure clearance
+
+limit cross-sectional contour dimension line perpendicular to the center line of the track, into which
+no other equipment or buildings. except for rolling stock and equipment directly interacting with the
+rolling stock, are allowed to intrude
+
+2.15
+permanent way signs
+
+signs on railway permanent way that indicate the permanent way mileage. the location of the track
+and bridge equipment or main technical parameters and the boundaries of railway administrations at
+all levels
+
+2.16
+grade crossing
+level crossing
+
+crossing of a railway with a railway or road on the same plane
+
+2.17
+grade separation
+
+crossing of a railway with a railway or road on the different plane
+
+3 Railway alignment
+
+3.1
+railway alignment
+
+spatial position of the center line of the track, consisting of straight lines and curves on the plane and
+section
+
+3.2
+track plan
+
+projection of center line of track on the horizontal plane
+
+3.3
+horizontal alignment
+
+shape and position of a railway line on a horizontal plane, consisting of straight lines and curves
+3
+
+GB/T 36505—2018
+
+3.4
+track profile
+
+projection of center line of track on a vertical plane after straightening
+
+3.5
+vertical alignment
+
+shape and position of a railway line on the vertical plane, consisting of grade sections and vertical
+curves
+
+3.6
+circular curve
+
+circular curve with constant curvature when the line direction changes
+
+3.7
+compound curve
+
+curve consisting of two or more adjacent curves with the same turning direction and different radii
+which are directly connected or connected by a transition curve
+
+3.8
+reverse curve
+
+curve consisting of two or more adjacent curves with the opposite turning direction which are con-
+nected by a straight line in between
+
+3.9
+transition curve
+
+curve with curvature of continuous variation which is located between a straight line and a circular
+curve. or between two circular curves
+
+3. 10
+intermediate straight line
+
+straight line section between two adjacent curves or between a turnout and a curve
+
+3.11
+intermediate circular curve
+
+circular curve section between two adjacent transition curves or between two straight lines
+4
+
+GB/T 36505—2018
+
+3.12
+grade section
+
+line section between two adjacent points of gradient change on the profile
+
+3.13
+ruling gradient
+
+gradient of a freight train towed by a single machine with its specified traction mass when running at
+a constant speed at a calculated speed on an uphill track
+
+3.14
+maximum gradient
+
+maximum design gradient defined for a railway
+
+3.15
+pusher gradient
+
+gradient greater than the ruling gradient. which is suitable for double or multiple locomotives
+3. 16
+
+break in grade
+
+point of gradient change
+
+connection point of two adjacent grade sections on the track profile
+
+3.17
+algebraic difference between adjacent gradients
+
+algebraic difference of gradient of two adjacent grade sections
+
+3. 18
+vertical curve
+
+longitudinal curve set at the slope change of the line
+
+3.19
+curve superelevation
+
+elevated value of the outer track above the inner track in the curve section in order to balance the
+
+centrifugal force generated when the train negotiates the curve
+
+GB/T 36505—2018
+
+3.20
+superelevation balanced
+
+superelevation value calculated according to the root mean square speed weighted by the mass of
+each train negotiating the curve
+
+3.21
+superelevation excess
+
+difference between the superelevation calculated according to the speed of the train negotiating the
+curve and the actual designed superelevation (the former is less than the latter)
+
+3.22
+superelevation deficiency
+
+difference between the superelevation calculated according to the speed of the train negotiating
+curve and the actual designed superelevation (the former is greater than the latter)
+
+4 Track structure and component
+
+4.1
+track
+
+engineering structure consisting of rails,accessories, fastenings. turnouts, rail foundation etc. for
+train to run
+
+4.2
+track types
+
+track grades defined by gross tonnage and design speed
+
+NOTE The types of track include extra heavy duty track, heavy duty track, sub-heavy duty track. medium duty track
+and light duty track.
+
+4.3
+ballasted track
+
+track using sleepers. gravel and other loose materials as the rail foundation
+
+GB/T 36505—2018
+
+4.4
+ballastless track
+
+track using integral track bed structure consisting of concrete or other materials as the rail foundation
+
+4.5
+track panel
+
+structure in which two rails and sleepers are joined together by fastenings
+
+4.6
+track gauge
+
+distance between the two inner gauge faces of rail 16 mm below the tread of rail head
+
+4.7
+gauge widening
+
+specified widening value of curved sections, turnouts and other components relative to the standard
+gauge of 1 435 mm
+
+4.8
+rail
+
+rolled steel rail with an I-shaped section used to directly support and guide the wheels
+
+NOTE It is available in 75 kg/m. 60 kg/m and 50 kg/m, etc.
+
+4.9
+standard length rail
+
+rail rolled by steel mills in lengths of 100 m, 75 m, 50 m. 25 m or 12.5 m,etc.
+
+4.10
+short rail
+
+rail shorter than standard length rail used at the inner side of a curve
+
+4.11
+compromise rail
+
+rail with sections of different dimensions at two ends
+
+GB/T 36505—2018
+
+4.12
+guard rail
+check rail
+
+rail installed inside the rail without bearing the vertical load imposed by the wheel in order to prevent
+the train from tipping over after derailment
+
+4.13
+rail cant
+rail inclination
+
+inclination of the bottom of the rail to the top of the sleeper
+
+NOTE It is also referred to as inward inclination.
+
+4.14
+gauge line
+
+side of the rail head that is in contact with the wheel flange or back
+
+4.15
+rail joint gap
+
+gap between two adjacent rail ends at a rail joint
+
+4.16
+
+joint bar
+splice bar
+fish plate
+
+bar used for connecting rails at a rail joint
+
+4.17
+compromise joint bar
+
+joint bar used for connecting two rails with different-sized sections
+
+4.18
+rail joint
+
+part where two rails are connected
+
+NOTE It is classified fished joint. welded joint. glued insulated joint and frozen joint according to their connection mode.
+8
+
+GB/T 36505—2018
+
+4.19
+insulated joint
+
+rail joint that uses the insulating material to block rail currents
+
+4.20
+glued joint
+
+rail joint bonded by adhesive
+
+4.21
+welded joint
+
+rail joint by welding both ends of the rails
+
+4,22
+frozen joint
+
+rail joint that prevents changes in the rail joint gap by increasing the joint resistance
+
+4.23
+compromise joint
+
+joint that is formed by connecting two rails with different-sized sections using a compromise joint
+bar
+
+4.24
+rail expansion joint
+
+track equipment composed of stock rail, switch rail, fastening system, sleeper and other compo-
+nents. for greatly reducing the longitudinal interaction force between bridge and continuously welded
+rail through the longitudinal relative displacement between stock rail and switch rail
+
+4,25
+joint bolt
+
+fish bolt
+
+bolt used for connecting rail joints
+
+GB/T 36505—2018
+
+4.26
+fastening system
+
+ensemble of rail components that secure rails to supporting structures
+
+NOTE The fastening system is used to maintain the rail position, transfer train load to the supporting structure, allow
+
+some displacement and rotation of the rail. and provide rail insulation.
+
+4.27
+fastening component
+
+component that holds down the rail
+
+4. 28
+elastic fastening system
+
+fastening with elastic clip to maintain the specified fastening pressure for a long time
+
+4.29
+direct fastening system
+
+fastening that directly secures the rail to the supporting structure with or without a baseplate
+
+4. 30
+indirect fastening system
+
+fastening that independently secures the rail to the baseplate which is fixed to the supporting struc-
+ture
+
+4.31
+track spike
+
+fastener connecting part used in wooden sleeper structure to clamp the rail and fix the sub-rail base-
+plate
+
+4. 32
+screw spike
+
+fastener connecting part which has round rod with thread and uses bolts, nuts. and washers
+
+10
+
+GB/T 36505—2018
+
+4. 33
+baseplate
+
+inelastic component fixed to the supporting structure to support the rail
+
+4. 34
+baseplate pad
+
+non-metallic pad laid between the baseplate and the sleeper
+
+4. 35
+rail pad
+
+non-metallic pad laid between the rail and the baseplate or between the rail and the sleeper
+
+4. 36
+rail brace
+
+rail component that prevents the rail from overturning and maintains gauge and rail cant
+
+4.37
+gauge rod
+gauge bar
+
+rail component that connects the bottom of two rails to maintain the gauge
+
+4. 38
+sleeper
+tie
+
+rail component that supports rails, maintains the gauge. and transfers loads from rails to track bed
+
+4.39
+wooden sleeper
+wooden tie
+
+sleeper made of wood
+4.40
+concrete sleeper
+
+concrete tie
+
+sleeper made of reinforced concrete
+11
+
+GB/T 36505—2018
+
+4.41
+bearer
+
+sleeper for a turnout
+
+4.42
+transom
+
+sleeper laid for track structures on bridge. which includes wooden and concrete sleepers
+
+4.43
+track bed
+
+track component that supports and fixes sleepers and transfers their loads to the earthwork surface
+
+4.44
+ballast
+
+loose base material used for laying track bed. including gravel, pebble. slag. and sand
+
+4.45
+ballast thickness
+
+thickness of the ballast layer from the bottom of the sleeper (for curve sections, this refers to the
+sleeper under the inner rail) to the top surface of the foundation bed
+
+4.46
+slab track
+
+ballastless track in which prefabricated slabs are laid over a cast-in-place base or support layer
+
+4.47
+bi-block ballastless track
+
+ballastless track adapted to ZPW-2000 track circuit, in which prefabricated bi-block sleepers are
+poured into or embedded by means of mechanical vibration into the uniform and continuous rein-
+forced concrete track bed
+
+4. 48
+ballastless track with embedded sleeper
+
+ballastless track adapted to ZPW-2000 track circuit, in which prefabricated concrete switch (rail)
+sleepers are assembled into standard track panels, and then concrete is cast to form uniform and
+
+12
+
+GB/T 36505—2018
+
+continuous reinforced concrete track bed
+
+4.49
+track slab
+
+prefabricated reinforced concrete slab or prestressed reinforced concrete slab
+
+4.50
+bi-block sleeper
+
+sleeper consisting of two concrete support blocks which are connected by a reinforced truss
+
+4.51
+concrete track bed
+
+cast-in-place integral reinforced concrete layer with embedded bi-block sleepers or concrete bearers
+
+4.52
+concrete base
+
+cast-in-place reinforced concrete foundation to support the track slab or track bed and bi-block track
+bed
+
+4.53
+hydraulic supporting layer
+
+hydraulic foundation laid or cast in place to support the bi-block track bed or track slab on the surface
+of the earthwork
+
+4.54
+concrete stopper
+
+circular or semi-circular reinforced concrete stopper at both ends of CRTS I slab ballastless track,
+which is an important load transfer structure for CRTS I slab ballastless track
+
+4.55
+cement asphalt mortar
+
+mortar for adjustment layer cast in place between the track slab and the concrete base or the hydrau-
+
+lic supporting layer, which has specific properties and is prepared by mixing emulsified asphalt. ce-
+ment, fine aggregate, water and admixture by a specified process
+
+13
+
+GB/T 36505—2018
+
+5 Continuous welded rail (CWR)
+
+5.1
+continuous welded rail
+CWR
+
+track that is constructed by continuously welding or gluing rails with a length greater than that of two
+breathing zones
+
+5.2
+long rail string
+
+rail string between the start and end points of CWR
+
+5.3
+deformation free zone in CWR
+
+section in which the rails produce longitudinal force but are free from longitudinal displacement when
+the rail temperature changes after the temperature strained CWR is fastened down
+
+5.4
+breathing zone in CWR
+
+section in which the rails have longitudinal displacement and destress when the rail temperature
+changes after the temperature strained CWR is fastened down
+
+5.5
+buffer zone in CWR
+
+section consisting of 2 to 4 standard length rails and splint joints between long rail strings or be-
+tween long rail strings and other rail structures
+
+5.6
+trans-sectional continuously welded rail
+
+CWR with long rail string spanning two or more sections and using CWR turnouts on the main line of
+the station
+
+5.7
+rail temperature
+
+average temperature of rail cross-section
+14
+
+GB/T 36505—2018
+
+5.8
+highest rail temperature
+
+local highest temperature on record plus 20 ‘C
+
+5.9
+lowest rail temperature
+
+local lowest temperature on record
+
+5.10
+allowable temperature drop range in CWR
+
+maximum allowable temperature drop range in CWR, which is determined by the strength check and
+the allowable rail joint gap check of buffer zone
+
+5.11
+allowable temperature rise range in CWR
+
+maximum allowable temperature rise range in CWR . which is determined by stability check
+
+5. 12
+fastening down temperature
+
+CWR fastening down temperature calculated according to meteorological data and allowable tempera-
+ture rise and drop in CWR
+
+5. 13
+neutral temperature
+
+CWR fastening down temperature calculated according to the meteorological data and allowable tem-
+perature rise and drop range in CWR
+
+5.14
+longitudinal ballast resistance
+
+resistance of the track bed against the sleeper when the sleeper is displaced longitudinally in the track
+bed
+
+5.15
+lateral ballast resistance
+
+resistance of the track bed against the sleeper when the sleeper is displaced laterally in the track bed
+15
+
+GB/T 36505—2018
+
+5. 16
+rail joint resistance
+
+resistance of the joint bar and its connecting parts against the longitudinal displacement of the rail
+
+5.17
+stability of CWR
+
+performance of CWR to resist track buckling and maintain the original stable state under the variation
+of temperature, pressure and other factors
+
+5. 18
+critical force in CWR
+
+temperature stress of CWR in the critical state of stability
+
+5.19
+force due to the thermal expansion of the deck
+
+longitudinal force caused by the relative longitudinal displacement of the bridge and the long rail due
+to temperature change
+
+5. 20
+force due to the bridge bending under vertical traffic loads
+
+longitudinal force caused by the relative longitudinal displacement of the beam and rail due to the
+bridge bending under the action of train load
+
+5.21
+force acting on the bridge due to breaking of the CWR
+
+longitudinal force caused by the relative longitudinal displacement of the bridge and the long rail due
+to the breaking of the long rail
+
+5. 22
+braking force of train
+
+horizontal force produced on sub-rail structures in the same direction as the operating direction of
+the train after the brake is applied
+
+16
+
+GB/T 36505—2018
+
+5. 23
+de-stressing in the CWR
+
+reducing or eliminating temperature stress by using natural or forced methods to lengthen or shorten
+long rails after the CWR is released from the fastened down state
+
+NOTE It is also referred to as stress-relieving.
+
+5. 24
+field welded joint of rail
+
+welded joint of long rails in the field
+
+5, 25
+CWR turnout
+
+turnout with welded or glued rail joints
+
+5. 26
+longitudinal displacement monitoring post
+
+reference post for monitoring the longitudinal displacement of CWR
+
+6 Track inspection
+
+6.1
+
+track irregularity
+
+deviation of track geometry relative to the design position, mainly including alignment, profile,
+cross level of track, and track gauge
+
+6.2
+irregularity of unloaded track
+irregularity without load
+
+track irregularity without train load
+
+6.3
+irregularity of track under train load
+
+track irregularity under dynamic load of train
+17
+
+GB/T 36505—2018
+
+6.4
+cross level of track
+
+horizontal deviation between left and right rail tops
+
+6.5
+
+alignment of track
+
+transverse deviation of a gauge line from the reference position
+
+6.6
+
+profile
+
+vertical deviation of the rail top at every point along the longitudinal direction of the railway line
+
+6.7
+twist of track
+
+difference in horizontal deviations measured at both ends of a specified distance along the longitudi-
+
+nal direction of railway line
+
+6.8
+track quality index
+Tal
+
+index for comprehensive evaluation of the track geometry by using the standard deviation of profile,
+track alignment, track gauge. cross level of track and deviation of twist of track in unit section
+
+6.9
+track inspection car
+
+car with various onboard sensors to inspect the track irregularity in real time by computer technolo-
+gy. and automatically store, display, print waveforms and give a report
+
+6. 10
+
+comprehensive testing train
+
+large-scale. comprehensive and high-speed modern railway high-tech testing system, in which vari-
+ous sensors are installed on multiple motor car bodies in fixed formation to integrate various testing
+systems such as track geometry. wheel-rail interaction. catenary. communication signal. environ-
+mental monitoring. etc. . and carry out synchronous real-time testing of various railway infrastruc-
+tures and equipment status in time and space
+
+18
+
+GB/T 36505—2018
+
+6.11
+track measurement instrument
+
+instrument integrated into a track trolley which is driven manually to detect the static track geometry
+automatically
+
+6.12
+base-pile control points II
+cP Il
+
+benchmark for laying, operating and maintaining ballastless track
+
+6. 13
+maintenance benchmark
+
+permanent reference point for the maintenance of ballastless track, which is set and measured on
+cP
+
+6.14
+suspended sleeper
+empty sleeper
+
+sleeper that does not contact the rail or track bed when there is no train load
+
+6.15
+mud-pumping
+
+emerging of lime. soil and other pollutants in the earthwork or track bed from the track bed under the
+environment and dynamic loads
+
+6. 16
+depressed joint
+
+rail joint where the concave on the rail top exceeds the specified value in the joint area
+
+6.17
+rail creeping
+
+longitudinal movement along the track when the resistance of the rail can not offset the temperature
+stress and the longitudinal force of the train
+
+19
+
+GB/T 36505—2018
+
+6. 18
+closed joint
+
+phenomenon of no gap at the end of the splint rail joint caused by rail crawling
+
+6.19
+track buckling
+
+phenomenon in which a rail is subjected to a large temperature difference and the transverse deform-
+ation of the rail occurs until the sudden large deformation
+
+6. 20
+rail defect
+
+phenomenon of the bearing capacity decreasing of the rail due to deviating from the specified techni-
+cal standard during use, including breakage, crack. hidden damage. abrasion, crushing and over-limit
+wear, corrosion and peeling
+
+6.21
+rail wear
+
+wear of rail head under the action of wheels. including the vertical wear, lateral wear and corruga-
+tion
+
+7 Track work
+
+7.1
+major repair
+overhaul
+
+maintenance of track to improve the bearing capacity and technical specification of the track, which
+is classified into replacement of all track parts of common railway line and CWR
+
+7.2
+intermediate repair of track
+
+maintenance of track that focuses on restoring track resilience between two major repairs
+
+7.3
+maintenance of track
+
+restorative repair of track. generally including comprehensive repair. regular maintenance. tempora-
+20
+
+GB/T 36505—2018
+ry repair
+
+7.4
+maintenance window
+
+period of time in the train working diagram, during which the train is not allowed to run in a section
+or station due to construction or maintenance
+
+7.5
+raising of track
+
+raising of track to adjust the cross level of track, profile of track and track profile
+
+7.6
+track lining
+
+adjusting of the railway line direction
+7.7
+
+gauge correction
+
+gauging of track
+
+correcting of the track gauge
+
+7.8
+
+curve adjusting
+
+curve lining
+
+correcting the curve direction and restoring the track regularity
+
+7.9
+corrective grinding
+
+grinding the rail to mitigate or eliminate the damage on the rail top and restore its shape
+
+7.10
+preventive grinding
+
+grinding the rail top periodically to improve the track regularity and prolong the service life of rail
+
+21
+
+GB/T 36505—2018
+
+7.11
+rail straightening
+
+straightening the kinked rail
+7.12
+
+sleeper aligning
+
+correction of skewed sleeper
+
+moving the sleepers to the correct position
+
+7.13
+tamping
+
+tamping the ballast under the sleepers
+
+7.14
+ballast cleaning
+
+removing the dirt in track bed so as to restore its elasticity and improve the drainage
+
+7.15
+ballast trimming
+
+restoring the contour of track bed
+
+Index
+
+algebraic difference between adjacent gradients sertrrtrserttesetceeceeeeeeee cence eee eeeeee eee eee cee eee cee
+
+alignment of track
+
+allowable temperature drop range in CWR
+
+ballast
+
+ballast cleaning
+
+ballasted track
+
+ballastless track
+
+ballastless track with embedded sleeper
+
+base-pile control points
+
+baseplate «esters sssese cee seeeeeces senses cee se see coe ces ess ces ceeees cee ces ees cee seeaseseeseeees see seeaee see see eee ees ees
+
+bearer
+
+bi-block ballastless track
+
+bi-block Sleeper ssstereseeresesee cesses ese ceeces cease ces cee eneaeeces cesses senses eneaee cesses ene aeeces ces eneneeeen ene
+
+braking force of train
+
+GB/T 36505—2018
+
+5.11
+
+- 4,44
+
+* 4.3
+
+- 4.4
+
+- 4.48
+
+4.33
+
+4, 34
+
+* 4.41
+
+* 4.47
+
+4. 50
+
+* 5.22
+23
+
+GB/T 36505—2018
+
+break in grade se stssssteseeeeee ces sesee eee cee cee eeeaeeces cease ceeces crease ceeces ene aeeees ceeaes senses cease seesen ees
+
+breathing zone in CWR
+
+broad gauge railway cercescesceecseceeceecee ces ceeees see sensceses aes seeanecaetaecaeces caeces ees cesses eee eeneenaeeaeeaes
+
+buffer ZONE IN CWR cecccrccsccccssceeceeceneneceesee cesses cen cee cesses ene sen cnn ceeens cesses cee nen eee nee see nee see nee ene
+
+centre line of track
+
+circular curve
+
+Closed joint ss+eeseesceeses cesses cesses cease ceecee eee aee ees ene eeeceeces ene aee cee ces eee aeeees ceeaes senses ene aeeseesee ees
+
+compound curve
+
+comprehensive testing sdf: |] 0 Me eee eee
+
+compromise joint
+
+compromise joint bar
+
+COMNPFOMISE Fail cerere ree cee cee tee see eee eee cee cee eee cee eneceeene cesses cee eee cee aes eee nee een seesee eee eee see eee eee eee eee
+
+CONCTETE DASE corceecsscee ttt cee tte cee eee cee nee cee nee cen ene sen ane cen aas sence een eee eee nen ene eee sne senses een eee see nee ene
+
+Concrete Sleeper sesseersceeeeecee ces eeecee cesses cee cesees cesses assesses eeseeecee cesses ces cesees cee seseee ces eee ees egs
+
+concrete stopper
+
+concrete tie
+
+CONCretE| track DEC crrcrr cee cee cesses seecee cece ete ceeete serene eeeene cesta eee ses cee cen een cen cee cen sen eee sen eee nee eee
+
+CONNECHing lime verses eres cee tee teste cece ese see een ene eee see ces ene aee ces ces eneaeeces cesses eee ceneneeeeaeeces ene neeees
+
+Continuously welded rail «s+:++se see cee cee eee eects eee eee senses eee eee ces ene eaeceeces cesses cesses ene aeesaeseseneeeeees
+
+24
+
+* 5.4
+
+2.3
+
+5.5
+
+4.55
+
+4.11
+
+4.52
+
+4. 40
+
+- 4,54
+
+* 4.40
+
+4.51
+
+2.9
+
+5.1
+
+correction of skewed Steeper srrrrrstestecee tee eeecee eee tee cee eee eee e ences cee eeeeee cee ees eee cesses eee eee eee nee ees
+
+corrective grinding
+
+cP
+
+Critical FOFCE) IN CWR corcescccctecceces cee ces cee sen ace senses nee ceeneecenaee tenses sen aes senses eee seeene senses cee nee eee
+
+CrOSS level Of track crcceecee reece cee cseeseece eer ereeae eee sen eee cen sen cen cee cesses cee aee erence nee nee eases ees ene eee ens
+
+curve adjusting Rete ete ete etter etter tet et tet terre te treet terre tt etter terre tte et terre tre rte rer rer rent
+
+curve lining
+
+curve superelevation Perera eee rere errr ee reer rere err ere eer ere ere e eee Teer eee ere Terre ree Tee eee eet Te Tee ere re eee ee
+
+CWR
+
+CWR turnout
+
+CeforMation free ZONE IN CWR  cerceeceecesceeceeceeceecceceecercenceeceeseecesceeeen cesses seeces ces ces ces cne cee ees
+
+depressed joint
+
+de-stressing in the CWR
+
+direct fastening system
+
+distance between centres of tow neighboring track
+
+double line
+
+Couble tracks <crcerereceecesceeceeceeeee cee cereee cer cneeee ser cnsren cee ceeeee cee eee senses eee ren ene nee sen eee eee cannes eee
+
+elastic rail fastenings Perera eee rere errr ee reer rere err ere eer ere ere e eee Teer eee ere Terre ree Tee eee eet Te Tee ere re eee ee
+
+GB/T 36505—2018
+
+7.12
+
+- 7.9
+
+6.4
+
+7.8
+
++ 7.8
+
+* 5.1
+
++ 6.25
+
+5.3
+
+GB/T 36505—2018
+
+fastening down temperature
+
+fastening system
+
+field welded joint of rail
+
+fish plate Pere et te etter etter ret terre t terre te etter te teeter errr etter Ceti r rte r tert etter ret terre rr er rer rer rer rent
+
+fish bolt
+
+force due to the thermal expansion of the deck
+
+force due to the bridge bending under vertical traffic loads
+
+force acting on the bridge due to breaking of the CWR crrccreressrcee tee stecee tet etesee eee tee cee cee eee ane
+
+freight dedicated lines «+++++ssseeess teres cence ceneseseece see ene nee cee aee cee nes cee aeetesaeeceseee ces aeece ene cee eas
+
+frozen joint eter tet etter t etre eter ttt errr t tet tet terre tt etre tt etter t etter ret tere t ttt eter tre treet terre tree cers
+
+gauge correction
+
+gauge line
+
+gauge rod
+
+GAUGE Dar ssssseseseereseeeecesens eee seeceseeaeesesces cease ses eneeseceeses ene ase sence eae aeecenens eee aeeceseeenenenees
+
+gauge widening
+
+gauging of track
+
+glued joint
+
+grade crossing
+
+26
+
+4.27
+
+* 4.26
+
+* 5.24
+
+* 5.20
+
+5.21
+
+2.6
+
+4. 22
+
+* 7.7
+
++ 4.37
+
+4.37
+
+° 47
+
++ 7.7
+
+* 4.20
+
+Grade Separation +++ ssssetesesese tee cee eee cee cesses cee cee eee cae cee aee cee tenaeecaecee ae ees cee ees eneee ae eeeeee ees
+
+guardrail
+
+highest rail temperature PRET eT ER ESRC EOI RTOS T STS SO STO eTOeTOOTOO TOOTS STC eSrerrereerrerrerrerrerrerrerrerrerrercy
+
+horizontal alignment
+
+hydraulic supporting layer
+
+indirect fastening system errr eee err er eee errr Te ee rere eee Tee Teer ee Tee Tee Terre Teer rere eee eT ee Tee eee Teer Tere ee rere
+
+intermediate circular curve
+
+intermediate repair of track
+
+intermediate straight TING cee cee cee cee cee cee cee nee ceeceeee cee cee cee tenses een aeesen ses cen cee ees cee eee ences cen aee eee
+
+irregularity Of track UNder train load se+str ere tee eee eee eet eee eee testes eee eee ee testes ane ete antes aeeae cee ae eee ees
+
+irregularity (oy me lal(efe\e(-\e Wha g-\e) @ttUR RRR ee
+
+irregularity NVA dalel0 lam (ey-(e PRSER URE TOORe eee
+
+joint bar
+
+JOINT DOIt serereceeeereee eee cee seers cee serene eseseeces ene eeeces cen eneaee ses eeseaeaseces ene eneaeeces ceeee ses ces eneane ges
+
+lateral ballast resistance
+
+level Crossing se tsecereseceeese cee cesses cee nes cneaes cee aes ene eee cee ees cneeee see aeeceeees cesses cesses senses cosas ces ees
+
+long rail string PRT eSeR ESOS RTT RTOS T RTO O TOOT TOS eT eer eTTeTeerrereerrerrerrer restr err erre rr err err err errerrerrerrerrerty
+
+GB/T 36505—2018
+
+2.17
+
++ 4.12
+
+5.8
+
++ 3.3
+
++ 4.53
+
+4. 30
+
++ 3.11
+
+* 7.2
+
+6.3
+
+6.2
+
+6.2
+
+4. 25
+
+5.2
+27
+
+GB/T 36505—2018
+
+longitudinal displacement Monitoring POSt crrsrrrerteeeeeeeteeseee ste eeeseeeeeeeettseeeaaaeeeaeeeeseeeetsees BL IG
+
+Maintenance benchmark -vrcrrcersereee cee ceecee cee eessseeee cence se ses cesses eee cescessesteesesseeseseseessseees G12
+
+Major repair ssrsseseteeeseeeeeceeeescesceecee see esseescesseeaneseesceeseeateaasesssesseeaseaesesssesseeaesaseerssesees 7]
+
+MUC-PUMPING srr err reece ete tee tte cee tee tes aee castes tteeee ces atseee ses eeesee ese cesatecee ees essces see ceseresessesessees 615
+
+Neutral temperature cerrer eee ssecee eee ses ceases eee teeeee ces essee ees eee cesses ees stseee ees essseesessesareseseesessees B13
+
+passenger-freight railway <++e+seseeseeeee cee cee eee cee eee cee aee see aee cee eee cee eee cesses ceeseecesseeeestseesessees 25
+
+Permanent Way serterstsseceeteesee cesses ene aeeceeceseeeaeecenens ee asecescesasssessessesesesesseseesasecesesssseeesees D4
+
+PUShEr Gradient cerrresrrcee tee sescee eee ses see ees eee tseeee ees teeee ees eeeseeseeesstssee ees essceesessesaseseseesessees 3.75
+
+Permanent Way SIGNS —vrrrrrrerseeste set eeeceecee ste aseenseesceesee cee eeeeessesseesseaasenesesseeatecseertsessseres 215
+
+28
+
+preventive grinding
+
+profile
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+rai
+
+raising Of track seressssseesesees eee ce ceees cesses eee eee cence eee eescaecee cease cesses eee aeecescee ees aeeees ene eneaeeees
+
+| 0) (0); Coe ee oe eco eno
+
+cant
+
+creeping
+
+defect
+
+expansion joint
+
+joint
+
+joint gap
+
+joint resistance
+
+pad Peer er errr eee rere err err e rr err e ree ere Terre Teer rere err err er eer rer rere err err err err err errr rr err err err err err err erry
+
+straightening
+
+temperature
+
+WEL citcee cee cee eee cee cee ceeaen see ces eee cen eee ces aee ese sas sees eee ses eee nee ses sas eee eee see see nee eee can ees eee eee see
+
+way alignment Pere eee eee errr err errr e rere e ree ee eer eer rere er rer rer rer rer ret ret Terre teeter rer eer rere err err eres
+
+reverse curve
+
+ruling gradient
+
+GB/T 36505—2018
+
++ 7.10
+
+* 6.6
+
+° 4.8
+
+4. 36
+
+* 7.11
+
+* 5.7
+
+6. 21
+
+3.1
+
+7.5
+
++ 3.8
+
+29
+
+GB/T 36505—2018
+
+SCTEW SPike srereeceeceesee cesses senses eeeens eee ene ene ences eee eee ee eee ee ee ee ee EE EEE EEE Eee ceE cee cence ene cee ene eae
+
+single line
+
+Single track ss+tesessseesee cee eee cesses ee cesses ces eeeeeeees cee aeeceeses ene aeece ces eeeaeeces ceeeesceeceseeeeeeseesen ees
+
+SHOrt rail cesccrcssceecsecee ces cee ces cceces cee cesceeces senses sees sen ees see eee eee eee ee eee ene eee ene see eee eee eee eee nen ene
+
+Slab track cecccrcceceeceecee cee ceecenceeeen cesses ceecesceeens seers cesses cence eee eee eeeneeeee sense eee eee eee eee eee eee eee
+
+sleeper aligning
+
+Feel o1- REECE EREEE EEE RSEESOESOROSESOESORSSSOSESOOCOEOSESOOSOROOOLOO SO SORSOOIORSEROOESOESSESOOSONSS
+
+SPliCe bar seerereeseseseecee eee ece ces ceseseaeeceeces eee neeceseneaeeseeces cease ces ees eneneeces ceeene ses ces eneaee cee cen ens
+
+stability OF CWR ccccssccrcseceeceecescne ces see ces aee ten eee nen cee cen see senses nee ces ene sen ane renee sen cee eee eee ene een ene
+
+standard gauge railway
+
+standard length rail s+++s+e++seseee cee cee eee cee eee cne eee cee eee cee eeeceeeee cesses cesaee ces eee ces cneaes caeaescneaes cneees
+
+structure clearance
+
+superelevation balanced
+
+superelevation deficiency eee rere eee Tee eee Teeter eT Pere Teeter CeCe TT ete Tre Terre reer rer rer Terr errerry
+
+superelevation excess
+
+suspended sleeper «esse ssree reece eee cee eee cee eee cee eee ces eeeceseee ces eee cesses ces cesses cesses cae aes cee aes ene nes ens
+
+tamping
+
+LIS ceo cer eee cce cer eee cee cer erence cneeee cen cns eee serene nen serene nen ens eee sen ee eee renee nee ren ene nee teense nen see eee ten ee eee
+
+mu @) PC ee oe oes
+
+30
+
+* 2.2
+
+4.9
+
+2.8
+
++ 3.20
+
+3.22
+
+* 3.21
+
+4. 38
+
+6.8
+
+track
+
+Sd gle) 4) 0l-\e BECO ee eco eos
+
+track irregularity
+
+track gauge
+
+track lining
+
+track measurement instrument
+
+track plan
+
+track profile Perr eee eee eee Tee ere Te eee Tee Teer etre T Tere r rere ere reer r et etre Tre Teer Te Teer r errr tre tee er etre Teer
+
+track quality index
+
+TrACK Slab coecse cee see ces eee cee eee een cee cnc cee cen eee sen aee senses ses ces ees sen aee een see sen aes senses see nee ene sense cee nee eee
+
+track spike
+
+track types
+
+transition curve
+
+transom
+
+trans-sectional continuously welded rail
+
+twist of track
+
+vertical alignment
+
+GB/T 36505—2018
+
+* 4.1
+
+4. 43
+
+* 6.1
+
+* 4.6
+
+- 7.6
+
+* 6.11
+
+4.5
+
+* 3.2
+
+3.4
+
+* 6.8
+
+6.9
+
+4.49
+
+* 4.31
+
+* 4.2
+
+* 3.9
+
++ 4.42
+
+- 5.6
+
+* 6.7
+
+* 3.5
+
+31
+
+GB/T 36505—2018
+
+welded joint
+
+Wooden sleeper ss+ss+se recesses cesses cee eee ces eee ceeeeeceseee cesses cosas cesses cee cesses cae cee cae aes ceeees ene nes ens
+
+

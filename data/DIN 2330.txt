@@ -1,0 +1,236 @@
+DEUTSCHENORM
+Juli 2022
+DIN
+DIN2330
+ICS01.020
+Ersatz fur
+DIN2330:2013-07
+Terminologiearbeit-
+Grundsatze und Methoden
+Terminology work-
+Principles and methods
+Travail terminologique -
+Principes etmeéthodes
+Gesamtumfang29Seiten
+DIN-NormenausschussTerminologie (NAT)
+DIN Deutsches Institut fur Normung e. V. ist Inhaber aller ausschliefflichen Rechte weltweit - alle Rechte
+der Verwertung, gleich in welcher Form und welchem Verfahren, sind weltweit DIN e. V. vorbehalten.
+www.din.de
+Alleinverkauf durch Beuth Verlag GmbH, 10772 Berlin
+www.beuth.de
+3354397
+
+DIN2330:2022-07
+Inhalt
+Seite
+Vorwort
+Anwendungsbereich
+NormativeVerweisungen
+Begriffe
+Allgemeines
+Gegenstand
+Begriff...
+6.1
+Allgemeines
+6.2
+Allgemeinbegriffvs.Individualbegriff
+6.3
+Merkmal
+6.4
+Begriffsinhalt,BegriffsumfangundBegriffsbestand
+6.5
+Begriffsbeziehung
+10
+6.5.1
+ArtenvonBegriffsbeziehungen
+10
+Hierarchische Begriffsbeziehung
+6.5.2
+10
+Nichthierarchische Begriffsbeziehung
+6.5.3
+11
+6.6
+Begriffssystem.
+11
+Definition
+12
+7.1
+Zweck.
+12
+7.2
+Definitionsarten
+12
+7.2.1
+Allgemeines
+12
+Inhaltsdefinition
+7.2.2
+12
+7.2.3
+Umfangsdefinition
+13
+7.2.4
+Bestandsdefinition
+13
+7.2.5
+MischformenvonDefinitionen.
+14
+7.3
+Anforderungen und Empfehlungen
+14
+7.3.1
+Vorrangvon Inhaltsdefinitionen
+14
+Verwendungvon Begriffen und ihren Benennungen in Definitionen
+7.3.2
+14
+7.3.3
+Fachgebiets-undZielgruppenbezugvonDefinitionen
+14
+7.3.4
+SystembezogenheitvonDefinitionen
+15
+7.3.5
+GenauigkeitundKurzevonDefinitionen
+15
+7.3.6
+AktualitatvonDefinitionen
+16
+7.3.7
+Vermeidungvon Negativdefinitionen
+16
+7.3.8
+Vermeidungvon Synonymen als Definitionen
+16
+7.3.9
+Vermeidungvon Kontextdefinitionen.
+17
+7.3.10
+VermeidungvonZirkelschlisseninDefinitionen.
+17
+7.3.11
+Vermeidungvontautologischen Definitionen.
+17
+7.4
+Ubernehmenund Verfassen von Definitionen.
+18
+7.4.1
+QualitatderQuellenvonDefinitionen
+18
+7.4.2
+EmpfehlungenfurdasFormulierenvonDefinitionen
+18
+Benennung.
+19
+8.1
+Allgemeines
+19
+8.2
+KriterienzurBewertungvonBenennungen
+19
+8.2.1
+Allgemeines
+19
+8.2.2
+Sprachliche Richtigkeit
+19
+8.2.3
+Gebrauchlichkeit
+19
+8.2.4
+Transparenz
+20
+Eindeutigkeit
+8.2.5
+20
+Neutralitat.
+8.2.6
+20
+Kurze..
+8.2.7
+20
+8.2.8
+Eignung zur Bildung von Ableitungen.
+20
+8.2.9
+BevorzugungderdeutschenSprache
+21
+
+DIN2330:2022-07
+RechtlicheAspekte
+8.2.10
+21
+8.2.11
+HinweisezurAnwendungderBewertungskriterien
+21
+8.3
+Verfahren und Grundsatze derBenennungsbildung
+21
+Allgemeines
+8.3.1
+21
+8.3.2
+Komposition/Bildungvon Zusammensetzungen
+22
+8.3.3
+Derivation/BildungvonAbleitungen
+23
+8.3.4
+Konversion/VeranderungderWortart:
+23
+8.3.5
+Kirzung/BildungvonKurzformen
+23
+8.3.6
+Terminologisierung/UbernahmeinnerhalbeinerSprache
+23
+Entlehnung/Ubernahmeaus eineranderenSprache
+8.3.7
+23
+Neuschopfung :
+8.3.8
+24
+BeziehungenzwischenBegriffenundBezeichnungen
+24
+9.1
+Allgemeines.
+24
+9.2
+Synonymie.
+24
+9.3
+Mehrdeutigkeit .
+24
+9.4
+Aquivalenz
+25
+10
+ArtenderTerminologiearbeit
+26
+10.1
+Allgemeines
+26
+10.2
+Deskriptive vs.praskriptive Terminologiearbeit.
+27
+10.3
+Punktuellevs.textbezogenevs.fachgebietsbezogeneTerminologiearbeit
+27
+10.4
+Einsprachigevs.mehrsprachigeTerminologiearbeit
+27
+Literaturhinweise
+29
+Bilder
+Bild1SemiotischesDreieck.
+Bild2ZusammenhangezwischenGegenstand,Begriff,BenennungundDefinition
+Bild3-ZusammenhangezwischenGegenstandundBegriffamBeispiel,Stuhl"
+Bild4Begriffssystem,Kraftfahrzeug".
+10
+Tabellen
+Tabelle1-BeispielefurGegenstande.
+Tabelle2—Beispielefurtransparentevs.gebrauchlicheBenennungen
+21
+Tabelle3-VerwendungsmoglichkeitensynonymerBenennungen
+24

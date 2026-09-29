@@ -1,0 +1,2414 @@
+COMMISSION REGULATION (EU) 2023/466 
+of 3 March 2023
+amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Parliament and of 
+the Council as regards maximum residue levels for isoxaben, novaluron and tetraconazole in or on 
+certain products 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on 
+maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council 
+Directive 91/414/EEC (1), and in particular Article 14(1), point (a), Article 18(1), point (b), and Article 49(2) thereof,
+Whereas:
+(1)
+For isoxaben, novaluron and tetraconazole maximum residue levels (‘MRLs’) were set in Part A of Annex III to 
+Regulation (EC) No 396/2005.
+(2)
+For isoxaben, the European Food Safety Authority (‘the Authority’) submitted a reasoned opinion on the review of 
+the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005 (2). The Authority 
+recommended lowering the existing MRLs for fruits and tree nuts, root and tuber vegetables, bulb vegetables, 
+melons, pumpkins, witloof, chives, celery leaves, stem vegetables, sage, rosemary, thyme, basil, oilseeds and oil 
+fruits, cereals, and chicory roots, in line with the principle of setting MRLs at levels as low as reasonably achievable 
+and based on sufficient supporting data for the current good agricultural practices (‘GAPs’). It recommended 
+keeping the existing MRLs for courgettes and beans (fresh, without pods) based on sufficient supporting data for the 
+current GAPs. As there is no risk for consumers with any of those MRLs, it is appropriate to set the MRLs for those 
+products in Annex II to Regulation (EC) No 396/2005 at the level identified by the Authority.
+(3)
+For isoxaben, the Authority further concluded that the MRLs for cotton seed, herbal infusions (dried, flowers), herbal 
+infusions (dried, roots), and hops should be set at the current limits of determination (‘LOD’) specific to each 
+product, in line with the principle of setting MRLs at levels as low as reasonably achievable and based on the 
+current GAPs. However, as some information was not available, further consideration by risk managers was 
+required. Therefore, while these MRLs are considered safe, they will be reviewed. The review will take into account 
+the information available within two years from the publication of this Regulation. As there is no risk for 
+consumers, it is appropriate to set the MRLs for those products at the LODs specific to each product in Annex II to 
+Regulation (EC) No 396/2005.
+(4)
+For isoxaben, an application pursuant to Article 6(1) of Regulation (EC) No 396/2005, requesting a modification of 
+the existing MRL for peas (fresh, without pods) was submitted. As regards this application, a Member State made a 
+request to use the fast-track procedure, foreseen in the Technical Guidelines on the MRL setting procedure (3), to set 
+an MRL based on residue trials on beans (fresh, without pods). The Authority has recently assessed residue trials on 
+beans (fresh, without pods) in the framework of the review of the existing MRLs for isoxaben and gave a reasoned 
+opinion on the proposed MRL (4). This opinion from the Authority relies on the current scientific and technical 
+knowledge on the subject. As it is appropriate to extrapolate from the residue trials on beans (fresh, without pods) 
+to peas (fresh, without pods), as confirmed by the existing Union guidelines on extrapolation of MRLs (5), it is 
+(1) OJ L 70, 16.3.2005, p. 1.
+(2) European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for isoxaben according to 
+Article 12 of Regulation (EC) No 396/2005. EFSA Journal 2022;20(1):7062.
+(3) Technical guidelines MRL setting procedure in accordance with Articles 6 to 11 of Regulation (EC) No 396/2005 and Article 8 of 
+Regulation (EC) No 1107/2009 (SANTE/2015/10595 Rev. 6.1).
+(4) European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for isoxaben according to 
+Article 12 of Regulation (EC) No 396/2005. EFSA Journal 2022;20(1):7062.
+(5) Technical guidelines on data requirements for setting maximum residue levels, comparability of residue trials and extrapolation of 
+residue data on products from plant and animal origin (SANTE/2019/12752 – 23 November 2020).
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/55  
+
+unnecessary to request the Authority to provide a reasoned opinion on peas (fresh, without pods). It is therefore 
+appropriate to set the MRL for peas (fresh, without pods) at the same level as the MRL for beans (fresh, without 
+pods) on the basis of the residue trials performed on beans (fresh, without pods) in Annex II to Regulation (EC) 
+No 396/2005.
+(5)
+For novaluron, the Authority submitted a reasoned opinion on the review of the existing MRLs in accordance with 
+Article 12(1) of Regulation (EC) No 396/2005 (6). In view of various data gaps on toxicologically relevant issues, 
+including uncertainties regarding possible endocrine disruptor properties of that active substance, the Authority 
+could not rule out harmful effects on human health with the MRLs for novaluron in all products. It is therefore 
+appropriate to set the MRLs for all products at the LODs specific to each product in Annex V to Regulation (EC) 
+No 396/2005.
+(6)
+For novaluron, the European Union reference laboratories for residues of pesticides proposed to change the residue 
+definition to ‘Novaluron (sum of constituent isomers)’ to clarify that residues can occur at any isomer ratio, as 
+novaluron is a chiral compound. The Commission considers this new residue definition to be appropriate as it will 
+ensure a high level of consumer protection and facilitate controls by enforcement authorities, and it does not affect 
+the Authority’s reasoned opinion. Therefore, in accordance with Article 14(2)(f) of Regulation (EC) No 396/2005, 
+the residue definition for novaluron should be ‘Novaluron (sum of constituent isomers)’.
+(7)
+For tetraconazole, the Authority submitted a reasoned opinion on the existing MRLs in accordance with 
+Article 12(1) of Regulation (EC) No 396/2005 (7). It recommended keeping the existing MRL for kaki/Japanese 
+persimmons based on sufficient supporting data for the current GAPs. As there is no risk for consumers, it is 
+appropriate to set the MRL for kaki/Japanese persimmons in Annex II to Regulation (EC) No 396/2005 at the level 
+identified by the Authority.
+(8)
+For tetraconazole, the Authority further concluded that the MRLs for loquats, apricots, peaches, table grapes, wine 
+grapes, strawberries, cucumbers, gherkins, courgettes, rye, wheat, sugar beet root, products of animal origin except 
+bovine liver and horse liver, and milks should be lowered in line with the principle of setting MRLs at levels as low 
+as reasonably achievable and based on the current GAPs. It concluded that the MRLs for apples, pears, quinces, 
+medlars, witloofs, globe artichokes, linseeds, rapeseeds, and birds’ eggs should be maintained based on the current 
+GAPs. It further concluded that the MRLs for tomatoes, aubergines, melons, pumpkins, watermelons, chicory roots, 
+bovine liver and horse liver should be raised based on the current GAPs. However, as some information was not 
+available, further consideration by risk managers was required. Therefore, while these MRLs are considered safe, 
+they will be reviewed. The review will take into account the information available within two years from the 
+publication of this Regulation. As there is no risk for consumers, it is appropriate to set the MRLs for those 
+products in Annex II to Regulation (EC) No 396/2005 at the levels identified by the Authority.
+(9)
+For tetraconazole, the Authority identified that no residue trials were available to derive MRL values for peppers, 
+barley, buckwheat, maize, millet, oat, rice, and sorghum, so that further consideration by risk managers was 
+required. In the absence of such trials, the Commission considers that it is appropriate to set the MRLs for those 
+products at the LODs specific to each product in Annex II to Regulation (EC) No 396/2005.
+(10)
+For tetraconazole, the European Union reference laboratories for residues of pesticides proposed to change the 
+residue definition to ‘Tetraconazole (sum of constituent isomers)’ to clarify that residues can occur at any isomer 
+ratio, as tetraconazole is a chiral compound. The Commission considers this new residue definition to be 
+appropriate as it will ensure a high level of consumer protection and facilitate controls by enforcement authorities, 
+and it does not affect the Authority’s reasoned opinion. Therefore, in accordance with Article 14(2)(f) of Regulation 
+(EC) No 396/2005, the residue definition for tetraconazole should be ‘Tetraconazole (sum of constituent isomers)’.
+(6) European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for novaluron according to 
+Article 12 of Regulation (EC) No 396/2005. EFSA Journal 2022;20(1):7041.
+(7) European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for tetraconazole according 
+to Article 12 of Regulation (EC) No 396/2005. EFSA Journal 2022;20(1):7111.
+EN
+Official Journal of the European Union 
+L 68/56 
+6.3.2023  
+
+(11)
+The Authority assessed the existing Codex maximum residue levels (‘CXLs’) in its reasoned opinions. For setting the 
+MRLs, the Commission has taken into account those CXLs that are considered safe for consumers in the Union.
+(12)
+As regards products on which the use of plant protection products containing the active substances isoxaben, 
+novaluron or tetraconazole is not authorised, and for which no import tolerances or CXLs exist, it is appropriate to 
+set the MRLs at the specific LODs, or the default MRL should apply as provided for in Article 18(1), point (b), of 
+Regulation (EC) No 396/2005.
+(13)
+The Commission consulted the European Union reference laboratories for residues of pesticides on the need to adapt 
+certain LODs. For all the active substances covered by this Regulation, those laboratories proposed product specific 
+LODs.
+(14)
+Through the World Trade Organisation, the trading partners of the Union were consulted on the new MRLs and their 
+comments have been taken into account.
+(15)
+Regulation (EC) No 396/2005 should therefore be amended accordingly.
+(16)
+For isoxaben and tetraconazole, to allow for the normal marketing, processing and consumption of products, this 
+Regulation should not apply to products, which have been produced in the Union or imported into the Union 
+before the new MRLs become applicable and for which a high level of consumer protection is maintained.
+(17)
+A reasonable period should be allowed to elapse before the new MRLs become applicable, in order to permit 
+Member States, third countries and food business operators to adapt themselves to the requirements which result 
+from the modification of the MRLs.
+(18)
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes II, III and V to Regulation (EC) No 396/2005 are amended in accordance with the Annex to this Regulation.
+Article 2
+As regards the active substances isoxaben and tetraconazole in and on all products, Regulation (EC) No 396/2005 as it 
+stood before being amended by this Regulation shall continue to apply to products which were produced in the Union or 
+imported into the Union before 26 September 2023.
+Article 3
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+It shall apply from 26 September 2023.
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/57  
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 3 March 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 68/58 
+6.3.2023  
+
+ANNEX 
+Annexes II, III and V to Regulation (EC) No 396/2005 are amended as follows:
+(1) in Annex II, the following columns for isoxaben, tetraconazole are added:
+‘Pesticide residues and maximum residue levels (mg/kg)
+Code number
+Groups and examples of individual products to which the MRLs apply (a)
+Isoxaben 
+Tetraconazole (sum  
+of constituent  
+isomers) (F)  
+(1)
+(2)
+(3)
+(4)
+0 100 000
+FRUITS, FRESH or FROZEN; TREE NUTS
+0 110 000
+Citrus fruits
+0,01 *
+0,01 *
+0 110 010
+Grapefruits
+0 110 020
+Oranges
+0 110 030
+Lemons
+0 110 040
+Limes
+0 110 050
+Mandarins
+0 110 990
+Others (2)
+0 120 000
+Tree nuts
+0,01 *
+0,01 *
+0 120 010
+Almonds
+0 120 020
+Brazil nuts
+0 120 030
+Cashew nuts
+0 120 040
+Chestnuts
+0 120 050
+Coconuts
+0 120 060
+Hazelnuts/cobnuts
+0 120 070
+Macadamias
+0 120 080
+Pecans
+0 120 090
+Pine nut kernels
+0 120 100
+Pistachios
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/59  
+
+(1)
+(2)
+(3)
+(4)
+0 120 110
+Walnuts
+0 120 990
+Others (2)
+0 130 000
+Pome fruits
+0,01 *
+0 130 010
+Apples
+0,3(+)
+0 130 020
+Pears
+0,3(+)
+0 130 030
+Quinces
+0,3(+)
+0 130 040
+Medlars
+0,3(+)
+0 130 050
+Loquats/Japanese medlars
+0,2(+)
+0 130 990
+Others (2)
+0,01 *
+0 140 000
+Stone fruits
+0,01 *
+0 140 010
+Apricots
+0,03(+)
+0 140 020
+Cherries (sweet)
+0,01 *
+0 140 030
+Peaches
+0,03(+)
+0 140 040
+Plums
+0,01 *
+0 140 990
+Others (2)
+0,01 *
+0 150 000
+Berries and small fruits
+0 151 000
+(a) grapes
+0,01 *
+0,07
+0 151 010
+Table grapes
+(+)
+0 151 020
+Wine grapes
+(+)
+0 152 000
+(b) strawberries
+0,01
+0,15(+)
+0 153 000
+(c) cane fruits
+0,01 *
+0,01 *
+0 153 010
+Blackberries
+0 153 020
+Dewberries
+0 153 030
+Raspberries (red and yellow)
+0 153 990
+Others (2)
+EN
+Official Journal of the European Union 
+L 68/60 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 154 000
+(d) other small fruits and berries
+0,01 *
+0,01 *
+0 154 010
+Blueberries
+0 154 020
+Cranberries
+0 154 030
+Currants (black, red and white)
+0 154 040
+Gooseberries (green, red and yellow)
+0 154 050
+Rose hips
+0 154 060
+Mulberries (black and white)
+0 154 070
+Azaroles/Mediterranean medlars
+0 154 080
+Elderberries
+0 154 990
+Others (2)
+0 160 000
+Miscellaneous fruitswith
+0,01 *
+0 161 000
+(a) edible peel
+0 161 010
+Dates
+0,01 *
+0 161 020
+Figs
+0,01 *
+0 161 030
+Table olives
+0,01 *
+0 161 040
+Kumquats
+0,01 *
+0 161 050
+Carambolas
+0,01 *
+0 161 060
+Kaki/Japanese persimmons
+0,09
+0 161 070
+Jambuls/jambolans
+0,01 *
+0 161 990
+Others (2)
+0,01 *
+0 162 000
+(b) inedible peel, small
+0,01 *
+0 162 010
+Kiwi fruits (green, red, yellow)
+0 162 020
+Litchis/lychees
+0 162 030
+Passionfruits/maracujas
+0 162 040
+Prickly pears/cactus fruits
+0 162 050
+Star apples/cainitos
+0 162 060
+American persimmons/Virginia kaki
+0 162 990
+Others (2)
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/61  
+
+(1)
+(2)
+(3)
+(4)
+0 163 000
+(c) inedible peel, large
+0,01 *
+0 163 010
+Avocados
+0 163 020
+Bananas
+0 163 030
+Mangoes
+0 163 040
+Papayas
+0 163 050
+Granate apples/pomegranates
+0 163 060
+Cherimoyas
+0 163 070
+Guavas
+0 163 080
+Pineapples
+0 163 090
+Breadfruits
+0 163 100
+Durians
+0 163 110
+Soursops/guanabanas
+0 163 990
+Others (2)
+0 200 000
+VEGETABLES, FRESH or FROZEN
+0 210 000
+Root and tuber vegetables
+0,01 *
+0,01 *
+0 211 000
+(a) potatoes
+0 212 000
+(b) tropical root and tuber vegetables
+0 212 010
+Cassava roots/manioc
+0 212 020
+Sweet potatoes
+0 212 030
+Yams
+0 212 040
+Arrowroots
+0 212 990
+Others (2)
+0 213 000
+(c) other root and tuber vegetables except sugar beets
+0 213 010
+Beetroots
+0 213 020
+Carrots
+0 213 030
+Celeriacs/turnip rooted celeries
+0 213 040
+Horseradishes
+0 213 050
+Jerusalem artichokes
+EN
+Official Journal of the European Union 
+L 68/62 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 213 060
+Parsnips
+0 213 070
+Parsley roots/Hamburg roots parsley
+0 213 080
+Radishes
+0 213 090
+Salsifies
+0 213 100
+Swedes/rutabagas
+0 213 110
+Turnips
+0 213 990
+Others (2)
+0 220 000
+Bulb vegetables
+0,01 *
+0,01 *
+0 220 010
+Garlic
+0 220 020
+Onions
+0 220 030
+Shallots
+0 220 040
+Spring onions/green onions and Welsh onions
+0 220 990
+Others (2)
+0 230 000
+Fruiting vegetables
+0 231 000
+(a) Solanaceae and Malvaceae
+0,01 *
+0 231 010
+Tomatoes
+0,15(+)
+0 231 020
+Sweet peppers/bell peppers
+0,01 *
+0 231 030
+Aubergines/eggplants
+0,15(+)
+0 231 040
+Okra/lady's fingers
+0,01 *
+0 231 990
+Others (2)
+0,01 *
+0 232 000
+(b) cucurbits with edible peel
+0,15
+0 232 010
+Cucumbers
+0,01 *
+(+)
+0 232 020
+Gherkins
+0,01 *
+(+)
+0 232 030
+Courgettes
+0,05
+(+)
+0 232 990
+Others (2)
+0,01 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/63  
+
+(1)
+(2)
+(3)
+(4)
+0 233 000
+(c) cucurbits with inedible peel
+0,01 *
+0,08
+0 233 010
+Melons
+(+)
+0 233 020
+Pumpkins
+(+)
+0 233 030
+Watermelons
+(+)
+0 233 990
+Others (2)
+0 234 000
+(d) sweet corn
+0,01 *
+0,01 *
+0 239 000
+(e) other fruiting vegetables
+0,01 *
+0,01 *
+0 240 000
+Brassica vegetables(excluding brassica roots and brassica baby leaf crops)
+0,01 *
+0,01 *
+0 241 000
+(a) flowering brassica
+0 241 010
+Broccoli
+0 241 020
+Cauliflowers
+0 241 990
+Others (2)
+0 242 000
+(b) head brassica
+0 242 010
+Brussels sprouts
+0 242 020
+Head cabbages
+0 242 990
+Others (2)
+0 243 000
+(c) leafy brassica
+0 243 010
+Chinese cabbages/pe-tsai
+0 243 020
+Kales
+0 243 990
+Others (2)
+0 244 000
+(d) kohlrabies
+0 250 000
+Leaf vegetables, herbs and edible flowers
+0,01 *
+EN
+Official Journal of the European Union 
+L 68/64 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 251 000
+(a) lettuces and salad plants
+0,01 *
+0 251 010
+Lamb's lettuces/corn salads
+0 251 020
+Lettuces
+0 251 030
+Escaroles/broad-leaved endives
+0 251 040
+Cresses and other sprouts and shoots
+0 251 050
+Land cresses
+0 251 060
+Roman rocket/rucola
+0 251 070
+Red mustards
+0 251 080
+Baby leaf crops (including brassica species)
+0 251 990
+Others (2)
+0 252 000
+(b) spinaches and similar leaves
+0,01 *
+0 252 010
+Spinaches
+0 252 020
+Purslanes
+0 252 030
+Chards/beet leaves
+0 252 990
+Others (2)
+0 253 000
+(c) grape leaves and similar species
+0,01 *
+0 254 000
+(d) watercresses
+0,01 *
+0 255 000
+(e) witloofs/Belgian endives
+0,02(+)
+0 256 000
+(f) herbs and edible flowers
+0,02 *
+0 256 010
+Chervil
+0 256 020
+Chives
+0 256 030
+Celery leaves
+0 256 040
+Parsley
+0 256 050
+Sage
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/65  
+
+(1)
+(2)
+(3)
+(4)
+0 256 060
+Rosemary
+0 256 070
+Thyme
+0 256 080
+Basil and edible flowers
+0 256 090
+Laurel/bay leaves
+0 256 100
+Tarragon
+0 256 990
+Others (2)
+0 260 000
+Legume vegetables
+0,01 *
+0 260 010
+Beans (with pods)
+0,01 *
+0 260 020
+Beans (without pods)
+0,02
+0 260 030
+Peas (with pods)
+0,01 *
+0 260 040
+Peas (without pods)
+0,02
+0 260 050
+Lentils
+0,01 *
+0 260 990
+Others (2)
+0,01 *
+0 270 000
+Stem vegetables
+0,01 *
+0 270 010
+Asparagus
+0,01 *
+0 270 020
+Cardoons
+0,01 *
+0 270 030
+Celeries
+0,01 *
+0 270 040
+Florence fennels
+0,01 *
+0 270 050
+Globe artichokes
+0,2(+)
+0 270 060
+Leeks
+0,01 *
+0 270 070
+Rhubarbs
+0,01 *
+0 270 080
+Bamboo shoots
+0,01 *
+0 270 090
+Palm hearts
+0,01 *
+0 270 990
+Others (2)
+0,01 *
+EN
+Official Journal of the European Union 
+L 68/66 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 280 000
+Fungi, mosses and lichens
+0,01 *
+0,01 *
+0 280 010
+Cultivated fungi
+0 280 020
+Wild fungi
+0 280 990
+Mosses and lichens
+0 290 000
+Algae and prokaryotes organisms
+0,01 *
+0,01 *
+0 300 000
+PULSES
+0,01 *
+0,01 *
+0 300 010
+Beans
+0 300 020
+Lentils
+0 300 030
+Peas
+0 300 040
+Lupins/lupini beans
+0 300 990
+Others (2)
+0 400 000
+OILSEEDS AND OIL FRUITS
+0,01 *
+0 401 000
+Oilseeds
+0 401 010
+Linseeds
+0,15
+0 401 020
+Peanuts/groundnuts
+0,01 *
+0 401 030
+Poppy seeds
+0,01 *
+0 401 040
+Sesame seeds
+0,01 *
+0 401 050
+Sunflower seeds
+0,01 *
+0 401 060
+Rapeseeds/canola seeds
+0,15(+)
+0 401 070
+Soyabeans
+0,01 *
+0 401 080
+Mustard seeds
+0,01 *
+0 401 090
+Cotton seeds
+(+)
+0,01 *
+0 401 100
+Pumpkin seeds
+0,01 *
+0 401 110
+Safflower seeds
+0,01 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/67  
+
+(1)
+(2)
+(3)
+(4)
+0 401 120
+Borage seeds
+0,01 *
+0 401 130
+Gold of pleasure seeds
+0,01 *
+0 401 140
+Hemp seeds
+0,01 *
+0 401 150
+Castor beans
+0,01 *
+0 401 990
+Others (2)
+0,01 *
+0 402 000
+Oil fruits
+0,01 *
+0 402 010
+Olives for oil production
+0 402 020
+Oil palms kernels
+0 402 030
+Oil palms fruits
+0 402 040
+Kapok
+0 402 990
+Others (2)
+0 500 000
+CEREALS
+0,01 *
+0 500 010
+Barley
+0,01 *
+0 500 020
+Buckwheat and other pseudocereals
+0,01 *
+0 500 030
+Maize/corn
+0,01 *
+0 500 040
+Common millet/proso millet
+0,01 *
+0 500 050
+Oat
+0,01 *
+0 500 060
+Rice
+0,01 *
+0 500 070
+Rye
+0,02(+)
+0 500 080
+Sorghum
+0,01 *
+0 500 090
+Wheat
+0,02(+)
+0 500 990
+Others (2)
+0,01 *
+0 600 000
+TEAS, COFFEE, HERBAL INFUSIONS, COCOA AND CAROBS
+0,05 *
+0,05 *
+0 610 000
+Teas
+0 620 000
+Coffee beans
+EN
+Official Journal of the European Union 
+L 68/68 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 630 000
+Herbal infusions from
+0 631 000
+(a) flowers
+(+)
+0 631 010
+Chamomile
+(+)
+0 631 020
+Hibiscus/roselle
+(+)
+0 631 030
+Rose
+(+)
+0 631 040
+Jasmine
+(+)
+0 631 050
+Lime/linden
+(+)
+0 631 990
+Others (2)
+0 632 000
+(b) leaves and herbs
+0 632 010
+Strawberry
+0 632 020
+Rooibos
+0 632 030
+Mate/maté
+0 632 990
+Others (2)
+0 633 000
+(c) roots
+(+)
+0 633 010
+Valerian
+(+)
+0 633 020
+Ginseng
+(+)
+0 633 990
+Others (2)
+0 639 000
+(d) any other parts of the plant
+0 640 000
+Cocoa beans
+0 650 000
+Carobs/Saint John's breads
+0 700 000
+HOPS
+0,05 *(+)
+0,05 *
+0 800 000
+SPICES
+0 810 000
+Seed spices
+0,05 *
+0,05 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/69  
+
+(1)
+(2)
+(3)
+(4)
+0 810 010
+Anise/aniseed
+0 810 020
+Black caraway/black cumin
+0 810 030
+Celery
+0 810 040
+Coriander
+0 810 050
+Cumin
+0 810 060
+Dill
+0 810 070
+Fennel
+0 810 080
+Fenugreek
+0 810 090
+Nutmeg
+0 810 990
+Others (2)
+0 820 000
+Fruit spices
+0,05 *
+0,05 *
+0 820 010
+Allspice/pimento
+0 820 020
+Sichuan pepper
+0 820 030
+Caraway
+0 820 040
+Cardamom
+0 820 050
+Juniper berry
+0 820 060
+Peppercorn (black, green and white)
+0 820 070
+Vanilla
+0 820 080
+Tamarind
+0 820 990
+Others (2)
+0 830 000
+Bark spices
+0,05 *
+0,05 *
+0 830 010
+Cinnamon
+0 830 990
+Others (2)
+0 840 000
+Root and rhizome spices
+EN
+Official Journal of the European Union 
+L 68/70 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+0 840 010
+Liquorice
+0,05 *
+0,05 *
+0 840 020
+Ginger (10)
+0 840 030
+Turmeric/curcuma
+0,05 *
+0,05 *
+0 840 040
+Horseradish (11)
+0 840 990
+Others (2)
+0,05 *
+0,05 *
+0 850 000
+Bud spices
+0,05 *
+0,05 *
+0 850 010
+Cloves
+0 850 020
+Capers
+0 850 990
+Others (2)
+0 860 000
+Flower pistil spices
+0,05 *
+0,05 *
+0 860 010
+Saffron
+0 860 990
+Others (2)
+0 870 000
+Aril spices
+0,05 *
+0,05 *
+0 870 010
+Mace
+0 870 990
+Others (2)
+0 900 000
+SUGAR PLANTS
+0,01 *
+0 900 010
+Sugar beet roots
+0,01 *(+)
+0 900 020
+Sugar canes
+0,01 *
+0 900 030
+Chicory roots
+0,06(+)
+0 900 990
+Others (2)
+0,01 *
+1 000 000
+PRODUCTS OF ANIMAL ORIGIN -TERRESTRIAL ANIMALS
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/71  
+
+(1)
+(2)
+(3)
+(4)
+1 010 000
+Commodities from
+0,01 *
+1 011 000
+(a) swine
+1 011 010
+Muscle
+0,01 *(+)
+1 011 020
+Fat
+0,07(+)
+1 011 030
+Liver
+0,7(+)
+1 011 040
+Kidney
+0,04(+)
+1 011 050
+Edible offals (other than liver and kidney)
+0,7
+1 011 990
+Others (2)
+0,01 *
+1 012 000
+(b) bovine
+1 012 010
+Muscle
+0,015(+)
+1 012 020
+Fat
+0,2(+)
+1 012 030
+Liver
+1,5(+)
+1 012 040
+Kidney
+0,06(+)
+1 012 050
+Edible offals (other than liver and kidney)
+1,5
+1 012 990
+Others (2)
+0,01 *
+1 013 000
+(c) sheep
+1 013 010
+Muscle
+0,01 *(+)
+1 013 020
+Fat
+0,09(+)
+1 013 030
+Liver
+0,9(+)
+1 013 040
+Kidney
+0,05(+)
+1 013 050
+Edible offals (other than liver and kidney)
+0,9
+EN
+Official Journal of the European Union 
+L 68/72 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+1 013 990
+Others (2)
+0,01 *
+1 014 000
+d) goat
+1 014 010
+Muscle
+0,01 *(+)
+1 014 020
+Fat
+0,09(+)
+1 014 030
+Liver
+0,9(+)
+1 014 040
+Kidney
+0,05(+)
+1 014 050
+Edible offals (other than liver and kidney)
+0,9
+1 014 990
+Others (2)
+0,01 *
+1 015 000
+(e) equine
+1 015 010
+Muscle
+0,015(+)
+1 015 020
+Fat
+0,2(+)
+1 015 030
+Liver
+1,5(+)
+1 015 040
+Kidney
+0,06(+)
+1 015 050
+Edible offals (other than liver and kidney)
+1,5
+1 015 990
+Others (2)
+0,01 *
+1 016 000
+(f) poultry
+1 016 010
+Muscle
+0,015(+)
+1 016 020
+Fat
+0,3(+)
+1 016 030
+Liver
+0,05(+)
+1 016 040
+Kidney
+0,01 *(+)
+1 016 050
+Edible offals (other than liver and kidney)
+0,3
+1 016 990
+Others (2)
+0,01 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/73  
+
+(1)
+(2)
+(3)
+(4)
+1 017 000
+(g) other farmed terrestrial animals
+1 017 010
+Muscle
+0,01 *
+1 017 020
+Fat
+0,09
+1 017 030
+Liver
+0,9
+1 017 040
+Kidney
+0,05
+1 017 050
+Edible offals (other than liver and kidney)
+0,9
+1 017 990
+Others (2)
+0,01 *
+1 020 000
+Milk
+0,01 *
+1 020 010
+Cattle
+0,02(+)
+1 020 020
+Sheep
+0,01 *(+)
+1 020 030
+Goat
+0,01 *(+)
+1 020 040
+Horse
+0,02(+)
+1 020 990
+Others (2)
+0,01 *
+1 030 000
+Birds eggs
+0,01 *
+0,05
+1 030 010
+Chicken
+(+)
+1 030 020
+Duck
+(+)
+1 030 030
+Geese
+(+)
+1 030 040
+Quail
+(+)
+1 030 990
+Others (2)
+1 040 000
+Honey and other apiculture products (7)
+0,05 *
+0,05 *
+1 050 000
+Amphibians and Reptiles
+0,01 *
+0,01 *
+1 060 000
+Terrestrial invertebrate animals
+0,01 *
+0,01 *
+EN
+Official Journal of the European Union 
+L 68/74 
+6.3.2023  
+
+(1)
+(2)
+(3)
+(4)
+1 070 000
+Wild terrestrial vertebrate animals
+0,01 *
+0,01 *
+1 100 000
+PRODUCTS OF ANIMAL ORIGIN - FISH, FISHPRODUCTS AND ANY OTHER MARINE AND FRESHWATER 
+FOOD PRODUCTS (8)
+1 200 000
+PRODUCTS OR PART OF PRODUCTS EXCLUSIVELY USED FOR ANIMAL FEED PRODUCTION (8)
+1 300 000
+PROCESSED FOOD PRODUCTS (9)
+* Indicates lower limit of analytical determination
+(a) For the complete list of products of plant and animal origin to which MRL's apply, reference should be made to Annex I
+Isoxaben
+The European Food Safety Authority identified some information on residue trials as unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the first 
+sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0401090 Cotton seeds
+The European Food Safety Authority identified some information on residue trials and analytical methods as unavailable. When re-viewing the MRL, the Commission will take into account the information 
+referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0631000 (a) flowers
+0631010 Chamomile
+0631020 Hibiscus/roselle
+0631030 Rose
+0631040 Jasmine
+0631050 Lime/linden
+The European Food Safety Authority identified some information on analytical methods as unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the 
+first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0633000 (c) roots
+0633010 Valerian
+0633020 Ginseng
+0700000 HOPS
+Tetraconazole (sum of constituent isomers) (F)
+(F) Fat soluble
+The European Food Safety Authority identified some information on residue trials including analysis of parent and metabolites as unavailable. When re-viewing the MRL, the Commission will take into 
+account the information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0130010 Apples
+0130020 Pears
+0140010 Apricots
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/75  
+
+0140030 Peaches
+1011010 Muscle
+1011020 Fat
+1011030 Liver
+1011040 Kidney
+1012010 Muscle
+1012020 Fat
+1012030 Liver
+1012040 Kidney
+1013010 Muscle
+1013020 Fat
+1013030 Liver
+1013040 Kidney
+1014010 Muscle
+1014020 Fat
+1014030 Liver
+1014040 Kidney
+1015010 Muscle
+1015020 Fat
+1015030 Liver
+1015040 Kidney
+1016010 Muscle
+1016020 Fat
+1016030 Liver
+1016040 Kidney
+1020010 Cattle
+1020020 Sheep
+1020030 Goat
+1020040 Horse
+1030010 Chicken
+1030020 Duck
+1030030 Geese
+1030040 Quail
+The European Food Safety Authority identified some information on residue trials including analysis of metabolites as unavailable. When re-viewing the MRL, the Commission will take into account the 
+information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0130030 Quinces
+0130040 Medlars
+0130050 Loquats/Japanese medlars
+The European Food Safety Authority identified some information on storage stability of a metabolite as unavailable. When re-viewing the MRL, the Commission will take into account the information 
+referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0151010 Table grapes
+The European Food Safety Authority identified some information on residue trials and storage stability of metabolites as unavailable. When re-viewing the MRL, the Commission will take into account the 
+information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0151020 Wine grapes
+EN
+Official Journal of the European Union 
+L 68/76 
+6.3.2023  
+
+The European Food Safety Authority identified some information on residue trials including analysis of metabolites, storage stability of a metabolite and residues of metabolites in rotational crops as 
+unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted 
+by that date, the lack of it.
+0152000 (b) strawberries
+The European Food Safety Authority identified some information on residue trials including analysis of metabolites and residues of metabolites in rotational crops as unavailable. When re-viewing the 
+MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0231010 Tomatoes
+0231030 Aubergines/eggplants
+0232010 Cucumbers
+0232030 Courgettes
+0233010 Melons
+0233020 Pumpkins
+0233030 Watermelons
+0500070 Rye
+0500090 Wheat
+0900010 Sugar beet roots
+The European Food Safety Authority identified some information on residues of metabolites in rotational crops as unavailable. When re-viewing the MRL, the Commission will take into account the 
+information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0232020 Gherkins
+The European Food Safety Authority identified some information on residue trials including analysis of metabolites as unavailable. When re-viewing the MRL, the Commission will take into account the 
+information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0255000 (e) witloofs/Belgian endives
+The European Food Safety Authority identified some information on residue trials including analysis of parent and metabolites and residues of metabolites in rotational crops as unavailable. When 
+re-viewing the MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the 
+lack of it.
+0270050 Globe artichokes
+The European Food Safety Authority identified some information on residue trials including analysis of parent and metabolites, storage stability of metabolites, and residues of metabolites in rotational 
+crops as unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not 
+submitted by that date, the lack of it.
+0401060 Rapeseeds/canola seeds
+The European Food Safety Authority identified some information on residue trials including analysis of parent as unavailable. When re-viewing the MRL, the Commission will take into account the 
+information referred to in the first sentence, if it is submitted by 6 March 2025, or, if that information is not submitted by that date, the lack of it.
+0900030 Chicory roots’
+(2) in Part A of Annex III, the columns for isoxaben, novaluron, tetraconazole are deleted;
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/77  
+
+(3) in Annex V, the following column for novaluron is added:
+‘Pesticide residues and maximum residue levels (mg/kg)
+Code number
+Groups and examples of individual products to which the MRLs apply (a)
+(sum of  
+constituent isomers) (F) 
+(1)
+(2)
+(3)
+0100000
+FRUITS, FRESH or FROZEN; TREE NUTS
+0,01 *
+0110000
+Citrus fruits
+0110010
+Grapefruits
+0110020
+Oranges
+0110030
+Lemons
+0110040
+Limes
+0110050
+Mandarins
+0110990
+Others (2)
+0120000
+Tree nuts
+0120010
+Almonds
+0120020
+Brazil nuts
+0120030
+Cashew nuts
+0120040
+Chestnuts
+0120050
+Coconuts
+0120060
+Hazelnuts/cobnuts
+0120070
+Macadamias
+0120080
+Pecans
+0120090
+Pine nut kernels
+0120100
+Pistachios
+0120110
+Walnuts
+EN
+Official Journal of the European Union 
+L 68/78 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0120990
+Others (2)
+0130000
+Pome fruits
+0130010
+Apples
+0130020
+Pears
+0130030
+Quinces
+0130040
+Medlars
+0130050
+Loquats/Japanese medlars
+0130990
+Others (2)
+0140000
+Stone fruits
+0140010
+Apricots
+0140020
+Cherries (sweet)
+0140030
+Peaches
+0140040
+Plums
+0140990
+Others (2)
+0150000
+Berries and small fruits
+0151000
+(a) grapes
+0151010
+Table grapes
+0151020
+Wine grapes
+0152000
+(b) strawberries
+0153000
+(c) cane fruits
+0153010
+Blackberries
+0153020
+Dewberries
+0153030
+Raspberries (red and yellow)
+0153990
+Others (2)
+0154000
+(d) other small fruits and berries
+0154010
+Blueberries
+0154020
+Cranberries
+0154030
+Currants (black, red and white)
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/79  
+
+(1)
+(2)
+(3)
+0154040
+Gooseberries (green, red and yellow)
+0154050
+Rose hips
+0154060
+Mulberries (black and white)
+0154070
+Azaroles/Mediterranean medlars
+0154080
+Elderberries
+0154990
+Others (2)
+0160000
+Miscellaneous fruitswith
+0161000
+(a) edible peel
+0161010
+Dates
+0161020
+Figs
+0161030
+Table olives
+0161040
+Kumquats
+0161050
+Carambolas
+0161060
+Kaki/Japanese persimmons
+0161070
+Jambuls/jambolans
+0161990
+Others (2)
+0162000
+(b) inedible peel, small
+0162010
+Kiwi fruits (green, red, yellow)
+0162020
+Litchis/lychees
+0162030
+Passionfruits/maracujas
+0162040
+Prickly pears/cactus fruits
+0162050
+Star apples/cainitos
+0162060
+American persimmons/Virginia kaki
+0162990
+Others (2)
+EN
+Official Journal of the European Union 
+L 68/80 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0163000
+(c) inedible peel, large
+0163010
+Avocados
+0163020
+Bananas
+0163030
+Mangoes
+0163040
+Papayas
+0163050
+Granate apples/pomegranates
+0163060
+Cherimoyas
+0163070
+Guavas
+0163080
+Pineapples
+0163090
+Breadfruits
+0163100
+Durians
+0163110
+Soursops/guanabanas
+0163990
+Others (2)
+0200000
+VEGETABLES, FRESH or FROZEN
+0210000
+Root and tuber vegetables
+0,01 *
+0211000
+(a) potatoes
+0212000
+(b) tropical root and tuber vegetables
+0212010
+Cassava roots/manioc
+0212020
+Sweet potatoes
+0212030
+Yams
+0212040
+Arrowroots
+0212990
+Others (2)
+0213000
+(c) other root and tuber vegetables except sugar beets
+0213010
+Beetroots
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/81  
+
+(1)
+(2)
+(3)
+0213020
+Carrots
+0213030
+Celeriacs/turnip rooted celeries
+0213040
+Horseradishes
+0213050
+Jerusalem artichokes
+0213060
+Parsnips
+0213070
+Parsley roots/Hamburg roots parsley
+0213080
+Radishes
+0213090
+Salsifies
+0213100
+Swedes/rutabagas
+0213110
+Turnips
+0213990
+Others (2)
+0220000
+Bulb vegetables
+0,01 *
+0220010
+Garlic
+0220020
+Onions
+0220030
+Shallots
+0220040
+Spring onions/green onions and Welsh onions
+0220990
+Others (2)
+0230000
+Fruiting vegetables
+0,01 *
+0231000
+(a) Solanaceae and Malvaceae
+0231010
+Tomatoes
+0231020
+Sweet peppers/bell peppers
+0231030
+Aubergines/eggplants
+0231040
+Okra/lady's fingers
+0231990
+Others (2)
+EN
+Official Journal of the European Union 
+L 68/82 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0232000
+(b) cucurbits with edible peel
+0232010
+Cucumbers
+0232020
+Gherkins
+0232030
+Courgettes
+0232990
+Others (2)
+0233000
+(c) cucurbits with inedible peel
+0233010
+Melons
+0233020
+Pumpkins
+0233030
+Watermelons
+0233990
+Others (2)
+0234000
+(d) sweet corn
+0239000
+(e) other fruiting vegetables
+0240000
+Brassica vegetables(excluding brassica roots and brassica baby leaf crops)
+0,01 *
+0241000
+(a) flowering brassica
+0241010
+Broccoli
+0241020
+Cauliflowers
+0241990
+Others (2)
+0242000
+(b) head brassica
+0242010
+Brussels sprouts
+0242020
+Head cabbages
+0242990
+Others (2)
+0243000
+(c) leafy brassica
+0243010
+Chinese cabbages/pe-tsai
+0243020
+Kales
+0243990
+Others (2)
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/83  
+
+(1)
+(2)
+(3)
+0244000
+(d) kohlrabies
+0250000
+Leaf vegetables, herbs and edible flowers
+0251000
+(a) lettuces and salad plants
+0,01 *
+0251010
+Lamb's lettuces/corn salads
+0251020
+Lettuces
+0251030
+Escaroles/broad-leaved endives
+0251040
+Cresses and other sprouts and shoots
+0251050
+Land cresses
+0251060
+Roman rocket/rucola
+0251070
+Red mustards
+0251080
+Baby leaf crops (including brassica species)
+0251990
+Others (2)
+0252000
+(b) spinaches and similar leaves
+0,01 *
+0252010
+Spinaches
+0252020
+Purslanes
+0252030
+Chards/beet leaves
+0252990
+Others (2)
+0253000
+(c) grape leaves and similar species
+0,01 *
+0254000
+(d) watercresses
+0,01 *
+0255000
+(e) witloofs/Belgian endives
+0,01 *
+0256000
+(f) herbs and edible flowers
+0,02 *
+0256010
+Chervil
+0256020
+Chives
+0256030
+Celery leaves
+0256040
+Parsley
+EN
+Official Journal of the European Union 
+L 68/84 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0256050
+Sage
+0256060
+Rosemary
+0256070
+Thyme
+0256080
+Basil and edible flowers
+0256090
+Laurel/bay leaves
+0256100
+Tarragon
+0256990
+Others (2)
+0260000
+Legume vegetables
+0,01 *
+0260010
+Beans (with pods)
+0260020
+Beans (without pods)
+0260030
+Peas (with pods)
+0260040
+Peas (without pods)
+0260050
+Lentils
+0260990
+Others (2)
+0270000
+Stem vegetables
+0,01 *
+0270010
+Asparagus
+0270020
+Cardoons
+0270030
+Celeries
+0270040
+Florence fennels
+0270050
+Globe artichokes
+0270060
+Leeks
+0270070
+Rhubarbs
+0270080
+Bamboo shoots
+0270090
+Palm hearts
+0270990
+Others (2)
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/85  
+
+(1)
+(2)
+(3)
+0280000
+Fungi, mosses and lichens
+0,01 *
+0280010
+Cultivated fungi
+0280020
+Wild fungi
+0280990
+Mosses and lichens
+0290000
+Algae and prokaryotes organisms
+0,01 *
+0300000
+PULSES
+0,01 *
+0300010
+Beans
+0300020
+Lentils
+0300030
+Peas
+0300040
+Lupins/lupini beans
+0300990
+Others (2)
+0400000
+OILSEEDS AND OIL FRUITS
+0,01 *
+0401000
+Oilseeds
+0401010
+Linseeds
+0401020
+Peanuts/groundnuts
+0401030
+Poppy seeds
+0401040
+Sesame seeds
+0401050
+Sunflower seeds
+0401060
+Rapeseeds/canola seeds
+0401070
+Soyabeans
+0401080
+Mustard seeds
+0401090
+Cotton seeds
+0401100
+Pumpkin seeds
+0401110
+Safflower seeds
+EN
+Official Journal of the European Union 
+L 68/86 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0401120
+Borage seeds
+0401130
+Gold of pleasure seeds
+0401140
+Hemp seeds
+0401150
+Castor beans
+0401990
+Others (2)
+0402000
+Oil fruits
+0402010
+Olives for oil production
+0402020
+Oil palms kernels
+0402030
+Oil palms fruits
+0402040
+Kapok
+0402990
+Others (2)
+0500000
+CEREALS
+0,01 *
+0500010
+Barley
+0500020
+Buckwheat and other pseudocereals
+0500030
+Maize/corn
+0500040
+Common millet/proso millet
+0500050
+Oat
+0500060
+Rice
+0500070
+Rye
+0500080
+Sorghum
+0500090
+Wheat
+0500990
+Others (2)
+0600000
+TEAS, COFFEE, HERBAL INFUSIONS, COCOA AND CAROBS
+0,05 *
+0610000
+Teas
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/87  
+
+(1)
+(2)
+(3)
+0620000
+Coffee beans
+0630000
+Herbal infusions from
+0631000
+(a) flowers
+0631010
+Chamomile
+0631020
+Hibiscus/roselle
+0631030
+Rose
+0631040
+Jasmine
+0631050
+Lime/linden
+0631990
+Others (2)
+0632000
+(b) leaves and herbs
+0632010
+Strawberry
+0632020
+Rooibos
+0632030
+Mate/maté
+0632990
+Others (2)
+0633000
+(c) roots
+0633010
+Valerian
+0633020
+Ginseng
+0633990
+Others (2)
+0639000
+(d) any other parts of the plant
+0640000
+Cocoa beans
+0650000
+Carobs/Saint John's breads
+0700000
+HOPS
+0,05 *
+0800000
+SPICES
+0810000
+Seed spices
+0,05 *
+EN
+Official Journal of the European Union 
+L 68/88 
+6.3.2023  
+
+(1)
+(2)
+(3)
+0810010
+Anise/aniseed
+0810020
+Black caraway/black cumin
+0810030
+Celery
+0810040
+Coriander
+0810050
+Cumin
+0810060
+Dill
+0810070
+Fennel
+0810080
+Fenugreek
+0810090
+Nutmeg
+0810990
+Others (2)
+0820000
+Fruit spices
+0,05 *
+0820010
+Allspice/pimento
+0820020
+Sichuan pepper
+0820030
+Caraway
+0820040
+Cardamom
+0820050
+Juniper berry
+0820060
+Peppercorn (black, green and white)
+0820070
+Vanilla
+0820080
+Tamarind
+0820990
+Others (2)
+0830000
+Bark spices
+0,05 *
+0830010
+Cinnamon
+0830990
+Others (2)
+0840000
+Root and rhizome spices
+0840010
+Liquorice
+0,05 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/89  
+
+(1)
+(2)
+(3)
+0840020
+Ginger (10)
+0840030
+Turmeric/curcuma
+0,05 *
+0840040
+Horseradish (11)
+0840990
+Others (2)
+0,05 *
+0850000
+Bud spices
+0,05 *
+0850010
+Cloves
+0850020
+Capers
+0850990
+Others (2)
+0860000
+Flower pistil spices
+0,05 *
+0860010
+Saffron
+0860990
+Others (2)
+0870000
+Aril spices
+0,05 *
+0870010
+Mace
+0870990
+Others (2)
+0900000
+SUGAR PLANTS
+0,01 *
+0900010
+Sugar beet roots
+0900020
+Sugar canes
+0900030
+Chicory roots
+0900990
+Others (2)
+1000000
+PRODUCTS OF ANIMAL ORIGIN -TERRESTRIAL ANIMALS
+1010000
+Commodities from
+1011000
+(a) swine
+1011010
+Muscle
+0,02 *
+1011020
+Fat
+0,1 *
+EN
+Official Journal of the European Union 
+L 68/90 
+6.3.2023  
+
+(1)
+(2)
+(3)
+1011030
+Liver
+0,05 *
+1011040
+Kidney
+0,05 *
+1011050
+Edible offals (other than liver and kidney)
+0,05 *
+1011990
+Others (2)
+0,1 *
+1012000
+(b) bovine
+1012010
+Muscle
+0,02 *
+1012020
+Fat
+0,1 *
+1012030
+Liver
+0,05 *
+1012040
+Kidney
+0,05 *
+1012050
+Edible offals (other than liver and kidney)
+0,05 *
+1012990
+Others (2)
+0,1 *
+1013000
+(c) sheep
+1013010
+Muscle
+0,02 *
+1013020
+Fat
+0,1 *
+1013030
+Liver
+0,05 *
+1013040
+Kidney
+0,05 *
+1013050
+Edible offals (other than liver and kidney)
+0,05 *
+1013990
+Others (2)
+0,1 *
+1014000
+d) goat
+1014010
+Muscle
+0,02 *
+1014020
+Fat
+0,1 *
+1014030
+Liver
+0,05 *
+1014040
+Kidney
+0,05 *
+1014050
+Edible offals (other than liver and kidney)
+0,05 *
+1014990
+Others (2)
+0,1 *
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/91  
+
+(1)
+(2)
+(3)
+1015000
+(e) equine
+1015010
+Muscle
+0,02 *
+1015020
+Fat
+0,1 *
+1015030
+Liver
+0,05 *
+1015040
+Kidney
+0,05 *
+1015050
+Edible offals (other than liver and kidney)
+0,05 *
+1015990
+Others (2)
+0,1 *
+1016000
+(f) poultry
+1016010
+Muscle
+0,02 *
+1016020
+Fat
+0,1 *
+1016030
+Liver
+0,05 *
+1016040
+Kidney
+0,05 *
+1016050
+Edible offals (other than liver and kidney)
+0,05 *
+1016990
+Others (2)
+0,1 *
+1017000
+(g) other farmed terrestrial animals
+1017010
+Muscle
+0,02 *
+1017020
+Fat
+0,1 *
+1017030
+Liver
+0,05 *
+1017040
+Kidney
+0,05 *
+1017050
+Edible offals (other than liver and kidney)
+0,05 *
+1017990
+Others (2)
+0,1 *
+1020000
+Milk
+0,02 *
+1020010
+Cattle
+1020020
+Sheep
+1020030
+Goat
+1020040
+Horse
+1020990
+Others (2)
+EN
+Official Journal of the European Union 
+L 68/92 
+6.3.2023  
+
+(1)
+(2)
+(3)
+1030000
+Birds eggs
+0,01 *
+1030010
+Chicken
+1030020
+Duck
+1030030
+Geese
+1030040
+Quail
+1030990
+Others (2)
+1040000
+Honey and other apiculture products (7)
+0,05 *
+1050000
+Amphibians and Reptiles
+0,01 *
+1060000
+Terrestrial invertebrate animals
+0,01 *
+1070000
+Wild terrestrial vertebrate animals
+0,01 *
+1100000
+PRODUCTS OF ANIMAL ORIGIN - FISH, FISHPRODUCTS AND ANY OTHER MARINE AND FRESHWATER FOOD 
+PRODUCTS (8)
+1200000
+PRODUCTS OR PART OF PRODUCTS EXCLUSIVELY USED FOR ANIMAL FEED PRODUCTION (8)
+1300000
+PROCESSED FOOD PRODUCTS (9)
+* Indicates lower limit of analytical determination
+(a) For the complete list of products of plant and animal origin to which MRL's apply, reference should be made to Annex I
+Novaluron (sum of constituent isomers) (F)
+(F) Fat soluble’
+EN
+Official Journal of the European Union 
+6.3.2023 
+L 68/93

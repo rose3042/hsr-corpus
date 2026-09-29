@@ -1,0 +1,138 @@
+COMMISSION DELEGATED REGULATION (EU) 2021/1336 
+of 2 June 2021
+amending Delegated Regulation (EU) No 907/2014 as regards financial management 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on 
+the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) 
+No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (1) and in 
+particular Article 40 and Article 46(1) thereof,
+Whereas:
+(1)
+Article 40, first paragraph, of Regulation (EU) No 1306/2013 provides that any payments made by the paying 
+agencies of the Member States to the beneficiaries before the earliest possible date of payment and after the latest 
+possible date of payment are ineligible for Union financing, except in certain cases.
+(2)
+Articles 5 and 5a of Commission Delegated Regulation (EU) No 907/2014 (2) lay down the conditions under which, 
+in accordance with the principle of proportionality, expenditure effected after the payment deadlines is considered 
+eligible for Union payments.
+(3)
+Paragraph 3a was inserted in Article 5 of Delegated Regulation (EU) No 907/2014 by Commission Delegated 
+Regulation (EU) 2015/160 (3) in order to provide legal certainty and to clarify the conditions that applied to direct 
+payments made in financial year 2015 pursuant to Council Regulation (EC) No 73/2009 (4). That provision is 
+obsolete and can therefore be deleted.
+(4)
+Checks on compliance with the latest payment deadline are to be carried out both for payments under the European 
+Agricultural Guarantee Fund (‘EAGF’) and payments under the European Agricultural Fund for Rural Development 
+(‘EAFRD’). However, the checks on compliance with the payment deadlines for the EAGF are carried out twice per 
+financial year, namely on the expenditure effected by 31 July and the remaining expenditure effected by 15 October, 
+while compliance with the payment deadline for the EAFRD is checked once per financial year in respect of all 
+payments made for that financial year.
+(5)
+For reasons of simplicity and efficiency and in order to decrease the administrative burden for Member States and the 
+Commission, one single check on compliance with the payment deadlines for the entire financial year should also be 
+laid down as regards the EAGF expenditure. That check should be carried out on expenditure effected by 15 October. 
+However, where a non-compliance with payment deadlines is encountered in the context of the expenditure 
+declarations, it should be possible for the Commission to carry out an additional check on the expenditure effected 
+by 31 July.
+(1) OJ L 347, 20.12.2013, p. 549.
+(2) Commission Delegated Regulation (EU) No 907/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the 
+European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of 
+accounts, securities and use of euro (OJ L 255, 28.8.2014, p. 18).
+(3) Commission Delegated Regulation (EU) 2015/160 of 28 November 2014 amending Delegated Regulation (EU) No 907/2014 
+supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and 
+other bodies, financial management, clearance of accounts, securities and use of euro (OJ L 27, 3.2.2015, p. 7).
+(4) Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the 
+common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) 
+No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 (OJ L 30, 31.1.2009, p. 16).
+EN
+Official Journal of the European Union 
+L 289/6                                                                                                                                           
+12.8.2021  
+(6)
+Regulation (EU) 2020/2220 of the European Parliament and of the Council (5) amended Regulation (EU) 
+No 1305/2013 of the European Parliament and of the Council (6) and extended the period of duration of rural 
+development programmes supported by the EAFRD until 31 December 2022, while providing Member States with 
+the possibility to finance their extended programmes from the corresponding budget allocation for the years 2021 
+and 2022. Moreover, Regulation (EU) 2020/2220 made the additional resources from the European Union 
+Recovery Instrument (‘EURI’) available in the extended programmes in the years 2021 and 2022 to fund measures 
+under Regulation (EU) No 1305/2013 with the objective to address the impact of the COVID-19 crisis and its 
+consequences for the Union agricultural sector and rural areas.
+(7)
+As set out in recital (24) of Regulation (EU) 2020/2220, the additional resources from the EURI are subject to 
+specific conditions. Those additional resources should thus be programmed and monitored separately from the 
+Union support for rural development, while applying, in general, the rules set out in Regulation (EU) 
+No 1305/2013. Hence, those additional resources should be implemented through Regulation (EU) No 1305/2013 
+and considered in the framework of that Regulation as amounts that finance measures under the EAFRD. As a 
+consequence, the respective rules on the thresholds and reductions laid down in Article 5a of Delegated Regulation 
+(EU) No 907/2014 should be calculated separately in relation to the EAFRD allocations and in relation to the 
+additional resources referred to in Article 58a of Regulation (EU) No 1305/2013.
+(8)
+Pursuant to Delegated Regulation (EU) No 907/2014, the Commission is to make payments at monthly or other 
+regular intervals to the Member States on the basis of declarations of expenditure sent by the latter. By doing so, the 
+Commission should, however, take into account the revenue received by the paying agencies on behalf of the Union’s 
+budget, and declared by the Member States in their monthly declarations. Currently under the EAGF, the 
+Commission is netting off the expenditure amounts against the assigned revenue amounts directly in the monthly 
+payment decision issued by the Commission. This financial operation derogates from the way assigned revenue is 
+managed under other Union Funds, where it is not netted off but recovered via a recovery order drawn up pursuant 
+to Article 98 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (7). In order to 
+harmonise the Commission’s accounting practices and, in particular, the way assigned revenue is managed, it is 
+necessary to align this technical aspect of the financial management of the EAGF with the flow used by other Union 
+Funds. The conditions under which the assigned revenue effected under the EAGF is to be offset, should therefore be 
+amended accordingly, without putting at risk the timely execution of the payments to the Member States.
+(9)
+Delegated Regulation (EU) No 907/2014 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Delegated Regulation (EU) No 907/2014 is amended as follows:
+(1) Article 5 is amended as follows:
+(a) paragraph 3a is deleted;
+(5) Regulation (EU) 2020/2220 of the European Parliament and of the Council of 23 December 2020 laying down certain transitional 
+provisions for support from the European Agricultural Fund for Rural Development (EAFRD) and from the European Agricultural 
+Guarantee Fund (EAGF) in the years 2021 and 2022 and amending Regulations (EU) No 1305/2013, (EU) No 1306/2013 and (EU) 
+No 1307/2013 as regards resources and application in the years 2021 and 2022 and Regulation (EU) No 1308/2013 as regards 
+resources and the distribution of such support in respect of the years 2021 and 2022 (OJ L 437, 28.12.2020, p. 1).
+(6) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural 
+development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) 
+No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+(7) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable 
+to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) 
+No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU 
+and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+EN
+Official Journal of the European Union 
+12.8.2021                                                                                                                                           
+L 289/7  
+(b) paragraph 5 is replaced by the following:
+‘5.
+Checks on compliance with the payment deadlines shall be made once each financial year on the expenditure 
+effected by 15 October. In case non-compliance with payment deadlines is encountered in the context of the 
+monthly expenditure declarations, an additional check on compliance with the payment deadlines may be made 
+on the expenditure effected by 31 July.
+Any overrun of payment deadlines shall be taken into account, at the latest, in the accounts clearance decision 
+referred to in Article 51 of Regulation (EU) No 1306/2013.’;
+(2) in Article 5a, the following paragraph is added:
+‘7.
+The thresholds and reductions referred to in paragraphs 2 and 3 shall be calculated separately in relation to the 
+European Agricultural Fund for Rural Development allocations, without the additional resources referred to in 
+Article 58a of Regulation (EU) No 1305/2013, and in relation to those additional resources.’;
+(3) in Article 7, paragraph 1 is replaced by the following:
+‘1.
+In its decision on the monthly payments to be adopted pursuant to Article 18(3) of Regulation (EU) 
+No 1306/2013, the Commission shall pay the balance of the expenditure declared by each Member State in its 
+monthly declaration, less the assigned revenue which that Member State has included in its declarations of 
+expenditure. This set-off shall be regarded as equivalent to collection of the corresponding revenue.
+Commitment appropriations and payment appropriations generated by assigned revenue shall be open once this 
+revenue has been assigned to budget lines.’.
+Article 2
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European 
+Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 2 June 2021.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 289/8                                                                                                                                           
+12.8.2021  

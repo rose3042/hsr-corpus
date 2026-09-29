@@ -1,0 +1,378 @@
+ICS 01.040.45 $30
+TB 中华人民共和囤铁道行亚标准 TB/T 3453.1-2016
+动车组谪汇 愆浓 第1部分:基本词汇 EMU/DMU vocabuiary-Part 1: Basic vocabulary 息服务平台
+2016-09-30 发布
+2017-04-01实施
+囤家铁路局  发 布
+
+TB/T 3453.1一2016
+目 ^次
+前 言 1  范 ^围 2 动车组分类 3 动车组组成单元 4 动车组结构要素 2 5 动车组运动过程(性能及参数) 5 动力性能 8 7 动车组的方向利位置 11 8  其 他 13 参考文献 14 中文索引 15 英文索引 20 信息服务平台
+
+行业诼准信息服务平台
+
+TB/T 3453.1一2016
+前 ^言
+TB/I 3453《动车组词汇》分为三个部分: 笫1部分:基本词汇; 笫 2部分:试验; 笫3部分:部件和系统。 本部分为 TB/T 3453 的笫1部分。 本部分按照 GB/T 1.1-2009 给出的规则起草。 本部分由中国铁道科学研究院标准计量研究所提出并归口= 本部分起草单位:中车青岛四方机车车辆股份有限公司 ,中车唐山机车车辆有限公司 中车长春轨 道客车股份有限公司  牛车青岛四方车辆研究所有限公司 中车株洲电力机车研究所有限公司 ,中国铁 道科学研究院科学抄术(吉息研卒所,中国铁道科学研究院标准计量研究所= 本部分主要起草人:工!工朝眶鄢桂珍 ,阎笑鸣 刘素钦 ,壬大伟 ,陈平,任化 高俊莉 刘宗祝 , 何江.张晓坤 ,陈琦 呔准信息服务平台
+
+TB/T 3453.1一2016
+动车组词汇 第1 部分:基本词汇
+1  范 ^围
+本部分界定了动车组基本词汇的术语 英语对应词利定义。 本部分适用于动车组的标准 .技术文件和科技出版物 =
+2 动车组分类
+2。1 动车组 EMU/DMU 曲动车(有动力)和拖车(无动力)组成的自带动力 ,固定编组 .两端均可操纵驾驶 .整列一体化设计 的一组列车。 注:改写 GB/T 4549. 一2004 ,宁义2.94。 2.2 电动车组 EMIU; electric Itiiip 以电力为动力源的动车组 = 2.3 内燃动车组 DMU; diesel multiple unit 以内燃机为动力源的动车组 = #信息服务平台 2.4 动力集中动车组 concentrated power multiple unil 将列车的动力设备集中在列车的一端或两端车辆上的动车组。 2.5 动力分散动车组 separated power multiple unit 动力设备分散布置在若千车辆上 ,并且每辆车均能载客的动车组 _
+3 动车组组成单元
+3。1 动车 powered car; motor Car 在动车组中具有牵引力输出能力的车辆。 注:改写 GB/I 4549.1一2004 ,定义2.95。 3.2 拖车 trailer car 在动车组中不具有牵引力输出能力的车辆= 注:改写 GB/I 4549.1一2004 ,定义2.96。 3.3 端车 end car 在动车组两端具有司机室的车辆= 注:动车组运行前方的端车为头车,动车组运行后方的端车为尾车。
+
+TB/T 3453.1一2016
+3.4 中间车 inlermediate car 位于动车组两端车之间的车辆。 3.5 动力单元 power unit 由多个安装有动力设备的车辆连接在-起组成一个完整的可提供牵引动力的车辆组合
+4 动车组结构要素
+4.1
+动力车轴 motor axle 在动车组中配置有牵引力输出能力的车轴 = 4.2 非动力车轴 trailer axle 在动车组中末配置有牵引力输出能力的车轴。 4.3 动车组长度 Lngt of Ir?i 动车组两端车鼻端之问}兴向水下距离= 4.4 端车车辆长度 length 0f end cai ca:   端车鼻端与另一端车钩连接面之间的纵;水牛~= 4.5 中间车车辆长度 length of intermediate car 两车钩连接线或连接面间的纵向水平距离。 詹'息服务平台 4.6 端车车体长度 length 0f end carbody 车体鼻端与另一端端墙外表面间的纵向水平距脔。 4.7 中间车车体长度 length of intermediate carbody 两端墙外表面间的纵向水平距离。 4.8 车辆宽度 width of car 车辆两侧的最外凸出部位之间的横向水平距离 = 注:改写 GB/T 4549.1一2004 ,定义4.3。 4.9 车体宽度 width of carbody 车体两侧墙外表面的最大横向水平距离 = 4.10 车辆高度 height 0f car 动车组中车辆在新轮状态下空车时平直轨面到车辆顶部的垂直距离(受电弓处于落弓状态)。 注:改写 GB/I 4549.1一2004 ,定义4.5。 4.11 车体高度 height of carbody 动车组中车辆在新轮状态下空车时平直轨面到车体顶部的最大垂苴距离(不含压筋)。 2
+
+TB /T 3453.1一2016
+4.12 动车组最大高度 maximum height 0f multiple unif 动车组中车辆高度的最大值。 4.13 车钩中心线高度 coupler center heighf; height from top Of rail to coupler center 空车时 ,车钩水平状态下 ,钩舌中心线(密接式车钩为突锥中心)至轨面的垂直距离。 简称为"车钩高" 注:改写 GB/T 4549.1一2004 ,定义4.1 4.14 轴距 wheel hase 同-转向架相邻两车轴中心线间的水平距离。 注:改写 GB/I 3367.6一2000 ,定义3.5。 4.15 车辆整备重量 weight after servicing Of car 车辆自重与车辆整备品重量之和 _ 4.16 总重 gross wci;h: 自重与载重之和。 注:改写 GB/T 4549.1一22r4 ,疋义~ 4.17 水装载量 ~Kk waler capacity 注:改写 GB/T 3367.6一2000 ,定义3.16。 4.18 R  oees 恳眼务平  砂装载量 sand capacity 动车组在整备状态时 ,各砂箱装砂量的总和。 注:改写 GB/T 3367.6一2000 ,定义3.17。 4.19 动车组计算重量 calculated weight 0f multiple unit 乘务员按规定人数,燃油及砂装载量为三分之二,衿却水_机油及其他润滑剂的装载量均为正常 值 ,并包括全套随车工具和信号用具时的动车组重量= 注:改写 GB/T 3367.6一2000 ,定义3.18。 4.20 动车组整备重量 servicing weight 0f multiple unit 乘务员按规定人数 ,燃油及砂装载量为满载,衿却水 .机油及其他润滑剂的装载量均为正常值,并 包括全套随车工具和信号用具时的动车组重量。 注:改写 GB/T 3367.6一2000 ,定义3.19。 4.21 动车组空重 weight Of empty multiple unif 润滑剂的装载量均为正常值 ,但不包括乘务员 _燃油 ,全套随车工具和信号用具 水和砂的重量时 的动车组重量。 注:改写 GB/T 3367.6 2000 ,定义3.20 = 4.22 轮重 wheel load 动车组(车辆)在计算重量时 ,每个车轮作用于钢轨上的静荷重。 注:改写 GB/T 3367.6一2000 ,定义3.21。
+
+TB/T 3453.1一2016
+4.23 额定轴重 raled axle load 轮对在额定状态下作用在钢轨上的静载荷 = 4.24 最大轴重 maximum aXlC load 轮对允许负担的作用在钢轨上的最大静载荷 4.25 动车组黏着重量 adhesive weight Of multiple unif 动车组各动轴作用在轨道上正压力的总和 = 注:改写 GB/T 3367.6一2000 ,定义3.24。 4.26 牵引制动计算重量 mass for calculation of traction and hrake 动车组在额定载荷状态下的最大总质量 = 4.27 动车组重量分配 ~9ss distribution of multiple unit 把动车组的重量父配到:孓G或轮上的方法。 注:改写 GB/T 3367.6一20 ,定义 4.28 燃雎< 传动装置 drive mechanism 动车组上将动力向驱动设备传递的装置 ,芏要:机械传动装置 液力传动装置和电力传动装置 等三类。 注:改写 GB/T 3367.6一2000 ,定义 3.28。 4.29 服务平台 驱动装置 driving mechanism 将传动装置输出的动力传递到动轴的装置。 CGB/T 3367.6一2000 ,定义3.29] 4.30 独立驱动 individual drive 各动轴都是独立的 ,驱动装置可单独驱动每一根动轴的驱动方式 注:改写 GB/T 3367.6一2000 ,定义3.30。 4.31 成组驱动 coupled axle drive 由一台驱动装置驱动一组(或多组)动轴的驱动方式 注:改写 GB/T 3367.6一2000 ,定义3.31 4.32 轴悬式电动机驱动 axle suspended motor drive 在驱动装置中 ,电机的重量一部分刚性的支撑在动轴上,另-部分弹性的悬挂在转向架上。 [GB/T 3367.6一2000 ,定义3.32] 4.33 弹性轴悬式电动机驱动 elastic axle suspended motor drive 在驱动装置中 ,电机的重量一部分弹性的支撑在动轴上 ,另一部分弹性的悬挂在转向架上。 CGB/T 3367.6一2000 ,定义3.33]
+
+TB /T 3453.1一2016
+4.34 架悬式电动机驱动 frame suspended motor drive 在驱动装置中 ,电机的全部重量悬挂在转向架构架上。 [GB/T 3367.6一2000 ,定义3.34] 4.35 体悬式电动机驱动 body suspended motor drive 在驱动装置中 ,电机的全部重量悬挂在车体上。 [GB/T 3367.6一2000 ,定义3.35] 4.36 锥形踏面 conical tread 锥度角为常数的车轮踏面。 注:改写 GB/T 3367.6 2000 ,定义3.36 4.37 磨耗型踏面 WOrII profile 接近磨合后形状的车轮踏面 ,以诚少轮轨磨耗量。 注:改写 GB/T 3301.0 ?000 ,定义3.37。 4.38 车轮滚动圆直径 rollins diam '{ wheel tread 在距车轮内侧面70 mm(CRE3 开车为砟 +轮内侧面73.5 mm) 处的踏面基点测量的车轮苴径。 注:改写 GB/T 4549.2一2004 ,定义4.23。 5 动车组运动过程(性能及参数) 信息 " 5.1 动车组几何曲线通过 geometrical curve negotiation 0f mullr unit 动车组通过曲线时 ,不考虑作用在动车组上的载荷和激扰 ,只研突兴s贝与线烙的几何关系和动 车组本身有关部分在曲线上的相互几何关系。 注:改写 GB/T 3367.6一2000 ,定义4.1。 广台 5.2 通过最小曲线半径 minimum radius 0f negotiable curve 动车组或车辆在站场或厂_段内调车作业时以低于5 km/h 的速度所能安全通过的最小曲线半径。 动车组或车辆在此曲线区段上行驶时不得出现脱轨 ,倾覆等危及行车安全的事故 ,也不允许转向架与 车体底架或与车下其他悬挂物相碰。 注:改写 GB/T 3367.6一2000 ,定义4.2。 5.3 放置最小曲线半径 minimum CurvC radius standing 动车组与线路的几何关系能允许长期放置的最小曲线半径。 注:改写 GB/T 3367.6一2000 ,定义4.3。 5.4 轮对横移量 laleral displacement of wheelset 轮对相对于钢轨的横向位移= 5.5 一系悬挂横动量 primary suspension lateral displacement 轮对相对于构架的横向变位 注:改写 GB/T 3367.6 2000 ,定义4.4。
+
+TB /T 3453.1一2016
+5.6 转向架回转中心 bogie pivot center 由车体与转向架连接结构决定的转向架相对于车体的回转中心 [GB/T 3367.6一2000 ,定义4.5] 5.7 转向架回转中心间距离 distance between bogie pivot centers 车辆定距 转向架中心距 前后转向架回转中心间的水平距脔 注:改写 GB/T 3367.6一2000 ,定义4.6。 5.8 偏转角 deflection angle 转向架纵轴线与车体纵轴线的夹角。 CGB/T 3367.6 2000 ,定义4.7 5.9 冲角 attack argle 轮对落后于其径向位置付度。 当轮对处于圆曲线上时 ,径向位置为轮轴中心线延长线通过圆曲 线圆心的位置;当轮对处于直"上时 ;令问位置为轮轴中心线与钢轨垂直的位置 注:改写 GB/T 3367.6一2000 ,定义4= 5。10 轮轨总间隙 wheel-rail total clearance 左 右钢轨的内侧与轮缘外侧的间隙之和 注:改写 GB/T 3367.6一2000 ,定义4.9 难信息服务平台 5。11 最大外移位置 maximum lateral movcmcnt 在曲线通过时 ,当前 后轮对的外轮均贴靠外轨时转向架在曲线上的位置。 注:改写 GB/T 3367.6 2000 ,定义4.10。 5.12 最大倾斜位置 maximum inclination 在曲线通过时 ,转向架前轮对的外侧轮缘靠向外轨 ,后轮对内侧轮缘靠向内轨时的位置。 注:改写 GB/T 3367.6一2000 ,定义4。11。 5.13 自由位置 free location 在曲线上 ,转向架前端轴用尽了轮对横动量贴靠外轨,另一端轴处于中间状态时的转向架 位置 [GB/T 3367.6一2000 ,定义4.12] 5.14 动态曲线通过能力 dynamic curve negotiation performance 0f multiple unit 动车组正常运行通过曲线时 ,不同速度对应线路曲线保持车轮与钢轨的相互作用力及安全性指标 在规定范围内的能力。 5.15 轮轨摩擦力 wheel-rail friction cffort 车轮与钢轨接触面间的摩擦力。 注:改写 GB/T 3367.6 2000 ,定义4.14。
+
+TB/T 3453.1一2016
+5.16 导向力 guiding force 作用于左 右车轮的横向力= 注:改写 GB/T 3367.6 2000 ,定义4.15。 5.17 轮缘力 wheel flange effort 钢轨与车轮轮缘接触时 ,作用于车轮轮缘的横向作用力(实际作用于轮缘的法向力可分解为横向 和垂向)= 注:改写 GB/I 3367.6一2000 ,定义4.16。 5.18 轮缘角 angle 0f wheel flange 车轮轮缘斜面与车轮轴向之间的夹角 注:改写 GB/T 3367.6 2000 ,定义4.17。 5.19 自重系数 ratio of light weight t0 loading capacity; tare-to-load ratio 车辆自重与载重 <r谊= CGB/T 4549.1一2004 ,定义51, 5.20 每延米轨道荷重 load per T0 tra ck 车辆总重与车辆长度之比值。 CGB/T 4549.1一2004 ,定义6.3] 5.21 车辆重心高度 height 0f car gravity center 车辆重心距轨面的垂直距离= 难信息服务平台 注:改写 GB/T 4549.1一2004 ,定义6.4。 5.22 振动舒适度 ride comfort 旅客对于车辆正常运行时振动性能(如振幅 ,频率等)的感觉舒适程度 ~GB/T 4549.1一2004 ,定义6.8] 5.23 乘坐舒适度 riding comfort 旅客对于车辆正常运行时振动及乘坐环境(包括车内温度 湿度 .噪声 ,气压等)的感觉舒适程度。 ~GB/T 4549.1一2004 ,定义6.9] 5.24 平稳性指标 index Of ride quality; ride index 评定车辆运行时旅客乘坐舒适度或货物完好性的程度。 CGB/I 4549.1一2004 ,定义6.10] 5.25 抗倾覆稳定性 stability against overturning 正常情况下 ,车辆在运行过程中抵抗倾翻的能力 CGB/T 4549.1一2004 ,定义6.11] 5.26 抗脱轨稳定性 stability against derailment 正常情况下 ,车辆在运行过程中车轮抗脱轨的能力 CGB/T 4549.1一2004 ,定义6.12]
+
+TB /T 3453.1一2016
+5.27 气密性 air-tightness 阻止空气泄漏的能力。 [GB/T 4549.1一2004 ,定义6.14] 5.28 气密性指标 index Of air-tightness 对车辆及有气密性要求的部件或系统所规定的气密性能限度。 [GB/T 4549.1一2004 ,定义6.15 ] 5.29 水密性 water-tightness 阻止水渗漏的能力= 5.30 隔热性能 thermal insulating properties 车辆隔绝热传导的能力= [GB/T 4549.1-200' ,总义6.16] 5.31 轮轨横向力 wheelrail J Lial frce 车辆运行时 ,任一瞬间车轮作戌+忽轨匕的横向力 [GB/T 4549.1一2004 ,定义6.17] 5.32 "#"p "}"I;x gsnned。 轮轴横向力 wheelset lateral force 5.33 轮重减载量 wheel unloading 车轮垂向载荷与左 .右车轮垂向载荷平均值的差。 服务平台 5.34 轮重减载率 wheel unloading ratio 车辆运行时 ,任一瞬间车轮轮重减载量与轮对左 .右车轮垂直静载荷平均值的比值。 注:改写 GB/T 4549.1一2004 ,定义6.18。
+6 动力性能
+6.1 弹簧静挠度 spring static deflection 动车组车辆在计算重量时 ,弹簧装置由静态载荷所产生的挠度。 注:改写 GB/T 3367.6一2000 ,定义6.1。 6.2 弹簧动挠度 spring dynamic deflection 动车组运行中车辆由于动载荷的作用使弹簧装置所产生的挠度 注:改写 GB/T 3367.6一2000 ,定义6.2。 6.3 弹簧刚度 spring stiffness 动车组车辆上弹簧装置产生单位挠度所需载荷 注:改写 GB/T 3367.6一2000 ,定义6.3 = 8
+
+TB/T 3453.1一2016
+6.4 动力系数 cocffcient of dynamic force 动荷系数 dynamic factor 车辆正常运行时 ,车辆或其零部件上所产生的动载荷与其相应的静载荷之比值。 [GB/I 4549.1一2004 ,定义6.5] 6.5 轴重转移 axle Ioad shift 在某个运行速度范围内 ,车辆在牵引力(或制动力)作用下各轴轴重的娈化。 注:改写 GB/T 3367.6 2000 ,定义6.5。 6.6 黏着重量利用系数 adhesion load utility factor 轴重转移时减少后的实际轴重与无轴重转移时的轴重之比值。 [GB/I 3367.6一2000 ,定义6.6] 6.7 车轮空转 whee' ;lr?ing 动车在起动或运行'尸,由千抡周牵引力大于黏着牵引力 ,使车轮轮周的线速度超过动车组速度时 的现象。 注:改写 GB/T 3367.6一2000 ,定义 6.8  `仙 蠕滑 creep 轮轨接触点金属表层的弹性滑动 ,包含微量弹.牛变形孑:"量滑动,是介于车轮纯滚动和纯滑动间 的中间状态。 CGB/T 3367.6一2000 ,定义6.8] 6.9 *服务平台 蠕滑速度 creep speed 车轮的实际运行速度与车轮滚动速度之差 = CGB/T 3367.6一2000 ,定义6.9] 6。10 蠕滑率 creep ralio 蠕滑速度与车轮实际运行速度的比值 ~GB/T 3367.6一2000 ,定义6.10] 6。11 蠕滑力 creep cffort 轮轨间因蠕滑而产生钢轨作用于轮周的反力 CGB/T 3367.6一2000 ,定义6.11] 6.12 等效重力刚度 gravitational stiffness 轮对发生横移量肘 ,由于重力作用产生的横向复原力与轮对横移量之比。 注:改写 GB/T 3367.6一2000 ,定义6.12。 6.13 摇头重力角刚度 gravitational angle stiffness 轮对同时发生横移且有摇头角时 ,作用于左.右车轮的横向力产生的摇头力矩与摇头角的比值。 注:改写 GB/T 3367.6一2000 ,定义6.13=
+
+TB/T 3453.1一2016
+6.14 脱轨系数 derailment coefficient 动车组运行中 ,钢轨作用于轮缘上的横向力与轮荷重之比。 注:改写 GB/T 3367.6一2000 ,定义6.14。 6.15 运行平稳性 ride quality 人对动车组运行品质的感觉。 主要根据动车组运行过程中的振动频率 振幅 ,振动加速度以及振 动加速度的变化萃来评定。 注:改写 GB/T 3367.6一2000 ,定义6.15。 6.16 振幅 amplitude 动车组车辆振动肘 ,离开其平衡位置的最大距离。 注:改写 GB/T 3367.6一2000 ,定义6.16。 6。17 频率 frequency 动车组车辆振寸时 左单位时间内振动的次数= 注:改写 GB/T 3367.3 200^ ,'?义6.17 6.18 固有频率 free running frequercy 在自由振动中 ,不考虑阻力作用时动车岔频苡 注:改写 GB/T 3367.6一2000 ,定义6.18。 6。19 自由振动 free vihralion 外来干扰力停止作用后的振动。 狺息服务平台 CGB/T 3367.6一2000 ,定义 6.19] 6.20 强迫振动 froced vibration 动车组在运行过程中 ,车辆受周期性地娈化的外来干扰力作用而产生的振动 = 注:改写 GB/T 3367.6一2000 ,定义6. 20。 6.21 车辆振动 car vibration 动车组在运行中 ,车辆由于动力作用 ,使其在一定位置附近做周期性的往复运动或回转运动 6.22 纵向振动 longitudinal vibration 沿动车组车辆纵向轴线的振动。 注:改写 GB/T 3367.6一2000 ,定义6.22。 6.23 横向振动 lateral vihration; swaying vibration 沿动车组车辆横向轴线的振动= 注:改写 GB/I 3367.6一2000 ,定义6.23_ 6.24 浮沉振动 bouncing 沿动车组车辆垂向轴线的振动。 注:改写 GB/T 3367.6一2000 ,定义6.24。 10
+
+TB/T 3453.1一2016
+6.25 侧滚振动 rolling 绕动车组车辆纵向轴线的回转振动。 注:改写 GB/T 3367.6一2000 ,定义6.25。 6.26 点头振动 pitching;nodding 绕动车组车辆横向轴线的回转振动 注:改写 GB/T 3367.6一2000 ,定义6.26。 6.27 摇头振动 yawing 绕动车组车辆垂向轴线的回转振动。 注:改写 GB/T 3367.6一2000 ,定义6.27。 6.28 蛇行运动 hunting 由于轮轨接触产生的蠕滑力导致轮对在沿钢轨方向运行的同时 ,伴随横向和摇头的运动形态 ,是 一种自激行为 = 注:改写 GB/T 3307 2003 .s义6.28。 6.29 车辆共振 resonance of car 成 6.30 罴"腹弁平台 共振临界速度 critical speed 0f resonance 产生共振时动车组的最低运行速度 注:改写 GB/T 3367.6一2000 ,定义6.30。 6.31 蛇行临界速度 Crilical hunting speed 车辆出现蛇行运行失稳时刻的运行速度。 注:改写 GB/T 3367.6一2000 ,定义6.31 7 动车组的方向和位置 7.1 车辆纵向 longiludinal direction 0f car 车辆位于平直线路时 ,沿车辆前后的连接牵引方向 ~GB/T 4549.1一2004 ,定义3.1] 7.2 车辆横向 lateral direction of car 与车辆纵向相垂直的水平方向。 [GB/T 4549.1一2004 ,定义3.2] 7.3 车端 end of car 车辆上 ,沿车辆纵向的前后两端部分 = CGB/T 4549.1一2004 ,定义3.3] 7.4 一位端 No. 1 end of car 〈动车组〉1写车司机室端为一位端,其他车辆距离1写车较近的端为一位端。 11
+
+TB/T 3453.1一2016
+7.5
+二位端 No. 2 end of car 车辆上 ,与一位端相反的另一端 [GB/T 4549.1一2004 ,定义3.5] 7.6 一位侧 No: position side 观察者站在车内,背向二位端,面向一位端时 ,观察者右边的车辆一侧= 注:改写 GB/T 4549.1一2004 ,定义3.6。 7.7 二位侧 No. 2 position side 车辆上 ,与一位侧相反的另一侧 = CGB/T 4549.1-2004 ,定义3.7 7.8 一位角 No。 pii:?n corner 一位侧靠近-一伫端一角 7.9 二位角 No. 2 position 二位侧靠近一位端的一角 7.10 三位角 No. 3 position corner 示准信息服务平合 一位侧靠近二位端的一角。 7.11 四位角 No. 4 position corner 二位侧靠近二位端的一角= 7.12 轴位 position Of axle 车轴在车辆中的位置 ,通常从一位端起至二位端止 ,以自然数顺次标注。 ~GB/T 4549.1一2004 ,定义3.8] 7.13 轮位 position Of wheel 车轮在车辆中的位置。 通常按轴位并以一位侧为单数,二位侧为偶数,以自然数顺次标注轮位。 CGB/I 4549.1一2004 ,定义3.3] 7.14 粱位 position Of sill 枕粱以内的底架横粱的位置,通常从一位端起至二位端止 ,以自然数顺次标注。 注:改写 GB/I 4549.1一2004 ,定义3.10。 7.15 车辆序号 car serial numher 动车组设计时确认的前位头车为1号车 ,往后依次分别为 2号车3号车 注:重联时 ,车辆序号顺延。 12
+
+TB/T 3453.1一2016
+8  其 ^他
+81 空车 empty car 未装载货物或旅客 .行李物品等的车辆。 [GB/T 4549.1一2004 ,定义8.11 8.2 重车 loaded car 装有货物或旅客 行李物品等的车辆。 CGB/I 4549.1一2004 ,定义8.2] 8.3 车种 type of car 车辆的种类。 CGB/T 4549.1-2004 ,定义8.3] 8.4 车型 model of Car 用于标明车辆种类 .用途 .p纬构牲点的代号。 注:改写 GB/T 4549.1-200。定义 8.5 车号 serial number of car number 按有关规定编排的车辆顺序写码 = CGB/T 4549.1一2004 ,定义8.5] 8.6 `信息服务平合 轴数 number of axles 车辆轮对的总和 = CGB/T 4549.1 2004 ,定义8.6] 8.7 车辆标志 lettering and marking Of car 用于标明车辆的配属 ,用途 ,车型车号 .主要参数 ,方向 ,位置等的文(数)字和代号= ~GB/T 4549.1一2004 ,定义8.7 8.8 定员 sealing capacity 每辆车上规定容纳乘客的人数。 ~GB/T 4549.1-2004 ,定义8.8] 8.9 技术履历簿 technical records 1og 记录车辆自制造落成起至报废止 ,整个过程中的技术状态和历次检修情况的记录簿 CGB/I 4549.1一2004 ,定义&.9] 8.10 重联运行 combined operation 两组及以上动车组采用连挂运用的方式。 8。11 重联长度 total length of combined trains 两组及以上重联时动车组的长度 13
+
+TB/T 3453.1一2016
+参  考  文  献
+[1] GB/T 3367.6一2000 铁道机车名词术语 内燃机车术语 [2] GB/T 4549.1一2004 铁道车辆词汇 笫1部分:基本词汇 [3] GB/T 4549.2-2004 铁道车辆词汇 笫2部分:走行装置
+14
+行业诼准信息服务平台
+
+TB /T 3453.1一2016
+中  文  索  引
+侧滚振动 车端 车钩中心线高度 车号 车辆标志 车辆高度 车辆共振 车辆横向 车辆宽度 车辆序号 车辆振动 车辆整备重量 车辆重心高度 车辆纵向 车轮滚动圆直径 车轮空转 车体高度 车体宽度 车型 车种 成组驱动 乘坐舒适度 冲角 重联长度 重联运行 传动装置
+6。25
+7.3
+4.13
+8.5
+8.7
+4.10 6。29 7.2
+4.8
+7.15
+6.21
+4。15
+5。21 7。1
+4.38 6.7
+4.11
+4.9
+8.4
+8.3
+4.31
+5。23 5。9
+8.11
+8.10 4.28
+导向力 等效重力刚度 点头振动 电动车组 定员 动车 动车组 动车组长度
+5.16 6.12
+6。26 2.2
+8.8
+3.1
+2
+4。3
+15
+
+TB /T 3453.1一2016
+动车组几何曲线通过 动车组计算重量 动车组空重 动车组黏着重量 动车组整备重量 动车组重量分配 动车组最大高度 动力车轴 动力单元 动力分散动车组 动力集中动车组 动力系数 动态曲线通过能力 独立驱动 端车 端车车辆长度 端车车体长度
+5。1
+4.19 4.21 4.25 4.20 4。27
+4.12
+4。1
+3.5
+2.5
+2.4
+6.4
+5。14
+4.30
+3。3
+4.4
+4.6
+" 卫
+额定轴重 二位侧 二位端 二位角
+4.23 7.7
+7 5
+7.9
+放置最小曲线半径 非动力车轴 浮沉振动
+5。3
+4。2
+6。24
+隔热性能 共振临界速度 固有频率
+5.30
+6.30 6.18
+玎
+横向振动
+6.23
+技术履历簿 架悬式电动机驱动
+8.9
+4。34
+抗倾覆稳定性 16
+5。25
+"o J
+
+TB/T 3453.1一2016
+抗脱轨稳定性 空车
+5。26
+8。1
+粱位 轮对横移量 轮轨横向力 轮轨摩擦力 轮轨总间隙 轮位 轮缘角 轮缘力 轮重 轮重减载量 轮重诚载率 轮轴横向力
+7.14
+5.4
+5。31
+5。15 5。10
+7.13
+5.18 5. 17
+4.22
+5.33
+5.。34
+5.32
+莜 MI
+每延米轨道荷重 磨耗型踏面
+5。20 4.37
+内燃动车组 黏着重量利用系数
+2.3
+6.6
+偏转角 频率 平稳性指标
+5.8
+6.。17
+5。24
+气密性 气密性指标 牵引制动计算重量 强迫振动 驱动装置
+5。27
+5。28 4.26 6。20 4.29
+蠕滑 蠕滑力 蠕滑率 蠕滑速度
+6.8
+6。11
+6.10 6.9
+17
+息
+
+TB/T 3453.1一2016
+三位角 砂装载量 蛇行临界速度 蛇行运动 水密性 水装载量 四位角
+7.10 4.18 6.。31
+6。28 5。29 4.17 7.11
+弹簧动挠度 弹簧刚度 弹簧静挠度 弹性轴悬式电动驼动 体悬式电动机驮动 通过最小曲线半径 拖车 脱轨系数
+6。2
+6.3
+6
+4.33
+4.35 5.2
+3。2
+6。14
+〉
+摇头振动 摇头重才角刚度 一位侧 一位端 一位角 一系悬挂横动量 运行平稳性
+6.27 6.13
+7.6
+7.4
+7.8
+5.5
+6.15
+振动舒适度 振幅 中间车 中间车车辆长度 中间车车体长度 重车 轴距 轴数 轴位 轴悬式电动机驱动 轴重转移 转向架回转中心 转向架回转中心间距离 18
+5.22 6.16
+3。4
+4.5
+4.7
+8.2
+4。14
+8.6
+7.12
+4.32 6.5
+5.6
+5.7
+
+TB /T 3453.1一2016
+锥形踏面 自由位置 自由振动 自重系数 总重 纵向振动 最大倾斜位置 最大外移位置 最大轴重
+4.36
+5.13
+6.19 5。19 4.16 6.22 5.12 5.11
+4.24
+19
+行业诼准信息服务平台
+
+TB/T 3453.1一2016
+荚  文  索  引
+adhesion load utility [actor adhesive weight Of multiple unit air-tightness amplitude angle Of wheel flange attack angle axle load shift axle suspended motor drive
+6.6
+4.25 5。27
+6.16 5.18 5.9 6.5
+4.32
+B
+body suspended motc: 14Ve bogie pivot center bouncing
+4.35 5.6
+6。24
+[
+calculated weight Of multiple unit Car serial number Car vibration coeffcient Of dynamic force combined operation concentrated power multiple unit conical tread coupled axle drive coupler center height creep effort creep ratio Creep speed Creep critical hunting Speed Critical speed Of resonance
+4.19 7.15 6.21 6.4
+8.10
+2.4
+4.36
+4.31
+4.13 6.11
+6.10
+6.8
+6.31
+6.30
+deflection angle derailment coefficient diesel multiple unit distance between bogie pivot centers DMUJ
+5.8
+6.14
+2.3
+5.。7
+2.1,2.3
+20
+
+TB/T 3453.1一2016
+drive mechanism driving mechanism dynamic curve negotiation performance Of multiple unit
+4.28 4.29 5.14
+elastic axle suspended motor drive electric multiple unit empty car EMIU end Car
+4.33
+2.2
+8.1
+2.2
+3.3
+end Of car
+7.3
+frame suspended motor drive [ree location [ree running {r qUFCy free vibration frequency froced vibration
+4.34
+5。13
+6.18 6.19 6。17
+6.20
+` geometrical curve negotiation Of multiple unit gravitational angle stiffness gravitational stiffness gross weight guiding force
+5。1
+6。13
+6.12
+4.16 5.16
+玎
+height from top Of rail to coupler center height Of car gravity center height of car height Of carbody hunting
+4.13 5。21
+4。10
+4。11
+6.28
+index Of air-tightness index Of ride quality individual drive intermediate car
+5.。28 5。24 4.30
+3。4
+lateral direction of Ca1
+7 2
+lateral displacement Of vheel set
+5.4
+21
+
+TB/T 3453.1一2016
+lateral vibration length of end car length of end carbody length of intermediate car length of intermediate carbody length of train lettering and marking Of car load per meter Of track loaded Car longitudinal direction Of car longitudinal vibration
+6。23
+4.4
+4.6
+4.5
+4。7
+4。3
+8
+5。20 8.2
+7.1
+6.22
+M
+mass distribution Of multiple unit mass [or calculariol ?[ traction and brake maximum axle 10ar maximum height of mu't;2 uni maximum inclination maximum lateral movement minimum curve radius standing minimum radius Of negotiable curve model of car motor axle
+4.27
+4.26 4.24 4.12 5.12 5。11
+5.3
+5.。2
+8.4
+4。1
+motor Car
+3.1
+兴
+No.1 end of car No.1 position corner No.1 position side No. 2 end of car No. 2 position corner No. 2 position side No. 3 position corner No.4 position corner number Of axles number Of car
+7.4
+7.8
+7.6
+7 5
+7 9
+7.7
+7.10 7.11
+8.6
+8.5
+pitching position Of axle position Of sill position Of wheel Dower unit 22
+6.26 7.12 7.14
+7.13
+3.5
+
+TB /T 3453.1一2016
+powered car primary suspension lateral displacement
+3。1
+5.5
+rated axle load ratio Of light weight to loading capacity resonance Of car ride comfort ride index
+4。23
+5。19 6。29 5。22 5。24
+ride quality riding comfort rolling diameter Of wheel tread rolling
+6.15
+5。23 4.38 6。25
+sand capacity seating capacity separated power multiple unit serial number of car servicing weight Of multiple unit spring dynamic deflection spring static deflection spring stiffness stability against derailment stability against overturning swaying vibration
+4.18 8.8
+2.5
+8.5
+4.20 6.2
+6.1
+6.3
+5.26 5。25 6.23
+tare-to-load ratio technical records log thermal insula ting properties total length of combined trains trailer axle trailer Car type Of car
+5.19 8.9
+5.30
+8.11
+4。2
+3.2
+8.3
+Vater capacity water- -tightness weight after servicing Of car weight Of empty multiple unit Wheel base Wheel flange effort
+4.17 5。29
+4.15
+4.21
+4.14
+5。17
+23
+
+TB/T 3453.1一2016
+wheel load Wheel rail lateral force wheel slipping Wheel unloa ding ratio Wheel unloading Wheel-rail friction effort Wheel-rail total clearance wheelset lateral force Width O[ car width Of carbody WOII profile
+4.22 5。31
+6.7
+5。34
+5。33
+5.15
+5。10 5.32 4.8
+4.9
+4.37
+yawing
+6。27 行业标准信息服务平台
+24
+
+' 篱 ?
+行业标淮信息服 *= 铁道行业标准 动车组词汇 第1  部分:基本浏汇 EMU /DVUJ vocabulary-Part ]: Basic TOCa bulary TB/ 3453.1一2016 中国铁道出版社出版 ,发行 (100051 ,北京市酉城区右安门酉街 &号) 读者服务部电话:市电(010)51873174 ,酪电(021)73171 中国铁道出版社印刷厂印刷 版权专有 侵权必究
+开本:880 nmX 1 230 11111 1/16 印张:2 字数:18千字 2017 年 3月笫1版 2017年 3月第1次印刷
+151134953
+定  价: 20.00 元

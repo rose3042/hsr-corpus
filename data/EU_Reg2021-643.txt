@@ -1,0 +1,109 @@
+COMMISSION DELEGATED REGULATION (EU) 2021/643 
+of 3 February 2021
+amending, for the purposes of its adaptation to technical and scientific progress, Part 1 of Annex VI 
+to Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, 
+labelling and packaging of substances and mixtures 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on 
+classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC 
+and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (1), and in particular Article 53(1) thereof,
+Whereas:
+(1)
+Member States and stakeholders have requested that a number of the notes set out in subsection 1.1.3 of Part 1 of 
+Annex VI to Regulation (EC) No 1272/2008 be amended.
+(2)
+The Commission accepts that the wording of those notes needs to be improved. Some of the notes related to 
+substances are inaccurate and bring in some uncertainty as to the correct interpretation of legal obligations. In 
+particular, some of those notes could be interpreted as not requiring the substances with respect of which those 
+notes apply to be classified at all under certain conditions, whereas, in fact, they should not be covered by the 
+harmonised classification and labelling but should still be subject to classification in accordance with Title II of 
+Regulation (EC) No 1272/2008 (self-classification).
+(3)
+Regulation (EC) No 1272/2008 should therefore be amended accordingly,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Amendments to Regulation (EC) No 1272/2008
+Part 1 of Annex VI to Regulation (EC) No 1272/2008 is amended as set out in the Annex to this Regulation.
+Article 2
+Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+(1) OJ L 353, 31.12.2008, p. 1.
+EN
+Official Journal of the European Union 
+20.4.2021                                                                                                                                           
+L 133/5  
+Done at Brussels, 3 February 2021.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 133/6                                                                                                                                           
+20.4.2021  
+ANNEX 
+Part 1 of Annex VI to Regulation (EC) No 1272/2008 is amended as follows:
+(1) in point 1.1.3.1, notes J to R are replaced by the following:
+‘Note J:
+The harmonised classification as a carcinogen or mutagen applies unless it can be shown that the substance contains less 
+than 0,1 % w/w benzene (Einecs No 200-753-7), in which case a classification in accordance with Title II of this 
+Regulation shall be performed also for those hazard classes.
+Note K:
+The harmonised classification as a carcinogen or mutagen applies unless it can be shown that the substance contains less 
+than 0,1 % w/w 1,3- butadiene (Einecs No 203-450-8), in which case a classification in accordance with Title II of this 
+Regulation shall be performed also for those hazard classes. Where the substance is not classified as a carcinogen or 
+mutagen, at least the precautionary statements (P102-)P210-P403 shall apply.
+Note L:
+The harmonised classification as a carcinogen applies unless it can be shown that the substance contains less than 3 % of 
+dimethyl sulphoxide extract as measured by IP 346 (“Determination of polycyclic aromatics in unused lubricating base oils 
+and asphaltene free petroleum fractions – Dimethyl sulphoxide extraction refractive index method” Institute of Petroleum, 
+London), in which case a classification in accordance with Title II of this Regulation shall be performed also for that hazard 
+class.
+Note M:
+The harmonised classification as a carcinogen applies unless it can be shown that the substance contains less than 0,005 % 
+w/w benzo[a]-pyrene (Einecs No 200-028-5), in which case a classification in accordance with Title II of this Regulation 
+shall be performed also for that hazard class.
+Note N:
+The harmonised classification as a carcinogen applies unless the full refining history is known and it can be shown that the 
+substance from which it is produced is not a carcinogen, in which case a classification in accordance with Title II of this 
+Regulation shall be performed also for that hazard class.
+Note P:
+The harmonised classification as a carcinogen or mutagen applies unless it can be shown that the substance contains less 
+than 0,1 % w/w benzene (Einecs No 200-753-7), in which case a classification in accordance with Title II of this 
+Regulation shall be performed also for those hazard classes. Where the substance is not classified as a carcinogen or 
+mutagen, at least the precautionary statements (P102-)P260-P262-P301 + P310-P331 shall apply.
+Note Q:
+The harmonised classification as a carcinogen applies unless one of the following conditions is fulfilled:
+— a short term biopersistence test by inhalation has shown that fibres longer than 20 μm have a weighted half-life less 
+than 10 days; or
+— a short term biopersistence test by intratracheal instillation has shown that the fibres longer than 20 μm have a 
+weighted half-life less than 40
+days; or
+— an appropriate intra-peritoneal test has provided no evidence of excess carcinogenicity; or
+— no relevant pathogenicity or neoplastic changes are noted in a suitable long term inhalation test
+EN
+Official Journal of the European Union 
+20.4.2021                                                                                                                                           
+L 133/7  
+Note R:
+The harmonised classification as a carcinogen applies except in the case of fibres with a Length Weighted Geometric Mean 
+Diameter (LWGMD) minus two geometric standard errors greater than 6 μm, as measured in accordance with Test method 
+A.22 in the Annex to Commission Regulation (EC) No 440/2008 (*).
+_____________
+(*) Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) 
+No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and 
+Restriction of Chemicals (REACH) (OJ L 142, 31.5.2008, p. 1).’;
+(2) in point 1.1.3.2, Notes 8 and 9 are replaced by the following:
+‘Note 8:
+The classification as a carcinogen shall apply unless it can be shown that the maximum theoretical concentration of 
+releasable formaldehyde, irrespective of the source, in the mixture as placed on the market is less than 0,1 %.
+Note 9:
+The classification as a mutagen shall apply unless it can be shown that the maximum theoretical concentration of releasable 
+formaldehyde, irrespective of the source, in the mixture as placed on the market is less than 1 %.’
+EN
+Official Journal of the European Union 
+L 133/8                                                                                                                                           
+20.4.2021  

@@ -1,0 +1,689 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2023/610 
+of 17 March 2023
+reimposing a definitive countervailing duty on imports of electric bicycles originating in the People’s 
+Republic of China as regards Giant Electric Vehicle (Kunshan) Co., Ltd following the judgment of the 
+General Court in case T-243/19 
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection 
+against subsidised imports from countries not members of the European Union (1) (‘the basic anti-subsidy Regulation’), and 
+in particular Article 15 and Article 24(1) thereof,
+Whereas:
+1. PROCEDURE
+1.1. Previous investigations and measures in force
+(1)
+By Regulation (EU) 2019/72 (2), the European Commission imposed countervailing duties on imports of electric 
+bicycles (‘e-bikes’), originating in the People’s Republic of China (‘the contested Regulation’).
+1.2. The Judgement of the General Court of the European Union
+(2)
+Giant Electric Vehicle (Kunshan) Co., Ltd (‘Giant’ or ‘the applicant’, or ‘GEV’) challenged the contested Regulation 
+before the General Court of the European Union (‘the General Court’). On 27 April 2022, the General Court issued 
+its judgment in case T-243/19 (3) regarding the contested Regulation (‘the judgment’).
+(3)
+The General Court found that the Commission was not obliged to determine price undercutting margins and that it 
+was entitled to base its injury analysis and, therefore, the causal link, on other price phenomena listed in Article 8(2) 
+of the basic anti-subsidy Regulation, such as significant depression of Union industry prices or prevention of price 
+increases to a notable extent. However, since the Commission relied on the calculation of price undercutting in the 
+context of Article 8(2), the General Court found that, by taking into account, in relation to the prices of Union 
+producers, certain elements which it had deducted from the applicant’s prices (or were not present as regards 
+OEM (4) sales since the downstream marketing of the product concerned (5) was carried out by the independent 
+buyer), the Commission did not make a fair comparison when calculating the applicant’s price undercutting margin. 
+The General Court noted that that methodological error found had the effect of identifying undercutting of the 
+Union industry’s prices, the importance or existence of which had not been properly established.
+(4)
+Considering the importance the Commission had attached to the existence of price undercutting in its finding of 
+injury and in its conclusion on the causal link between the subsidised imports and that injury, the General Court 
+found that the error in the calculation of price undercutting was sufficient to invalidate the Commission’s analysis 
+of the respective causal link, existence of which is an essential element for the imposition of measures.
+(1) OJ L 176, 30.6.2016, p. 55.
+(2) Commission Implementing Regulation (EU) 2019/72 of 17 January 2019 imposing a definitive countervailing duty on imports of 
+electric bicycles originating in the People’s Republic of China (OJ L 16, 18.1.2019, p. 5).
+(3) Case T-243/19 Giant Electric Vehicle Kunshan Co., Ltd v European Commission, EU:T:2022:260.
+(4) Original Equipment Manufacturer.
+(5) As defined in the regulations at issue.
+EN
+Official Journal of the European Union 
+L 80/54 
+20.3.2023  
+
+(5)
+Finally, the General Court noted that irrespective of the application by analogy of Article 2(9) of Regulation 
+(EU) 2016/1036 of the European Parliament and of the Council (6) on protection against dumped imports from 
+countries not members of the European Union (‘basic anti-dumping Regulation’) for the purposes of assessing the 
+existence of injury within the meaning of Article 8 of the basic anti-subsidy Regulation, the unfair nature of the 
+comparison found under the second part of that plea vitiated, in any event, the Commission’s analysis under those 
+provisions (7).
+(6)
+The General Court also noted that the injury elimination level was determined on the basis of a comparison 
+involving the weighted average import price of the sampled exporting producers, duly adjusted for importation 
+costs and customs duties, as had been established for the price undercutting calculation (8). It consequently held that 
+it cannot be ruled out that, were it not for the methodological error relating to the undercutting of the applicant’s 
+prices, the injury margin of the Union industry would have been established at a level even lower than that 
+established in the contested Regulation and lower still than the amount of countervailable subsidies established 
+therein. In that case, in accordance with Article 15(1) of the basic anti-subsidy Regulation, the amount of the 
+respective duty should be reduced to a rate which would be adequate to remove the injury (9).
+(7)
+In light of the above, the General Court annulled the contested Regulation in so far as Giant was concerned.
+1.3. Implementation of the General Court’s Judgment
+(8)
+Article 266 of the Treaty on the Functioning of the European Union (‘TFEU’) provides that the Institutions must take 
+the necessary measures to comply with its judgments. In case of annulment of an act adopted by the Institutions in 
+the context of an administrative procedure, such as the anti-subsidy investigation in this case, compliance with the 
+General Court’s judgement consists in the replacement of the annulled act by a new act, in which the illegality 
+identified by the Court is eliminated (10).
+(9)
+According to the case-law of the Court of Justice, the procedure for replacing the annulled act may be resumed at the 
+very point at which the illegality occurred (11). That implies in particular that in a situation where an act concluding 
+an administrative procedure is annulled, that annulment does not necessarily affect the preparatory acts, such as the 
+initiation of the anti-subsidy procedure. In a situation where for instance a Regulation imposing definitive 
+countervailing measures is annulled, that means that subsequent to the annulment, the anti-subsidy proceeding is 
+still open, because the act concluding the anti-subsidy proceeding has disappeared from the Union legal order (12), 
+except if the illegality occurred at the stage of initiation.
+(10)
+In the present case, the General Court annulled the contested Regulation for one reason, namely, that the 
+Commission failed to make a fair comparison in the price undercutting analysis at the same level of trade when 
+determining the existence of significant undercutting. According to the General Court, this error also tainted the 
+causation analysis and potentially the injury margin as regards the applicant.
+(6) Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports 
+from countries not members of the European Union (OJ L 176, 30.6.2016, p. 21).
+(7) Case T-243/19 Giant Electric Vehicle Kunshan Co., Ltd v European Commission, EU:T:2022:260, paragraph 118.
+(8) Case T-243/19 Giant Electric Vehicle Kunshan Co., Ltd v European Commission, EU:T:2022:260, paragraph 114.
+(9) Case T-243/19 Giant Electric Vehicle Kunshan Co., Ltd v European Commission, EU:T:2022:260, paragraph 115.
+(10) Joined cases 97, 193, 99 and 215/86 Asteris AE and others and Hellenic Republic v Commission [1988] ECR 2181, paragraphs 27 and 28; 
+and Case T-440/20 Jindal Saw v European Commission, EU:T:2022:318, paragraph 115.
+(11) Case C-415/96 Spain v Commission [1998] ECR I-6993, paragraph 31; Case C-458/98 P Industrie des Poudres Sphériques v Council [2000] 
+I-8147, paragraphs 80 to 85; Case T-301/01 Alitalia v Commission [2008] II-1753, paragraphs 99 and 142; Joined Cases T-267/08 
+and T-279/08 Région Nord-Pas de Calais v Commission [2011] II-0000, paragraph 83.
+(12) Case C-415/96 Spain v Commission [1998] ECR I-6993, paragraph 31; Case C-458/98 P Industrie des Poudres Sphériques v Council [2000] 
+I-8147, paragraphs 80 to 85.
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/55  
+
+(11)
+The remaining findings and conclusions in the contested Regulation which were not contested, or which were 
+contested but not examined by the General Court remain valid and are not affected by this reopening (13).
+(12)
+Following the General Court’s judgment, on 6 July 2022 the Commission published a notice (‘the re-opening notice’) 
+re-opening the original investigation concerning imports of electric bicycles originating in the PRC, that led to the 
+adoption of the contested Regulation, insofar as it concerns Giant Electric Vehicle (Kunshan) Co., Ltd and to resume 
+the investigation at the point at which the irregularity occurred (14).
+(13)
+The re-opening was limited in scope to the implementation of the judgment of the General Court with regard to 
+Giant.
+(14)
+On 6 July 2022, the Commission also made imports of electric bicycles, originating in the PRC, manufactured by 
+Giant Electric Vehicle (Kunshan) Co., Ltd, subject to registration and instructed national customs authorities to wait 
+until the outcome of the re-examination is published in the Official Journal of the European Union before deciding on 
+any claims for reimbursement of the annulled duties (‘the registration Regulation’) (15).
+(15)
+The Commission informed interested parties of the re-opening and invited them to make their views known in 
+writing and to request a hearing within the time-limit set out in the re-opening notice.
+(16)
+One interested party, Giant, requested a hearing within the time-limit set out in the re-opening notice and was 
+granted the opportunity to be heard.
+(17)
+Following final disclosure, both Giant and the EBMA requested hearings and were granted the opportunity to be 
+heard.
+(18)
+No interested party requested a hearing with the Hearing Officer in trade proceedings.
+1.4. Procedural steps for the implementation of the General Court’s Judgment
+(19)
+Following the reopening, the Commission sent information requests to the sampled Union producers and their 
+related trading companies.
+(20)
+Replies to the information requests were received from all the sampled Union producers.
+(21)
+The Commission conducted verification visits pursuant to Article 26 of the basic anti-subsidy Regulation at the 
+premises of the following companies:
+— Accell Group (Heerenveen, the Netherlands);
+— Prophete GmbH & Co. KG (Rheda-Wiedenbruck, Germany);
+— Derby Cycle Holding GmbH (Cloppenburg, Germany);
+— Koninklijke Gazelle NV (Dieren, the Netherlands).
+(13) Case T-650/17, Jinan Meide Casting Co., Ltd, ECLI:EU:T:2019:644, paragraphs 333-342.
+(14) Notice of reopening of the anti-dumping and anti-subsidy investigations with regard to Commission Implementing Regulation 
+(EU) 2019/73 and Commission Implementing Regulation (EU) 2019/72 imposing measures on imports of electric bicycles from the 
+People’s Republic of China following the judgments of 27 April 2022 in cases T-242/19 and T-243/19 (OJ C 260, 6.7.2022, p. 5).
+(15) Commission Implementing Regulation (EU) 2022/1162 of 5 July 2022 making imports of electric bicycles originating in the People’s 
+Republic of China subject to registration following the reopening of the investigations in order to implement the judgments of 
+27 April 2022 in cases T-242/19 and T-243/19, with regard to Implementing Regulation (EU) 2019/73 and Implementing 
+Regulation (EU) 2019/72 (OJ L 179, 6.7.2022, p. 38).
+EN
+Official Journal of the European Union 
+L 80/56 
+20.3.2023  
+
+1.5. Investigation period
+(22)
+This investigation covers the period from 1 October 2016 to 30 September 2017 (‘the investigation period’). The 
+examination of trends relevant for the assessment of injury covered the period from 1 January 2014 to the end of 
+the investigation period (‘the period considered’).
+2. COMMENTS FROM INTERESTED PARTIES ON THE REOPENING OF THE INVESTIGATION
+(23)
+The Commission received comments specific to the reopening of the investigation from Giant and the importer Rad 
+Power Bikes NL.
+(24)
+Giant claimed that pursuant to Article 11(9) of the basic anti-subsidy Regulation, for proceedings initiated pursuant 
+to Article 10(11), an investigation should, whenever possible, be concluded within one year. In any event, such 
+investigations must, in all cases, be concluded within 13 months of initiation, in accordance with the findings made 
+pursuant to Article 13 for undertakings or the findings made pursuant to Article 15 for definitive action. Giant 
+further argued that Article 11.11 of the WTO Agreement on Subsidies and Countervailing Measures (‘WTO SCM 
+Agreement’) provides that investigations must, except in special circumstances, be concluded within one year, and 
+in no case more than 18 months, after their initiation.
+(25)
+Giant argued that the mandatory nature of the time limits was confirmed in the context of the WTO SCM 
+Agreement (16).
+(26)
+Giant further argued that the Notice of reopening explicitly recognises that the current proceeding is the 
+continuation of the original investigation and since the original anti-subsidy investigation was initiated on 
+21 December 2017, in order to comply with the mandatory deadline in Article 11(9) of the basic anti-subsidy 
+Regulation, the investigation had to be completed by 20 January 2019. In consequence, they argued, the reopening 
+of the original investigation in July 2022 results in extending the investigation beyond the mandatory time limit for 
+concluding investigations set out in Article 11(9) of the basic anti-subsidy Regulation and is also inconsistent with 
+the time limits set out in Article 11.11 of the WTO SCM Agreement.
+(27)
+The Commission rejected this argument. According to settled case-law relating to the analogous provision in the 
+basic anti-dumping Regulation, the deadline to conclude an original investigation does not apply to situations 
+where a proceeding is reopened following a court judgment. Thus, Article 11(9) covers only the initial procedures 
+and not those procedures that have been reopened following a judgment of annulment or invalidity. The WTO case 
+cited by Giant appears to be irrelevant since it does not put into question that Article 11.11 of the WTO SCM 
+extends beyond original investigations.
+(28)
+Giant also argued that the Commission is not entitled to reopen the original anti-subsidy investigation as regards 
+Giant, as the substantive error found by the General Court not only affected the investigation in relation to Giant, 
+but also the overall injury and causation analyses which relied, at least in part, on the findings in relation to Giant. 
+Giant further argued that in order to comply with the General Court’s judgment in case T-243/19, the Commission 
+was not entitled to reopen the original investigation, but should repeal the countervailing measures on e-bikes in so 
+far as Giant was concerned.
+(29)
+Rad Power Bikes NL also argued that the General Court’s findings would require the Commission to rescind the 
+measures imposed.
+(30)
+The Commission disagreed with those claims that it would not be possible to reopen an investigation to cure an 
+illegality found by the European Courts. In fact, the General Court found in Jindal (17) that the Commission can 
+re-open an investigation, resume it at the point at which the illegality occurred, correct the irregularity and 
+re-impose measures during the period of application of the regulation at issue, even in the case of a substantive/ 
+methodological error. The Commission also failed to see how any of the WTO provisions or case law cited by Giant 
+would support its assertions in that they do not deal with correction of illegalities after a court case.
+(16) Panel Report, Mexico – Olive Oil, paragraphs 7.121 and 7.123.
+(17) Case T-300/16 Jindal Saw and Jindal Saw Italia v Commission.
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/57  
+
+(31)
+Moreover, in this re-opened investigation, as explained in Sections 3 and 4, the Commission has corrected the 
+methodological error, as required by the General Court in its judgement in case T-243/19, by revising the 
+undercutting calculations of Giant. The Commission has also recalculated the injury elimination level of Giant by 
+removing the same methodological error. Given the General Court’s conclusion that this issue also affects the 
+overall injury and causality findings, the Commission has revised its analysis of both injury and causality as 
+explained below in Sections 3 and 4. Therefore, the Commission considered that its revised findings fully comply 
+with the General Court’s judgement in case T-243/19. Since the revised findings led to the duty level being reduced 
+but not eliminated, it was therefore not necessary to repeal the countervailing measures on e-bikes as far as Giant is 
+concerned. The Commission, therefore, rejected these arguments.
+(32)
+Giant also argued that, should the Commission continue the reopened investigation, it must also correct all other 
+errors challenged by Giant before the General Court. In particular, Giant argued that in the context of the reopened 
+anti-subsidy investigation, the Commission should also address the errors it made with respect to the assessment of 
+subsidies and more specifically: (i) its finding that a subsidy was granted through the GEV’s purchase of engines and 
+batteries; (ii) its calculation of the subsidy amount whereby the Commission wrongfully included benefits which 
+were unrelated to e-bikes released for free circulation in the EU; (iii) its finding that the use of bank acceptance notes 
+constitutes a financial contribution within the meaning of Article 3(1) of the basic anti-subsidy Regulation; (iv) its 
+finding relating to the benefit allegedly conferred by the use of bank acceptance notes; (v) its finding relating to the 
+specificity of the alleged subsidy granted through bank acceptance notes, and (vi) its finding that GEV obtained a 
+benefit through the acquisition of land use rights.
+(33)
+The Commission rejected this argument. In the General Court’s conclusion in paragraph 117 of the judgement in 
+Case T-243/19, the General Court found that the regulation should be annulled, as far as it concerns Giant, because 
+the methodological error found in the calculation of price undercutting was liable to call into question the legality of 
+the contested Regulation by invalidating the Commission’s analysis of injury and causality. The Court did not 
+consider it necessary to examine or assess the merits of any other claims put forward by the applicant. As indicated 
+in recitals (8) and (11), Article 266 TFEU provides that the Institutions must take the necessary measures to comply 
+with the General Court’s judgments and the remaining findings and conclusions in the contested Regulation which 
+were not contested, or which were contested but not examined by the General Court, remain fully valid. Therefore, 
+since the scope of the reopened investigation is not to review the entire case, but to implement the specific errors 
+found by the General Court, the Commission did not find it necessary to review the subsidy margin of Giant.
+(34)
+Giant further pointed out that in both the original and the reopened investigations, the Commission had not fully 
+disclosed the information necessary for it to evaluate whether a fair comparison had been made between Giant’s 
+export prices and those of the Union industry. Therefore, Giant requested that, in the context of the re-opened 
+investigation, the Commission should disclose relevant information concerning the sales channels of the sampled 
+Union producers.
+(35)
+Although the Commission maintained its position on confidentiality of the specific details of the sales made by the 
+Union industry on the Union market, the Commission considered it appropriate to inform Giant about the 
+following. The four sampled Union producers sold around 46 % of their sales volume through related traders. A 
+total of 10 related traders sold e-bikes to unrelated companies, in addition to the direct sales made by the sampled 
+producers. Therefore, the direct sales represented around 54 % of the Union sales volume.
+(36)
+Giant argued that contrary to what the Commission suggested in its Notice of reopening, the Commission was 
+required to carry out a fair comparison, between the prices of the imported e-bikes and the prices of e-bikes sold by 
+the Union producers on the Union market. Giant argued that, pursuant to Article 8(1) and (2) of the basic anti- 
+subsidy Regulation, there is a positive obligation on the Commission to carry out such a price comparison, which 
+can be between the prices of the imported e-bikes and the Union industry’s actual prices, to examine the price 
+impact of the imports concerned. This fair comparison should take into account the correct point of competition of 
+the sales prices concerned. It should also take into account differences in whether such sales were of branded 
+products or on an OEM level.
+EN
+Official Journal of the European Union 
+L 80/58 
+20.3.2023  
+
+(37)
+The Commission took account of the arguments made by Giant and the comments in the General Court’s judgment 
+in its revised undercutting, injury, causality and injury elimination analysis and findings in Sections 3 and 4 below.
+(38)
+Giant also pointed out that the registration Regulation explicitly recognised that ‘the final liability for payment of 
+anti-dumping and countervailing duties … will emanate from the findings of the re-examination’ (18) and therefore, 
+according to Giant, it follows that any final liability can only apply to future imports, i.e. products which enter free 
+circulation after the time when such duties enter into force. Giant argued that the above position is supported by 
+the Opinion of the Advocate General in Case C-458/98 (IPS) as well as the views expressed in the past by the 
+Commission itself (19). Therefore, Giant argued that any recalculated duties could only be imposed with respect to 
+future imports of e-bikes produced by Giant, i.e. e-bikes which will enter free circulation after the publication of the 
+Regulations re-imposing the duties. Giant further argued that the re-imposition of recalculated duties with respect to 
+past imports would also be contrary to the nature of the countervailing duties, which are not punitive measures 
+aimed to compensate for past injury suffered by the Union industry but are a means of forestalling future injury (20).
+(39)
+The Court of Justice has consistently held that Article 10(1) of the basic anti-dumping Regulation does not preclude 
+the re-imposition of anti-dumping duties on imports that were made during the period of application of the 
+regulations declared to be invalid (21). The Commission considers that those findings apply equally to countervailing 
+duties since also Article 16 of the basic anti-subsidy Regulation currently in force does not preclude acts from 
+re-imposing countervailing duties on imports that were made during the period of application of the regulations 
+declared to be invalid. Consequently, as explained in recital (14) of the registration Regulation, the resumption of 
+the administrative procedure and the eventual re-imposition of duties cannot be considered as contrary to the rule 
+of non-retroactivity (22). Consequently, Giant’s claim that the duties cannot be re-imposed on imports which entered 
+free circulation prior to the publication of the (future) Commission Implementing Regulation was rejected.
+(40)
+Rad Power Bikes NL commented that it imported products from other Chinese exporters, which were similar to 
+those imported from Giant and that these imports were subject to duties which were calculated and imposed on the 
+basis of the relevant injury elimination level. It therefore argued that when recalculating the applicable duties for 
+Giant, the Commission must also revise and reduce the applicable duty rates for the other Chinese exporters subject 
+to the duties, both for those granted individual duty rates and for the other non-sampled cooperating Chinese 
+exporters.
+(41)
+As explained in recital (33), the scope of the reopened investigation is not to review the entire findings of the 
+contested Regulation, but to implement the specific findings made by the General Court, in so far as they concern 
+Giant. The General Court did not annul the contested Regulation as regards other exporting producers. Therefore, 
+the Commission did not find it necessary or appropriate to revise its original findings for the other Chinese 
+exporters subject to the duties. The Commission, therefore, rejected that argument.
+(42)
+In their comments following the final disclosure Giant reiterated its claims regarding the legality of the re-imposition 
+of Giant’s revised countervailing duties retroactively as stated in recital (38). However, as no new arguments were 
+raised, the rejection of its claim is confirmed.
+(18) Registration Regulation, recital 22.
+(19) Case C-458/98 P, Industrie des poudres sphériques v Council, Opinion of Advocate General Cosmas, ECLI:EU:C:2000:138, paragraph 77.
+(20) Case C-458/98 P, Industrie des poudres sphériques v Council, Opinion of Advocate General Cosmas, ECLI:EU:C:2000:138, paragraph 76.
+(21) C-256/16 Deichmann, EU:C:2018:187, paragraphs 77 and 78 and C-612/16, C & J Clark International Ltd v Commissioners for Her 
+Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 57.
+(22) Case C-256/16 Deichmann SE v Hauptzollamt Duisburg, paragraph 79 and Case C-612/16, C & J Clark International Ltd v Commissioners 
+for Her Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 58.
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/59  
+
+3. RE-EXAMINATION OF GIANT’S UNDERCUTTING MARGIN AND THE INJURY FINDINGS
+3.1. Determination of undercutting with respect to Giant
+(43)
+As noted in recital (3), the General Court found that since the Commission relied on the calculation of price 
+undercutting in the context of Article 8(2) of the basic anti-subsidy Regulation, by taking into account in relation to 
+the prices of Union producers certain elements which it had deducted from Giant’s prices (or were not present as 
+regards OEM sales), the Commission did not make a fair comparison when calculating Giant’s price undercutting 
+margin. Therefore, the importance or existence of such undercutting had not been properly established.
+(44)
+As explained in recital (610) of the contested Regulation, the Commission determined the price undercutting during 
+the investigation period by comparing:
+— the weighted average sales prices per product type of the four sampled Union producers charged to unrelated 
+customers on the Union market, adjusted to an ex-works level; and
+— the corresponding weighted average prices per product type of the imports from the sampled exporting 
+producers in the PRC to the first independent customer on the Union market, established on a CIF basis with 
+appropriate adjustments for customs duties of 6 % and importation costs; as mentioned at recitals (616) to 
+(618) of the contested Regulation, where sales were made via related traders, the export prices were adjusted in 
+accordance with Article 2(9) of the basic anti-dumping Regulation by analogy. The selling, general and 
+administrative (‘SG&A’) expenses of the related trader and the profit of a sample of unrelated importers (9 % of 
+the sales price) were deducted.
+(45)
+In order to ensure a fair comparison between Giant’s prices and the prices of the Union producers, the Commission 
+recalculated the undercutting margin of Giant by adjusting the weighted average sales prices of the sampled Union 
+producers referred to in recital (44) in two respects.
+(46)
+Firstly, where sales were made by the sampled Union producers via related traders, a deduction was made from the 
+sales price to independent customers (of all types) to account for the actual SG&A expenses of the trader and profits 
+(9 %). For one Union producer, a particular arrangement similar to tolling was identified. In this case, where the costs 
+of the related trader concerned production activities, those costs were not deducted. The profit level used in this 
+calculation is the same profit level established for the application of Article 2(9) of the basic anti-dumping 
+Regulation by analogy mentioned in recitals (616) to (618) of the contested Regulation to the sampled exporting 
+producers, and which was calculated from the cooperating unrelated importers.
+(47)
+Secondly, where it was necessary to compare prices at an OEM level, a further deduction of 2,3 % was made to the 
+relevant Union industry prices to account for design, marketing and research and development (R & D) costs. This 
+deduction was established as outlined in recital (771) of the contested Regulation.
+(48)
+No further adjustment was deemed necessary for the level of trade in the sense of type of customer because the 
+investigation found that there is no consistent and distinct price difference between sales to traders and retailers in 
+the Union.
+(49)
+In their comments following final disclosure Giant argued that the comparison between its export prices and those 
+of the Union industry should be made at the point of the first sale to an unrelated customer, without adjustments 
+for SG&A and profit on both sides of the calculation. Giant claimed that this approach was followed by the 
+Commission when implementing the General Court’s judgment in the Jindal case. Giant argued that by using this 
+method a fair comparison would be achieved.
+(50)
+The Commission recalled that the comparison between the exporting producer’s and the Union industry’s prices in 
+the Jindal case was made at the level of unrelated customers due to the particular circumstances in that case, where 
+the market was geographically divided and competition took place at the level of tenders. Each case is implemented 
+on the basis of its specific facts and circumstances in light of the particular judgment. Giant has failed to explain why 
+the circumstances in this case would warrant the same approach as in the Jindal case and why the approach followed 
+by the Commission is inconsistent with the Court’s judgment. The Commission further noted that the export prices 
+in the original investigation were adjusted, where appropriate, for SG&A of the related traders and a notional profit, 
+in accordance with the Commission’s practice of applying the same methodology as under Article 2(9) of the basic 
+anti-dumping Regulation by analogy. This approach was explicitly confirmed by the Court of Justice in the Hansol 
+Judgment (23), which highlighted that it falls within the broad discretion the Commission enjoys in the application 
+of Article 3(2) of the basic anti-dumping Regulation. The claim was, therefore, rejected.
+(23) Judgment of 12 May 2022, C-260/20 P, Hansol, paragraph 105.
+EN
+Official Journal of the European Union 
+L 80/60 
+20.3.2023  
+
+(51)
+Giant further argued that, in the alternative to the claim described in recital (49), for the Union industry’s sales made 
+directly to retailers, the Commission should make additional deductions from the Union producer’s sales prices for 
+SG&A and profits corresponding to the internal sales departments.
+(52)
+However, the Commission recalled that the approach outlined in recitals (46) to (48) ensured a fair comparison by 
+adjusting the export prices and those of the Union industry in the same manner for the same sales channels by 
+using the same methodology. This meant that both, the export prices and the Union industry’s sales prices were 
+adjusted for SG&A and profit if sales were made via related traders, whereas direct sales were not adjusted. 
+Adjusting the Union industry direct sales prices as suggested by Giant would therefore create an asymmetry to the 
+disadvantage of the Union industry in relation to the export prices from Giant for their corresponding sales, 
+because no such deductions were made to the sales of Giant’s producing entity in China for direct sales. This would 
+also be contrary to the judgment of the General Court for the same reasons of asymmetry the Court relied on when 
+it ruled in favour of Giant. In addition, the Commission noted that further adjustments in respect of design, 
+marketing as well as research and development (‘R&D’) costs and the level of trade have already been made, where 
+appropriate, as explained at recitals (47) and (48), to ensure full symmetry between the respective situations of 
+Giant and the Union industry, in compliance with the judgment. Therefore, this claim was rejected.
+(53)
+Giant also claimed that its OEM sales should be compared with Union industry sales prices which had been subject 
+to SG&A and profit deductions where appropriate.
+(54)
+The Commission confirmed that this approach was followed.
+(55)
+In their comments following the final disclosure, the Union industry argued that the disclosure of the calculations of 
+revised Union industry prices was incorrect because of the methodology employed to incorporate credit notes. The 
+Union producers claimed that this affected both the calculation of net prices and the adjustments of SG&A and 
+profit.
+(56)
+The Commission evaluated whether the revised methodology, suggested by the sampled Union producers, had any 
+impact on the undercutting and underselling margins. As a consequence, the Commission revised its calculations, 
+which had, however no material impact on those margins. The revised calculations were disclosed to the sampled 
+Union producers and the fact that calculations were revised was also disclosed to Giant. These parties were granted 
+a period to comment.
+(57)
+In its comments of 13 February 2023 the Union industry pointed out an error in the calculations of the credit notes 
+for one Union producer. Following the correction of this error the undercutting margin of Giant was 11,5 %. The 
+new calculations were disclosed to all interested parties on 14 February 2023 and the parties were granted a further 
+period of time to comment. No further comments were received.
+(58)
+Also in its comments of 13 February 2023 the Union industry claimed that, in its treatment of credit notes, the 
+Commission should have only calculated the SG&A and profit amounts based on the EXW value of each sale 
+transaction. However, bearing in mind the SG&A was calculated per e-bike and the profit margin was calculated on 
+the invoice value, this claim was rejected.
+(59)
+The Union industry claimed during the hearing that for all sales where the Commission deducted the profit of the 
+related importer from the Union industry sales prices, the profit rate of 9 % was too high as it was much higher 
+than the target profit established in the original investigation (4,3 %). The claim further explained that the 9 % profit 
+rate was not justified by ‘any information on the case file’ of the reopened investigation. Giant made a comment to 
+rebut this claim stating that it was not appropriate to change the profit rate applied because there were no grounds 
+to overturn the notional profit rate calculated in the original investigation.
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/61  
+
+(60)
+The rate for target profit and a notional rate for the profit of a related importer were both set in the original 
+investigation (based on data on the case file) and were not scrutinised by the General Court or mentioned in the 
+Judgment which led to the reopening of this investigation. Therefore, the Commission is not bound to re-investigate 
+this matter in the current implementation. In addition, the target profit (i.e. the profit achievable by the Union 
+industry for domestic sales under normal conditions of competition) and the profit of a trader (a notional amount 
+covering profit normally borne by an importer) are two separate concepts and are governed by different provisions 
+of the basic Regulation. A direct comparison between the two concepts is therefore inappropriate and irrelevant to 
+the setting of either profit margin. This claim was therefore rejected.
+(61)
+The Union industry also claimed that the SG&A and profit deduction was not warranted because of the relationship 
+between two of the Union producers and their related traders. In particular, it was stated that no SG&A and profit 
+should be deducted from the sales price of the sales made via certain traders as the producer was operating under a 
+tolling agreement. The Union industry supplied agreements between the relevant production and sales companies 
+to support their claim.
+(62)
+Regarding the producer that is also mentioned in recital (61), it had a particular arrangement ‘similar to tolling’. The 
+Commission reviewed the exact terms of this arrangement and concluded that a contract manufacturing system was 
+operational, rather than a tolling agreement, and that both the producer and the related trader had SG&A costs. The 
+agreement also demonstrated a contractual relationship between related parties. The Commission maintained 
+therefore that it was not appropriate to fully exclude SG&A and profit deductions from this producer’s sales prices 
+via related parties. The Commission did take into account SG&A costs which were associated to costs incurred 
+typically at the related trader and not those for functions normally associated with a producer. Furthermore, the 
+producer concerned had SG&A costs relating to its direct sales. The Commission therefore concluded that SG&A 
+and profit should be deducted from the sales price of the related trader and rejected this claim.
+(63)
+For the second producer, the Union industry also submitted an agreement between the producer and the related 
+trader to support its claim that the Commission should not deduct SG&A and profit from the sales prices of its 
+related traders. Giant submitted a rebuttal to this argument stating that the approach for the Union industry should 
+be the same as the approach applied to Giant.
+(64)
+In examining this matter the Commission noted that the agreement submitted for this second producer was also not 
+a tolling agreement, but a manufacturing agreement between related parties, defining the roles of the producer and 
+the related trader and included other clauses such as the methodology for the calculation of transfer prices. The 
+agreement did not confirm that during the IP of the original investigation e-bikes were manufactured under a tolling 
+agreement, or any other arrangement which would mean that it was not appropriate to deduct SG&A costs from the 
+sales prices of the related traders. In fact the agreement demonstrated a contractual relationship between related 
+parties. A related trader also acted as a producer, and it sold e-bikes directly to the market as well as via other related 
+traders. This claim was, therefore, rejected.
+(65)
+The Union industry also claimed that the sales of one Union producer should be adjusted upwards or not taken into 
+account in the price comparison because they related to sales to supermarket chains and online platforms, rather 
+than other types of retail customers.
+(66)
+The Commission did not consider it appropriate to exclude such sales because the sample of Union producers 
+selected in the original investigation was deemed to be representative of the Union industry. In addition, in recital 
+(48) it was confirmed that further adjustments to prices, beyond those already made, were not appropriate for 
+different types of customers.
+(67)
+The Union industry claimed that its OEM sales should not be compared with the export sales unless an adjustment 
+was made to its prices to ensure a fair comparison.
+EN
+Official Journal of the European Union 
+L 80/62 
+20.3.2023  
+
+(68)
+The Commission noted that the volume of OEM sales by the Union industry was very low and the majority of such 
+sales were not used in the undercutting and underselling calculations because there was no match to an imported 
+type. Therefore, it was concluded that an adjustment for the Union industry’s OEM sales should not be considered 
+further as the issue would have no material impact on the undercutting and underselling margins.
+(69)
+Consequently, the revised undercutting margin during the original investigation period for Giant of 11,5 % is 
+confirmed.
+3.2. Determination of undercutting with respect to other Chinese exporters
+(70)
+In case T-243/19, the General Court noted that the methodological error found, which meant that the Commission 
+did not make a fair comparison in the calculation of Giant’s undercutting margin, is likely also to have a bearing on 
+the calculation of price undercutting established in respect of the other sampled exporting producers (24).
+(71)
+In order to ensure a fair comparison between the prices of the other sampled exporting producers and the prices of 
+the Union producers, the Commission also recalculated the undercutting margins of the other sampled exporting 
+producers, taking into account the issues referred to in recitals (44) to (47).
+(72)
+The result of the comparisons showed an average undercutting margin for imports from the sampled exporters 
+(including Giant) of 17,1 %. Bearing in mind the revision to the undercutting margin of Giant explained at recital 
+(56) above this figure was finally confirmed at 17,0 %.
+3.3. Revised conclusion on injury
+(73)
+The Commission noted that following the correction of the methodological error relating to the calculation of price 
+undercutting identified by the General Court in case T-243/19 (25), the levels by which Chinese imports have 
+undercut the Union industry’s prices have decreased to 17,0 % on average as mentioned in recital (72). Although 
+the levels of undercutting have decreased, there has still clearly been significant price undercutting by the dumped 
+imports from the PRC.
+(74)
+The Commission’s findings with regard to the other injury indicators as mentioned in recitals (681) to (693) of the 
+contested Regulation, remain fully valid.
+(75)
+Taking into account the revised significant undercutting margins referred to in recital (73) and the evidence of the 
+negative development of nearly all injury indicators explained in recitals (630) to (680) of the contested Regulation, 
+the Commission concluded that the Union industry suffered material injury within the meaning of Article 8(4) of the 
+basic anti-subsidy Regulation.
+4. CAUSATION
+(76)
+The Commission further examined whether there would still be a causal link between the dumped imports and the 
+injury suffered by the Union producers, in view of the revised undercutting margins for imports from the sampled 
+Chinese exporting producers.
+(77)
+Notwithstanding the reduction in the undercutting margin for all sampled Chinese exporters, this did not alter the 
+fact that imports from the sampled Chinese exporters were undercutting the Union industry’s sales prices to a 
+significant extent. Thus, the revised undercutting margins did not alter the original finding made by the 
+Commission about the existence of the causal link between the injury suffered by the Union producers and the 
+subsidised imports from the PRC in recital (718) of the contested Regulation.
+(78)
+The revised undercutting margins also did not alter the analysis and findings concerning other causes of injury as 
+presented in Section 5.2 of the contested Regulation.
+(24) Case T-243/19, Giant Electric Vehicle Kunshan v Commission, ECLI:EU:T:2022:259, paragraph 113.
+(25) Case T-243/19, Giant Electric Vehicle Kunshan v Commission, ECLI:EU:T:2022:259, paragraph 82.
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/63  
+
+(79)
+In the absence of any further comments, the Commission concluded that the material injury to the Union industry 
+was caused by the dumped imports from the PRC and the other factors, considered individually or collectively, did 
+not attenuate the causal link between the injury and the subsidised imports.
+5. RE-EXAMINATION OF THE INJURY MARGIN WITH RESPECT TO GIANT
+(80)
+Bearing in mind the comments of the General Court in paragraph (115) of the Judgement in case T-243/19, the 
+Commission also recalculated the injury elimination level of Giant.
+(81)
+In the original investigation the Commission determined the injury elimination level during the investigation period 
+by comparing:
+— the weighted average target prices per product type of the four sampled Union producers charged to unrelated 
+customers on the Union market, adjusted to an ex-works level;
+— the corresponding weighted average prices per product type of the imports from the sampled exporting 
+producers in the PRC to the first independent customer on the Union market, established on a CIF basis with 
+appropriate adjustments for customs duties of 6 % and importation costs; where sales were made via related 
+traders, the export prices were adjusted in accordance with Article 2(9) of the basic anti-dumping Regulation by 
+analogy. The SG&A costs of the related trader and the profit of a sample of unrelated importers (9 % of the sales 
+price) were deducted; and
+— where the export prices related to OEM sales, the Union industry target prices were reduced by 2,3 % reflecting 
+the R & D and marketing costs of the sampled Union industry producers, which were not reflected in prices of 
+OEM sales of Giant.
+(82)
+In order to ensure a fair comparison between Giant’s prices and the prices of the Union producers, the Commission 
+recalculated the injury elimination level of Giant by adjusting the weighted average target prices of the sampled 
+Union producers referred to in recital (81).
+(83)
+Where sales were made by the sampled Union producers via related traders, a deduction was made from the price to 
+independent customers to account for the actual SG&A expenses of the traders and profits (9 %). The SG&A amount 
+varied according to the trader concerned. Where the costs of the related trader concerned did not relate to the 
+marketing of products, but to production activities (such as production planning and sourcing of raw materials), 
+these costs were not deducted because they did not relate to the normal functions of a related trader marketing the 
+products in the Union market. The profit level used in this calculation is the profit level established in the original 
+investigation for the cooperating unrelated importers.
+(84)
+No further adjustment was deemed necessary to account for the OEM/branding level as this adjustment, amounting 
+to 2,3 %, had already been made.
+(85)
+No further adjustment was deemed necessary for the level of trade in the sense of type of customer because the 
+investigation found that there is no consistent and distinct price difference between sales to traders and retailers in 
+the Union.
+(86)
+The claims made by both Giant and the Union industry in their comments to final disclosure in respect of the 
+undercutting calculation at Section 3 apply equally to the underselling margins in this section.
+(87)
+In the light of the treatment of the comments raised by interested parties the revised underselling margin for Giant is 
+13,8 %.
+6. DEFINITIVE COUNTERVAILING MEASURES
+6.1. Injury elimination level
+(88)
+On the basis of the conclusions reached by the Commission on subsidisation, injury and causation in this re-opened 
+anti-subsidy investigation, a definitive countervailing duty shall be re-imposed on imports of the product concerned 
+originating in China and manufactured by Giant.
+EN
+Official Journal of the European Union 
+L 80/64 
+20.3.2023  
+
+(89)
+Given that the re-established injury margin for Giant (13,8 %) is higher than the subsidy amount (3,9 %), in 
+accordance with the applicable rules in the original investigation, the countervailing duty rate should be set at the 
+level of the amount of subsidisation. Accordingly, the re-imposed countervailing duty rate for Giant is as follows:
+Definitive countervailing duty
+Company
+Amount of 
+subsidisation
+Injury 
+elimination level
+Countervailing 
+duty rate
+Giant Electric Vehicle (Kunshan) Co., Ltd
+3,9 %
+13,8 %
+3,9 %
+(90)
+The level of countervailing duty resulting from this investigation, which did not change compared to the level of 
+countervailing duties imposed pursuant to the contested Regulation, applies without any temporal interruption 
+since the entry into force of the contested Regulation (namely, as of 19 January 2019 onwards). Customs 
+authorities are instructed to collect the appropriate amount on imports concerning Giant Electric Vehicle (Kunshan) 
+Co., Ltd.
+(91)
+All interested parties were informed of the essential facts and considerations on the basis of which it was intended to 
+re-impose a definitive countervailing duty on imports of e-bikes from the PRC from the exporting producer Giant 
+Electric Vehicle (Kunshan) Co., Ltd.
+(92)
+In view of Article 109 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (26), 
+when an amount is to be reimbursed following a judgment of the Court of Justice of the European Union, the 
+interest to be paid should be the rate applied by the European Central Bank to its principal refinancing operations, 
+as published in the C series of the Official Journal of the European Union on the first calendar day of each month.
+(93)
+The measures provided for in this regulation are in accordance with the opinion of the Committee referred to in 
+Article 25(1) of the basic anti-subsidy Regulation,
+HAS ADOPTED THIS REGULATION:
+Article 1
+1.
+A definitive countervailing duty is hereby imposed on imports of cycles, with pedal assistance, with an auxiliary 
+electric motor„ currently falling under CN codes 8711 60 10 and ex 8711 60 90 (TARIC code 8711 60 90 10), originating 
+in the People’s Republic of China and manufactured by Giant Electric Vehicle (Kunshan) Co., Ltd as of 19 January 2019.
+2.
+The rates of the definitive countervailing duty applicable to the net, free-at-Union-frontier price, before duty, of the 
+product described in paragraph 1 and manufactured by Giant Electric Vehicle (Kunshan) Co., Ltd shall be 3,9 % (TARIC 
+additional code C383).
+Article 2
+The definitive countervailing duty imposed by Article 1 shall also be collected on imports registered in accordance with 
+Article 1 of Implementing Regulation (EU) 2022/1162 making imports of electric bicycles originating in the People’s 
+Republic of China subject to registration following the reopening of the investigations in order to implement the 
+judgments of 27 April 2022 in cases T-242/19 and T-243/19, with regard to Implementing Regulation (EU) 2019/73 and 
+Implementing Regulation (EU) 2019/72.
+(26) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable 
+to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) 
+No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU 
+and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+EN
+Official Journal of the European Union 
+20.3.2023 
+L 80/65  
+
+Article 3
+Customs authorities are directed to discontinue the registration of imports, established in accordance with Article 1(1) of 
+Implementing Regulation (EU) 2022/1162, which is hereby repealed.
+Article 4
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 17 March 2023.
+For the Commission
+The President
+Ursula VON DER LEYEN
+EN
+Official Journal of the European Union 
+L 80/66 
+20.3.2023

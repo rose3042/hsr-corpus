@@ -1,0 +1,1715 @@
+Application Guide
+GUI/TSI/2023
+/
+ 
+Moving Europe towards a sustainable and  
+safe railway system without frontiers. 
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+1 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+ 
+Guide for the application of the Technical Specifications 
+for Interoperability (TSIs) 
+ 
+In accordance with Article 19(3) of Regulation (EU) 2016/796 of the 
+European Parliament and of the Council of 11 May 2016 
+ 
+ 
+ 
+Released by European Union Agency for Railways 
+ 
+This guide does not contain any legally binding advice. It may serve as a clarification tool without however 
+dictating in any manner compulsory procedures to be followed and without establishing any legally binding 
+practice. The guide provides explanations on the provisions contained in the TSIs and should be helpful for 
+understanding the approaches and rules described therein. However, it does not substitute for them. 
+The guide is publicly available and it will be regularly updated to reflect progress with European standards 
+and changes to the TSIs.  
+The reader should refer to the website of the European Union Agency for Railways for information about its 
+latest available edition. 
+ 
+ 
+ 
+ 
+Document History 
+Version date 
+Section number 
+Modification description 
+Version 1.0 
+20/12/2023 
+All 
+First publication of this upgraded guide considering 
+the new requirements from the 4th Railway 
+Package and the adoption of the TSI package 2023 
+ 
+ 
+ 
+ 
+ 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+2 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Table of Contents 
+1. 
+SCOPE AND CONTENT OF THIS GUIDE ........................................................................................................ 3 
+Scope 
+3 
+1.1. 
+Reference Documents ............................................................................................................................ 3 
+1.2. 
+Definitions & Abbreviations ................................................................................................................... 4 
+2. 
+TECHNICAL SPECIFICATIONS FOR INTEROPERABILITY ................................................................................ 8 
+2.1. 
+Structure and content of the TSIs ........................................................................................................... 8 
+2.2. 
+Target railway system and specific cases ............................................................................................. 10 
+2.3. 
+Deficiencies in the TSIs ......................................................................................................................... 11 
+2.4. 
+Non-Application of TSIs ........................................................................................................................ 12 
+2.5. 
+Agency opinions and advices ................................................................................................................ 13 
+2.6. 
+Relevance of the TSIs to the subsystems defined in Annex II of the Interoperability 
+Directive (EU) 2016/797 .................................................................................................................... 13 
+2.7. 
+TSIs versus other requirements ............................................................................................................ 15 
+2.7.1. 
+National rules and, where relevant, acceptable national means of compliance in the 
+field of interoperability ..................................................................................................................... 15 
+2.7.2. 
+National rules in the field of safety ................................................................................................... 16 
+2.7.3. 
+Compliance with other regulations deriving from the Treaty .......................................................... 17 
+2.7.4. 
+Monitoring other regulations impacting the railway system ........................................................... 18 
+2.8. 
+Questions about TSIs ............................................................................................................................ 18 
+3. 
+APPLICABLE STANDARDS AND OTHER DOCUMENTS ............................................................................... 18 
+3.1. 
+Overview ............................................................................................................................................... 18 
+3.2. 
+Reference to European standards and other documents in the TSIs ................................................... 19 
+3.3. 
+Technical documents of the Agency ..................................................................................................... 20 
+4. 
+CONFORMITY ASSESSMENT – STRUCTURAL TSIs ..................................................................................... 20 
+4.1. 
+Conformity assessment procedures ..................................................................................................... 20 
+4.1.1. 
+Interoperability constituents ............................................................................................................ 20 
+4.1.2. 
+Subsystems ........................................................................................................................................ 21 
+4.2. 
+Conformity assessment modules ......................................................................................................... 22 
+4.3. 
+Assessments applicable to certain stages ............................................................................................ 23 
+ANNEXES 25 
+ 
+ 
+ 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+3 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+1. 
+SCOPE AND CONTENT OF THIS GUIDE 
+Scope 
+According to Article 19(3) “Technical support in the field of railway interoperability” of the Agency Regulation 
+2016/796/EU, the European Union Agency for Railways may issue guidelines and other non-binding 
+documents to facilitate the implementation of railway interoperability legislation. 
+This version of the application guide GUI/TSI/2022 replaces the former guide ERA/GUI/07-2011/INT Version 
+1.02 from 30/11/2012. It considers the new requirements from the 4th Railway Package as stipulated in 
+Regulation (EU) 2016/796 (the Agency Regulation), Directive (EU) 2016/797 (the Interoperability Directive) 
+and Directive (EU) 2016/798 (the Safety Directive). 
+The specific application guides for the application of the specific TSIs are an Annex to this “Guide for the 
+Application of TSIs”.  
+Guidance is of voluntary application. It does not mandate any requirement in addition to those set out in the 
+specific TSIs. 
+Guidance is given by means of further explanatory text and where relevant by reference to standards that 
+are means of demonstrating compliance with the TSIs. 
+ 
+1.1. 
+Reference Documents 
+DOCUMENT 
+REFERENCE 
+TITLE 
+LATEST ISSUE 
+[1] (EU) 2016/796 Regulation (EU) 2016/796 of the European Parliament and of the 
+Council of 11 May 2016 on the European Union Agency for 
+Railways and repealing Regulation (EC) No 881/2004 
+L 138, 
+26.5.2016, 
+p. 1-43 
+[2] (EU) 2016/797 Directive (EU) 2016/797 of the European Parliament and of the 
+Council of 11 May 2016 on the interoperability of the rail system 
+within the European Union 
+L 138, 
+26.5.2016, 
+p. 44-101 
+[3] (EU) 2016/798 Directive (EU) 2016/798 of the European Parliament and of the 
+Council of 11 May 2016 on railway safety 
+L 138, 
+26.5.2016, 
+p. 102-149 
+[4] 2012/34/EU 
+Directive 2012/34/EU of the European Parliament and of the 
+Council of 21 November 2012 establishing a single European 
+railway area 
+L 343, 
+14.12.2012, 
+p. 
+32-77 
+[5] 2010/713/EU 
+Commission Decision 2010/713/EU of 9 November 2010 on 
+modules for the procedures for assessment of conformity, 
+suitability for use and EC verification to be used in the technical 
+specifications for interoperability adopted under Directive 
+2008/57/EC of the European Parliament and of the Council 
+L 319, 
+4.12.2010, 
+p. 1-52 
+[6] 768/2008/EC 
+Decision 768/2008/EC of the European Parliament and of the 
+Council of 9 July 2008 on a common framework for the 
+marketing of products, and repealing Council Decision 
+L 218, 
+13.8.2008, 
+p. 82-128 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+4 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+93/465/EEC 
+[7] (EU) 2018/545 Commission Implementing Regulation (EU) 2018/545 of 4 April 
+2018 establishing practical arrangements for the railway vehicle 
+authorisation and railway vehicle type authorisation process 
+pursuant to Directive (EU) 2016/797 of the European Parliament 
+and of the Council 
+L 90,  
+6.4.2018,  
+p. 66–104 
+[8] (EU) 402/2013 Commission Implementing Regulation (EU) No 402/2013 of 30 
+April 2013 on the common safety method for risk evaluation and 
+assessment and repealing Regulation (EC) No 352/2009 Text with 
+EEA relevance 
+L 121,  
+3.5.2013, 
+p. 8–25 
+ [9] (EU) 
+2017/1474 
+Commission Delegated Decision (EU) 2017/1474 of 8 June 2017 
+supplementing Directive (EU) 2016/797 of the European 
+Parliament and of the Council with regard to specific objectives 
+for the drafting, adoption and review of technical specifications 
+for interoperability 
+L 210, 
+15.8.2017, 
+p. 5-15 
+[10] (EU) 2020/424 Commission Implementing Regulation (EU) 2020/424 of 19 
+March 2020 on submitting information to the Commission as 
+regards non-application of technical specifications for 
+interoperability in accordance with Directive (EU) 2016/797 
+L 84,  
+20.3.2020, 
+p. 20-23 
+[11] (EU) 2019/250 Commission Implementing Regulation (EU) 2019/250 on the 
+templates for ‘EC’ declarations and certificates for railway 
+interoperability constituents and subsystems, on the model of 
+declaration of conformity to an authorised railway vehicle type 
+and on the ‘EC’ verification procedures for subsystems in 
+accordance with Directive (EU) 2016/797 of the European 
+Parliament and of the Council and repealing Commission 
+Regulation (EU) No 201/2011 
+OJ L 42, 
+13.2.2019,  
+p. 9–24 
+Table 1 – Reference Documents 
+ 
+In addition, the TSI chronology table is available here: https://www.era.europa.eu/system/files/2022-
+10/TSIs%20chronology%20table.pdf 
+ 
+1.2. 
+Definitions & Abbreviations 
+The definitions and abbreviations defined below cover this application guide and Specific application 
+guides of the different TSIs.  
+TERM
+DEFINITION/ SOURCE
+Acts issued by the 
+Agency 
+They are those listed in Article 4 of Regulation (EU) 2016/796 of the 
+European Parliament and of the Council (Agency Regulation) 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+5 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+TERM
+DEFINITION/ SOURCE
+Basic parameter 
+Any regulatory, technical or operational condition which is critical to 
+interoperability and is specified in the relevant TSIs (Article 2(12) of Directive (EU) 
+2016/797) 
+Basic design 
+characteristics 
+Parameters that are used to identify the vehicle type as specified in the issued 
+vehicle type authorisation and recorded in the European Register of Authorised 
+Types of Vehicles (‘ERATV’) (Article 2(2) of Regulation (EU) 2018/545) 
+Conformity 
+assessment 
+Process demonstrating whether specified requirements relating to a product, 
+process, service, subsystem, person or body have been fulfilled (Article 2(41) of 
+Directive (EU) 2016/797) 
+Conformity 
+assessment body 
+Body that has been notified or designated to be responsible for conformity 
+assessment activities, including calibration, testing, certification and inspection; 
+a conformity assessment body is classified as a ‘notified body’ following 
+notification by a Member State; a conformity assessment body is classified as a 
+‘designated body’ following designation by a Member State (Article 2(42) of 
+Directive (EU) 2016/797) 
+Contracting entity 
+Public or private entity which orders the design and/or construction or the 
+renewal or upgrading of a subsystem (Article 2(20) of Directive (EU) 2016/797) 
+European Register of 
+Authorised Types of 
+Vehicles (ERATV) 
+Register of types of vehicles authorised by the Member States for placing in 
+service. It contains the technical characteristics of vehicles’ types as defined in 
+the relevant TSIs, the manufacturer’s name, dates, references and Member 
+States granting authorisations, restrictions and withdrawals (Article 48 of 
+Directive (EU) 2016/797) 
+Existing rail system 
+Infrastructure composed of lines and fixed installations of the existing, rail 
+network as well as the vehicles of all categories and origin travelling on that 
+infrastructure (Article 2(16) of Directive (EU) 2016/797) 
+Harmonised standard 
+European standard adopted on the basis of a request made by the Commission 
+for the application of Union harmonising legislation (Article 2(1)(c) of Regulation 
+(EU) No 1025/2012) 
+Infrastructure 
+Manager 
+Any body or firm responsible for the operation, maintenance and renewal of 
+railway infrastructure on a network, as well as responsible for participating in its 
+development as determined by the Member State within the framework of its 
+general policy on development and financing of infrastructure (Article 3(2) of 
+Directive 2012/34/EU amended by Directive (EU) 2016/2370) 
+Non-application of a 
+TSI 
+Certain circumstance, by which projects can be exempted from having to comply 
+with all or part of a TSI or TSIs (Article 7 of Directive (EU) 2016/797) 
+Open point 
+Certain technical aspect corresponding to the essential requirements, which 
+cannot be explicitly covered in a TSI (Article 4(6) of Directive (EU) 2016/797) 
+Placing in service 
+All the operations by which a subsystem is put into its operational service (Article 
+2(19) of Directive (EU) 2016/797) 
+Placing on the market 
+First making available on the Union’s market of an interoperability constituent, 
+subsystem or vehicle ready to function in its design operating state (Article 2(35) 
+of Directive (EU) 2016/797) 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+6 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+TERM
+DEFINITION/ SOURCE
+Project at an advanced 
+stage of development 
+Any project the planning or construction stage of which has reached a point 
+where a change in the technical specifications may compromise the viability of 
+the project as planned (Article 2(23) of Directive (EU) 2016/797) 
+Railway Undertaking 
+Railway undertaking as defined in point (1) of Article 3 of Directive 2012/34/EU, 
+and any other public or private undertaking, the activity of which is to provide 
+transport of goods and/or passengers by rail on the basis that the undertaking is 
+to ensure traction; this also includes undertakings which provide traction only 
+(Article 2(45) of Directive (EU) 2016/797) 
+Register 
+of
+infrastructure (RINF) 
+Register of infrastructure indicates the main features of fixed installations, 
+covered by the subsystems: infrastructure, energy and parts of control- 
+command and signalling. It publishes performance and technical characteristics 
+mainly related to interfaces with rolling stock and operation (Article 49 of 
+Directive (EU) 2016/797) 
+Renewal 
+Any major substitution work on a subsystem or part of it, which does not change 
+the overall performance of the subsystem. (Article 2(15) of Directive (EU) 
+2016/797) 
+Specific case 
+Any part of the rail system which needs special provisions in the TSIs, either 
+temporary or permanent, because of geographical, topographical or urban 
+environment constraints or those affecting compatibility with the existing 
+system, in particular railway lines and networks isolated from the rest of the 
+Union, the loading gauge, the track gauge or space between the tracks and 
+vehicles strictly intended for local, regional or historical use, as well as vehicles 
+originating from or destined for third countries (Article 2(13) of Directive (EU) 
+2016/797) 
+Substitution 
+in 
+the 
+framework 
+of 
+maintenance 
+Any replacement of components by parts of identical function and performance 
+in the framework of preventive or corrective maintenance (Article 2(17) of 
+Directive (EU) 2016/797) 
+Upgrading 
+Any major modification work on a subsystem or part of it which results in a 
+change in the technical file accompanying the ‘EC’ declaration of verification, if 
+that technical file exists, and which improves the overall performance of the 
+subsystem (Article 2(14) of Directive (EU) 2016/797) 
+Table 2 – Definitions 
+ 
+ABBREVIATION
+FULL TEXT
+AC 
+Alternating Current 
+ATO 
+Automatic train operation 
+CCS 
+Command Control and Signalling (TSI) 
+CEN 
+European Committee for Standardisation 
+CENELEC 
+European Committee for Electrotechnical Standardisation 
+CSM 
+Common Safety Method 
+CST 
+Common Safety Target 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+7 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+ABBREVIATION
+FULL TEXT
+DC 
+Direct Current 
+DeBo 
+Designated Body 
+EC 
+European Commission 
+ECM 
+Entity in Charge of Maintenance 
+EEA 
+European Economic Area 
+EMC 
+Electro Magnetic Compatibility 
+EN 
+European standard 
+ENE 
+Energy (TSI) 
+ERA 
+European Union Agency for Railways also called “the Agency” 
+ERADIS 
+Interoperability and Safety database managed by the European Union Agency for 
+railways 
+ERATV 
+European Register of Authorised Types of Vehicles 
+ERTMS 
+European Rail Traffic Management System 
+ETCS 
+European Train Control System 
+ESO 
+European Standardisation Organisation 
+EU 
+European Union 
+IC 
+Interoperability Constituent 
+IEC 
+International Electrotechnical Commission 
+IM 
+Infrastructure Manager 
+INF 
+Infrastructure (TSI) 
+IOD 
+Interoperability Directive 
+ISO 
+International Organisation for Standardisation 
+ISV 
+Intermediate Statement of Verification 
+IU 
+Influencing Unit 
+LOC&PAS 
+Locomotive and passenger rolling stock (TSI) 
+MS 
+EU or EEA Member State 
+NB-Rail 
+Coordination group of notified bodies for railway products and systems 
+NoBo 
+Notified Body 
+NOI 
+Noise (TSI) 
+NSA 
+National Safety Authority 
+NSR 
+National Safety Rule 
+NR 
+National Rule 
+OCL 
+Overhead Contact Line 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+8 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+ABBREVIATION
+FULL TEXT
+OJ/OJEU 
+Official Journal of the European Union 
+OPE 
+Operation and Traffic Management 
+OTIF 
+Organisation intergouvernementale pour les Transports Internationaux 
+Ferroviaires
+PRM 
+Person with Disabilities or Person with Reduced Mobility (TSI) 
+PRR 
+Passenger Rights Regulation 
+QMS 
+Quality Management System 
+RCC 
+Route Compatibility Check 
+RFU 
+Recommendation for Use 
+RINF 
+Register of Infrastructure 
+RISC 
+Railway Interoperability and Safety Committee 
+RSD 
+Railway Safety Directive 
+RST 
+Rolling Stock 
+RU 
+Railway Undertaking 
+SRT 
+Safety in Railway Tunnels (TSI) 
+SS 
+Subsystem 
+TAF 
+Telematics Applications for Freight Service (TSI) 
+TAP 
+Telematics Applications for Passenger Service (TSI) 
+TR 
+Technical Report 
+TS 
+Technical Specification 
+TSI 
+Technical Specification for Interoperability 
+UIC 
+International Union of Railways (Union Internationale des Chemins de Fer) 
+WAG 
+Freight wagon (TSI) 
+WG 
+Working Group 
+WP 
+Working Party 
+Table 3 – Abbreviations 
+ 
+2. 
+TECHNICAL SPECIFICATIONS FOR INTEROPERABILITY 
+2.1. 
+Structure and content of the TSIs 
+[Article 4(3)] of (EU) 2016/797 indicates the content of the TSIs, to the extent necessary to achieve 
+interoperability within the EU rail system. 
+Text of the Interoperability Directive
+Content of the TSIs
+Each TSI shall:
+This scope & content is contained in Chapters 1 and 
+2 of the TSIs. 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+9 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Text of the Interoperability Directive
+Content of the TSIs
+(a) indicate its intended scope (part of network or 
+vehicles referred to in Annex I; subsystem or part 
+of subsystem referred to in Annex II); 
+(b) lay down essential requirements for each 
+subsystem concerned and its interfaces in relation 
+to other subsystems; 
+The essential requirements that are set out in 
+general terms in Annex III of the Interoperability 
+Directive are further elaborated upon for each 
+subsystem in Chapter 3 of the TSIs. 
+(c) establish the functional and technical 
+specifications to be met by the subsystem and its 
+interfaces in relation to other subsystems. If 
+necessary, 
+these 
+specifications 
+may 
+vary 
+according to the use of the subsystem, for 
+example according to the categories of line, hub 
+and/or vehicles provided for in Annex I; 
+The functional and technical specifications of the 
+subsystem(s) 
+and 
+the 
+interfaces 
+to 
+other 
+subsystems are set out for each subsystem in 
+Chapter 4 of the TSIs. 
+(d) determine the interoperability constituents 
+and interfaces which must be covered by 
+European specifications, including European 
+standards, which are necessary to achieve 
+interoperability within the Union rail system; 
+The list of interoperable constituents and 
+interfaces including applicable specifications are 
+set out for each subsystem in chapter 5 of the TSIs.
+ 
+(e) state, in each case under consideration, which 
+procedures are to be used in order to assess the 
+conformity or the suitability for use of the 
+interoperability constituents, on the one hand, or 
+the ‘EC’ verification of the subsystems, on 
+the other. Those procedures shall be based on the 
+modules 
+defined 
+in 
+Commission 
+Decision 
+2010/713/EU; 
+The assessment of conformity and/or suitability for 
+use of the interoperable constituents and the 
+verification of the subsystems is set out in Chapter 
+6 of the TSIs. 
+The EC verification procedure is based on module 
+decision 2010/713/EU. The choice of module(s) is 
+specified in chapter 6 of the TSIs. 
+(f) indicate the strategy for the application of the 
+TSI. In particular, it is necessary to specify the 
+stages to be completed, taking into account the 
+estimated costs and benefits and the expected 
+repercussions for the stakeholders affected in 
+order to make a gradual transition from the 
+existing situation to the final situation in which 
+compliance with the TSI shall be the norm. Where 
+coordinated implementation of the TSI is 
+necessary, such as along a corridor or between 
+infrastructure 
+managers 
+and 
+railway 
+undertakings, the strategy may include proposals 
+for staged completion; 
+Chapter 7 of the TSIs provides rules for TSIs 
+implementation, which includes specific cases and 
+also defines transitional periods for the application 
+of different provisions of the TSI(s). 
+(g) indicate, for the staff concerned, the 
+professional qualifications and health and safety 
+conditions at work required for the operation and 
+maintenance of the above subsystem, as well as 
+for the application of the TSIs; 
+The professional qualifications and health and 
+safety conditions at work for the staff concerned 
+are set out in Chapter 4 of the TSIs. 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+10 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Text of the Interoperability Directive
+Content of the TSIs
+(h) indicate the provisions applicable to the 
+existing subsystems and vehicles, in particular in 
+the event of upgrading and renewal and, in such 
+cases, the modification work which requires an 
+application for a new authorisation; 
+The 
+provisions 
+applicable 
+to 
+the 
+existing 
+subsystems and vehicles, also those related to 
+upgrading or and renewing are defined in in 
+Chapter 7 of the TSIs. 
+(i) indicate the parameters of the vehicles and 
+fixed subsystems to be checked by the railway 
+undertaking and the procedures to be applied to 
+check those parameters after the delivery of the 
+vehicle authorisation for placing on the market 
+and before the first use of the vehicle to ensure 
+compatibility between vehicles and the routes on 
+which they are to be operated. 
+The route compatibility checks to be performed by 
+railway undertaking are set out in chapter 4 and 
+Appendix D1 of the TSI OPE  
+Table 4 – Content of TSIs 
+ 
+[Article 4(6)] of (EU) 2016/797 states that ‘if certain technical aspects corresponding to the essential 
+requirements cannot be explicitly covered in a TSI they shall be clearly identified in an annex to the TSI as open 
+points’. The idea is to identify and list certain aspects, which are considered necessary for satisfying the 
+essential requirements, but for which no appropriate specification for the target system is defined yet. In this 
+case, a TSI may be adopted with a view of closing the open point in further revisions. In the meantime, 
+notified national rules apply for this open point. 
+These national rules for the open points and the bodies designated for the assessment of conformity to these 
+rules shall be notified by the Member States to the Commission following the adoption of the TSIs containing 
+these open points. 
+ 
+2.2. 
+Target railway system and specific cases 
+The objective of the TSIs is to contribute to the achievement of the ‘optimal level of technical harmonisation’ 
+by establishing a specification for a common target system. (Recital 3 of (EU) 2016/797) 
+Depending on the situation of each Member State, the achievement of the target system may not be feasible 
+(or require a long transitional period). Taking this into account, the ‘TSIs shall retain, in an appropriate 
+manner, the compatibility of the existing rail system of each Member State. For that purpose, specific cases 
+for each TSI may be provided for, with regard to both network and vehicles, and in particular for the loading 
+gauge, the track gauge or space between the tracks and vehicles originating from or destined for third 
+countries. For each specific case, the TSIs shall stipulate the implementing rules’ ([Article 4(5)] of (EU) 
+2016/797). 
+These specific cases are classified according to two categories: the provisions that apply either permanently 
+(P cases), or temporarily (T cases).  
+The technical rules related to the specific cases are: 
+ 
+either defined in the chapter 7 of the TSIs, in this case the assessment of conformity is performed by 
+the Notified Body, or  
+ 
+when not specified in the TSIs, in the notified national rules in accordance with Article 13 of Directive 
+(EU) 2016/797. In this case the assessment of conformity is performed by the Designated Body. The 
+national rules for the related specific cases and the bodies designated for the assessment of 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+11 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+conformity to these rules shall be notified by the Member States to the Commission following the 
+adoption of the TSIs. 
+ 
+The Figure 1 below illustrates the migration from the sets of national rules to the TSIs. 
+ 
+Figure 1 – Migration to the target system 
+ 
+2.3. 
+Deficiencies in the TSIs 
+Deficiencies in TSIs are textual errors, omissions, mistakes in translation or in technical content, or other 
+inconsistencies as referred to in Article 6 of Directive (EU) 2016/797. 
+TSIs deficiencies are classified in the following categories:  
+1. Typographical errors (spelling, typing errors, computing errors, text with no sense, formatting, 
+missing words, missing figures) as well as evident translation mistakes (i.e. easily detectable in a 
+translated version without doubts by comparison with the original English version).  
+2. Substantial linguistic and translation deficiencies which may affect the content of the TSI.  
+3. Technical deficiencies, which need to be analysed by the Agency experts. 
+4. Critical errors.  
+5. Critical errors which must be urgently corrected. 
+ 
+Depending on the category of deficiency: 
+ 
+The Agency can perform a simple check or deliver an Agency opinion that constitutes an acceptable 
+means of compliance.  
+ 
+The Railway Interoperability and Safety Committee (RISC) is either simply informed or asked to 
+approve the technical opinion. In the latter case, the opinion of the RISC is recorded in the minutes 
+of the corresponding RISC meeting.  
+ 
+Depending on the importance and urgency of the correction, the legal act implementing the 
+amendment can be included in an ongoing revision.  
+ 
+Category 1 errors (typographical errors) may be corrected by a corrigendum published on the Official 
+Journal of the European Union (normally within a few weeks).  
+ 
+Existing system 
+Target system
+Set of
+NR 
+MS 1
+Set of
+NR 
+MS 2
+Set of
+NR
+MS 3
+Set of
+NR 
+MS 4 
+Ensemble
+des STI
+Specific cases
+MS 1
+Specific cases
+MS 3
+Specific cases 
+MS 4
+Set of TSIs
+Chapter 4
+Specific cases 
+MS 2
+Set of TSIs, Chapter  7
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+12 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+When deficiencies are discovered in the TSIs, the Agency may be asked to issue an opinion which, under 
+certain conditions, might be published and used by all stakeholders (including industry and notified bodies) 
+as an acceptable means of compliance pending the revision of the TSIs concerned. 
+The deficiencies in TSIs that have already been adopted are published in the Official Journal of the European 
+Union. The deficiencies in the TSIs which are still in the process of being drafted by the Agency or are in any 
+following approval step cannot be found in the Official Journal of the European Union. However, an updated 
+list of TSI deficiencies is provided regularly for the RISC meetings.  
+Any member of the network of representative bodies referred to in Article 38(4) of Regulation (EU) 2016/796 
+may make the Commission aware of possible TSI deficiencies (Article 6(4) of (EU) 2016/797). 
+The identified deficiencies are listed in the” Deficiency table”, published on the ERA Website.  
+(https://www.era.europa.eu/system/files/2023-02/TSI%20deficiencies.pdf) 
+The table is containing mainly the following information: the proposed amendment, the category of 
+deficiency, the date when the deficiency was published on the ERA Website and the references to a potential 
+ERA Recommendation and/or Agency Opinion. 
+The deficiencies in TSIs should be considered during the process for requirements capture (see Article 13 of 
+regulation 2018/545). The management of deficiencies in the TSIs concern the correction of the content of 
+the TSIs as specified in Article 5(1) of Directive 2016/797. It does not concern the evolution of the technical 
+documents published by the Agency and referred to in the TSIs. Similarly, this document does not cover the 
+Change Control Management for the ERTMS specifications and documents listed in the TSI on control-
+command and signalling. 
+Concerning differences between translated versions of TSIs: when a mistake of translation is a critical error, 
+it will be addressed in a formal process involving an opinion of the Agency, European Commission agreement 
+and approval by the Railway Interoperability and Safety Committee (RISC). In considering its opinion the 
+Agency will not use the English version as the base reference because all the different language versions of 
+the TSIs have the same status. 
+The NSAs for the area of use shall share with the Agency and all other NSAs all information resulting from 
+return of experience related to technical and operational matters that may be relevant for the issuing of a 
+vehicle type authorisation and/or vehicle authorisation for placing on the market, such as deficiencies in a 
+TSI in accordance with Article 6 of Directive (EU) 2016/797 (Article 7(4(c)) of (EU) 2018/545). 
+ 
+2.4. 
+Non-Application of TSIs 
+The basic principle is that TSIs apply to the subsystems, vehicles or networks, for which they were 
+designed,starting from the day the TSI has entered into force (or once transition periods have expired).  
+Non-applications of TSIs are exceptional measures. Therefore,  non-application decisions have to follow a 
+procedure involving the Member State(s) and the Commission, except for Article 7.1(b)-non-applications of 
+Directive (EU) 2016/797.  
+Non-applications can only be granted for a defined scope. In particular, they must be issued in relation to 
+subsystems defined in relation to identifiable vehicles or infrastructure, a number of vehicles or a defined 
+network, in order to ensure compatibility with the non-application cases (Directive (EU) 2016/797 Article 
+7.1(a) – (e)). An open-ended vehicle type for an undefined number of vehicles cannot be subject of a non-
+application decision. 
+Non-applications are granted based on reasons (exhaustive list in Directive (EU) 2016/797 Article 7.1 ). Based 
+on the information provided by an applicant for a request for non-application, non-application decisions by 
+MS – after verification with the Commission - confirm that all reasons for the non-application are met. 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+13 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+The most frequent non-applications require an assessment of the lack of economic viability (Directive (EU) 
+2016/797 article 7.1.a and c). Such an assessment can only be performed in respect of a clearly defined 
+project and in respect of distinct list of subsystems, vehicles or networks. 
+ 
+2.5. 
+Agency opinions and advices 
+According to Article 4(c) of the Agency Regulation (EU) 2016/796, the Agency may issue opinions to the 
+Commission and to the authorities concerned in the Member States. 
+The Agency shall issue opinions at the request of the Commission as well: 
+The Table 5 below provides an overview of opinion/advice that can be issued 
+ 
+Type of act 
+Opinion 
+Opinion 
+Opinion 
+Opinion 
+Opinion 
+Opinion 
+Technical 
+Advice 
+Legal base 
+Art. 10(2) 
+AR 
+Art. 42 AR 
+Art. 
+19(1)(d) AR 
+Art. 10(1) 
+AR 
+Art. 25/26 
+AR 
+TSIs and 
+deficiencies 
+in TSIs 
+Art. 41 
+Scope 
+legal 
+changes 
+railway 
+projects 
+acceptable 
+means of 
+compliance 
+any RSD / 
+IOD issue 
+national 
+rules 
+innov. sol./ 
+error 
+correction 
+any 
+technical 
+issue 
+Requested by 
+EC 
+EC 
+EC 
+Regulatory 
+Body 
+Agency 
+EC 
+EC 
+Deadline 
+2 months 
+(+ x mths if 
+EC agrees) 
+2 months 
+(+ x mths if 
+EC agrees) 
+2 months 
+(+ x mths if 
+EC agrees) 
+2 months 
+(+ x mths, if 
+RB agrees) 
+1 month if 
+Agency 
+maintains 
+its negative 
+assessment 
+2 months 
+(+ x mths if 
+EC agrees) 
+- 
+Impact 
+Assessment 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+If 
+considered 
+Necessary 
+External 
+consultation 
+NSA/NIB/ 
+RB/OTIF 
+- 
+OTIF 
+- 
+- 
+OTIF 
+- 
+Adoption
+Exec. Dir.
+Exec. Dir.
+Exec. Dir.
+Exec. Dir.
+Exec. Dir.
+Exec. Dir.
+Exec. Dir.
+RISC 
+- 
+- 
+informed 
+by EC 
+- 
+- 
+- 
+- 
+Publication 
+YES 
+YES 
+YES 
+YES 
+NO 
+YES 
+Upon 
+decision
+Table 5 – Agency opinions and advice 
+ 
+2.6. 
+Relevance of the TSIs to the subsystems defined in Annex II of the Interoperability 
+Directive (EU) 2016/797 
+According to Article 4(1) of the Interoperability Directive (EU) 2016/797, each of the subsystems defined in 
+Annex II shall be covered by one TSI. Where necessary, a subsystem may be covered by several TSIs and one 
+TSI may cover several subsystems. In practice, this results in a type of matrix linking different subsystems to 
+different TSIs. Table 6 shows the subsystems as defined in Annex II of the Interoperability Directive (EU) 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+14 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+2016/797. It indicates which TSIs are applicable to which subsystem, and therefore shall be considered for 
+conformity assessment1 of a particular subsystem. 
+ 
+ 
+Applicable TSIs 
+Subsystem 
+Infrastructure 
+Energy 
+CCS on board 
+CCS trackside 
+Rolling Stock 
+Operation and Traffic 
+Management 
+Maintenance 
+Telematic Applications  
+Reg 
+454/2011/EU 
+TAP TSI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+Reg (EU) 321/2013 
+WAG TSI 
+ 
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+Reg (EU) 1299/2014 
+INF TSI 
+X 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+Reg (EU) 1300/2014 
+PRM TSI 
+X 
+ 
+ 
+ 
+X  
+X 
+ 
+ 
+Reg (EU) 1301/2014 
+ENE TSI 
+ 
+X 
+ 
+ 
+ 
+ 
+X 
+ 
+Reg (EU) 1302/2014 
+LOC & PAS TSI 
+ 
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+Reg (EU) 1303/2014 
+SRT TSI 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+ 
+Reg (EU) 1304/2014 
+RST Noise TSI 
+ 
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+Reg (EU) 1305/2014 
+TAF TSI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+Reg (EU) 2016/919 
+CCS TSI 
+ 
+ 
+X 
+X 
+ 
+ 
+X 
+ 
+Com. Impl. Reg (EU) 
+2019/773 
+OPE TSI 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+Table 6 – Applicability of TSIs to subsystems 
+ 
+An overview of the dates of application and the entry into force of the different Structural & Functional TSIs 
+and their amendments by year is available in the ”TSI chronology table”, published on the ERA Website.  
+(https://www.era.europa.eu/system/files/2022-10/TSIs%20chronology%20table.pdf)  
+ 
+1 Conformity assessment here relates to Commission Decision 2010/713/EU [5] and doesn’t cover the TSIs 
+TAF, TAP and OPE 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+15 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+ 
+2.7. 
+TSIs versus other requirements 
+2.7.1. 
+National rules and, where relevant, acceptable national means of compliance in the field of 
+interoperability 
+For structural subsystems which are covered by TSIs, in some cases national rules (and where relevant 
+acceptable national means of compliance) may also apply to these subsystems.  
+There are two categories of national rules: 
+ 
+Existing national rules (see Article 13(2) of Directive (EU) 2016/797), which are limited to: 
+o Where the TSIs do not cover(..) aspects corresponding to the essential requirements, including 
+open points, 
+o Specific cases listed but not described in TSIs, 
+o Ensure technical compatibility with existing network, 
+o Case where non-application of one or more TSIs or parts of them, 
+o Networks and Vehicles not covered by TSIs, 
+o Urgent temporary preventive measure (..) following an accident. 
+ 
+New national rules may only be adopted (see Article 14(4) of Directive(EU) 2016/797) : 
+o when a TSI does not fully meet the essential requirements; 
+o as an urgent preventive measure, in particular following an accident. 
+From 16 June 2019 and pending the Single Rule Database (SRD), Reference Document Database (RDD) is the 
+reference for Applicants, NSAs and the Agency in terms of applicable National rules for Vehicle Authorisation: 
+(https://www.era.europa.eu/registers_en#rdd) 
+National 
+Rules 
+related 
+to 
+fixed 
+installation 
+are 
+notified 
+in 
+the 
+Single 
+Rules 
+Database: 
+(https://www.era.europa.eu/registers_en#srd) 
+Figure 2 below presents the contents of the Single Rule Database (SRD):  
+ 
+Figure 2 – Content of the SRD database 
+ 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+16 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+When the evaluation of National Rules leads to a negative assessment, the Agency addresses to the relevant 
+MSs an Agency opinion in accordance with articles 25 and 26 of ERA regulation. 
+ 
+In accordance with Article 15(8) of Directive (EU) 2016/797, Member States designate the bodies responsible 
+for carrying out the verification procedure in respect of national rules.  
+The list of the Designated Bodies can be found in the Reference Document Database: 
+(http://rdd.era.europa.eu/rdd/ReportsMangementPage.aspx#) 
+ 
+2.7.2. 
+National rules in the field of safety 
+The OPE TSI is a functional TSI and national safety rules for operational activities are covered by EU Directive 
+2016/798. 
+There are two categories of national rules: 
+ 
+Existing national rules are limited to: 
+o Open points and areas for national rules as identified in OPE TSI Appendix I, 
+o Cases not covered in the TSI (see EU Directive 2016/798 Art 8 (1 and 2), 
+o Specific cases described in TSI, 
+o Urgent temporary preventive measure following an accident. 
+ 
+New national rules may only be adopted: 
+o For cases not covered in the TSIs and CSMs (see EU Directive 2016/798 Art 8 (3), 
+o Where an already notified rule needs to be revised, 
+o As an urgent preventive measure, in particular following an accident. 
+National rules notified by 15 June 2016 pursuant to Directive 2004/49/EC shall apply if they: 
+a) fall into one of the types identified under Annex II; and 
+b) comply with Union law, including in particular TSIs, CSTs and CSMs; and 
+c) would not result in arbitrary discrimination or a disguised restriction on rail transport operation 
+between Member States. (Article 8(1) of (EU) 2016/798). 
+By 16 June 2018, Member States shall review the national rules referred to in paragraph 1 and repeal: 
+a) any national rule which was not notified, or which does not meet the criteria specified in paragraph 
+1; 
+b) any national rule which has been made redundant by Union law, including in particular TSIs, CSTs 
+and CSMs. 
+To that end, Member States may use the rule management tool referred to in Article 27(4) of Regulation (EU) 
+2016/796 and may request Agency to examine specific rules against the criteria specified in this paragraph. 
+(Article 8(2) of (EU) 2016/798). 
+Member States may lay down new national rules pursuant to this Directive only in the following cases: 
+a) where rules concerning existing safety methods are not covered by a CSM; 
+b) where operating rules of the railway network are not yet covered by TSIs; 
+c) as an urgent preventive measure, in particular following an accident or an incident; 
+d) where an already notified rule needs to be revised; 
+e) where rules concerning requirements in respect of staff executing safety-critical tasks, including 
+selection criteria, physical and psychological fitness and vocational training are not yet covered by a 
+TSI or by Directive 2007/59/EC of the European Parliament and of the Council (Article 8(3) of (EU) 
+2016/798). 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+17 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Member States shall notify to the Agency and to the Commission the national rules adopted. They shall use 
+the appropriate IT system in accordance with Article 27 of Regulation (EU) 2016/796 (Article 8(7) of (EU) 
+2016/798).  
+Member States shall submit the draft of a new national rule to the Agency and the Commission for 
+consideration in due time and within the deadlines referred to in Article 25(1) of Regulation (EU) 2016/796, 
+before the expected introduction into the national legal system of the proposed new rule, providing 
+justification for its introduction, through the appropriate IT system in accordance with Article 27 of 
+Regulation (EU) 2016/796. Member States shall ensure that the draft is sufficiently developed to allow the 
+Agency to carry out its examination in accordance with Article 25(2) of Regulation (EU) 2016/796. (Article 
+8(4) of (EU) 2016/798).  
+Since November 2020, SRD has replaced NOTIF-IT in the notification of new Safety National Rules. NOTIF-IT 
+is no longer accessible. The Agency, in concertation with the Member States, is currently re-assessing these 
+rules and will transfer them into the Single Rules Database (SRD): 
+(https://www.era.europa.eu/domains/registers/srd_en) 
+The Agency may by means of technical opinion define acceptable means of compliance, which shall be 
+presumed to ensure compliance with specific requirements of OPE TSI, and ensure safety in accordance with 
+Directive (EU) 2016/798. 
+Acceptable means of compliance with OPE TSI are published on the Agency website: 
+(https://www.era.europa.eu/domains/technical-specifications-interoperability/operation-and-traffic-
+management-tsi_en)  
+ 
+2.7.3. 
+Compliance with other regulations deriving from the Treaty 
+In accordance with Annex IV of Directive (EU) 2016/797, the technical file accompanying the ‘EC’ declaration 
+of verification of the subsystem should contain, among other elements, ‘certificates of verification issued in 
+accordance with other legal acts of the Union’. The Applicant is responsible to ensure that the subsystem 
+complies with all relevant Union law. Under the “relevant Union law”, some are not railway specific, but must 
+be respected in any case (e.g. REACH Regulation (EC) 1907/2006, EMC Directive 2014/30/EU, non-road 
+mobile machinery emissions Regulation (EU) 2016/1628, etc.). 
+The general principle is that the TSIs do not duplicate the requirements already covered by other EU 
+regulations (electromagnetic compatibility (EMC), exhaust emissions, etc.). This does not mean that railway 
+subsystems are exempt from the obligation of conformity to these other regulations. 
+For the purpose of this Directive, the verification by reference to TSIs is the procedure whereby a notified 
+body checks and certifies that the subsystem complies with the relevant technical specifications for 
+interoperability (TSI). This is without prejudice to the obligations of the applicant to comply with the other 
+applicable legal acts of the Union and any verifications by the assessment bodies required by the other rules 
+(Annex IV, Article 2.1. of Directive (EU) 2016/797). 
+For vehicle authorisation, please refer to the ERA website where provisions are defined in Regulation 
+2018/545, clarification and guidance are provided in the application guide and the clarification note : 
+Applications for Vehicle (type) Authorisations (VAs) | European Union Agency for Railways (europa.eu) 
+The applicant shall establish the ‘EC’ declaration of verification of a subsystem. The applicant shall declare 
+on his sole responsibility that the subsystem concerned has been subject to the relevant verification 
+procedures and that it satisfies the requirements of relevant Union law and any relevant national rule (Article 
+15(2) of Directive (EU) 2016/797). 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+18 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+In the case of conflict between essential requirements of the Interoperability Directive (or TSI requirements) 
+and those of other legislation covering the same technical scope, the matter should be brought to the 
+attention of the Commission, which will seek the best appropriate solution. A legal principle that may apply 
+in this case is that sector-specific legislation prevails over horizontal legislation. 
+ 
+2.7.4. 
+Monitoring other regulations impacting the railway system 
+As far as possible, the Agency monitors and analyses the EU developments in regulation and legislation that 
+may be relevant for the railway system and have an impact on TSIs or on other regulatory documents. 
+For example, the Cyber Resilience Act will impact all subsystems and may require the inclusion of some 
+requirements in several TSIs. 
+Pending the adoption of the Act and the subsequent discussions in one or several ERA Working Parties, the 
+following document is an interesting source of information and guidance: 
+CLC/TS 50701:2023 “Railway applications – Cybersecurity” 
+It contains several key aspects related to cyber security and is helpful for starting to consider these issues in 
+railway applications. 
+ 
+2.8. 
+ Questions about TSIs 
+Formal interpretation of the legal text may only be given by the European Court of Justice. 
+For the Interoperability Directive and the TSIs to be totally effective, it is essential that all railway stakeholders 
+in the EU share a common understanding and application of their content and requirements. 
+Many requests for clarification have been addressed to ERA by users along the way, and they are dealt with 
+in this version of the guide. Nevertheless, users will probably still have questions, which will be collected and 
+answered in further revisions. 
+Questions on the TSI may be sent to ERA through ERA website contact form : Contact Us  · Customer Self-
+Service (powerappsportals.com) 
+They will be collected as FAQ on the Agency website and considered in further revisions of this guide and, 
+where relevant, during the revision process of the TSIs. 
+Furthermore, bodies notified under Article 37 of (EU) 2016/797 may refer to their coordination group, NB 
+Rail, for any questions they may have regarding the assessment and verification procedures in relation to the 
+implementation of the TSIs. NB Rail is publishing regularly on their website Recommendations For Use (RFUs) 
+[A RFU shall ensure a uniform application of the current technical provisions of the applicable legislation as 
+established by the European Commissions by clarification, but it cannot alter any mandatory content of this 
+applicable legislation] and Questions & Clarification (Q&C) to the European Commission. 
+(http://nb-rail.eu/co/co_docs_en.html) 
+ 
+3. 
+APPLICABLE STANDARDS AND OTHER DOCUMENTS 
+3.1. 
+Overview 
+TSIs are adopted by EC regulations and are therefore mandatory. 
+According to [Article 4(8) of Directive (EU) 2016/797, the ‘TSIs may make an explicit, clearly identified 
+reference to European or international standards or specifications or technical documents published by the 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+19 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Agency’. In their absence, they may refer ‘to other clearly identified normative documents’ (such as UIC 
+leaflets, national standards, etc.):  compliance with these standards or specifications (or the relevant parts) 
+or documents shall become mandatory. Only those (part(s) of) standards, specifications and documents that 
+are strictly necessary to achieve the interoperability of the EU rail system are specifically referred to, and 
+therefore mandated by, the TSIs. 
+However, several other standards and documents are also relevant to the TSIs, even though they are not 
+referred to. Compliance with these standards or documents remains voluntary. Compliance with harmonised 
+standards as described in Regulation (EU) 1025/2012 gives presumption of conformity to the corresponding 
+essential requirements. 
+References to harmonised standards, indicating the Directives (new approach Directives and Directives based 
+on the new approach) and the TSI clauses for which they give presumption of conformity, are published in 
+the Official Journal of the European Union (OJEU) and are also available on the website of Enterprise and 
+Industry DG). This relationship is detailed in annex ZA or ZZ of the harmonised standard. 
+So it might also happen that the same standard can be (in full or in part) at the same time harmonised (i.e. 
+voluntary and giving presumption of conformity) and mandatory (i.e. referred to as such in the TSI). 
+Consequently, the standard will appear in the list of the harmonised standards published on the OJEU as well 
+as in the list of mandatory standards referred to in the TSIs. 
+In practice, the standards and other documents relate to the technical requirements set out in each TSI (basic 
+parameters, interfaces and performance requirements of each subsystem). These requirements, in turn, 
+reflect the essential requirements of the Interoperability Directive and the subsystem-specific essential 
+requirements set out in Chapter 3 of the TSIs. 
+The list of harmonised standards is published in the Official Journal of the European Union: 
+https://eur-lex.europa.eu/oj/direct-access.html 
+The list is accessible on the European Commission website:  
+https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-
+standards/rail-system-interoperability_en  
+The application guide of each TSI may also refer to harmonized standards giving presumption of conformity 
+to TSI requirements. Application of these standards remains voluntary. If a new revision of a harmonised 
+standard is published in the Official Journal of the European Union, this version can also be used considering 
+its annex ZA/ZZ. 
+ 
+3.2. 
+Reference to European standards and other documents in the TSIs 
+References in the TSIs to existing standards or other documents may be either: 
+ 
+‘strict’ references – whereby the reference explicitly identifies a particular version of the document (e.g. 
+with reference to the version number, date, etc.), or 
+ 
+‘slipping’ references (i.e. with no explicit identification of a particular version of the document) – whereby 
+the reference is to the version of the document in force at the time of adoption of the latest version of 
+the TSI in question. 
+To ensure certainty, as far as possible, only strict references are made in the TSIs. 
+In both cases, the version of the standard (or document) referred to in a TSI is the binding one. If, after the 
+adoption of a TSI, a new version of this standard (or document) is adopted, it does not imply any change in 
+the TSI, the ‘old’ version referred to in the TSI is still the binding one until the TSI is updated.  
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+20 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Where a TSI refers to a standard or document, the complete standard or document is mandatory. Where a 
+TSI refers to a part of a standard or document, only the part referred to is mandatory. 
+Where a standard(or document) or a part of a standard (or document) referred to in a TSI contains a 
+reference to another standard, which is needed to apply the quoted parts of the referred standard, unless 
+otherwise provided in the TSI, this second standard also becomes mandatory. 
+ 
+3.3. 
+Technical documents of the Agency   
+It should be noted that a ‘technical document of the Agency’ is not the same as an ‘Agency opinion’, which 
+is described in section 2.4. 
+A TSI may reference a technical document of the Agency in the same way as to a standard. In addition, the 
+regulatory measure adopting the TSI may include provisions for the updating of a technical document by the 
+Agency. 
+ 
+4. 
+CONFORMITY ASSESSMENT – STRUCTURAL TSIs 
+Each conformity assessment body shall be responsible for compiling the documents and producing all 
+necessary reports related to its conformity assessments performed. 
+ 
+4.1. 
+Conformity assessment procedures 
+4.1.1. 
+Interoperability constituents 
+Before being placed on the market (see Section 5.1), an IC must carry an ‘EC’ declaration of conformity and, 
+where required, an ‘EC’ declaration of suitability for use. These declarations are issued by the manufacturer 
+of the IC or its authorised representative following certification by a NoBo, where appropriate. 
+With respect to the Interoperability Directive (EU) 2016/797, the general definition of ‘conformity 
+assessment’ (see definitions in Table 2) should be understood for the ICs as the process demonstrating 
+whether requirements specified in the relevant TSI related to an interoperability constituent have been 
+fulfilled. 
+Other characteristics of an IC may be defined in a contractual way between the manufacturer and the 
+purchaser, providing they do not contradict the requirements of TSIs. A NoBo does not need to assess these 
+characteristics in the framework of interoperability. 
+The ‘EC’ declaration of conformity or suitability for use of an IC must precisely identify the product it was 
+drawn up for. 
+In theory, interoperability constituents are manufactured in serial production based on the same design or 
+type and may be incorporated into different subsystems. This means that an ‘EC’ declaration of conformity 
+and/or suitability for use is issued before the incorporation of the IC into a subsystem and is not usually 
+related to a specific project or subsystem. 
+An IC carrying an ‘EC’ declaration of conformity and/or suitability for use can be incorporated into a 
+subsystem without further assessment of its conformity. Subsequent ‘EC’ verification of the subsystem (see 
+section 4.1.2 below) include a verification of whether the IC has been integrated correctly (in particular, the 
+‘EC’ verification process must include a check that ICs are used in their relevant area of use). 
+An application for the conformity assessment of a constituent may be made at any time. However, unless 
+the relevant TSI provides otherwise, the ‘EC’ certificate for the subsystem incorporating this IC must only be 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+21 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+established at the same time or after all relevant ‘EC’ declarations of conformity and suitability for use have 
+been established. 
+If the IC is assessed at the same time as the subsystem and placed on the EU market through the placing in 
+service or placing on the market of this subsystem, a specific ‘EC’ declaration of conformity is still required 
+for the IC, unless the relevant TSI provides otherwise (e.g. for a transitional period). The placing on the market 
+of an IC cannot be covered by the ‘EC’ declaration of verification of the subsystem in which the IC is 
+integrated. From a formal point of view, the process of conformity assessment of the IC is separate from the 
+verification process of the subsystem. 
+Provisions related to templates for ‘EC’ declarations and certificates for railway interoperability constituents 
+are defined in Regulation 2019/250. 
+The Agency has set up the European Railway Agency Database of Interoperability and Safety (ERADIS) to 
+store certificates and declarations. This register must be used by:  
+ 
+Manufacturers of interoperability constituents to submit the EC declarations; and  
+ 
+Notified Bodies to submit EC certificates. 
+It is accessible via: 
+(https://www.era.europa.eu/domains/registers/eradis_en) 
+ 
+4.1.2. 
+Subsystems 
+Before the applicant submits a request for authorisation of the placing in service of fixed installations (Energy, 
+Infrastructure and trackside Control-Command and Signalling subsystems) to the National Safety Authority 
+(NSA), the following steps must have taken place: 
+ 
+‘EC’ verification of the subsystem(s) by a NoBo (Annex IV of the Interoperability Directive (EU) 
+2016/797); and establishment by this NoBo of the ‘EC’ verification certificate(s); 
+ 
+establishment of (the) ‘EC’ declaration(s) of verification for the subsystem(s) by the applicant for the 
+‘EC’ verification; 
+ 
+evidence of the technical compatibility of the subsystems with the system into which they are being 
+integrated, established on the basis of the relevant TSIs, national rules and registers; 
+ 
+evidence of the safe integration of the subsystems, established on the basis of the relevant TSIs, 
+national rules, and the common safety methods (‘CSMs’). 
+Only in the case of trackside control-command and signalling subsystems involving European Train Control 
+System (ETCS) and/or Global System for Mobile Communications — Railway (GSM-R) equipment, the positive 
+decision of the Agency is also required ([Article 18(4) of Directive (EU) 2016/797]). 
+In accordance with Article 20 of Directive (EU) 2016/797, an applicant can place mobile subsystems on the 
+market based on the ‘EC’ declaration of verification, only if they are designed, constructed and installed in 
+such a way as to meet the essential requirements.  
+An ‘EC’ declaration of verification for a subsystem is needed for any new subsystem. An ‘EC’ declaration of 
+verification for a subsystem is necessary as well if a change is made to the subsystem and the applicant has 
+assessed that the change implies a new ‘EC’ declaration of verification for a subsystem. If a project includes 
+more than one of the structural subsystems defined in Annex II of the Interoperability Directive (EU) 
+2016/797) (e.g. a vehicle may include a rolling stock subsystem and an onboard CCS subsystem; a railway line 
+includes an infrastructure subsystem and usually energy and trackside CCS subsystems), then several ‘EC’ 
+declarations of verification are needed, one for each structural subsystem. In case of change of subsystem, 
+see provisions defined in TSIs, regulation 2019/250 and for vehicle authorisation regulation 2018/545. 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+22 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Intermediate Statement of Verification (ISV): an ISV can be issued by a NoBo against relevant TSIs covering 
+part of a subsystem or part of the verification procedure (design, production or testing).  
+The verifications should be done only for the following stages of the EC verification procedure: 
+ 
+overall design (e.g. SB design/type examination); 
+ 
+production: manufacturing, constituent assembly and overall adjustment (e.g. SD); and/ or 
+ 
+final testing (e.g. SD). 
+An ISV can be delivered only if all the relevant TSI requirements are demonstrated (including type tests if 
+necessary, e.g. for SB). Some parts of a subsystem are covered by TSI requirements that can be demonstrated 
+without a need to carry out dynamic tests on a network, and can be covered by ISV(s) (e.g. gauge Commission 
+Regulation (EU) 1302/2014 4.2.3.1 or vehicle structure strength Commission Regulation (EU) 1302/2014 
+4.2.2.4) 
+ISV(s) are not to be used as a substitute of the EC certificate of verification. When the NoBo responsible for 
+the subsystem uses ISV(s), it is permissible for the modules used for the ISV(s) and the overall verification 
+assessment to be different 
+ 
+Applicant 
+ 
+decides if there is a need of division of the subsystem into parts; and 
+ 
+specifies for which parts of the subsystem or part of the verification procedure (as defined in the 
+assessment modules) there is a need to have an ISV from the NoBo. 
+ 
+NoBo (ISV) 
+ 
+performs the necessary assessments according to the division of the subsystem or part of  the 
+verification made by the applicant; and 
+ 
+issues ISVs. 
+ 
+NoBo (subsystem) 
+ 
+where ISV(s) have been issued, takes them into account before issuing its certificate of verification;  
+ 
+verifies that the ISV(s) cover correctly the relevant requirements of the TSIs; 
+ 
+checks all aspects that are not covered by the ISV(s); and 
+ 
+checks the final testing of the subsystem as a whole. 
+ 
+The template to be used for issuing ISV is to be in accordance with Regulation 2019/250. 
+ 
+4.2. 
+Conformity assessment modules 
+The procedures for conformity and suitability for use assessment and ‘EC’ verification are based on the use 
+of modules that are defined in commission decision 2010/713/EU. 
+Chapter 6 of the TSIs specifies the EC verification modules that are to be chosen by the Applicant of the 
+subsystem or the manufacturer of the IC. 
+Some modules can be used only in combination with others. Modules may involve a Notified Body or not 
+(self-assessment modules CA, CC for Interoperability Constituents). 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+23 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+Example of module choice for the IC coupler defined in LOC&PAS TSI 1302/2014: 
+ 
+Table 7 – Example of modules for the IC ‘coupler’ 
+ 
+Example of a module choice for the Rolling Stock subsystem defined in the LOC&PAS TSI 1302/2014:  
+ 
+Table 8 – Example of modules for the Rollick Stock subsystem 
+ 
+For the Rollick Stock subsystem, the Applicant chooses one combinations of modules: (SB+SD)  or (SB+SF) or 
+(SH1). The assessment is done according to the combination of modules chosen. 
+Further details (including tasks of the manufacturers, applicants for the ‘EC’ verification and NoBo) are given 
+in the document “Guide for Conformity assessment and EC verification” available on ERA website:   
+https://www.era.europa.eu/system/files/2022-11/iu_tsi_guide_annex02_en.pdf 
+ 
+4.3. 
+Assessments applicable to certain stages 
+The TSI assessment basis for a ‘EC type or design examination’ is defined in each TSI (ex. appendix H of 
+LOC&PAS TSI). TSIs specify to which stages (overall design, production or final testing) the assessments of 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+24 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+conformity apply, and by which specific assessment methods (design review, type test, manufacturing 
+process review, validation of in-service experience, etc.) they have to be carried out.  
+The Applicant is responsible for: 
+ 
+the choice the EC verification modules to use; 
+ 
+the identification of the evidence to be delivered to demonstrate the compliance of the subsystem 
+with the TSIs; 
+ 
+the establishment of the technical documentation to be used to assess the conformity of the 
+subsystem with the TSIs; and 
+ 
+the establishment of the relevant declarations for the subsystem(s). 
+For some basic parameters, only design characteristics (such as dimension requirements ensuring 
+compatibility) are essential. In those cases, the conformity assessment is focused on a design review of the 
+IC or the subsystem. 
+Where a design review is required in the TSI or in the module chosen by the applicant, this design review 
+must either: 
+ 
+be performed by a NoBo, according to a documented process, or 
+ 
+be part of a QMS. 
+The NoBo shall assess the implementation of the design review, in accordance with the procedure defined 
+by the conformity assessment module chosen by the applicant. If it is part of a QMS certified by an 
+independent third party, the NoBo must take this certification into account for the assessment of the 
+implementation of the design review. 
+ 
+ 
+ 
+ 
+EUROPEAN UNION AGENCY FOR RAILWAYS 
+ 
+Application Guide
+GUI/TSI/2023
+/
+ 
+ 
+120 Rue Marc Lefrancq  |  BP 20392  |  FR-59307 Valenciennes Cedex 
+25 / 25 
+Tel. +33 (0)327 09 65 00  |  era.europa.eu 
+Any printed copy is uncontrolled. The version in force is available on Agency’s intranet/extranet.  
+ANNEXES 
+ 
+Specific application guides of the different TSIs: 
+(https://www.era.europa.eu/domains/technical-specifications-interoperability_en) 
+ 
+Guide for Conformity assessment and EC verification (EN): 
+Note: that guide still needs to be updated and adapted to the 4th Railway Package.   
+ 
+ 
+ 

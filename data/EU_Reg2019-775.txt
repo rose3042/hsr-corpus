@@ -1,0 +1,170 @@
+COMMISSION IMPLEMENTING REGULATION (EU) 2019/775 
+of 16 May 2019 
+amending Regulation (EU) No 454/2011 as regards Change Control Management 
+(Text with EEA relevance) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European Union, 
+Having regard to Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the inter­
+operability of the rail system within the European Union (1), and in particular Article 5(11) thereof, 
+Whereas: 
+(1)  
+Article 19 of Regulation (EU) 2016/796 of the European Parliament and of the Council (2) requires the European 
+Union Agency for Railways (‘the Agency’) to address recommendations to the Commission on the technical 
+specifications for interoperability (‘TSIs’) and their revision, in accordance with Article 5 of Directive (EU) 
+2016/797, and to ensure that TSIs are adapted to technical progress, market trends and social requirements. 
+(2)  
+Article 14 of Commission Delegated Decision (EU) 2017/1474 (3) requires Section 7.5 of Annex I to Commission 
+Regulation (EU) No 454/2011 (4) (TAP TSI) to be amended for specifying the modified change control procedure 
+for the TAP TSI. 
+(3)  
+In accordance with Article 5 of Regulation (EU) 2016/796, a working party has been established for making 
+a proposal for a recommendation as regards the changes of the Section 7.5 of the TAP TSI. 
+(4)  
+On 20 April 2018, the Agency addressed a recommendation to the Commission on the revision of Section 7.5 
+of Regulation (EU) No 454/2011 (TAP TSI) 
+(5)  
+Section 7.5 of Annex I to Regulation (EU) No 454/2011 related to TAP TSI should be amended accordingly. 
+(6)  
+The list of the relevant technical documents referenced in TAP TSI should be updated. 
+(7)  
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established in 
+accordance with Article 51(1) of Directive (EU) 2016/797, 
+HAS ADOPTED THIS REGULATION: 
+Article 1 
+Section 7.5 of Annex I to Commission Regulation (EU) No 454/2011 (TAP TSI) is replaced by the text in Annex I to 
+this Regulation. 
+27.5.2019 
+L 139 I/103 
+Official Journal of the European Union 
+EN     
+(1) OJ L 138, 26.5.2016, p. 44. 
+(2) Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Railways 
+and repealing Regulation (EC) No 881/2004 (OJ L 138, 26.5.2016, p. 1). 
+(3) Commission Delegated Decision (EU) 2017/1474 of 8 June 2017 supplementing Directive (EU) 2016/797 of the European Parliament 
+and of the Council with regard to specific objectives for the drafting, adoption and review of technical specifications for interoperability 
+(OJ L 210, 15.8.2017, p. 5). 
+(4) Commission Regulation (EU) No 454/2011 of 5 May 2011 on the technical specification for interoperability relating to the subsystem 
+‘telematics applications for passenger services’ of the trans-European rail system (OJ L 123, 12.5.2011, p. 11). 
+Article 2 
+Annex III to Commission Regulation (EU) No 454/2011 is replaced by the text in Annex II to this Regulation. 
+Article 3 
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Brussels, 16 May 2019. 
+For the Commission 
+The President 
+Jean-Claude JUNCKER  
+27.5.2019 
+L 139 I/104 
+Official Journal of the European Union 
+EN     
+ANNEX I 
+Section 7.5 of Annex I to Commission Regulation (EU) No 454/2011 is replaced by the following: 
+‘7.5.  
+Change Management 
+7.5.1.  Change Management Process 
+Change management procedures shall be designed to ensure that the costs and benefits of change are 
+properly analysed and that changes are implemented in a controlled way. These procedures shall be defined, 
+put in place, supported and managed by the Agency and shall include: 
+—  the identification of the technical constraints underpinning the change, 
+—  a statement of who takes responsibility for the change implementation procedures, 
+—  the procedure for validating the changes to be implemented, 
+—  the policy for change management, release, migration and roll-out, 
+—  the definition of the responsibilities for the management of the detailed specifications and for both its 
+quality assurance and configuration management. 
+The Change Control Board (CCB) shall be composed of the Agency, rail sector representative bodies, a ticket 
+vendor representative body, a passenger representative body and Member States. Such an affiliation of the 
+parties shall ensure a perspective on the changes that are to be made and an overall assessment of their 
+implications. The CCB ultimately shall be brought under the aegis of the Agency. 
+7.5.2.  Specific Change Management Process for documents listed in Annex III to this Regulation 
+The change control management for the documents listed in Annex III to this Regulation shall be established 
+by the Agency in accordance with the following criteria: 
+1. The change requests affecting the documents are submitted either via the Member States or via the rep­
+resentative bodies from the railway sector acting on a European level as defined in Article 38(4) of 
+Regulation (EU) 2016/796 of the European Parliament and of the Council (*), or the ticket vendors' rep­
+resentative or via the International Union of Railways (UIC) for error corrections in relation to specifi­
+cations originally developed by UIC or via the TAP TSI Steering Committee.  
+2. The Agency shall gather and store the change requests.  
+3. The Agency shall present the change requests to the dedicated ERA working party, which will evaluate 
+them and prepare a proposal accompanied by an economic evaluation, where appropriate.  
+4. Afterwards the Agency shall present each change request and the associated proposal to the change 
+control board that will or will not validate or postpone the change request.  
+5. If the change request is not validated, the Agency shall send back to the requester either the reason for 
+the rejection or a request for additional information about the draft change request.  
+6. If the change request is validated, the technical document shall be amended.  
+7. If no consensus about the validation of a change request can be reached, the Agency shall submit to the 
+Commission a recommendation to update the documents listed in Annex III together with the draft new 
+version of the document, the change requests and their economic evaluation and shall make these 
+documents available on their web site.  
+8. The new version of the technical document with the validated change requests shall be made available at 
+the site of the Agency. The Agency will keep the Member States informed via the Committee established 
+in accordance with Article 29(1) of Directive 2008/57/EC.  
+9. If a change request would require a change of the legal text of the TAP TSI, the Agency shall send 
+a request to the European commission to request a revision of the TAP TSI and/or request the technical 
+opinion from the Agency. 
+27.5.2019 
+L 139 I/105 
+Official Journal of the European Union 
+EN     
+Where change control management affects elements which are in common use within the TAF TSI, the 
+changes shall be made so as to remain compliant to the implemented TAF TSI in order to achieve optimum 
+synergies.  
+(*) Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European 
+Union Agency for Railways and repealing Regulation (EC) No 881/2004 (OJ L 138, 26.5.2016, p. 1).’  
+27.5.2019 
+L 139 I/106 
+Official Journal of the European Union 
+EN     
+ANNEX II 
+Annex III to Regulation (EU) No 454/2011 is replaced by the following: 
+‘ANNEX III 
+List of technical documents 
+No 
+Reference 
+Title 
+1 
+B.1 
+Computer generation and exchange of tariff data meant for international or foreign 
+sales — NRT tickets 
+2 
+B.2 
+Computer generation and exchange of tariff data meant for international and foreign 
+sales — Integrated Reservation Tickets (IRT) 
+3 
+B.3 
+Computer generation and exchange of data meant for international or foreign sales — 
+Special offers 
+4 
+B.4 
+Implementation guide for EDIFACT messages covering timetable data exchange 
+5 
+B.5 
+Electronic reservation of seats/berths and electronic production of travel documents — 
+Exchange of messages 
+6 
+B.6 
+Electronic seat/berth reservation and electronic production of transport documents 
+(RCT2 standards) 
+7 
+B.7 
+International Rail ticket for Home Printing 
+8 
+B.8 
+Standard numerical coding for railway undertakings, infrastructure managers and other 
+companies involved in rail-transport chains 
+9 
+B.9 
+Standard numerical coding of locations 
+10 
+B.10 
+Electronic reservation of assistance for persons with reduced mobility — Exchange of 
+messages 
+12 
+B.30 
+Schema — messages/datasets catalogue needed for the RU/IM communication of TAP 
+TSI’    
+27.5.2019 
+L 139 I/107 
+Official Journal of the European Union 
+EN     

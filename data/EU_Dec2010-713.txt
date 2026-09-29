@@ -1,0 +1,2428 @@
+II 
+(Non-legislative acts) 
+DECISIONS 
+COMMISSION DECISION 
+of 9 November 2010 
+on modules for the procedures for assessment of conformity, suitability for use and EC verification 
+to be used in the technical specifications for interoperability adopted under Directive 2008/57/EC of 
+the European Parliament and of the Council 
+(notified under document C(2010) 7582) 
+(Text with EEA relevance) 
+(2010/713/EU) 
+THE EUROPEAN COMMISSION, 
+Having regard to the Treaty on the Functioning of the European 
+Union, 
+Having regard to Directive 2008/57/EC of the European 
+Parliament and of the Council of 17 June 2008 on the inter­
+operability of the rail system within the Community ( 1 ), and in 
+particular Article 5(3)(e) and Article 6(1) thereof, 
+Whereas: 
+(1) 
+Technical specifications for interoperability (TSIs) are 
+specifications adopted in accordance with Directive 
+2008/57/EC. TSIs set all the conditions with which inter­
+operability constituents and subsystems must conform, 
+and the procedures to be followed in assessing 
+conformity and suitability for use of interoperability 
+constituents and EC verification of subsystems. 
+(2) 
+Commission Decision 2006/66/EC ( 2 ) established the 
+modules to be used for conformity assessment of inter­
+operability constituents and EC verification of subsystems 
+of the technical specification for interoperability (TSI) 
+‘rolling 
+stock-noise’, 
+Commission 
+Decision 
+2006/861/EC ( 3 ) did the same for the TSI ‘rolling 
+stock-freight 
+wagons’ 
+and 
+Commission 
+Decision 
+2006/679/EC ( 4 ) 
+established 
+modules 
+for 
+the 
+TSI 
+‘control-command and signalling’ of the trans-European 
+conventional rail system. 
+(3) 
+Commission 
+Decisions 
+2008/217/EC ( 5 ), 
+2008/284/EC ( 6 ), 2008/232/EC ( 7 ) and 2006/860/EC ( 8 ) 
+established the modules to be used for conformity 
+assessment of interoperability constituents and EC verifi­
+cation of subsystems of the TSI ‘infrastructure’, the TSI 
+‘energy’, the TSI rolling stock and the TSI ‘control- 
+command and signalling’ of the trans-European high- 
+speed rail system respectively. 
+(4) 
+Commission 
+Decisions 
+2008/163/EC ( 9 ) 
+and 
+2008/164/EC ( 10 ) established the modules to be used 
+for conformity assessment of interoperability constituents 
+and EC verification of subsystems for the TSI ‘safety in 
+railway tunnels’ and for the TSI ‘people with reduced 
+mobility’ of the trans-European conventional and high- 
+speed rail system respectively. 
+(5) 
+In 
+accordance 
+with 
+Article 
+5(3)(e) 
+of 
+Directive 
+2008/57/EC, TSI have to refer to modules set out in 
+Council Decision 93/465/EEC ( 11 ). That Decision has 
+been repealed by Decision No 768/2008/EC of the 
+European Parliament and of the Council of 9 July 
+2008 on a common framework for the marketing of 
+products ( 12 ), and lays down common principles and 
+reference provisions intended to apply across sectoral 
+legislation in order to provide a coherent basis for 
+drawing up, revision or recasts of that legislation.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/1 
+( 1 ) OJ L 191, 18.7.2008, p. 1. 
+( 2 ) OJ L 37, 8.2.2006, p. 1. 
+( 3 ) OJ L 344, 8.12.2006, p. 1. 
+( 4 ) OJ L 284, 16.10.2006, p. 1. 
+( 5 ) OJ L 77, 19.3.2008, p. 1. 
+( 6 ) OJ L 104, 14.4.2008, p. 1. 
+( 7 ) OJ L 84, 26.3.2008, p. 132. 
+( 8 ) OJ L 342, 7.12.2006, p. 1. 
+( 9 ) OJ L 64, 7.3.2008, p. 1. 
+( 10 ) OJ L 64, 7.3.2008, p. 72. 
+( 11 ) OJ L 220, 30.8.1993, p. 23. 
+( 12 ) OJ L 218, 13.8.2008, p. 82.
+(6) 
+However, a specific comprehensive legal framework is 
+already in place for the railway sector which necessitates 
+specific adaptation of the modules of Decision No 
+768/2008/EC. In particular, the provisions of Directive 
+2008/57/EC related to conformity assessment and suit­
+ability for use of interoperability constituents and EC 
+verification of subsystems require specific adaptation of 
+the modules set out in Annex II to Decision No 
+768/2008/EC. 
+(7) 
+As specific features of rail must be taken into account to 
+ensure consistency of all legislative acts concerning inter­
+operability constituents and subsystems, it is appropriate 
+to lay down modules which are specific for railways. 
+(8) 
+To establish a common set of modules for all TSIs it is 
+necessary to introduce them in one legislative act. This 
+Decision should provide such a common set of modules 
+which should enable the legislator to choose the appro­
+priate procedures for conformity assessment, suitability 
+for use and EC verification when drafting or revising 
+TSIs. 
+(9) 
+The TSIs which are in force on the date this Decision 
+becomes applicable, should not apply the modules 
+provided for in this Decision until their revision and 
+should be allowed to continue to apply the modules 
+for conformity assessment and suitability for use of inter­
+operability constituents and EC verification of subsystems 
+as defined in the relevant annexes to those TSIs. 
+However, when those TSIs will be revised they should 
+fall within the scope of this Decision. 
+(10) 
+In order to provide a better comprehension, a list of 
+terms used in the conformity assessment modules 
+specific for railways and their equivalent in generic 
+modules defined in Decision No 768/2008/EC should 
+be attached to this Decision. Furthermore, a correlation 
+table of the modules used in the TSIs referred to in 
+recitals 2 to 4, the modules used in Decision No 
+768/2008/EC and the specific modules for railways set 
+out in Annex I to this Decision should be set up. 
+(11) 
+The measures provided for in this Decision are in 
+accordance with the opinion of the Committee referred 
+to in Article 29(1) of Directive 2008/57/EC, 
+HAS ADOPTED THIS DECISION: 
+Article 1 
+Subject matter 
+The modules for procedures for assessment of conformity and 
+suitability for use of the interoperability constituents and for EC 
+verification of subsystems, as set out in Annex I, are hereby 
+adopted. 
+A list of terms used in the conformity assessment modules 
+specific for railways and their equivalent in generic modules 
+defined in Decision No 768/2008/EC is set out in Annex II. 
+A correlation table of the modules used is attached in Annex III. 
+Article 2 
+Scope 
+The modules shall be applicable to all TSIs which enter in force 
+on or after the date referred to in Article 8. 
+Article 3 
+Definitions 
+For the purposes of this Decision, the following definitions shall 
+apply: 
+1. ‘technical specification for interoperability’ (TSI) means a 
+specification 
+adopted 
+in 
+accordance 
+with 
+Directive 
+2008/57/EC by which each subsystem or part subsystem 
+is covered in order to meet the essential requirements and 
+ensure the interoperability of the rail system; 
+2. ‘vehicle’ means a railway vehicle that runs on its own 
+wheels on railway lines, with or without traction. A 
+vehicle is composed of one or more structural and func­
+tional subsystems or parts of such subsystems; 
+3. ‘subsystems’ means the result of the division of the rail 
+system, as shown in Annex II to Directive 2008/57/EC; 
+4. ‘interoperability 
+constituents’ 
+means 
+any 
+elementary 
+component, group of components, sub-assembly or 
+complete 
+assembly 
+of 
+equipment 
+incorporated 
+or 
+intended to be incorporated into a subsystem, upon 
+which the interoperability of the rail system depends 
+directly or indirectly. The concept of a ‘constituent’ covers 
+both tangible objects and intangible objects such as 
+software; 
+5. ‘applicant’ means contracting entity or manufacturer; 
+6. ‘contracting entity’ means any entity, whether public or 
+private, which orders the design and/or construction or 
+the renewal or upgrading of a subsystem. This entity may 
+be a railway undertaking, an infrastructure manager or a 
+keeper, or the concession holder responsible for carrying 
+out a project;
+EN 
+L 319/2 
+Official Journal of the European Union 
+4.12.2010
+7. ‘notified bodies’ means the bodies which are responsible for 
+assessing the conformity or suitability for use of the inter­
+operability constituents or for appraising the ‘EC’ procedure 
+for verification of the subsystems; 
+8. ‘harmonised standard’ means any European standard 
+adopted by one of the European standardisation bodies 
+listed in Annex I to Directive 98/34/EC of the European 
+Parliament and of the Council of 22 June 1998 laying 
+down a procedure for the provision of information in the 
+field of technical standards and regulations and of rules on 
+Information Society services ( 1 ) in connection with a 
+mandate by the Commission drawn up in accordance 
+with the procedure referred to in Article 6(3) of that 
+Directive, which, by itself or together with other standards, 
+provides a solution as regards compliance with a legal 
+provision; 
+9. ‘placing in service’ means all the operations by which a 
+subsystem or a vehicle is put into its design operating state; 
+10. ‘placing on the market’ means the first making available of 
+an interoperability constituent on the Union market; 
+11. ‘manufacturer’ means any natural or legal person who 
+manufactures a product or has a product designed or 
+manufactured, and markets that product under his name 
+or trademark; 
+12. ‘authorised representative’ means any natural or legal 
+person established within the Union who has received a 
+written mandate from a manufacturer or a contracting 
+entity to act on their behalf in relation to specified tasks; 
+13. ‘conformity assessment’ means the process demonstrating 
+whether requirements specified in the relevant TSI relating 
+to an interoperability constituent have been fulfilled; 
+14. ‘assessment of suitability for use’ means the process demon­
+strating whether requirements for suitability for use 
+specified in the relevant TSI relating to an interoperability 
+constituent have been fulfilled; 
+15. ‘EC verification’ means the procedure referred to in 
+Article 18 of Directive 2008/57/EC whereby a notified 
+body checks and certifies that the subsystem complies 
+with Directive 2008/57/EC, relevant TSI(s) and with the 
+other regulations deriving from the Treaty, and may be 
+put into operation. 
+Article 4 
+Conformity assessment procedures 
+1. 
+The procedures for conformity assessment for the inter­
+operability constituents covered by the TSIs shall be chosen 
+among the modules set out in Annex I, in accordance with 
+the following criteria: 
+(a) whether the module concerned is appropriate to the type of 
+interoperability constituent; 
+(b) the nature of the risks entailed by the interoperability 
+constituent and the extent to which conformity assessment 
+corresponds to the type and degree of risk; 
+(c) the need for the manufacturer to have a choice between 
+quality management system and product certification 
+modules set out in Annex I; 
+(d) the need to avoid imposing modules which would be too 
+burdensome in relation to the risks. 
+2. 
+The TSI(s) shall specify the modules for conformity 
+assessment to be applied for the interoperability constituents. 
+Where necessary, the TSI(s) may clarify and complement them 
+due to the specificity of the sub system concerned. 
+Article 5 
+Procedure for assessment of suitability for use 
+Where the TSIs so require, the procedure for assessment of 
+suitability for use of the interoperability constituents shall be 
+done in accordance with the instructions set out in the module 
+CV set out in Annex I. 
+Article 6 
+EC verification procedures 
+1. 
+The EC verification procedures for the subsystems covered 
+by the TSIs shall be chosen among the modules set out in 
+Annex I, in accordance with the following criteria: 
+(a) whether the module concerned is appropriate to the type of 
+the subsystem; 
+(b) the nature of the risks entailed by the subsystem and the 
+extent to which EC verification corresponds to the type and 
+degree of risk;
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/3 
+( 1 ) OJ L 204, 21.7.1998, p. 37.
+(c) the need for the manufacturer to have a choice between 
+quality management system and product certification 
+modules set out in Annex I; 
+(d) the need to avoid imposing modules which would be too 
+burdensome in relation to the risks. 
+2. 
+The TSI(s) shall specify the modules for EC verification to 
+be applied for the subsystems. Where necessary, the TSI(s) may 
+clarify and complement them due to the specificity of the sub 
+system concerned. 
+Article 7 
+Subsidiaries of and subcontracting by notified bodies 
+1. 
+Where a notified body subcontracts specific tasks 
+connected with conformity assessment or EC verification or 
+has recourse to a subsidiary, it shall take full responsibility for 
+the tasks performed by subcontractors or subsidiaries wherever 
+these are established. 
+2. 
+Activities may be subcontracted or carried out by a 
+subsidiary only with the agreement of the applicant. 
+Article 8 
+Application 
+This Decision shall apply from 1 January 2011. 
+Article 9 
+Addressees 
+This Decision is addressed to the Member States. 
+Done at Brussels, 9 November 2010. 
+For the Commission 
+Siim KALLAS 
+Vice-President
+EN 
+L 319/4 
+Official Journal of the European Union 
+4.12.2010
+ANNEX I 
+Modules for the procedures for assessment of conformity, suitability for use and EC verification to be used in 
+the technical specifications for interoperability 
+Modules for Conformity assessment of interoperability constituents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6 
+Module CA. Internal production control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6 
+Module CA1. Internal production control plus product verification by individual examination . . . . . . . . . . . . . 
+7 
+Module CA2. Internal production control plus product verification at random intervals . . . . . . . . . . . . . . . . . . 
+8 
+Module CB. EC-type examination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+10 
+Module CC. Conformity to type based on internal production control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+12 
+Module CD. Conformity to type based on quality management system of the production process . . . . . . . . . . 
+13 
+Module CF. Conformity to type based on product verification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+16 
+Module CH. Conformity based on full quality management system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17 
+Module CH1. Conformity based on full quality management system plus design examination . . . . . . . . . . . . . 
+21 
+Modules for Suitability for use of interoperability constituents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+25 
+Module CV. Type validation by in-service experience (suitability for use) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+25 
+Modules for EC verification of subsystems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+28 
+Module SB. EC-type examination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+28 
+Module SD. EC verification based on quality management system of the production process . . . . . . . . . . . . . . 
+31 
+Module SF. EC verification based on product verification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+37 
+Module SG. EC verification based on unit verification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+40 
+Module SH1. EC verification based on full quality management system plus design examination . . . . . . . . . . . 
+43
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/5
+MODULES FOR CONFORMITY ASSESSMENT OF INTEROPERABILITY CONSTITUENTS 
+Module CA. Internal production control 
+1. 
+Internal production control is the conformity assessment procedure whereby the manufacturer fulfils the obligations 
+laid down in points 2, 3 and 4, and ensures and declares on his sole responsibility that the interoperability 
+constituents concerned satisfy the requirements of the technical specification for interoperability (TSI) that apply 
+to them. 
+2. 
+Technical documentation 
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the 
+interoperability constituent’s conformity with the requirements of the TSI. The technical documentation shall specify 
+the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture, maintenance 
+and operation of the interoperability constituent. 
+Wherever applicable, the technical documentation shall give evidence that the design of the interoperability 
+constituent, already accepted before the implementation of the applicable TSI is in accordance with the TSI and 
+that the interoperability constituent has been used in service in the same area of use. 
+The technical documentation shall contain, wherever applicable, at least the following elements: 
+— a general description of the interoperability constituent, 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc., 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, assembly, 
+subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been applied. 
+In the event of partly applied harmonised standards, the technical documentation shall specify the parts which 
+have been applied, 
+— results of design calculations made, examinations carried out, etc., and 
+— test reports. 
+3. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+compliance of the interoperability constituents with the technical documentation referred to in point 2 and with the 
+requirements of the TSI that apply to them. 
+4. 
+EC declaration of conformity 
+4.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it together with the technical documentation at the disposal of the national authorities for the period defined in the 
+relevant TSI and, where the TSI does not define this period, for 10 years after the last interoperability constituent has 
+been manufactured. The EC declaration of conformity shall identify the interoperability constituent for which it has 
+been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request.
+EN 
+L 319/6 
+Official Journal of the European Union 
+4.12.2010
+4.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+5. 
+Authorised representative 
+The manufacturer’s obligations set out in point 4 may be fulfilled by his authorised representative, on his behalf and 
+under his responsibility, provided that they are specified in the mandate. 
+Module CA1. Internal production control plus product verification by individual examination 
+1. 
+Internal production control plus product verification by individual examination is the conformity assessment 
+procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3, 4, and 6, and ensures and 
+declares on his sole responsibility that the interoperability constituents concerned satisfy the requirements of the 
+technical specification for interoperability (TSI) that apply to them. 
+2. 
+Technical documentation 
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the 
+interoperability constituent’s conformity with the requirements of the TSI. 
+The technical documentation shall specify the applicable requirements and cover, as far as relevant for the 
+assessment, the design, manufacture, maintenance and operation of the interoperability constituent. 
+Wherever applicable, the technical documentation shall also give evidence that the design of the interoperability 
+constituent, already accepted before the implementation of the applicable TSI is in accordance with the TSI and that 
+the interoperability constituent has been used in service in the same area of use. 
+The technical documentation shall contain, wherever applicable, at least the following elements: 
+— a general description of the interoperability constituent, 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc., 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, assembly, 
+subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been applied. 
+In the event of partly applied harmonised standards, the technical documentation shall specify the parts which 
+have been applied, 
+— results of design calculations made, examinations carried out, etc., and 
+— test reports. 
+3. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+compliance of the interoperability constituents with the technical documentation referred to in point 2 and with the 
+requirements of the TSI that apply to them.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/7
+4. 
+Product checks 
+For each individual product manufactured, one or more tests on one or more specific aspects of the interoperability 
+constituent shall be carried out in order to verify conformity with the type described in the technical documentation 
+and the requirements of the TSI. At the choice of the manufacturer, the tests are carried out either by an accredited 
+in-house body or under the responsibility of a notified body chosen by the manufacturer. 
+5. 
+EC certificate of conformity 
+The notified body shall issue an EC certificate of conformity in respect of the examinations and tests carried out. 
+The manufacturer shall keep the EC certificates of conformity available for inspection by the national authorities for 
+the period defined in the relevant TSI and, where the TSI does not define this period, for 10 years after the last 
+interoperability constituent has been manufactured. 
+6. 
+EC declaration of conformity 
+6.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it together with the technical documentation at the disposal of the national authorities for the period defined in the 
+relevant TSI and, where the TSI does not define this period, for 10 years after the last interoperability constituent has 
+been manufactured. The EC declaration of conformity shall identify the interoperability constituent for which it has 
+been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+6.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+7. 
+Authorised representative 
+The manufacturer’s obligations set out in point 6 may be fulfilled by his authorised representative, on his behalf and 
+under his responsibility, provided that they are specified in the mandate. 
+Module CA2. Internal production control plus product verification at random intervals 
+1. 
+Internal production control plus product verification at random intervals is the conformity assessment procedure 
+whereby the manufacturer fulfils the obligations laid down in points 2, 3, 4, and 6, and ensures and declares on his 
+sole responsibility that the interoperability constituents concerned satisfy the requirements of the technical specifi­
+cation for interoperability (TSI) that apply to them. 
+2. 
+Technical documentation 
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the 
+interoperability constituent’s conformity with the requirements of the TSI. The technical documentation shall specify 
+the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture, maintenance 
+and operation of the interoperability constituent. 
+Wherever applicable, the technical documentation shall also give evidence that the design of the interoperability 
+constituent, already accepted before the implementation of the applicable TSI is in accordance with the TSI and that 
+the interoperability constituent has been used in service in the same area of use. 
+The technical documentation shall contain, wherever applicable, at least the following elements: 
+— a general description of the interoperability constituent, 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.,
+EN 
+L 319/8 
+Official Journal of the European Union 
+4.12.2010
+— descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, assembly, 
+subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been applied. 
+In the event of partly applied harmonised standards, the technical documentation shall specify the parts which 
+have been applied, 
+— results of design calculations made, examinations carried out, etc., and 
+— test reports. 
+3. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+compliance of the interoperability constituents with the technical documentation referred to in point 2 and with the 
+requirements of the TSI that apply to them. 
+4. 
+Product checks 
+4.1. At the choice of the manufacturer, either an accredited in-house body or a notified body, chosen by the manu­
+facturer, shall carry out product checks or have them carried out at random intervals. 
+4.2. The manufacturer shall present his products in the form of homogeneous lots and shall take all measures necessary 
+in order that the manufacturing process ensures the homogeneity of each lot produced. 
+4.3. All interoperability constituents shall be available for verification in the form of homogeneous lots. A random 
+sample shall be drawn from each lot. All interoperability constituents in a sample shall be individually examined and 
+appropriate tests shall be carried out to ensure the product conformity with the type described in the technical 
+documentation and the requirements of the TSI that apply to it and to determine whether the lot is accepted or 
+rejected. 
+5. 
+EC certificate of conformity 
+The notified body shall issue an EC certificate of conformity in respect of the examinations and tests carried out. 
+The manufacturer shall keep the EC certificates of conformity available for inspection by the national authorities for 
+the period defined in the relevant TSI and, where the TSI does not define this period, for 10 years after the last 
+interoperability constituent has been manufactured. 
+6. 
+EC declaration of conformity 
+6.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it together with the technical documentation at the disposal of the national authorities for the period defined in the 
+relevant TSI and, where the TSI does not define this period, for 10 years after the last interoperability constituent has 
+been manufactured. The EC declaration of conformity shall identify the interoperability constituent for which it has 
+been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+6.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/9
+7. 
+Authorised representative 
+The manufacturer’s obligations set out in point 6 may be fulfilled by his authorised representative, on his behalf and 
+under his responsibility, provided that they are specified in the mandate. 
+Module CB. EC-type examination 
+1. 
+EC-type examination is the part of a conformity assessment procedure in which a notified body examines the 
+technical design of an interoperability constituent and verifies and attests that the technical design of the inter­
+operability constituent meets the requirements of the technical specification for interoperability (TSI) that apply to it. 
+2. 
+EC-type examination may be carried out in either of the following manners: 
+— examination of a specimen, representative of the production envisaged, of the interoperability constituent 
+(production type), 
+— assessment of the adequacy of the technical design of the interoperability constituent through examination of the 
+technical documentation and supporting evidence referred to in point 3, plus examination of specimens, 
+representative of the production envisaged, of one or more critical parts of the interoperability constituent 
+(combination of production type and design type), 
+— assessment of the adequacy of the technical design of the interoperability constituent through examination of the 
+technical documentation and supporting evidence referred to in point 3, without examination of a specimen 
+(design type). 
+3. 
+The manufacturer shall lodge an application for EC-type examination with a notified body of his choice. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his 
+name and address as well, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the technical documentation. The technical documentation shall make it possible to assess the interoperability 
+constituent’s conformity with the applicable requirements of the TSI. The technical documentation shall specify 
+the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture, main­
+tenance and operation of the interoperability constituent. The technical documentation shall contain, wherever 
+applicable, at least the following elements: 
+— a general description of the interoperability constituent, 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc., 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, 
+assembly, subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been 
+applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied,
+EN 
+L 319/10 
+Official Journal of the European Union 
+4.12.2010
+— results of design calculations made, examinations carried out, etc., and 
+— test reports, 
+— the specimens representative of the production envisaged. The notified body may request further specimens if 
+needed for carrying out the test programme, 
+— the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall 
+mention any documents that have been used, in particular where the relevant harmonised standards and/or 
+technical specifications have not been applied in full. The supporting evidence shall include, where necessary, the 
+results of tests carried out by the appropriate laboratory of the manufacturer, or by another testing laboratory on 
+his behalf and under his responsibility. 
+4. 
+The notified body shall: 
+For the interoperability constituent: 
+4.1. examine the technical documentation and supporting evidence to assess the adequacy of the technical design of the 
+interoperability constituent with the requirements of the relevant TSI. 
+For the specimen(s): 
+4.2. verify that the specimen(s) have been manufactured in conformity with the requirements of the TSI and the technical 
+documentation, and identify the elements which have been designed in accordance with the applicable provisions of 
+the relevant harmonised standards and/or technical specifications, as well as the elements which have been designed 
+without applying the relevant provisions of those standards; 
+4.3. carry out appropriate examination and test, or have them carried out, to check whether requirements of the TSI have 
+been applied correctly; 
+4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer 
+has chosen to apply the solutions in the relevant harmonised standards and/or technical specifications, these have 
+been applied correctly; 
+4.5. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the 
+relevant harmonised standards and/or technical specifications have not been applied, the solutions adopted by the 
+manufacturer meet the corresponding requirements of the TSI; 
+4.6. agree with the manufacturer on a location where the examinations and tests will be carried out. 
+5. 
+The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 
+4 and their outcomes. Without prejudice to its obligations vis-à vis the notifying authorities, the notified body shall 
+release the content of that report, in full or in part, only with the agreement of the manufacturer. 
+6. 
+Where the type meets the requirements of the TSI that apply to the interoperability constituent concerned, the 
+notified body shall issue an EC-type examination certificate to the manufacturer. The certificate shall contain the 
+name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and 
+the necessary data for identification of the approved type. The certificate may have one or more annexes attached. 
+The certificate and its annexes shall contain all relevant information to allow the conformity of interoperability 
+constituents with the examined type to be evaluated. 
+Where the type does not satisfy the requirements of the TSI, the notified body shall refuse to issue an EC-type 
+examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/11
+7. 
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EC-type 
+examination certificate of all modifications to the approved type that may affect the conformity of the interoper­
+ability constituent with the requirements of the TSI or the conditions for validity of the certificate. Such modifi­
+cations shall require additional approval in the form of an addition to the original EC-type examination certificate. 
+Only those examinations and tests that are relevant and necessary to the changes shall be performed. 
+8. 
+Each notified body shall inform its notifying authorities concerning the EC-type examination certificates and/or any 
+additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its 
+notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies concerning the EC-type examination certificates and/or any 
+additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning 
+the certificates and/or additions thereto which it has issued. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC-type 
+examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a 
+copy of the technical documentation and the results of the examinations carried out by the notified body. The 
+notified body shall keep a copy of the EC-type examination certificate, its annexes and additions, including the 
+documentation submitted by the manufacturer, until the expiry of the validity of the certificate. 
+9. 
+The manufacturer shall keep a copy of the EC-type examination certificate, its annexes and additions together with 
+the technical documentation at the disposal of the national authorities for the period defined in the relevant TSI and, 
+where the TSI does not define this period, for 10 years after the last interoperability constituent has been manu­
+factured. 
+10. The manufacturer’s authorised representative may lodge the application referred to in point 3 and fulfil the obli­
+gations set out in points 7 and 9, provided that they are specified in the mandate. 
+Module CC. Conformity to type based on internal production control 
+1. 
+Conformity to type based on internal production control is the part of a conformity assessment procedure whereby 
+the manufacturer fulfils the obligations laid down in points 2 and 3, and ensures and declares on his sole 
+responsibility that the interoperability constituents concerned are in conformity with the type described in the 
+EC-type examination certificate and satisfy the requirements of the technical specification for interoperability (TSI) 
+that apply to them. 
+2. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+conformity of the interoperability constituents with the approved type described in the EC-type examination 
+certificate and with the requirements of the TSI that apply to them. 
+3. 
+EC declaration of conformity 
+3.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it at the disposal of the national authorities for the period defined in the relevant TSI and, where the TSI does not 
+define this period, for 10 years after the last interoperability constituent has been manufactured. The EC declaration 
+of conformity shall identify the interoperability constituent for which it has been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+3.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+The certificate to be referred to is: 
+— the EC type-examination certificate and its additions.
+EN 
+L 319/12 
+Official Journal of the European Union 
+4.12.2010
+4. 
+Authorised representative 
+The manufacturer’s obligations set out in point 3 may be fulfilled by his authorised representative, on his behalf and 
+under his responsibility, provided that they are specified in the mandate. 
+Module CD. Conformity to type based on quality management system of the production process 
+1. 
+Conformity to type based on quality management system of the production process is the part of a conformity 
+assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and 
+declares on his sole responsibility that the interoperability constituent concerned are in conformity with the type 
+described in the EC-type examination certificate and satisfy the requirements of the technical specification for 
+interoperability (TSI) that apply to it. 
+2. 
+Manufacturing 
+The manufacturer shall operate an approved quality management system for production, final product inspection 
+and testing of the interoperability constituents concerned as specified in point 3, and shall be subject to surveillance 
+as specified in point 4. 
+3. 
+Quality management system 
+3.1. The manufacturer shall lodge an application for assessment of his quality management system with the notified body 
+of his choice, for the interoperability constituents concerned. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his 
+name and address as well, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— all relevant information for the interoperability constituent category envisaged, 
+— the documentation concerning the quality management system, 
+— the technical documentation of the approved type and a copy of the EC-type examination certificate. 
+3.2. The quality management system shall ensure that the interoperability constituents are in conformity with the type 
+described in the EC-type examination certificate and comply with the requirements of the TSI that apply to them. 
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality management system 
+documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to product quality, 
+— the corresponding manufacturing, quality control and quality management system techniques, processes and 
+systematic actions that will be used, 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/13
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc., and 
+— the means of monitoring the achievement of the required product quality and the effective operation of the 
+quality management system. 
+3.3. The notified body shall assess the quality management system to determine whether it satisfies the requirements 
+referred to in point 3.2. 
+It shall presume conformity with those requirements in respect of the elements of the quality management system 
+that comply with the corresponding specifications of the national standard that implements the relevant quality 
+management standard, harmonised standard and/or technical specification. 
+When the manufacturer operates a certified quality management system certified by an accredited certification body, 
+for the manufacturing of the relevant interoperability constituent, the notified body shall take this into account in 
+the assessment. In this case, the notified body will make a detailed assessment of quality management system specific 
+documents and records of the interoperability constituent only. The notified body shall not assess again the entire 
+quality manual and all the procedures already assessed by the quality management system certification body. 
+In addition to experience in quality management systems, the auditing team shall have at least one member with 
+experience of evaluation in the relevant interoperability constituent field and product technology concerned, and 
+knowledge of the requirements of the TSI. The audit shall include an assessment visit to the manufacturer’s premises. 
+The auditing team shall review the technical documentation referred to in point 3.1, second paragraph, fifth indent, 
+to verify the manufacturer’s ability to identify the requirements of the TSI and to carry out the necessary exam­
+inations with a view to ensuring compliance of the interoperability constituent with those requirements. 
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the 
+reasoned assessment decision. Where the assessment of the quality management system provided satisfying evidence 
+that the requirements referred to in point 3.2 are met, the notified body shall issue a quality management system 
+approval to the applicant. 
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality management system as approved 
+and to maintain it so that it remains adequate and efficient. 
+3.5. The manufacturer shall keep the notified body that has approved the quality management system informed of any 
+intended change to the quality management system having impact on the interoperability constituent, including 
+changes of quality management system certificate. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality management system 
+will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary. 
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and 
+the reasoned assessment decision. 
+4. 
+Surveillance under the responsibility of the notified body 
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the 
+approved quality management system. 
+4.2. The manufacturer shall, for periodic audits purposes, allow the notified body access to the manufacture, inspection, 
+testing and storage sites and shall provide it with all necessary information, in particular: 
+— the quality management system documentation, 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc.
+EN 
+L 319/14 
+Official Journal of the European Union 
+4.12.2010
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the 
+quality management system and shall provide the manufacturer with an audit report. 
+The frequency of the periodic audits shall be at least once every 2 years. 
+When the manufacturer operates a certified quality management system, the notified body shall take this into 
+account during the periodic audits. 
+4.4. In addition, the notified body may pay unexpected visits to the manufacturer. During such visits the notified body 
+may, if necessary, carry out interoperability constituent tests, or have them carried out, in order to verify that the 
+quality management system is functioning correctly. The notified body shall provide the manufacturer with a visit 
+report and, if tests have been carried out, with a test report. 
+5. 
+EC declaration of conformity 
+5.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it at the disposal of the national authorities for the period defined in the relevant TSI and, where the TSI does not 
+define this period, for 10 years after the last interoperability constituent has been manufactured. The EC declaration 
+of conformity shall identify the interoperability constituent for which it has been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+5.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+The certificates to be referred to are: 
+— the quality management system approval indicated in point 3.3 and audit reports indicated in point 4.3, if any, 
+— the EC type-examination certificate and its additions. 
+6. 
+The manufacturer shall, for the period defined in the relevant TSI and, where the TSI does not define this period, for 
+a period ending at least 10 years after the last interoperability constituent has been manufactured, keep at the 
+disposal of the national authorities: 
+— the documentation referred to in point 3.1, 
+— the change referred to in point 3.5, as approved, 
+— the decisions and reports of the notified body referred to in points 3.5, 4.3 and 4.4. 
+7. 
+Each notified body shall inform its notifying authorities of quality management system approvals issued or 
+withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality 
+management system approvals refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality management system approvals which it has 
+refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality management system approvals 
+which it has issued.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/15
+8. 
+Authorised representative 
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, 
+on his behalf and under his responsibility, provided that they are specified in the mandate. 
+Module CF. Conformity to type based on product verification 
+1. 
+Conformity to type based on product verification is the part of a conformity assessment procedure whereby the 
+manufacturer fulfils the obligations laid down in points 2, 5.1 and 6, and ensures and declares on his sole 
+responsibility that the interoperability constituents concerned, which have been subject to the provisions of point 
+3, are in conformity with the type described in the EC-type examination certificate and satisfy the requirements of 
+the technical specification for interoperability (TSI) that apply to them. 
+2. 
+Manufacturing 
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure 
+conformity of the interoperability constituents with the approved type described in the EC-type examination 
+certificate and with the requirements of the TSI that apply to them. 
+3. 
+Verification 
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests in order to check the 
+conformity of the interoperability constituents with the approved type described in the EC-type examination 
+certificate and with the requirements of the TSI. 
+The examinations and tests to check the conformity of the interoperability constituents with the requirements of the 
+TSI shall be carried out, at the choice of the manufacturer either by examination and testing of every interoperability 
+constituent as specified in point 4 or by examination and testing of the interoperability constituents on a statistical 
+basis as specified in point 5. 
+4. 
+Verification of conformity by examination and testing of every interoperability constituent. 
+4.1. All interoperability constituents shall be individually examined and appropriate tests set out in the relevant TSI, 
+harmonised standard(s) and/or technical specifications, or equivalent tests, shall be carried out in order to verify 
+conformity with the approved type described in the EC-type examination certificate and with the requirements of the 
+TSI. When a test is not set out in the TSI, harmonised standard(s) and technical specification(s), the appropriate tests 
+to be carried out shall be decided between the manufacturer and the notified body concerned. 
+4.2. The notified body shall issue an EC certificate of conformity in respect of the examinations and tests carried out. 
+The manufacturer shall keep the EC certificates of conformity available for inspection by the national authorities for 
+the period defined in the relevant TSI and, where the TSI does not define this period, for 10 years after the last 
+interoperability constituent has been manufactured. 
+5. 
+Statistical verification of conformity 
+5.1. The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure the 
+homogeneity of each lot produced, and shall present his interoperability constituents for verification in the form of 
+homogeneous lots. 
+5.2. A random sample shall be taken from each lot according to the requirements of the TSI. All interoperability 
+constituents in a sample shall be individually examined and appropriate tests set out in the relevant TSI, harmonised 
+standard(s) and/or technical specifications, or equivalent tests, shall be carried out in order to ensure their conformity 
+with the requirements of the TSI and to determine whether the lot is accepted or rejected. When a test is not set out 
+in the relevant TSI, harmonised standard(s) and/or technical specification(s), the appropriate tests to be carried out 
+shall be decided between the manufacturer and the notified body concerned. 
+5.3. If a lot is accepted, all interoperability constituents of the lot shall be considered approved, except for those 
+interoperability constituents from the sample that have been found not to satisfy the tests. 
+The notified body shall issue an EC certificate of conformity in respect to the examinations and tests carried out.
+EN 
+L 319/16 
+Official Journal of the European Union 
+4.12.2010
+The manufacturer shall keep the EC certificates of conformity at the disposal of the national authorities for the 
+period defined in the relevant TSI and, where the TSI does not define this period, for 10 years after the last 
+interoperability constituent has been manufactured. 
+5.4. If a lot is rejected, the notified body or the competent authority shall take appropriate measures to prevent that lot is 
+being placed on the market. In the event of the frequent rejection of lots the notified body may suspend the 
+statistical verification and take appropriate measures. 
+6. 
+EC declaration of conformity 
+6.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it at the disposal of the national authorities, for the period defined in the relevant TSI and, where the TSI does not 
+define this period, for 10 years after the last interoperability constituent has been manufactured. The EC declaration 
+of conformity shall identify the interoperability constituent for which it has been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+6.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+The certificates to be referred to are: 
+— the EC type-examination certificate and its additions, 
+— the EC certificate of conformity referred to in point 4.2 or point 5.3. 
+7. 
+Authorised representative 
+The manufacturer’s obligations may be fulfilled by his authorised representative, on his behalf and under his 
+responsibility, provided that they are specified in the mandate. An authorised representative may not fulfil the 
+manufacturer’s obligations set out in points 2, 5.1 and 5.2. 
+Module CH. Conformity based on full quality management system 
+1. 
+Conformity based on full quality management system is the conformity assessment procedure whereby the manu­
+facturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that 
+the interoperability constituents concerned satisfy the requirements of the technical specification for interoperability 
+(TSI) that apply to them. 
+2. 
+Manufacturing 
+The manufacturer shall operate an approved quality management system for design, manufacture and final product 
+inspection and testing of the interoperability constituents concerned as specified in point 3 and shall be subject to 
+surveillance as specified in point 4. 
+3. 
+Quality management system 
+3.1. The manufacturer shall lodge an application for assessment of his quality management system with the notified body 
+of his choice, for the interoperability constituents concerned. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his 
+name and address as well, 
+— the technical documentation for one model of each category of interoperability constituents intended to be 
+manufactured. The technical documentation shall, wherever applicable, contain at least the following elements: 
+— a general description of the interoperability constituent,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/17
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc., 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, 
+assembly, subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been 
+applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied, 
+— results of design calculations made, examinations carried out, etc., and 
+— test reports, 
+— the documentation concerning the quality management system, and 
+— a written declaration that the same application has not been lodged with any other notified body. 
+3.2. The quality management system shall ensure compliance of the interoperability constituents with the requirements of 
+the TSI that apply to them. 
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality management system 
+documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to design and product quality, 
+— the technical design specifications, including standards, that will be applied and, where the relevant harmonised 
+standards and/or technical specifications will not be applied in full, the means that will be used to ensure that the 
+requirements of the TSI that apply to the interoperability constituents will be met, 
+— the design control and design verification techniques, processes and systematic actions that will be used when 
+designing the interoperability constituents pertaining to the product category covered, 
+— the corresponding manufacturing, quality control and quality management system techniques, processes and 
+systematic actions that will be used, 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out, 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc., and 
+— the means of monitoring the achievement of the required design and product quality and the effective operation 
+of the quality management system.
+EN 
+L 319/18 
+Official Journal of the European Union 
+4.12.2010
+3.3. The notified body shall assess the quality management system to determine whether it satisfies the requirements 
+referred to in point 3.2. 
+It shall presume conformity with those requirements in respect of the elements of the quality management system 
+that comply with the corresponding specifications of the national standard that implements the relevant quality 
+management standard, harmonised standard and/or technical specification. 
+When the manufacturer operates a certified quality management system certified by an accredited certification body, 
+for the design and manufacturing of the relevant interoperability constituent, the notified body shall take this into 
+account in the assessment. In this case, the notified body will make a detailed assessment of quality management 
+system specific documents and records of the interoperability constituent only. The notified body shall not assess 
+again the entire quality manual and all the procedures already assessed by the quality management system certifi­
+cation body. 
+In addition to experience in quality management systems, the auditing team shall have at least one member 
+experienced as an assessor in the relevant interoperability constituent field and product technology concerned, 
+and knowledge of the requirements of the TSI. The audit shall include an assessment visit to the manufacturer’s 
+premises. The auditing team shall review the technical documentation referred to in point 3.1, second indent, to 
+verify the manufacturer’s ability to identify the requirements of the TSI and to carry out the necessary examinations 
+with a view to ensuring compliance of the interoperability constituent with those requirements. 
+The manufacturer or his authorised representative shall be notified of the decision. 
+The notification shall contain the conclusions of the audit and the reasoned assessment decision. Where the 
+assessment of the quality management system provided satisfying evidence that the requirements referred to in 
+point 3.2 are met, the notified body shall issue a quality management system approval to the applicant. 
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality management system as approved 
+and to maintain it so that it remains adequate and efficient. 
+3.5. The manufacturer shall keep the notified body that has approved the quality management system informed of any 
+intended change to the quality management system having impact on the interoperability constituent, including 
+changes of quality management system certificate. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality management system 
+will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary. 
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and 
+the reasoned assessment decision. 
+4. 
+Surveillance under the responsibility of the notified body 
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the 
+approved quality management system. 
+4.2. The manufacturer shall, for periodic audits purposes, allow the notified body access to the design, manufacture, 
+inspection, testing and storage sites, and shall provide it with all necessary information, in particular: 
+— the quality management system documentation, 
+— the quality records as provided for by the design part of the quality management system, such as results of 
+analyses, calculations, tests, etc., and 
+— the quality records as provided for by the manufacturing part of the quality management system, such as 
+inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/19
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the 
+quality management system and shall provide the manufacturer with an audit report. 
+The frequency of the periodic audits shall be at least once every 2 years. 
+When the manufacturer operates a certified quality management system, the notified body shall take this into 
+account during the periodic audits. 
+4.4. In addition, the notified body may pay unexpected visits to the manufacturer. During such visits, the notified body 
+may, if necessary, carry out interoperability constituent tests, or have them carried out, in order to check the proper 
+functioning of the quality management system. It shall provide the manufacturer with a visit report and, if tests have 
+been carried out, with a test report. 
+5. 
+EC declaration of conformity 
+5.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it at the disposal of the national authorities for the period defined in the relevant TSI and, where the TSI does not 
+define this period, for 10 years after the last interoperability constituent has been manufactured. The EC declaration 
+of conformity shall identify the interoperability constituent for which it has been drawn up. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+5.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+The certificate to be referred to is: 
+— the quality management system approval indicated in point 3.3 and audit reports indicated in point 4.3, if any. 
+6. 
+The manufacturer shall, for the period defined in the relevant TSI and, where the TSI does not define this period, for 
+a period ending at least 10 years after the last interoperability constituent has been manufactured, keep at the 
+disposal of the national authorities: 
+— the technical documentation referred to in point 3.1, 
+— the documentation concerning the quality management system referred to in point 3.1, 
+— the change referred to in point 3.5, as approved, and 
+— the decisions and reports of the notified body referred to in points 3.5, 4.3 and 4.4. 
+7. 
+Each notified body shall inform its notifying authorities of quality management system approvals issued or 
+withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality 
+management system approvals refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality management system approvals which it has 
+refused, suspended or withdrawn, and, upon request, of quality management system approvals which it has issued. 
+8. 
+Authorised representative 
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, 
+on his behalf and under his responsibility, provided that they are specified in the mandate.
+EN 
+L 319/20 
+Official Journal of the European Union 
+4.12.2010
+Module CH1. Conformity based on full quality management system plus design examination 
+1. 
+Conformity based on full quality management system plus design examination is the conformity assessment 
+procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 6, and ensures and 
+declares on his sole responsibility that the interoperability constituents concerned satisfy the requirements of the 
+technical specification for interoperability (TSI) that apply to them. 
+2. 
+Manufacturing 
+The manufacturer shall operate an approved quality management system for design, manufacture and final product 
+inspection and testing of the interoperability constituents concerned as specified in point 3 and shall be subject to 
+surveillance as specified in point 5. The adequacy of the technical design of the interoperability constituents shall 
+have been examined in accordance with point 4. 
+3. 
+Quality management system 
+3.1. The manufacturer shall lodge an application for assessment of his quality management system with the notified body 
+of his choice, for the interoperability constituents concerned. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his 
+name and address as well, 
+— all relevant information for the interoperability constituent category envisaged, 
+— the documentation concerning the quality management system, and 
+— a written declaration that the same application has not been lodged with any other notified body. 
+3.2. The quality management system shall ensure compliance of the interoperability constituents with the requirements of 
+the TSI that apply to them. 
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality management system 
+documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to design and product quality, 
+— the technical design specifications, including standards, that will be applied and, where the relevant harmonised 
+standards and/or technical specifications will not be applied in full, the means that will be used to ensure that the 
+requirements of the TSI that apply to the interoperability constituents will be met, 
+— the design control and design verification techniques, processes and systematic actions that will be used when 
+designing the interoperability constituents pertaining to the product category covered, 
+— the corresponding manufacturing, quality control and quality management system techniques, processes and 
+systematic actions that will be used, 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/21
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc., and 
+— the means of monitoring the achievement of the required design and product quality and the effective operation 
+of the quality management system. 
+3.3. The notified body shall assess the quality management system to determine whether it satisfies the requirements 
+referred to in point 3.2. 
+It shall presume conformity with those requirements in respect of the elements of the quality management system 
+that comply with the corresponding specifications of the national standard that implements the relevant quality 
+management standard, harmonised standard and/or technical specification. 
+When the manufacturer operates a certified quality management system certified by an accredited certification body, 
+for the design and manufacturing of the relevant interoperability constituent, the notified body shall take this into 
+account in the assessment. In this case, the notified body will make a detailed assessment of quality management 
+system specific documents and records of the interoperability constituent only. The notified body shall not assess 
+again the entire quality manual and all the procedures already assessed by the quality management system certifi­
+cation body. 
+In addition to experience in quality management systems, the auditing team shall have at least one member 
+experienced as an assessor in the relevant interoperability constituent field and product technology concerned, 
+and knowledge of the requirements of the TSI. The audit shall include an assessment visit to the manufacturer’s 
+premises. 
+The manufacturer or his authorised representative shall be notified of the decision. 
+The notification shall contain the conclusions of the audit and the reasoned assessment decision. Where the 
+assessment of the quality management system provided satisfying evidence that the requirements referred to in 
+point 3.2 are met, the notified body shall issue a quality management system approval to the applicant. 
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality management system as approved 
+and to maintain it so that it remains adequate and efficient. 
+3.5. The manufacturer shall keep the notified body that has approved the quality management system informed of any 
+intended change to the quality management system having impact on the interoperability constituent, including 
+changes of quality management system certificate. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality management system 
+will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary. 
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and 
+the reasoned assessment decision. 
+3.6. Each notified body shall inform its notifying authorities of quality management system approvals issued or 
+withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality 
+management system approvals refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality management system approvals which it has 
+refused, suspended or withdrawn, and, upon request, of quality management system approvals which it has issued. 
+4. 
+Design examination 
+4.1. The manufacturer shall lodge an application for examination of the design with the notified body referred to in 
+point 3.1.
+EN 
+L 319/22 
+Official Journal of the European Union 
+4.12.2010
+4.2. The application shall make it possible to understand the design, manufacture, maintenance and operation of the 
+interoperability constituent, and to assess the conformity with the requirements of the TSI that apply to it. It shall 
+include: 
+— the name and address of the manufacturer, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the technical documentation. The technical documentation shall make it possible to assess the interoperability 
+constituent’s conformity with the requirements of the relevant TSI. The technical documentation shall specify the 
+requirements and cover, as far as relevant for the assessment, the design and operation of the interoperability 
+constituent. The technical documentation shall, wherever applicable, contain at least the following elements: 
+— a general description of the interoperability constituent, 
+— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc., 
+— descriptions and explanations necessary for the understanding of those drawings and schemes and of the 
+operation (including conditions for use) and maintenance of the interoperability constituent, 
+— conditions of integration of the interoperability constituent in its system environment (sub-assembly, 
+assembly, subsystem) and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the TSI where those harmonised standards have not been 
+applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied, 
+— results of design calculations made, examinations carried out, etc., and 
+— test reports, 
+— the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any 
+documents that have been used, in particular where the relevant harmonised standards and/or technical spec­
+ifications have not been applied in full. The supporting evidence shall include, where necessary, the results of 
+tests carried out by the appropriate laboratory of the manufacturer, or by another testing laboratory on his behalf 
+and under his responsibility. 
+4.3. The notified body shall examine the application, and where the design meets the requirements of the TSI that apply 
+to the interoperability constituent it shall issue an EC design examination certificate to the manufacturer. The 
+certificate shall give the name and address of the manufacturer, the conclusions of the examination, the conditions 
+(if any) for its validity and the data necessary for identification of the approved design and if relevant, a description 
+of the product’s functioning. The certificate may have one or more annexes attached. 
+The certificate and its annexes shall contain all relevant information to allow the conformity of interoperability 
+constituent s with the examined design to be evaluated. 
+Where the design does not satisfy the requirements of the TSI, the notified body shall refuse to issue a design 
+examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal. 
+4.4. The manufacturer shall keep the notified body that has issued the EC design examination certificate informed of any 
+modification to the approved design that may affect the conformity with the requirements of the TSI or the 
+conditions for validity of the certificate until the expiry of the validity of the certificate. Such modifications shall 
+require additional approval — from the notified body that issued the EC design examination certificate — in the 
+form of an addition to the original EC design examination certificate. Only those examinations and tests that are 
+relevant and necessary to the changes shall be performed.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/23
+4.5. Each notified body shall inform its notifying authorities of the EC design examination certificates and/or any 
+additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its 
+notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of the EC design examination certificates and/or any 
+additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, of the 
+certificates and/or additions thereto which it has issued. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC design 
+examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a 
+copy of the technical documentation and of the results of the examinations carried out by the notified body. 
+The notified body shall keep a copy of the EC design examination certificate, its annexes and additions, as well as the 
+technical file including the documentation submitted by the manufacturer until the expiry of the validity of the 
+certificate. 
+4.6. The manufacturer shall keep a copy of the EC design examination certificate, its annexes and additions together with 
+the technical documentation at the disposal of the national authorities for the period defined in the relevant TSI and, 
+where the TSI does not define this period, for 10 years after the last interoperability constituent has been manu­
+factured. 
+5. 
+Surveillance under the responsibility of the notified body 
+5.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the 
+approved quality management system. 
+5.2. The manufacturer shall, for periodic audits purposes, allow the notified body access to the design, manufacture, 
+inspection, testing and storage sites, and shall provide it with all necessary information, in particular: 
+— the quality management system documentation, 
+— the quality records as provided for by the design part of the quality management system, such as results of 
+analyses, calculations, tests, etc., 
+— the quality records as provided for by the manufacturing part of the quality management system, such as 
+inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc. 
+5.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the 
+quality management system and shall provide the manufacturer with an audit report. 
+The frequency of the periodic audits shall be at least once every 2 years. 
+When the manufacturer operates a certified quality management system, the notified body shall take this into 
+account during the periodic audits. 
+5.4. In addition, the notified body may pay unexpected visits to the manufacturer. During such visits, the notified body 
+may, if necessary, carry out interoperability constituent tests, or have them carried out, in order to check the proper 
+functioning of the quality management system. It shall provide the manufacturer with a visit report and, if tests have 
+been carried out, with a test report.
+EN 
+L 319/24 
+Official Journal of the European Union 
+4.12.2010
+6. 
+EC declaration of conformity 
+6.1. The manufacturer shall draw up a written EC declaration of conformity for the interoperability constituent and keep 
+it at the disposal of the national authorities for the period defined in the relevant TSI and, where the TSI does not 
+define this period, for 10 years after the last interoperability constituent has been manufactured. The EC declaration 
+of conformity shall identify the interoperability constituent for which it has been drawn up and shall mention the 
+number of the design examination certificate. 
+A copy of the EC declaration of conformity shall be made available to the relevant authorities upon request. 
+6.2. The EC declaration of conformity shall meet the requirements of Article 13(3) and point 3 of Annex IV to Directive 
+2008/57/EC. 
+The certificates to be referred to are: 
+— the quality management system approval indicated in point 3.3 and audit reports indicated in point 5.3, if any, 
+— the EC design examination certificate indicated in point 4.3 and its additions. 
+7. 
+The manufacturer shall, for the period defined in the relevant TSI and, where the TSI does not define this period, for 
+a period ending at least 10 years after the last interoperability constituent has been manufactured, keep at the 
+disposal of the national authorities: 
+— the documentation concerning the quality management system referred to in point 3.1, 
+— the change referred to in point 3.5, as approved, and 
+— the decisions and reports of the notified body referred to in points 3.5, 5.3 and 5.4. 
+8. 
+Authorised representative 
+The manufacturer’s authorised representative may lodge the application referred to in points 4.1 and 4.2 and fulfil 
+the obligations set out in points 3.1, 3.5, 4.4, 4.6, 6 and 7, on his behalf and under his responsibility, provided that 
+they are specified in the mandate. 
+MODULES FOR SUITABILITY FOR USE OF INTEROPERABILITY CONSTITUENTS 
+Module CV. Type validation by in-service experience (suitability for use) 
+1. 
+Type validation by in-service experience is the part of assessment procedure in which a notified body ascertains and 
+attests that a specimen, representative of the production envisaged meets the requirements for suitability for use of 
+the technical specification for interoperability (TSI) that apply to it. 
+2. 
+The manufacturer shall lodge an application for type validation by in-service experience with a notified body of his 
+choice. 
+The application shall include: 
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his 
+name and address as well, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the technical documentation referred to in point 3, 
+— the programme for validation by in-service experience, as described in point 4,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/25
+— the name and address of the company(ies) (infrastructure managers and/or railway undertaking), with which the 
+applicant has obtained an agreement to contribute to a suitability for use assessment by in-service experience: 
+— by operating the interoperability constituent in service, 
+— by monitoring the in-service behaviour, and 
+— by issuing a report about in-service experience, 
+— the name and the address of the company undertaking the maintenance of the interoperability constituent 
+during the time period or running distance required for in-service experience, and 
+— the EC type examination certificate when module CB was used for design phase, or EC design examination 
+certificate when module CH1 was used for design phase. 
+The manufacturer shall place at the disposal of the company(ies), undertaking the operation of the interoperability 
+constituent in service, a specimen or a sufficient number of specimens, representative of the production envisaged 
+and hereinafter called ‘type’. A type may cover several versions of the interoperability constituent provided that the 
+differences between the versions are all covered by EC certificates as mentioned above. 
+The notified body may request further specimens if needed for carrying out the validation by in-service experience. 
+3. 
+The technical documentation shall make it possible to assess the interoperability constituent’s conformity with the 
+requirements of the TSI. The technical documentation shall cover the design, manufacturing, maintenance and 
+operation of the interoperability constituent. 
+The technical documentation shall contain the following elements: 
+— the technical documentation specified in point 9 of Module CB or in point 4.6 of Module CH1, 
+— conditions for use and maintenance of the interoperability constituent (e.g. restrictions of running time or 
+distance, wear limits, etc.). 
+If the TSI requires further information for the technical documentation, this shall be included. 
+4. 
+The programme for the validation by in-service experience shall include: 
+— the required performance or behaviour in service of the interoperability constituent under trial, 
+— the installation arrangements, 
+— the duration of the programme — either time or distance, 
+— the operating conditions and the service programme expected, 
+— the maintenance programme, 
+— the special in-service tests, if any, to be performed, 
+— the batch size of the specimens — if more than one, 
+— the inspection programme (nature, number and frequency of inspections, documentation),
+EN 
+L 319/26 
+Official Journal of the European Union 
+4.12.2010
+— criteria for tolerable defects and their impact on the programme, 
+— the information to be included in the report of the company(ies) operating the interoperability constituent in 
+service (see point 2, fifth indent). 
+5. 
+Type validation by in-service experience 
+The notified body shall: 
+5.1. 
+examine the technical documentation and the programme for validation by in-service experience; 
+5.2. 
+verify that the type is representative and has been manufactured in conformity with the technical documentation; 
+5.3. 
+verify that the programme for validation by in-service experience is well adapted to assess the required performance 
+and in-service behaviour of the interoperability constituents; 
+5.4. 
+agree with the applicant and the company(ies) undertaking the operation of the interoperability constituent referred 
+to in point 2 the programme and the location where the inspections will be carried out and if necessary, the test(s) 
+and the body performing the test(s); 
+5.5. 
+monitor and inspect the progress of in-service running, operation and maintenance of the interoperability 
+constituent; 
+5.6. 
+assess the report, to be issued by the company(ies) undertaking the operation the interoperability constituent 
+referred to in point 2, and all other documentation and information, collected during the procedure (test 
+reports, maintenance experience etc.); 
+5.7. 
+evaluate whether the in-service behaviour results meet the requirements of the TSI. 
+6. 
+Where the type meets the requirements of the TSI that apply to the interoperability constituent concerned, the 
+notified body shall issue an EC certificate of suitability for use to the manufacturer. The certificate shall contain the 
+name and address of the manufacturer, the conclusions of the validation, the conditions (if any) for its validity and 
+the necessary data for identification of the approved type. The certificate may have one or more annexes attached. 
+A list of the relevant parts of the technical documentation shall be annexed to the EC certificate of suitability for 
+use and a copy kept by the notified body. 
+Where the type does not satisfy the requirements of the TSI, the notified body shall refuse to issue an EC certificate 
+of suitability for use and shall inform the applicant accordingly, giving detailed reasons for its refusal. 
+7. 
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EC 
+certificate of suitability for use of all modifications to the approved type that may affect the suitability for use 
+of the interoperability constituent or the conditions for validity of the certificate. Such modifications shall require 
+additional approval in the form of an addition to the original EC certificate of suitability for use. Only those 
+examinations and tests that are relevant and necessary to the changes shall be performed. 
+8. 
+Each notified body shall inform its notifying authorities concerning the EC certificate of suitability for uses and/or 
+any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to 
+its notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise 
+restricted. 
+9. 
+Each notified body shall inform the other notified bodies concerning the EC certificate of suitability for uses and/or 
+any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, 
+concerning the certificates and/or additions thereto which it has issued.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/27
+10. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC 
+certificate of suitability for uses and/or additions thereto. On request, the Commission and the Member States may 
+obtain a copy of the technical documentation and the results of the examinations carried out by the notified body. 
+The notified body shall keep a copy of the EC certificate of suitability for use, its annexes and additions, until the 
+expiry of the validity of the certificate. 
+11. 
+EC declaration of suitability for use 
+11.1. The manufacturer shall draw up a written EC declaration of suitability for use for an interoperability constituent 
+and keep it at the disposal of the national authorities for the period defined in the relevant TSI and, where the TSI 
+does not define this period, for 10 years after the last interoperability constituent has been manufactured. The EC 
+declaration of suitability for use shall identify the interoperability constituent for which it has been drawn up. 
+A copy of the EC declaration of suitability for use shall be made available to the relevant authorities upon request. 
+11.2. The EC declaration of suitability for use shall meet the requirements of Article 13(3) and point 3 of Annex IV to 
+Directive 2008/57/EC. 
+The certificate to be referred to is: 
+— EC certificate of suitability for use. 
+11.3. The interoperability constituent may be placed on the market only after the following EC declarations have been 
+drawn up: 
+— EC declaration of suitability for use referred to in point 11.1, and 
+— EC declaration of conformity. 
+12. 
+Authorised representative 
+The manufacturer’s obligations set out in points 2, 7 and 11.1 may be fulfilled by his authorised representative, on 
+his behalf and under his responsibility, provided that they are specified in the mandate. 
+MODULES FOR EC VERIFICATION OF SUBSYSTEMS 
+Module SB. EC-type examination 
+1. 
+EC-type examination is the part of an EC verification procedure whereby a notified body examines the technical 
+design of a subsystem and verifies and attests that the technical design of the subsystem meets the requirements of 
+the relevant TSI(s) as well as any other regulations deriving from the Treaty that apply to it. 
+2. 
+EC-type examination shall be carried out by: 
+— assessment of the adequacy of the technical design of the subsystem through examination of the technical 
+documentation and supporting evidence referred to in point 3 (design type), and 
+— examination of a specimen, representative of the production envisaged, of the complete subsystem (production 
+type). 
+A type may cover several versions of the subsystem provided that the differences between the versions do not affect 
+the provisions of the relevant TSI(s). 
+3. 
+The applicant shall lodge an application for EC-type examination with a notified body of his choice.
+EN 
+L 319/28 
+Official Journal of the European Union 
+4.12.2010
+The application shall include: 
+— the name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the technical documentation. The technical documentation shall make it possible to assess the subsystem’s 
+conformity with the requirements of the relevant TSI(s). The technical documentation shall specify the 
+requirements of the relevant TSI(s) and cover, as far as relevant for the EC-type examination procedure, the 
+design, manufacture and operation of the subsystem. The technical documentation shall contain the following 
+elements: 
+— a general description of the subsystem, its overall design and structure, 
+— documents necessary for the compilation of the technical file as described in point 4 of Annex VI to Directive 
+2008/57/EC, 
+— a separate file with the set of data required by the TSI(s) for each relevant register provided for in Articles 34 
+and 35 of Directive 2008/57/EC, 
+— copy of EC declaration(s) of intermediate statement of verification (hereinafter referred to as ISV) issued for 
+the subsystem according to point 2 of Annex VI to Directive 2008/57/EC, if any, 
+— if relevant, descriptions and explanations necessary for the understanding of the operation and maintenance 
+of the subsystem, 
+— conditions of integration of the subsystem in its system environment and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the relevant TSI(s) where those harmonised standards have not 
+been applied. In the event of partly applied harmonised standards, the technical documentation shall specify 
+the parts which have been applied, 
+— results of design calculations made, examinations carried out, etc., 
+— test programme and reports, 
+— evidence of conformity with other regulations deriving from the Treaty (including certificates, if any), 
+— supporting documentation regarding the manufacture and the assembly of the subsystem, 
+— a list of manufacturers involved in the subsystem’s design, manufacturing, assembly and installation, 
+— conditions for use of the subsystem (restrictions of running time or distance, wear limits etc.), 
+— conditions for maintenance and technical documentation on maintenance of the subsystem, 
+— any technical requirement specified in the relevant TSI(s) that shall be taken into account during production, 
+maintenance or operation of the subsystem, 
+— all other appropriate technical evidences, which demonstrate that previous checking or tests have been 
+successfully performed, under comparable conditions, by competent bodies, and
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/29
+— any further information, if required by the relevant TSI(s), 
+— the specimens representative of the production envisaged. The notified body may request further specimens if 
+needed for carrying out the test programme, 
+— a specimen or specimens of a sub-assembly or assembly or a specimen of the subsystem in a pre-assembled 
+condition shall be provided, if so required for specific test or examination methods and specified in the relevant 
+TSI(s), 
+— the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall 
+mention any documents that have been used, in particular where the relevant harmonised standards and/or 
+technical specifications have not been applied in full. The supporting evidence shall include, where necessary, the 
+results of tests carried out by the appropriate testing body of the applicant, or by another testing body on his 
+behalf and under his responsibility. 
+4. 
+The notified body shall 
+For the design type: 
+4.1. examine the technical documentation and supporting evidence to assess whether the technical design of the 
+subsystem is adequate to fulfil the requirements of the relevant TSI(s); 
+4.2. where a design review is requested in the relevant TSI(s), examine design methods, the design tools and the design 
+results to assess compliance with the requirements of the relevant TSI(s). 
+For the production type: 
+4.3. verify that the specimen(s) have been manufactured in conformity with the requirements of the relevant TSI(s) and 
+with the technical documentation, and identify the elements which have been designed in accordance with the 
+applicable provisions of the relevant TSI(s), harmonised standards and/or technical specifications, as well as the 
+elements which have been designed without applying the relevant provisions of those standards; 
+4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the applicant has 
+chosen to apply the solutions in the relevant harmonised standards and/or technical specifications, these have been 
+applied correctly; 
+4.5. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the 
+relevant harmonised standards and/or technical specifications have not been applied, the solutions adopted by the 
+manufacturer meet the corresponding requirements of the relevant TSI(s); 
+4.6. agree with the applicant on a location where the examinations and tests will be carried out. 
+5. 
+When the subsystem referred to in point 3 is subject to derogation(s) procedure according to Article 9 of Directive 
+2008/57/EC, the applicant shall inform the notified body thereof. 
+The applicant shall also provide the notified body with a precise reference to the TSI(s) (or their parts) for which the 
+derogation is requested. 
+The applicant shall communicate to the notified body the outcome of the derogation procedure. 
+6. 
+The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 
+4 and their outcomes. Without prejudice to its obligations vis-à-vis the notifying authorities, the notified body shall 
+release the content of that report, in full or in part, only with the agreement of the applicant.
+EN 
+L 319/30 
+Official Journal of the European Union 
+4.12.2010
+7. 
+Where the type meets the requirements of the relevant TSI(s) that apply to the subsystem concerned, the notified 
+body shall issue an EC-type examination certificate to the applicant. The certificate shall contain the name and 
+address of the applicant, the conclusions of the examination, the conditions (if any) for its validity and the necessary 
+data for identification of the approved type. The certificate may have one or more annexes attached. 
+The certificate and its annexes shall contain all relevant information to allow the conformity of manufactured 
+subsystems with the examined type to be evaluated. 
+Where the type does not satisfy the requirements of the relevant TSI(s), the notified body shall refuse to issue an EC- 
+type examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal. 
+Where the subsystem referred to in point 3 is subject to derogation, upgrade, renewal or specific case, the EC-type 
+examination certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity has 
+not been examined during EC verification procedure. 
+If only certain parts of the subsystem are covered and they meet the requirements of the relevant TSI(s), the notified 
+body shall issue an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC. 
+The applicant shall draw up a written EC ISV declaration according to section 2 of Annex VI to Directive 
+2008/57/EC. 
+8. 
+The applicant shall inform the notified body that holds the technical documentation relating to the EC-type 
+examination certificate of all modifications to the approved type that may affect the conformity of the subsystem 
+with the requirements of the relevant TSI(s) or the conditions for validity of the certificate. Such modifications shall 
+require additional approval in the form of an addition to the original EC-type examination certificate. 
+9. 
+Each notified body shall inform its notifying authorities concerning the EC-type examination certificates and/or any 
+additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its 
+notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies concerning the EC-type examination certificates and/or any 
+additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning 
+the certificates and/or additions thereto which it has issued. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC-type 
+examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a 
+copy of the technical documentation and the results of the examinations carried out by the notified body. The 
+notified body shall keep a copy of the EC-type examination certificate, its annexes and additions, including the 
+documentation intended for the technical file submitted by the applicant, until the expiry of the validity of the 
+certificate. 
+10. The applicant shall keep a copy of the EC-type examination certificate, its annexes and additions together with the 
+technical documentation at the disposal of the national authorities throughout the service life of the subsystem. 
+11. The applicant’s authorised representative may lodge the application referred to in point 3 and fulfil the obligations 
+set out in points 5, 8 and 10, provided that they are specified in the mandate. 
+Module SD. EC verification based on quality management system of the production process 
+1. 
+EC verification based on quality management system of the production process is the part of a EC verification 
+procedure whereby the applicant fulfils the obligations laid down in points 2 and 8, and ensures and declares on his 
+sole responsibility that the subsystem concerned is in conformity with the type described in the EC-type examination 
+certificate and satisfies the requirements of the relevant TSI(s) as well as any other regulations deriving from the 
+Treaty that apply to it.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/31
+2. 
+Manufacturing 
+The production, final subsystem inspection and testing of the subsystem concerned shall be covered by approved 
+quality management system(s) as specified in point 3, and shall be subject to surveillance as specified in point 7. 
+3. 
+Quality management system 
+3.1. The applicant shall lodge an application for assessment of the quality management system with the notified body of 
+his choice, for the subsystem concerned. 
+The application shall include: 
+— the name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the breakdown structure of the project management and the name and address of each involved entity, 
+— all relevant information for the subsystem envisaged, 
+— the documentation concerning the quality management system, 
+— copy of EC ISV declaration(s) issued for the subsystem, if any, 
+— the technical documentation of the approved type and a copy of the EC-type examination certificate and its 
+annexes. 
+3.2. The quality management system shall ensure that the subsystem is in conformity with the type described in the EC- 
+type examination certificate and comply with the requirements of the relevant TSI(s) that apply to it. 
+All the elements, requirements and provisions adopted by the applicant shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality management system 
+documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to subsystem quality, 
+— the corresponding manufacturing, quality control and quality management system techniques, processes and 
+systematic actions that will be used, 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out, 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc., and 
+— the means of monitoring the achievement of the required subsystem quality and the effective operation of the 
+quality management system.
+EN 
+L 319/32 
+Official Journal of the European Union 
+4.12.2010
+3.3. The notified body shall assess the quality management system to determine whether it satisfies the requirements 
+referred to in point 3.2. 
+It shall presume conformity with those requirements in respect of the elements of the quality management system 
+that comply with the corresponding specifications of the national standard that implements the relevant quality 
+management standard, harmonised standard and/or technical specification. 
+If the compliance of the subsystem with the requirements of the relevant TSI(s) is based on more than one quality 
+management system, the notified body shall examine in particular: 
+— whether the relations and interfaces between the quality management systems are clearly documented, and 
+— whether overall responsibilities and powers of the management for the compliance of the whole entire subsystem 
+are clearly assigned to and acknowledged by each entity involved in the project. 
+The audit shall be specific for the subsystem concerned, taking into consideration the specific contribution of the 
+applicant to the subsystem. 
+When the applicant operates a certified quality management system certified by an accredited certification body, for 
+the manufacturing and final testing of the relevant subsystem, the notified body shall take this into account in the 
+assessment. In this case, the notified body will make a detailed assessment of quality management system specific 
+documents and records of the subsystem only. The notified body shall not assess again the entire quality manual and 
+all the procedures already assessed by the quality management system certification body. 
+In addition to experience in quality management systems, the auditing team shall have at least one member with 
+experience of evaluation in the relevant subsystem field and product technology concerned, and knowledge of the 
+requirements of the relevant TSI(s). The audit shall include an assessment visit to the premises of the relevant entities 
+concerned. The auditing team shall review the technical documentation referred to in point 3.1, second paragraph, 
+seventh indent, to verify the ability of the relevant entities concerned to identify the requirements of the relevant 
+TSI(s) and to carry out the necessary examinations with a view to ensuring compliance of the subsystem with those 
+requirements. 
+The decision shall be notified to the applicant. The notification shall contain the conclusions of the audit and the 
+reasoned assessment decision. Where the assessment of the quality management system provided satisfying evidence 
+that the requirements referred to in point 3.2 are met, the notified body shall issue a quality management system 
+approval to the applicant. 
+3.4. The applicant shall undertake to fulfil the obligations arising out of the quality management system as approved and 
+to maintain it so that it remains adequate and efficient. 
+3.5. The applicant shall keep the notified body that has approved the quality management system informed of any 
+intended change to the quality management system having impact on the subsystem design, manufacture and final 
+inspection, testing and operation, as well as of any changes of quality management system certificate. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality management system 
+will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary. 
+It shall notify the applicant of its decision. The notification shall contain the conclusions of the examination and the 
+reasoned assessment decision. 
+4. 
+Each notified body shall inform its notifying authorities of quality management system approvals issued or 
+withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality 
+management system approvals refused, suspended or otherwise restricted.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/33
+Each notified body shall inform the other notified bodies of quality management system approvals which it has 
+refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality management system approvals 
+which it has issued. 
+5. 
+EC verification 
+5.1. The applicant shall lodge an application for the EC verification of the subsystem with a notified body of his choice. 
+The application shall include: 
+— name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, 
+— the technical documentation, regarding the approved type, including the EC type examination certificate, as 
+issued after completion of the procedure defined in module SB, 
+and, if not included in this documentation: 
+— a general description of the subsystem, its overall design and structure, 
+— the documents necessary for the compilation of the technical file as described in point 4 of Annex VI to 
+Directive 2008/57/EC, 
+— a separate file with the set of data required by the relevant TSI(s) for each relevant register provided for in 
+Articles 34 and 35 of Directive 2008/57/EC, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the relevant TSI(s) where those harmonised standards have not 
+been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied, 
+— conditions for use of the subsystem (restrictions of running time or distance, wear limits, etc.), 
+— descriptions and explanations necessary for the understanding of the operation and maintenance of the 
+subsystem, 
+— conditions for maintenance and technical documentation regarding the maintenance of the subsystem, 
+— any technical requirement specified in the relevant TSI(s) that shall be taken into account during production, 
+maintenance or operation of the subsystem, 
+— other appropriate technical evidences, which demonstrate that previous checking or tests have been successfully 
+performed, under comparable conditions, by competent bodies, 
+— conditions of integration of the subsystem in its system environment and the necessary interface conditions with 
+other subsystems, 
+— results of design calculations made, examinations carried out, etc., 
+— test reports, if any, 
+— documentation regarding the manufacture and the assembly of the subsystem, 
+— a list of manufacturers involved in the subsystem’s manufacturing, assembly and installation,
+EN 
+L 319/34 
+Official Journal of the European Union 
+4.12.2010
+— the demonstration, that the manufacturing and final testing as mentioned under point 2, are covered by quality 
+management system of the applicant and the evidence of its effectiveness, 
+— indication of the notified body, responsible for the approval and surveillance of the quality management system, 
+and 
+— evidence of conformity with other regulations deriving from the Treaty (including certificates, if any), 
+— any further information, if required by the relevant TSI(s). 
+5.2. The notified body chosen by the applicant shall first examine the application concerning the validity of the EC type 
+examination certificate and its annexes. 
+If the notified body considers the EC type examination certificate no longer remains valid or is not appropriate and 
+that a new EC type examination is necessary, the notified body shall refuse to assess the quality management system 
+of the applicant and shall justify its refusal. 
+6. 
+When the subsystem referred to in point 5.1 is subject to derogation(s) procedure according to Article 9 of Directive 
+2008/57/EC, the applicant shall inform the notified body thereof. 
+The applicant shall also provide the notified body with a precise reference to the TSI(s) (or their parts) for which the 
+derogation is requested. 
+The applicant shall communicate to the notified body the outcome of the derogation procedure. 
+7. 
+Surveillance under the responsibility of the notified body 
+7.1. The purpose of surveillance is to make sure that the applicant duly fulfils the obligations arising out of the approved 
+quality management system. 
+7.2. The applicant shall, for periodic audits purposes, allow the notified body access to the manufacture, inspection, 
+testing and storage sites and shall provide it with all necessary information, in particular: 
+— the quality management system documentation, 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc. 
+7.3. The notified body shall carry out periodic audits to make sure that the applicant maintains and applies the quality 
+management system and shall provide the applicant with an audit report. 
+The frequency of the periodic audits shall be at least once every 2 years. 
+When the applicant operates a certified quality management system, the notified body shall take this into account 
+during the periodic audits. 
+7.4. In addition, the notified body may pay unexpected visits to the applicant. During such visits the notified body may, 
+if necessary, carry out subsystem tests, or have them carried out, in order to verify that the quality management 
+system is functioning correctly. The notified body shall provide the applicant with a visit report and, if tests have 
+been carried out, with a test report.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/35
+7.5. The notified body responsible for the EC verification of the subsystem, if not carrying out the surveillance of all the 
+quality management systems concerned as under point 3, shall coordinate the surveillance activities of any other 
+notified bodies responsible for that task, in order: 
+— to be ensured that correct management of interfaces between the different quality management systems relating 
+to subsystem integration has been performed, 
+— to collect, in liaison with the applicant, the necessary elements for the assessment to guarantee the consistency 
+and the overall supervision of the different quality management systems. 
+This coordination includes the right of the notified body: 
+— to receive all documentation (approval and surveillance), issued by the other notified body(ies), 
+— to witness the surveillance audits as in point 7.3, and 
+— to initiate additional audits as in point 7.4 under its responsibility and together with the other notified body(ies). 
+8. 
+EC certificate of verification and EC declaration of verification 
+8.1. Where the subsystem meets the requirements of the relevant TSI(s), the notified body shall issue an EC certificate of 
+verification in compliance with point 3 of Annex VI to Directive 2008/57/EC. 
+Where the subsystem referred to in point 5.1 is subject to derogation, upgrade, renewal or specific case, the EC 
+certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity has not been 
+examined during EC verification procedure. 
+If only certain parts or certain stages of the subsystem are covered and they meet the requirements of the relevant 
+TSI(s), the notified body shall issue an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC. 
+8.2. The applicant shall draw up a written EC declaration of verification for the subsystem and keep it at the disposal of 
+the national authorities throughout the service life of the subsystem. The EC declaration of verification shall identify 
+the subsystem for which it has been drawn up. 
+Where the subsystem referred to in point 5.1 is subject to derogation, upgrade, renewal or specific case, the EC 
+declaration for the subsystem shall also indicate the reference to the TSI(s) or their parts to which conformity has 
+not been examined during EC verification procedure. 
+In case of ISV procedure the applicant shall draw up a written EC ISV declaration. 
+The EC declaration and the accompanying documents shall be written in accordance with Annex V to Directive 
+2008/57/EC. 
+The certificates to be referred to are: 
+— the quality management system approval indicated in point 3.3 and audit reports indicated in point 7.3, if any, 
+— the EC type examination certificate and its additions. 
+A copy of the EC declaration of verification and EC ISV declaration(s), if any, shall be made available to the relevant 
+authorities upon request.
+EN 
+L 319/36 
+Official Journal of the European Union 
+4.12.2010
+8.3. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of 
+verification and the EC ISV declaration. The technical file must be drawn up in accordance with Article 18(3) and 
+point 4 of Annex VI to Directive 2008/57/EC. 
+9. 
+The applicant shall, throughout the service life of the subsystem, keep at the disposal of the national authorities: 
+— the documentation referred to in point 3.1, 
+— the change(s) referred to in point 3.5, as approved, 
+— the decisions and reports of the notified body referred to in points 3.5, 7.3 and 7.4, and 
+— the technical file referred to in point 8.3. 
+10. Each notified body shall inform its notifying authorities of EC certificates of verification issued or withdrawn, and 
+shall, periodically or upon request, make available to its notifying authorities the list of EC certificates of verification 
+refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of EC certificates of verification it has refused, suspended, 
+withdrawn or otherwise restricted, and, upon request, of EC certificates of verification which it has issued. 
+11. Authorised representative 
+The applicant’s obligations set out in points 3.1, 3.5, 6, 8.2 and 9 may be fulfilled by his authorised representative, 
+on his behalf and under his responsibility, provided that they are specified in the mandate. 
+Module SF. EC verification based on product verification 
+1. 
+EC verification based on product verification is the part of an EC verification procedure whereby the applicant fulfils 
+the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that the subsystem 
+concerned, which have been subject to the provisions of point 4, is in conformity with the type described in the EC- 
+type examination certificate and satisfies the requirements of the relevant TSI(s) as well as any other regulations 
+deriving from the Treaty that apply to it. 
+2. 
+Manufacturing 
+The manufacturing process and its monitoring shall ensure conformity of the manufactured subsystem with the 
+approved type described in the EC-type examination certificate and with the requirements of the relevant TSI(s) that 
+apply to it. 
+3. 
+The applicant shall lodge an application for the EC verification of the subsystem with a notified body of his choice. 
+The application shall include: 
+— name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, 
+— the technical documentation, regarding the approved type, including the EC type examination certificate and its 
+annexes, as issued after completion of the procedure defined in module SB. 
+It shall also include the following if it is not already included in the technical documentation: 
+— a general description of the subsystem, its overall design and structure, 
+— the documents necessary for the compilation of the technical file as described in point 4 of Annex VI to 
+Directive 2008/57/EC,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/37
+— a separate file with the set of data required by the relevant TSI(s) for each relevant register provided for in 
+Articles 34 and 35 of Directive 2008/57/EC, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the relevant TSI(s) where those harmonised standards have not 
+been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied, 
+— conditions for use of the subsystem (restrictions of running time or distance, wear limits, etc.), 
+— descriptions and explanations necessary for the understanding of the operation and maintenance of the 
+subsystem, 
+— conditions for maintenance and technical documentation regarding the maintenance of the subsystem, 
+— any technical requirement specified in the relevant TSI(s) that shall be taken into account during production, 
+maintenance or operation of the subsystem, 
+— other appropriate technical evidences, which demonstrate that previous checking or tests have been successfully 
+performed, under comparable conditions, by competent bodies, 
+— conditions of integration of the subsystem in its system environment and the necessary interface conditions with 
+other subsystems, 
+— evidence of conformity with other regulations deriving from the Treaty (including certificates, if any), 
+— results of design calculations made, examinations carried out, etc., 
+— test reports, 
+— documentation regarding the manufacture and the assembly of the subsystem, 
+— a list of manufacturers involved in the subsystem’s design, manufacturing, assembly and installation, and 
+— any further information, if required by the relevant TSI(s). 
+4. 
+EC verification 
+4.1. The notified body chosen by the applicant shall first examine the application concerning the validity of the EC type 
+examination certificate. 
+If the notified body considers the EC type examination certificate no longer remains valid or is not appropriate and 
+that a new EC type examination is necessary, the notified body shall refuse to carry out EC verification of the 
+subsystem and shall justify its refusal. 
+The notified body shall carry out appropriate examinations and tests in order to check the conformity of the 
+subsystem with the approved type described in the EC-type examination certificate and with the requirements of 
+the relevant TSI(s). 
+4.2. All subsystems shall be individually examined and appropriate tests set out in the relevant TSI(s), harmonised 
+standard(s) and/or technical specifications, or equivalent tests, shall be carried out in order to verify conformity 
+with the approved type described in the EC-type examination certificate and with the requirements of the relevant 
+TSI(s). In the absence of such a harmonised standard, the appropriate tests to be carried out shall be decided between 
+the applicant and the notified body concerned.
+EN 
+L 319/38 
+Official Journal of the European Union 
+4.12.2010
+4.3. The notified body shall agree with the applicant the locations where the tests will be carried out and shall agree that 
+final testing of the subsystem and, whenever required in the relevant TSI(s), tests or validation under full operating 
+conditions, are carried out by the applicant under direct supervision and attendance of the notified body. 
+The notified body shall have entrance for testing and verification purposes to production workshops, locations of 
+assembly and installations, and where appropriate, prefabrication and testing facilities in order to carry out its tasks 
+as provided for in the relevant TSI(s). 
+4.4. When the subsystem referred to in point 3 is subject to derogation(s) procedure according to Article 9 of Directive 
+2008/57/EC, the applicant shall inform the notified body thereof. 
+The applicant shall also provide the notified body with a precise reference to the TSI(s) (or their parts) for which the 
+derogation is requested. 
+The applicant shall communicate to the notified body the outcome of the derogation procedure. 
+4.5. The notified body shall issue an EC certificate of verification in respect of the examinations and tests carried out. 
+Where the subsystem referred to in point 3 is subject to derogation, upgrade, renewal or specific case the EC 
+certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity has not been 
+examined during EC verification procedure. 
+If only certain parts or certain stages of the subsystem are covered and they meet the requirements of the relevant 
+TSI(s), the notified body shall issue an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC. 
+The applicant shall keep the EC certificate of verification available for inspection by the national authorities 
+throughout the service life of the subsystem. 
+5. 
+EC declaration of verification 
+5.1. The applicant shall draw up a written EC declaration of verification for the subsystem and keep it at the disposal of 
+the national authorities, throughout the service life of the subsystem. The EC declaration of verification shall identify 
+the subsystem for which it has been drawn up. 
+Where the subsystem referred to in point 3 is subject to derogation, upgrade, renewal or specific case, the EC 
+declaration for the subsystem shall also indicate the reference to the TSI(s) or their parts to which conformity has 
+not been examined during EC verification procedure. 
+In case of ISV procedure the applicant shall draw up a written EC ISV declaration. 
+The EC declaration and the accompanying documents shall be written in accordance with Annex V to Directive 
+2008/57/EC. 
+A copy of the EC declaration of verification and EC ISV declarations, if any, shall be made available to the relevant 
+authorities upon request. 
+5.2. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of 
+verification and the EC ISV declaration. The technical file must be drawn up in accordance with Article 18(3) and 
+point 4 of Annex VI to Directive 2008/57/EC. 
+6. 
+Each notified body shall inform its notifying authorities of EC certificates of verification issued or withdrawn, and 
+shall, periodically or upon request, make available to its notifying authorities the list of EC certificates of verification 
+refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of EC certificates of verification it has refused, suspended, 
+withdrawn or otherwise restricted, and, upon request, of EC certificates of verification which it has issued.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/39
+7. 
+Authorised representative 
+The applicant’s obligations may be fulfilled by his authorised representative, on his behalf and under his responsi­
+bility, provided that they are specified in the mandate. An authorised representative may not fulfil the applicant’s 
+obligations set out in point 2. 
+Module SG. EC verification based on unit verification 
+1. 
+EC verification based on unit verification is the EC verification procedure whereby the applicant fulfils the obligations 
+laid down in points 2, 3, 4, 6.2 and 6.4, and ensures and declares on his sole responsibility that the subsystem 
+concerned, which has been subject to the provisions of point 5, satisfies the requirements of the relevant TSI(s) as 
+well as any other regulations deriving from the Treaty that apply to it. 
+2. 
+The applicant shall lodge an application for the EC verification of the subsystem with a notified body of his choice. 
+The application shall include: 
+— name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, and 
+— the technical documentation. 
+3. 
+Technical documentation 
+The applicant shall establish the technical documentation and make it available to the notified body referred to in 
+point 5. The documentation shall make it possible to assess the subsystem’s conformity with the requirements of the 
+relevant TSI(s). The technical documentation shall specify the requirements and cover, as far as relevant for the 
+assessment, the design, manufacture, installation/construction and operation of the subsystem. 
+The technical documentation shall, wherever applicable, contain the following elements: 
+— a general description of the subsystem, its overall design and structure, 
+— the documents necessary for the compilation of the technical file as described in point 4 of Annex VI to 
+Directive 2008/57/EC, 
+— a separate file with the set of data required by the relevant TSI(s) for each relevant register provided for in 
+Articles 34 and 35 of Directive 2008/57/EC, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the relevant TSI(s) where those harmonised standards have not 
+been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the 
+parts which have been applied, 
+— conditions for use of the subsystem (restrictions of running time or distance, wear limits, etc.), 
+— descriptions and explanations necessary for the understanding of the operation and maintenance of the 
+subsystem, 
+— conditions for maintenance and technical documentation regarding the maintenance of the subsystem, 
+— any technical requirement specified in the relevant TSI(s) that shall be taken into account during production, 
+maintenance or operation of the subsystem, 
+— other appropriate technical evidences, which demonstrate that previous checking or tests have been successfully 
+performed, under comparable conditions, by competent bodies,
+EN 
+L 319/40 
+Official Journal of the European Union 
+4.12.2010
+— conditions of integration of the subsystem in its system environment and the necessary interface conditions with 
+other subsystems, 
+— evidence of conformity with other regulations deriving from the Treaty (including certificates, if any), 
+— conceptual design and manufacturing and construction drawings and schemes of components, sub-assemblies, 
+circuits, 
+— descriptions and explanations necessary for the understanding of those drawings, 
+— results of design calculations made, examinations carried out, etc., 
+— test reports, 
+— documentation regarding the manufacture and the assembly of the subsystem, 
+— a list of manufacturers involved in the subsystem’s design, manufacturing, assembly and installation, and 
+— any further information, if required by the relevant TSI(s). 
+The applicant shall keep the technical documentation at the disposal of the relevant national authorities throughout 
+the service life of the subsystem. 
+4. 
+Manufacturing 
+The applicant shall take all measures necessary so that the manufacturing and/or installation/construction process 
+and its monitoring ensure conformity of the subsystem with the requirements of the relevant TSI(s). 
+5. 
+EC verification 
+5.1. A notified body chosen by the applicant shall carry out appropriate examinations and tests, set out in the relevant 
+TSI(s), harmonised standards and/or technical specifications, or equivalent tests, to check the conformity of the 
+subsystem with the requirements of the relevant TSI(s), or have them carried out. In the absence of such a 
+harmonised standard and/or technical specification the appropriate tests to be carried out shall be decided 
+between the applicant and the notified body concerned. 
+The examinations, tests and checks shall be carried out at the stages provided in point 2 of Annex VI to Directive 
+2008/57/EC. 
+The notified body may take into account evidence of examinations, checking or tests that have been successfully 
+performed, under comparable conditions by other bodies ( 1 ) or, when this is specified by the relevant TSI(s), by (or 
+on the behalf of) the applicant. The notified body will then decide as to whether it shall use the results of these 
+checks or tests. 
+The evidences gathered by the notified body shall be suitable and sufficient to show the conformity with the 
+requirement of the relevant TSI(s) and that all required and appropriate checks and tests have been carried out. 
+The extent to which the evidence originating from other parties is taken into account by the notified body shall be 
+justified by documented analysis using the factors listed in the following paragraph. 
+5.2. The notified body shall examine: 
+— the use of existing equipment and systems:
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/41 
+( 1 ) The conditions to entrust checking and test must be similar to the conditions, respected by a notified body to subcontract activities (see 
+§6.5 of the Blue Guide on the New Approach).
+— used identically as before, 
+— used before but adapted for use in the new work, 
+— the use of existing designs, technologies, materials and production techniques, 
+— the arrangements for design, production, testing and commissioning, 
+— previous approvals from other competent bodies, 
+— the accreditations of other involved bodies: 
+— it is permissible for the notified body to take account of valid accreditation to relevant European standards, 
+provided that no conflict of interest exists, that accreditation covers the testing being performed and that 
+accreditation is current, 
+— where no formal accreditation exists, the notified body shall confirm that the systems for control of 
+competence, independence, testing and material handling processes, facilities and equipment and other 
+processes relevant to the contribution to the subsystem are controlled, 
+— in all cases, the notified body shall consider the appropriateness of the arrangements and decide the level of 
+witnessing required. 
+In all cases, the notified body keeps the responsibility of final results of the examinations, tests and checks. 
+5.3. The notified body shall agree with the applicant the locations where the tests will be carried out and shall agree that 
+final subsystem tests and, whenever required in the TSI, tests under full operating conditions, are carried out by the 
+applicant under direct supervision and attendance of the notified body. 
+5.4. When the subsystem referred to in point 2 is subject to derogation(s) procedure according to Article 9 of Directive 
+2008/57/EC, the applicant shall inform the notified body thereof. 
+The applicant shall also provide the notified body with a precise reference to the TSI(s) (or their parts) for which the 
+derogation is requested. 
+The applicant shall communicate to the notified body the outcome of the derogation procedure. 
+6. 
+EC declaration of verification 
+6.1. Where the subsystem meets the requirements of the relevant TSI(s), the notified body shall issue an EC certificate of 
+verification in compliance with point 3 of Annex VI to Directive 2008/57/EC. 
+Where the subsystem referred to in point 2 is subject to derogation, upgrade, renewal or specific case the EC 
+certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity has not been 
+examined during EC verification procedure. 
+If only certain parts or certain stages of the subsystem are covered and they meet the requirements of the relevant 
+TSI(s), the notified body shall issue an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC. 
+6.2. The applicant shall draw up a written EC declaration of verification for the subsystem and keep it at the disposal of 
+the national authorities throughout the service life of the subsystem. The EC declaration of verification shall identify 
+the subsystem for which it has been drawn up. 
+Where the subsystem referred to in point 2 is subject to derogation, upgrade, renewal or specific case, the EC 
+declaration for the subsystem shall also indicate the reference to the TSI(s) or their parts to which conformity has 
+not been examined during EC verification procedure.
+EN 
+L 319/42 
+Official Journal of the European Union 
+4.12.2010
+In case of ISV procedure the applicant shall draw up a written EC ISV declaration. 
+The EC declaration and the accompanying documents shall be written in accordance with Annex V to Directive 
+2008/57/EC. 
+A copy of the EC declaration of verification and/or EC ISV declarations, if any, shall be made available to the relevant 
+authorities upon request. 
+6.3. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of 
+verification and the EC ISV declaration. The technical file must be drawn up in accordance with Article 18(3) and 
+point 4 of Annex VI to Directive 2008/57/EC. 
+6.4. The technical file accompanying the EC certificate of verification shall be lodged with the applicant. A copy of the EC 
+certificate of verification and the technical file shall be made available to the Commission, the Member States and the 
+relevant authorities upon request. 
+The applicant shall keep a copy of the technical file throughout the service life of the subsystem; it shall be sent to 
+any other Member State which so requests. 
+7. 
+Each notified body shall inform its notifying authorities of EC certificates of verification issued or withdrawn, and 
+shall, periodically or upon request, make available to its notifying authorities the list of EC certificates of verification 
+refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of EC certificates of verification it has refused, suspended, 
+withdrawn or otherwise restricted, and, upon request, of EC certificates of verification which it has issued. 
+8. 
+Authorised representative 
+The applicant’s obligations set out in points 2, 3, 5.3, 5.4, 6.2 and 6.4 may be fulfilled by his authorised 
+representative, on his behalf and under his responsibility, provided that they are specified in the mandate. 
+Module SH1. EC verification based on full quality management system plus design examination 
+1. 
+EC verification based on full quality management system plus design examination is the EC verification procedure 
+whereby the applicant fulfils the obligations laid down in points 2 and 6, and ensures and declares on his sole 
+responsibility that the subsystem concerned satisfies the requirements of the relevant TSI(s) as well as any other 
+regulations deriving from the Treaty that apply to it. 
+2. 
+Manufacturing 
+The design, manufacture and final subsystem inspection and testing of the subsystem concerned shall be covered by 
+approved quality management system(s) as specified in point 3 and shall be subject to surveillance as specified in 
+point 5. The adequacy of the technical design of the subsystem shall have been examined in accordance with 
+point 4. 
+3. 
+Quality management system 
+3.1. The applicant shall lodge an application for assessment of the quality management system with the notified body of 
+his choice, for the subsystem concerned. 
+The application shall include: 
+— the name and address of the applicant and, if the application is lodged by the authorised representative, his name 
+and address as well, 
+— the breakdown structure of the project management and the name and address of each involved entity,
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/43
+— all relevant information for the subsystem envisaged, 
+— the documentation concerning the quality management system, 
+— copy of EC ISV declaration(s) issued for the subsystem, if any, and 
+— a written declaration that the same application has not been lodged with any other notified body. 
+3.2. The quality management system shall ensure compliance of the subsystem with the requirements of the relevant 
+TSI(s) that apply to it. 
+All the elements, requirements and provisions adopted by the applicant shall be documented in a systematic and 
+orderly manner in the form of written policies, procedures and instructions. The quality management system 
+documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records. 
+It shall, in particular, contain an adequate description of: 
+— the quality objectives and the organisational structure, responsibilities and powers of the management with 
+regard to design and subsystem quality, 
+— the technical design specifications, including standards, that will be applied and, where the relevant harmonised 
+standards and/or technical specifications will not be applied in full, the means that will be used to ensure that the 
+requirements of the relevant TSI(s) that apply to the subsystem will be met, 
+— the design control and design verification techniques, processes and systematic actions that will be used when 
+designing the subsystem pertaining to the product category covered, 
+— the corresponding manufacturing, quality control and quality management system techniques, processes and 
+systematic actions that will be used, 
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with 
+which they will be carried out, 
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the 
+personnel concerned, etc., and 
+— the means of monitoring the achievement of the required design and subsystem quality and the effective 
+operation of the quality management system. 
+3.3. The notified body shall assess the quality management system to determine whether it satisfies the requirements 
+referred to in point 3.2. 
+It shall presume conformity with those requirements in respect of the elements of the quality management system 
+that comply with the corresponding specifications of the national standards that implements the relevant quality 
+management standard, harmonised standard and/or technical specifications. 
+If the compliance of the subsystem with the requirements of the relevant TSI(s) is based on more than one quality 
+management system, the notified body shall examine in particular: 
+— whether the relations and interfaces between the quality management systems are clearly documented, and 
+— whether overall responsibilities and powers of the management for the compliance of the whole entire subsystem 
+are clearly assigned to and acknowledged by each entity involved in the project.
+EN 
+L 319/44 
+Official Journal of the European Union 
+4.12.2010
+The audit shall be specific for the subsystem concerned, taking into consideration the specific contribution of the 
+applicant to the subsystem. 
+When the applicant operates a certified quality management system certified by an accredited certification body for 
+the design, manufacturing and final testing of the relevant subsystem, the notified body shall take this into account 
+in the assessment. In this case, the notified body will make a detailed assessment of quality management system 
+specific documents and records of the subsystem only. The notified body shall not assess again the entire quality 
+manual and all the procedures already assessed by the quality management system certification body. 
+In addition to experience in quality management systems, the auditing team shall have at least one member 
+experienced as an assessor in the relevant subsystem field and product technology concerned, and knowledge of 
+the requirements of the relevant TSI(s). The audit shall include an assessment visit to the premises of the relevant 
+entities concerned. 
+The applicant or his authorised representative shall be notified of the decision. 
+The notification shall contain the conclusions of the audit and the reasoned assessment decision. Where the 
+assessment of the quality management system provided satisfying evidence that the requirements referred to in 
+point 3.2 are met, the notified body shall issue a quality management system approval to the applicant. 
+3.4. The applicant shall undertake to fulfil the obligations arising out of the quality management system as approved and 
+to maintain it so that it remains adequate and efficient. 
+3.5. The applicant shall keep the notified body that has approved the quality management system informed of any 
+intended change to the quality management system having impact on the subsystem design, manufacture and final 
+inspection, testing and operation, as well as of any changes of quality management system certificate. 
+The notified body shall evaluate any proposed changes and decide whether the modified quality management system 
+will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary. 
+It shall notify the applicant of its decision. The notification shall contain the conclusions of the examination and the 
+reasoned assessment decision. 
+3.6. Each notified body shall inform its notifying authorities of quality management system approvals issued or 
+withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality 
+management system approvals refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of quality management system approvals which it has 
+refused, suspended or withdrawn, and, upon request, of quality management system approvals which it has issued. 
+4. 
+EC verification 
+4.1. The applicant shall lodge an application for EC verification of the subsystem (through full quality management 
+system plus examination of the design) with the notified body referred to in point 3.1. 
+4.2. The application shall make it possible to understand the design, manufacture, maintenance and operation of the 
+subsystem, and to assess the conformity with the requirements of the TSI(s) that apply to it. It shall include: 
+— the name and address of the applicant, 
+— a written declaration that the same application has not been lodged with any other notified body, 
+— the technical documentation. The documentation shall make it possible to assess the subsystem’s conformity 
+with the requirements of the relevant TSI(s). The technical documentation shall specify the requirements of the 
+relevant TSI(s) and cover, as far as relevant for the assessment, the design and operation of the subsystem. The 
+technical documentation shall, wherever applicable, contain at least the following elements:
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/45
+— a general description of subsystem, its overall design and structure, 
+— documents necessary for the compilation of the technical file as described in point 4 of Annex VI to Directive 
+2008/57/EC, 
+— a separate file with the set of data required by the relevant TSI(s) for each relevant register provided for in 
+Articles 34 and 35 of Directive 2008/57/EC, 
+— if relevant, descriptions and explanations necessary for the understanding of the operation and maintenance 
+of the subsystem, 
+— conditions of integration of the subsystem in its system environment and the necessary interface conditions, 
+— a list of the harmonised standards and/or other relevant technical specifications the references of which have 
+been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the 
+solutions adopted to meet the requirements of the relevant TSI(s) where those harmonised standards have not 
+been applied. In the event of partly applied harmonised standards, the technical documentation shall specify 
+the parts which have been applied, 
+— results of design calculations made, examinations carried out, etc., 
+— test programme and reports, 
+— evidence of conformity with other regulations deriving from the Treaty (including certificates, if any), 
+— documentation regarding the manufacture and the assembly of the subsystem, 
+— a list of manufacturers involved in the subsystem’s design, manufacturing, assembly and installation, 
+— conditions for use of the subsystem (restrictions of running time or distance, wear limits etc.), 
+— conditions for maintenance and technical documentation on maintenance of the subsystem, 
+— any technical requirement specified in the relevant TSI(s) that shall be taken into account during production, 
+maintenance or operation of the subsystem, 
+— all other appropriate technical evidences, which demonstrate that previous checking or tests have been 
+successfully performed, under comparable conditions, by competent bodies, and 
+— any further information, if required by the relevant TSI(s), 
+— the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any 
+documents that have been used, in particular where the relevant harmonised standards and/or technical spec­
+ifications have not been applied in full. The supporting evidence shall include, where necessary, the results of 
+tests (including those in operational conditions) carried out by the appropriate testing body of the applicant, or 
+by another testing body on his behalf and under his responsibility. 
+4.3. When the subsystem referred to in point 4.1 is subject to derogation(s) procedure according to Article 9 of Directive 
+2008/57/EC, the applicant shall inform the notified body thereof. 
+The applicant shall also provide the notified body with a precise reference to the TSI(s) or their parts for which the 
+derogation is requested. 
+The applicant shall communicate to the notified body the outcome of the derogation procedure.
+EN 
+L 319/46 
+Official Journal of the European Union 
+4.12.2010
+4.4. The notified body shall examine the application, and where the design meets the requirements of the relevant TSI(s) 
+that apply to the subsystem it shall issue an EC design examination certificate to the applicant. The certificate shall 
+give the name and address of the applicant, the conclusions of the examination, the conditions (if any) for its validity 
+and the data necessary for identification of the approved design. The certificate may have one or more annexes 
+attached. 
+The certificate and its annexes shall contain all relevant information to allow the conformity of the subsystem with 
+the examined design to be evaluated. 
+Where the subsystem referred to in point 4.1 is subject to derogation, upgrade, renewal or specific case, the EC 
+design examination certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity 
+has not been examined during EC verification procedure. 
+If only certain parts are covered and they meet the requirements of the relevant TSI(s), the notified body shall issue 
+an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC. 
+Where the design does not satisfy the requirements of the relevant TSI(s), the notified body shall refuse to issue an 
+EC design examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal. 
+The applicant shall draw up a written EC ISV declaration according to section 2 of Annex VI to Directive 
+2008/57/EC. 
+4.5. The applicant shall keep the notified body that has issued the EC design examination certificate informed of any 
+modification to the approved design that may affect the conformity with the requirements of the relevant TSI(s) or 
+the conditions for validity of the certificate until the expiry of the validity of the certificate. Such modifications shall 
+require additional approval — from the notified body that issued the EC design examination certificate — in the 
+form of an addition to the original EC design examination certificate. Only those examinations and tests that are 
+relevant and necessary to the changes shall be performed. 
+4.6. Each notified body shall inform its notifying authorities of the EC design examination certificates and/or any 
+additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its 
+notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of the EC design examination certificates and/or any 
+additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, of the 
+certificates and/or additions thereto which it has issued. 
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EC design 
+examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a 
+copy of the technical documentation and of the results of the examinations carried out by the notified body. 
+The notified body shall keep a copy of the EC design examination certificate, its annexes and additions, as well as the 
+technical file including the documentation submitted by the applicant until the expiry of the validity of the 
+certificate. 
+4.7. The applicant shall keep a copy of the EC design examination certificate, its annexes and additions together with the 
+technical documentation at the disposal of the national authorities throughout the service life of the subsystem. 
+5. 
+Surveillance under the responsibility of the notified body 
+5.1. The purpose of surveillance is to make sure that the applicant duly fulfils the obligations arising out of the approved 
+quality management system.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/47
+5.2. The applicant shall, for periodic audits purposes, allow the notified body access to the design, manufacture, 
+inspection, testing and storage sites, and shall provide it with all necessary information, in particular: 
+— the quality management system documentation, 
+— the quality records as provided for by the design part of the quality management system, such as results of 
+analyses, calculations, tests, etc., 
+— the quality records as provided for by the manufacturing part of the quality management system, such as 
+inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc. 
+5.3. The notified body shall carry out periodic audits to make sure that the applicant maintains and applies the quality 
+management system and shall provide the applicant with an audit report. 
+The frequency of the periodic audits shall be at least once every 2 years, with at least one audit during the time 
+period of performing the relevant activities (design, manufacture, assembly or installation) for the subsystem being 
+the subject of the EC design examination referred to in point 4.4. 
+When the manufacturer operates a certified quality management system, the notified body shall take this into 
+account during the periodic audits. 
+5.4. In addition, the notified body may pay unexpected visits to the applicant. During such visits, the notified body may, 
+if necessary, carry out subsystem tests, or have them carried out, in order to check the proper functioning of the 
+quality management systems. It shall provide the applicant with a visit report and, if tests have been carried out, with 
+a test report. 
+5.5. The notified body responsible for the EC verification of the subsystem, if not carrying out the surveillance of all the 
+quality management systems concerned as under point 3, shall coordinate the surveillance activities of any other 
+notified bodies responsible for that task, in order: 
+— to be ensured that correct management of interfaces between the different quality management systems relating 
+to subsystem integration has been performed, 
+— to collect, in liaison with the applicant, the necessary elements for the assessment to guarantee the consistency 
+and the overall supervision of the different quality management systems. 
+This coordination includes the right of the notified body: 
+— to receive all documentation (approval and surveillance), issued by the other notified body(ies), 
+— to witness the surveillance audits referred to in point 5.2, 
+— to initiate additional audits referred to in point 5.3 under its responsibility and together with the other notified 
+body(ies). 
+6. 
+EC certificate of verification and EC declaration of verification 
+6.1. Where the subsystem meets the requirements of the relevant TSI(s), the notified body shall issue an EC certificate of 
+verification in compliance with point 3 of Annex VI to Directive 2008/57/EC. 
+Where the subsystem referred to in point 4.1 is subject to derogation, upgrade, renewal or specific case, the EC 
+certificate shall also indicate the precise reference to the TSI(s) or their parts to which conformity has not been 
+examined during EC verification procedure. 
+If only certain parts or certain stages of the subsystem are covered and they meet the requirements of the relevant 
+TSI(s), the notified body shall issue an EC ISV certificate in compliance with Article 18(4) of Directive 2008/57/EC.
+EN 
+L 319/48 
+Official Journal of the European Union 
+4.12.2010
+6.2. The applicant shall draw up a written EC declaration of verification for the subsystem and keep it at the disposal of 
+the national authorities throughout the service life of the subsystem. The EC declaration of verification shall identify 
+the subsystem for which it has been drawn up and shall mention the number of the design examination certificate. 
+Where the subsystem referred to in point 4.1 is subject to derogation, upgrade, renewal or specific case, the EC 
+declaration for the subsystem shall also indicate the reference to the TSI(s) or their parts to which conformity has 
+not been examined during EC verification procedure. 
+In case of ISV procedure the applicant shall draw up a written EC ISV declaration. 
+The EC declaration and the accompanying documents shall be written in accordance with Annex V to Directive 
+2008/57/EC. 
+The certificates to be referred to are: 
+— the quality management system approval referred to in point 3.3 and audit reports indicated in point 5.3, if any, 
+— the EC design examination certificate referred to in point 4.4 and its additions. 
+A copy of the EC declaration of verification and EC ISV declarations, if any, shall be made available to the relevant 
+authorities upon request. 
+6.3. The notified body shall be responsible for compiling the technical file that has to accompany the EC declaration of 
+verification and the EC ISV declaration. The technical file must be drawn up in accordance with Article 18(3) and 
+point 4 of Annex VI to Directive 2008/57/EC. 
+7. 
+The applicant shall, throughout the service life of the subsystem, keep at the disposal of the national authorities: 
+— the documentation concerning the quality management system referred to in point 3.1, 
+— the change referred to in point 3.5, as approved, 
+— the decisions and reports of the notified body referred to in points 3.5, 5.3 and 5.4, and 
+— the technical file referred to in 6.3. 
+8. 
+Each notified body shall inform its notifying authorities of EC certificates of verification issued or withdrawn, and 
+shall, periodically or upon request, make available to its notifying authorities the list of EC certificates of verification 
+refused, suspended or otherwise restricted. 
+Each notified body shall inform the other notified bodies of EC certificates of verification it has refused, suspended, 
+withdrawn or otherwise restricted, and, upon request, of EC certificates of verification which it has issued. 
+9. 
+Authorised representative 
+The applicant’s authorised representative may lodge the application referred to in points 4.1 and 4.2 and fulfil the 
+obligations set out in points 3.1, 3.5, 4.3, 4.5, 4.7, 6.2 and 7, on his behalf and under his responsibility, provided 
+that they are specified in the mandate.
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/49
+ANNEX II 
+List of terms used in the conformity assessment modules specific for railways and their equivalent in generic 
+modules defined in Decision No 768/2008/EC 
+Decision No 768/2008/EC 
+This Decision 
+Module in this Decision 
+product 
+interoperability constituent 
+CA, CA1, CA2, CB, CC, CD, CF, CH, CH1 
+product 
+subsystem 
+SB, SD, SF, SG, SH1 
+legislative instrument 
+technical specification for interoperability 
+CA, CA1, CA2, CB, CC, CD, CF, CH, CH1 
+legislative instrument 
+relevant TSI(s) as well as any other regulations deriving 
+from the Treaty;relevant TSI(s) 
+SB, SD, SF, SG, SH1 
+quality system 
+quality management system 
+CD, CH, CH1, SD, SH1 
+quality assurance 
+quality management system 
+CD, CH, CH1, SD, SH1 
+conformity (assessment) 
+EC verification 
+SB, SD, SF, SG, SH1 
+manufacturer 
+applicant 
+SB, SD, SF, SG, SH1 
+certificate of conformity 
+EC certificate of verification 
+SD, SF, SG, SH1 
+declaration of conformity 
+EC declaration of verification 
+SD, SF, SG, SH1
+EN 
+L 319/50 
+Official Journal of the European Union 
+4.12.2010
+ANNEX III 
+CORRELATION TABLE 
+Decisions 
+2008/164/EC, 2008/163/EC, 2008/217/EC, 2008/284/EC, 
+2006/860/EC, 2008/232/EC, 2006/679/EC, 2006/66/EC, 
+2006/861/EC 
+Decision No 768/2008/EC 
+This Decision 
+Module A. Internal production control 
+Module A. Internal production control 
+Module CA. Internal production control 
+Module A1. Internal design control with product verification 
+Module A1. Internal production control plus supervised product 
+testing 
+Module CA1. Internal production control plus product verification by 
+individual examination 
+Module A2. Internal production control plus supervised product 
+checks at random intervals 
+Module CA2. Internal production control plus product verification at 
+random intervals 
+Module B. Type examination 
+Module B. EC-type examination 
+Module CB. EC-type examination 
+Module C. Conformity to type 
+Module C. Conformity to type based on internal production control 
+Module CC. Conformity to type based on internal production control 
+Module C1. Conformity to type based on internal production control 
+plus supervised product testing 
+Module C2. Conformity to type based on internal production control 
+plus supervised product checks at random intervals 
+Module D. Production quality management system 
+Module D. Conformity to type based on quality assurance of the 
+production process 
+Module CD. Conformity to type based on quality management system 
+of the production process 
+Module D1. Quality assurance of the production process 
+Module E. Conformity to type based on product quality assurance 
+Module E1. Quality assurance of final product inspection and testing 
+Module F. Product verification 
+Module F. Conformity to type based on product verification 
+Module CF. Conformity to type based on product verification 
+Module F1. Conformity based on product verification 
+Module G. Conformity based on unit verification 
+Module H1. Full quality management system 
+Module H. Conformity based on full quality assurance 
+Module CH. Conformity based on full quality management system 
+Module H2. Full quality management system with design exam­
+ination 
+Module H1. Conformity based on full quality assurance plus design 
+examination 
+Module CH1. Conformity based on full quality management system 
+plus design examination
+EN 
+4.12.2010 
+Official Journal of the European Union 
+L 319/51
+Decisions 
+2008/164/EC, 2008/163/EC, 2008/217/EC, 2008/284/EC, 
+2006/860/EC, 2008/232/EC, 2006/679/EC, 2006/66/EC, 
+2006/861/EC 
+Decision No 768/2008/EC 
+This Decision 
+Module V. Type validation by in-service experience (suitability 
+for use) 
+Module CV. Type validation by in-service experience (suitability for use) 
+Module SB. Type examination 
+Module SB. EC-type examination 
+Module SD. Product(ion) quality management system 
+Module SD. EC verification based on quality management system of the 
+production process 
+Module SF. Product verification 
+Module SF. EC verification based on product verification 
+Module SG. Unit verification 
+Module SG. EC verification based on unit verification 
+Module SH2. Full quality management system with design 
+examination 
+Module SH1. EC verification based on full quality management system 
+plus design examination
+EN 
+L 319/52 
+Official Journal of the European Union 
+4.12.2010
